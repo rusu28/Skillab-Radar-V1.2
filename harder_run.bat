@@ -146,7 +146,7 @@ if not "%INTERACTIVE%"=="1" exit /b 0
 echo.
 echo Are you sure you want to regenerate outputs?
 echo This reads/writes data/cache, data/raw, results/csv, results/figures,
-echo report, pitch outline, and submission manifest. It may call the Tracker API
+echo and provenance files. It may call the Tracker API
 echo if cache entries are missing.
 set /p ans="Continue? (y/N): "
 if /I "%ans%"=="y" exit /b 0

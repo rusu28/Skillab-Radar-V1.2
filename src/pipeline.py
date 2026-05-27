@@ -14,7 +14,6 @@ from .esco import EscoMapper
 from .figures import save_domain_figures
 from .metrics import EntityBundle, candidate_matches, duplicate_report, location_summary, relevance_and_gap_tables
 from .skillab_client import SkillabClient
-from .submission import build_submission_package
 
 
 def domain_slug(domain: str) -> str:
@@ -281,7 +280,6 @@ def run_pipeline(config_path: str, refresh_cache: bool = False) -> None:
     if all_locations:
         pd.concat(all_locations, ignore_index=True).to_csv(csv_dir / "all_domains_locations.csv", index=False, encoding="utf-8")
     build_advanced_outputs(list(config["domains"].keys()), csv_dir, figure_dir)
-    build_submission_package(config)
     print(f"Done. CSV outputs are in {csv_dir}")
 
 

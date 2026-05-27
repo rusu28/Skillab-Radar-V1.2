@@ -31,7 +31,7 @@ echo It will NOT delete your data.
 echo It may download/install Python packages from the internet.
 echo.
 echo After this finishes, useful commands are:
-echo   harder_run.bat pipeline    - regenerate CSVs, figures, report data
+echo   harder_run.bat pipeline    - regenerate CSVs and figures
 echo   harder_run.bat dashboard   - open Streamlit dashboard
 echo   harder_run.bat notebooks   - open notebook fallback
 echo   harder_run.bat tests       - run validation tests

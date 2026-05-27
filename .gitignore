@@ -6,3 +6,4 @@ __pycache__/
 pitch/
 report/
 tools/
+results/submission_manifest.json
