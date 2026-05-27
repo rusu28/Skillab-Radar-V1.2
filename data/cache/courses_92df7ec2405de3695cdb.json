@@ -1,0 +1,1465 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "https://skillab-tracker.csd.auth.gr/api/courses",
+    "params": {
+      "page": 1,
+      "page_size": 300
+    },
+    "data": {
+      "keywords": [
+        "teacher",
+        "education",
+        "training",
+        "learning"
+      ],
+      "keywords_logic": "or"
+    }
+  },
+  "response": {
+    "items": [
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0ffdb6ac-03b5-4f1c-bfcc-3d9cb874fdf9",
+          "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+          "http://data.europa.eu/esco/skill/af313ba1-a39e-49ac-99ec-94630fbe4f7f",
+          "http://data.europa.eu/esco/skill/de586dcf-d7e5-4340-bf5b-d59026f1b436",
+          "http://data.europa.eu/esco/skill/ed0718f6-5823-4c74-9749-2936c9c06203"
+        ],
+        "id": 2,
+        "title": "Introduction to Ethical Hacking",
+        "description": "The purpose of this course is to introduce students to the broad set of techniques and job responsibilities associated with the role of an Ethical Hacker. Ethical Hackers leverage their knowledge of business’ processes to evaluate risks while protecting core operations. The results of an Ethical Hacker’s efforts are improvements to business policies, procedures and standards of conduct on its computer systems.Welcome to Ethical Hacking\nMeet the instructor, get an overview of the course and start learning about why Ethical Hacking is such an exciting field. Let's get started!\n Vulnerability Management\nPerform a vulnerability scan using automated tools, manage prioritization and response, and score the vulnerabilities you uncover\n System Auditing\nUse test scopes to understand the context and objectives of an audit, gather information about our target, research vulnerabilities, execute exploits, and write effective reports on our findings\n Application Auditing\nUse OWASP WTG methodologies, create HTTP requests to access target systems and employ semi-automated and fully-automated tools in applications audits\n Social Engineering\nExplore the tactics malicious hackers use to manipulate people to take specific actions, conduct a phishing simulation, create and deploy malware and design an effective landing page\n OSINT\nEmploy open-source intelligence techniques to uncover information leakage. Use Exploratory Link Analysis techniques to mine data, establish links between the data and analyze the links",
+        "last_updated": "2025-02-20",
+        "rating": 8.2,
+        "price": 113.0,
+        "url": "https://www.udacity.com/course/ethical-hacker-nanodegree--nd350",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ethical-hacker-nanodegree--nd350_introduction_to_ethical_hacking"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/81ad8286-cc55-4a08-92a6-38474c35c893",
+          "http://data.europa.eu/esco/skill/945b8655-5577-4c3a-946a-842d4527afa8"
+        ],
+        "id": 7,
+        "title": "Introduction to Computer Vision",
+        "description": "Master computer vision and image processing essentials. Learn to extract important features from image data, and apply deep learning techniques to classification tasksWelcome to Computer Vision\nWelcome to the Computer Vision Nanodegree program!\n Image Representation & Classification\nLearn how images are represented numerically and implement image processing techniques, such as color masking and binary classification.\n Convolutional Filters and Edge Detection\nLearn about frequency in images and implement your own image filters for detecting edges and shapes in an image. Use a computer vision library to perform face detection.\n Types of Features & Image Segmentation\nProgram a corner detector and learn techniques, like k-means clustering, for segmenting an image into unique parts.\n Feature Vectors\nLearn how to describe objects and images using feature vectors.\n CNN Layers and Feature Visualization\nDefine and train your own convolution neural network for clothing recognition. Use feature visualization techniques to see what a network has learned.",
+        "last_updated": "2025-02-19",
+        "rating": 9.4,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/computer-vision-nanodegree--nd891",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/computer-vision-nanodegree--nd891_introduction_to_computer_vision"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0764b28d-04ee-4e80-bf58-b737f02a63e0"
+        ],
+        "id": 9,
+        "title": "Advanced Computer Vision and Deep Learning",
+        "description": "Learn to apply deep learning architectures to computer vision tasks. Discover how to combine CNN and RNN networks to build an automatic image captioning application.Advanced CNN Architectures\nLearn about advances in CNN architectures and see how region-based CNN’s, like Faster R-CNN, have allowed for fast, localized object recognition in images.\n YOLO\nLearn about the YOLO (You Only Look Once) multi-object detection model and work with a YOLO implementation.\n RNN's\nExplore how memory can be incorporated into a deep learning model using recurrent neural networks (RNNs). Learn how RNNs can learn from and generate ordered sequences of data.\n Long Short-Term Memory Networks (LSTMs)\nLuis explains Long Short-Term Memory Networks (LSTM), and similar architectures which have the benefits of preserving long term memory.\n Hyperparameters\nLearn about a number of different hyperparameters that are used in defining and training deep learning models. We'll discuss starting values and intuitions for tuning each hyperparameter.\n Optional: Attention Mechanisms\nAttention is one of the most important recent innovations in deep learning. In this section, you'll learn how attention models work and go over a basic code implementation.\n Image Captioning\nLearn how to combine CNNs and RNNs to build a complex, automatic image captioning model.",
+        "last_updated": "2025-02-19",
+        "rating": 9.4,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/computer-vision-nanodegree--nd891",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/computer-vision-nanodegree--nd891_advanced_computer_vision_and_deep_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669"
+        ],
+        "id": 11,
+        "title": "Applications of Computer Vision & Deep Learning (Optional)",
+        "description": "Take a quick look at a few really cool applications of deep learning and computer vision, such as Neural Style Transfer, that using pre-trained models.",
+        "last_updated": "2025-02-19",
+        "rating": 9.4,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/computer-vision-nanodegree--nd891",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/computer-vision-nanodegree--nd891_applications_of_computer_vision_&_deep_learning_(optional)"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/7935deb6-0bed-4e38-985e-1f83b8e16940"
+        ],
+        "id": 12,
+        "title": "Review: Training A Neural Network (Optional)",
+        "description": "Review how neural networks turn an input into an output and how they monitor errors as they train. This section will also cover methods to avoid overfitting your data.Feedforward and Backpropagation\nShort introduction to neural networks: how they train by doing a feedforward pass then performing backpropagation.\n Training Neural Networks\nNow that you know what neural networks are, in this lesson you will learn several techniques to improve their training.",
+        "last_updated": "2025-02-19",
+        "rating": 9.4,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/computer-vision-nanodegree--nd891",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/computer-vision-nanodegree--nd891_review:_training_a_neural_network_(optional)"
+      },
+      {
+        "skills": [],
+        "id": 15,
+        "title": "More Deep Learning Models (Optional)",
+        "description": "",
+        "last_updated": "2025-02-19",
+        "rating": 9.4,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/computer-vision-nanodegree--nd891",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/computer-vision-nanodegree--nd891_more_deep_learning_models_(optional)"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/7935deb6-0bed-4e38-985e-1f83b8e16940"
+        ],
+        "id": 32,
+        "title": "Neural Networks - AI Programming with Python",
+        "description": "This course on neural networks explains how algorithms inspired by the human brain operate and puts to use those concepts when designing neural networks to solve particular problems.Welcome to Neural Networks\n Introduction to Neural Networks\nIn this lesson, Luis will give you solid foundations on deep learning and neural networks. You'll also implement gradient descent and backpropagation in Python right here in the classroom.\n Implementing Gradient Descent\nMat will introduce you to a different error function and guide you through implementing gradient descent using numpy matrix multiplication.\n Training Neural Networks\nNow that you know what neural networks are, in this lesson you will learn several techniques to improve their training.",
+        "last_updated": "2025-02-18",
+        "rating": 9.4,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/ai-programming-python-nanodegree--nd089",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-programming-python-nanodegree--nd089_neural_networks_-_ai_programming_with_python"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a"
+        ],
+        "id": 33,
+        "title": "Programming Transformer Neural Networks with PyTorch",
+        "description": "This course will guide you through the essential concepts of Transformer Neural Networks and their implementation using PyTorch. Starting with an introduction to Transformers, you will learn to build and train Transformer models from scratch. Additionally, you will explore the advantages of using pre-trained Transformer models and how to leverage them effectively in your projects. By the end of this course, you will have a solid foundation in programming Transformer Neural Networks with PyTorch.Introduction to Transformer Neural Networks\nExplore Transformer neural networks, their architecture, and applications like ChatGPT. Delve into NLP basics, tokenization, and model training using PyTorch for AI advancements.\n Building Transformer Neural Networks with PyTorch\nLearn to build a Transformer model with PyTorch, covering tokenization, embeddings, multi-head attention, training, and text generation for NLP tasks.",
+        "last_updated": "2025-02-18",
+        "rating": 9.4,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/ai-programming-python-nanodegree--nd089",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-programming-python-nanodegree--nd089_programming_transformer_neural_networks_with_pytorch"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/d62d2b4c-a6f8-439e-8a1b-4f29ab5f2c47"
+        ],
+        "id": 36,
+        "title": "Intro to Machine Learning (Optional)",
+        "description": "Intro\nAn introduction to what you'll learn in this course!\n Linear Regression\nLearn how effective linear regression algorithms are in predicting numerical data\n Logistic Regression\nLearn about one of the most basic forms of regression modeling - logistic regression\n Decision Trees\nLearn how decision trees are a structure for decision-making where each decision leads to a set of consequences or additional decisions.\n Naive Bayes\nLearn how powerful Naive Bayesian Algorithms are for creating classifiers for incoming labeled data.\n Support Vector Machines\nLearn about how support vector machines can be effective models for classification.\n Ensemble Methods\nLearn about bagging and boosting, two common ensemble methods for improving the accuracy of supervised learning approaches.",
+        "last_updated": "2025-02-18",
+        "rating": 9.4,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/ai-programming-python-nanodegree--nd089",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-programming-python-nanodegree--nd089_intro_to_machine_learning_(optional)"
+      },
+      {
+        "skills": [],
+        "id": 37,
+        "title": "Learning Rate (Optional)",
+        "description": "Still curious about the learning rate, how sensitive it is and what role it plays in the accuracy of the training process?",
+        "last_updated": "2025-02-18",
+        "rating": 9.4,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/ai-programming-python-nanodegree--nd089",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-programming-python-nanodegree--nd089_learning_rate_(optional)"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+          "http://data.europa.eu/esco/skill/97b890ff-acd7-46ad-8d3a-4186f4d42bbf",
+          "http://data.europa.eu/esco/skill/d62d2b4c-a6f8-439e-8a1b-4f29ab5f2c47"
+        ],
+        "id": 44,
+        "title": "Supervised Learning",
+        "description": "In this course, you'll learn about different types of supervised learning and how to use them to solve real-world problems.Introduction to Supervised Learning\nBefore diving into the many algorithms of machine learning, it is important to take a step back and understand the big picture associated with the entire field.\n Linear Regression\nLinear regression is one of the most fundamental algorithms in machine learning. In this lesson, learn how linear regression works!\n Perceptron Algorithm\nThe perceptron algorithm is an algorithm for classifying data. It is the building block of neural networks.\n Decision Trees\nDecision trees are a structure for decision-making where each decision leads to a set of consequences or additional decisions.\n Naive Bayes\nNaive Bayesian Algorithms are powerful tools for creating classifiers for incoming labeled data. Specifically Naive Bayes is frequently used with text data and classification problems.\n Support Vector Machines\nSupport vector machines are a common method used for classification problems. They have been proven effective using what is known as the 'kernel' trick!\n Ensemble Methods\nBagging and boosting are two common ensemble methods for combining simple algorithms to make more advanced models that work better than the simple algorithms would on their own.\n Model Evaluation Metrics\nLearn the main metrics to evaluate models, such as accuracy, precision, recall, and more!\n Training and Tuning\nLearn the main types of errors that can occur during training, and several methods to deal with them and optimize your machine learning models.",
+        "last_updated": "2025-02-18",
+        "rating": 9.2,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230_supervised_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/7935deb6-0bed-4e38-985e-1f83b8e16940"
+        ],
+        "id": 45,
+        "title": "Introduction to Neural Networks with TensorFlow",
+        "description": "Learn the fundamentals of neural networks with Python and TensorFlow, and then use your new skills to create your own image classifier—an application that will first train a deep learning model on a dataset of images and then use the trained model to classify new images.Course Introduction\nMeet your instructors, get a short overview of what you'll be learning, check your prerequisites, and learn how to use the workspaces and notebooks found throughout the lessons.\n Introduction to Neural Networks\nIn this lesson, Luis will give you solid foundations on deep learning and neural networks. You'll also implement gradient descent and backpropagation in Python right here in the classroom.\n Implementing Gradient Descent\nMat will introduce you to a different error function and guide you through implementing gradient descent using numpy matrix multiplication.\n Training Neural Networks\nNow that you know what neural networks are, in this lesson you will learn several techniques to improve their training.\n Deep Learning with TensorFlow\nLearn how to use TensorFlow for building deep learning models.",
+        "last_updated": "2025-02-18",
+        "rating": 9.2,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230_introduction_to_neural_networks_with_tensorflow"
+      },
+      {
+        "skills": [],
+        "id": 46,
+        "title": "Unsupervised Learning",
+        "description": "In this course, you'll learn how to apply unsupervised learning to solve real-world problems.Clustering\nClustering is one of the most common methods of unsupervised learning. Here, we'll discuss the K-means clustering algorithm.\n Hierarchical and Density Based Clustering\nWe continue to look at clustering methods. Here, we'll discuss hierarchical clustering and density-based clustering (DBSCAN).\n Gaussian Mixture Models and Cluster Validation\nIn this lesson, we discuss Gaussian mixture model clustering. We then talk about the cluster analysis process and how to validate clustering results.\n Dimensionality Reduction and PCA\nOften we need to reduce a large number of features in our data to a smaller, more relevant set. Principal Component Analysis, or PCA, is a method of feature extraction and dimensionality reduction.\n Random Projection and ICA\nIn this lesson, we will look at two other methods for feature extraction and dimensionality reduction: Random Projection and Independent Component Analysis (ICA).",
+        "last_updated": "2025-02-18",
+        "rating": 9.2,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230_unsupervised_learning"
+      },
+      {
+        "skills": [],
+        "id": 48,
+        "title": "Prerequisite: SQL for Data Analysis (Optional)",
+        "description": "Basic SQL\nIn this section, you will gain knowledge about SQL basics for working with a single table. You will learn the key commands to filter a table in many different ways.\n SQL Joins\nIn this lesson, you will learn how to combine data from multiple tables together.\n SQL Aggregations\nIn this lesson, you will learn how to aggregate data using SQL functions\n SQL Subqueries & Temporary Tables\nIn this lesson, you will learn about subqueries, a fundamental advanced SQL topic. This lesson will walk you through the appropriate applications of subqueries, the different types of subqueries, and review subquery syntax and examples.\n SQL Window Functions\nWindow functions allow users to compare one row to another without doing any joins using one of the most powerful concepts in SQL data analysis.\n SQL Data Cleaning\nCleaning data is an important part of the data analysis process. You will be learning how to perform data cleaning using SQL in this lesson.",
+        "last_updated": "2025-02-18",
+        "rating": 9.2,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230_prerequisite:_sql_for_data_analysis_(optional)"
+      },
+      {
+        "skills": [],
+        "id": 52,
+        "title": "Additional Material: Statistics for Data Analysis (Optional)",
+        "description": "Descriptive Statistics - Part I\nIn this lesson, you will learn about data types, measures of center, and the basics of statistical notation.\n Descriptive Statistics - Part II\nIn this lesson, you will learn about measures of spread, shape, and outliers as associated with quantitative data. You will also get a first look at inferential statistics.\n Admissions Case Study\nLearn to ask the right questions, as you learn about Simpson's Paradox.\n Probability\nGain the basics of probability using coins and die.\n Binomial Distribution\nLearn about one of the most popular distributions in probability - the Binomial Distribution.\n Conditional Probability\nNot all events are independent. Learn the probability rules for dependent events.\n Bayes Rule\nLearn one of the most popular rules in all of statistics - Bayes rule.\n Python Probability Practice\nTake what you have learned in the last lessons and put it to practice in Python.\n Normal Distribution Theory\nLearn the mathematics behind moving from a coin flip to a normal distribution.\n Sampling distributions and the Central Limit Theorem\nLearn all about the underpinning of confidence intervals and hypothesis testing - sampling distributions.\n Confidence Intervals\nLearn how to use sampling distributions and bootstrapping to create a confidence interval for any parameter of interest.\n Hypothesis Testing\nLearn the necessary skills to create and analyze the results in hypothesis testing.\n Case Study: A/B tests\nWork through a case study of how A/B testing works for an online education company called Audacity.\n Regression\nUse python to fit linear regression models, as well as understand how to interpret the results of linear models.\n Multiple Linear Regression\nLearn to apply multiple linear regression models in python. Learn to interpret the results and understand if your model fits well.",
+        "last_updated": "2025-02-18",
+        "rating": 9.2,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230_additional_material:_statistics_for_data_analysis_(optional)"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+          "http://data.europa.eu/esco/skill/97b890ff-acd7-46ad-8d3a-4186f4d42bbf",
+          "http://data.europa.eu/esco/skill/d62d2b4c-a6f8-439e-8a1b-4f29ab5f2c47"
+        ],
+        "id": 54,
+        "title": "Supervised Learning",
+        "description": "In this course, you'll learn about different types of supervised learning and how to use them to solve real-world problems.Introduction to Supervised Learning\nBefore diving into the many algorithms of machine learning, it is important to take a step back and understand the big picture associated with the entire field.\n Linear Regression\nLinear regression is one of the most fundamental algorithms in machine learning. In this lesson, learn how linear regression works!\n Perceptron Algorithm\nThe perceptron algorithm is an algorithm for classifying data. It is the building block of neural networks.\n Decision Trees\nDecision trees are a structure for decision-making where each decision leads to a set of consequences or additional decisions.\n Naive Bayes\nNaive Bayesian Algorithms are powerful tools for creating classifiers for incoming labeled data. Specifically Naive Bayes is frequently used with text data and classification problems.\n Support Vector Machines\nSupport vector machines are a common method used for classification problems. They have been proven effective using what is known as the 'kernel' trick!\n Ensemble Methods\nBagging and boosting are two common ensemble methods for combining simple algorithms to make more advanced models that work better than the simple algorithms would on their own.\n Model Evaluation Metrics\nLearn the main metrics to evaluate models, such as accuracy, precision, recall, and more!\n Training and Tuning\nLearn the main types of errors that can occur during training, and several methods to deal with them and optimize your machine learning models.",
+        "last_updated": "2025-02-18",
+        "rating": 9.4,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229_supervised_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/7935deb6-0bed-4e38-985e-1f83b8e16940"
+        ],
+        "id": 55,
+        "title": "Introduction to Neural Networks with PyTorch",
+        "description": "Learn the fundamentals of neural networks with Python and PyTorch, and then use your new skills to create your own image classifier—an application that will first train a deep learning model on a dataset of images and then use the trained model to classify new images.Course Introduction\nMeet your instructors, get a short overview of what you'll be learning, check your prerequisites, and learn how to use the workspaces and notebooks found throughout the lessons.\n Introduction to Neural Networks\nIn this lesson, Luis will give you solid foundations on deep learning and neural networks. You'll also implement gradient descent and backpropagation in Python right here in the classroom.\n Implementing Gradient Descent\nMat will introduce you to a different error function and guide you through implementing gradient descent using numpy matrix multiplication.\n Training Neural Networks\nNow that you know what neural networks are, in this lesson you will learn several techniques to improve their training.\n Deep Learning with PyTorch\nLearn how to use PyTorch for building deep learning models.",
+        "last_updated": "2025-02-18",
+        "rating": 9.4,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229_introduction_to_neural_networks_with_pytorch"
+      },
+      {
+        "skills": [],
+        "id": 56,
+        "title": "Unsupervised Learning",
+        "description": "In this course, you'll learn how to apply unsupervised learning to solve real-world problems.Clustering\nClustering is one of the most common methods of unsupervised learning. Here, we'll discuss the K-means clustering algorithm.\n Hierarchical and Density Based Clustering\nWe continue to look at clustering methods. Here, we'll discuss hierarchical clustering and density-based clustering (DBSCAN).\n Gaussian Mixture Models and Cluster Validation\nIn this lesson, we discuss Gaussian mixture model clustering. We then talk about the cluster analysis process and how to validate clustering results.\n Dimensionality Reduction and PCA\nOften we need to reduce a large number of features in our data to a smaller, more relevant set. Principal Component Analysis, or PCA, is a method of feature extraction and dimensionality reduction.\n Random Projection and ICA\nIn this lesson, we will look at two other methods for feature extraction and dimensionality reduction: Random Projection and Independent Component Analysis (ICA).",
+        "last_updated": "2025-02-18",
+        "rating": 9.4,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229_unsupervised_learning"
+      },
+      {
+        "skills": [],
+        "id": 58,
+        "title": "Prerequisite: SQL for Data Analysis (Optional)",
+        "description": "Basic SQL\nIn this section, you will gain knowledge about SQL basics for working with a single table. You will learn the key commands to filter a table in many different ways.\n SQL Joins\nIn this lesson, you will learn how to combine data from multiple tables together.\n SQL Aggregations\nIn this lesson, you will learn how to aggregate data using SQL functions\n SQL Subqueries & Temporary Tables\nIn this lesson, you will learn about subqueries, a fundamental advanced SQL topic. This lesson will walk you through the appropriate applications of subqueries, the different types of subqueries, and review subquery syntax and examples.\n SQL Data Cleaning\nCleaning data is an important part of the data analysis process. You will be learning how to perform data cleaning using SQL in this lesson.\n SQL Window Functions\nWindow functions allow users to compare one row to another without doing any joins using one of the most powerful concepts in SQL data analysis.",
+        "last_updated": "2025-02-18",
+        "rating": 9.4,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229_prerequisite:_sql_for_data_analysis_(optional)"
+      },
+      {
+        "skills": [],
+        "id": 62,
+        "title": "Additional Material: Statistics for Data Analysis (Optional)",
+        "description": "Descriptive Statistics - Part I\nIn this lesson, you will learn about data types, measures of center, and the basics of statistical notation.\n Descriptive Statistics - Part II\nIn this lesson, you will learn about measures of spread, shape, and outliers as associated with quantitative data. You will also get a first look at inferential statistics.\n Admissions Case Study\nLearn to ask the right questions, as you learn about Simpson's Paradox.\n Probability\nGain the basics of probability using coins and die.\n Binomial Distribution\nLearn about one of the most popular distributions in probability - the Binomial Distribution.\n Conditional Probability\nNot all events are independent. Learn the probability rules for dependent events.\n Bayes Rule\nLearn one of the most popular rules in all of statistics - Bayes rule.\n Python Probability Practice\nTake what you have learned in the last lessons and put it to practice in Python.\n Normal Distribution Theory\nLearn the mathematics behind moving from a coin flip to a normal distribution.\n Sampling distributions and the Central Limit Theorem\nLearn all about the underpinning of confidence intervals and hypothesis testing - sampling distributions.\n Confidence Intervals\nLearn how to use sampling distributions and bootstrapping to create a confidence interval for any parameter of interest.\n Hypothesis Testing\nLearn the necessary skills to create and analyze the results in hypothesis testing.\n Case Study: A/B tests\nWork through a case study of how A/B testing works for an online education company called Audacity.\n Regression\nUse python to fit linear regression models, as well as understand how to interpret the results of linear models.\n Multiple Linear Regression\nLearn to apply multiple linear regression models in python. Learn to interpret the results and understand if your model fits well.",
+        "last_updated": "2025-02-18",
+        "rating": 9.4,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229_additional_material:_statistics_for_data_analysis_(optional)"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+          "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+          "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+          "http://data.europa.eu/esco/skill/a8d07b5a-c1a1-42c6-9d53-db9c7a2ca996",
+          "http://data.europa.eu/esco/skill/b483124c-180c-4d3a-8b7c-72e4e7a5b49b",
+          "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779"
+        ],
+        "id": 73,
+        "title": "SQL and Data Modeling for the Web",
+        "description": "You'll learn the skills needed to traverse the stack and develop an entire database-backed web application. By the end of the course, you'll have the fundamentals you need to start building web applications, including how to do Create, Read, Update, and Delete (CRUD) operations on a database, how to apply these operations across both databases and web applications, how to set up relationships between elements of an application, and ultimately how to think about important principles and patterns in building data models for a web applicationInstructor Interview\nMeet your instructor!\n Course Introduction\nUnderstand what this course will cover and the learning objectives achieved.\n Interacting with Databases\nInteract with relational databases. Review SQL and the Client-Server Model. Use Postgres, understand DBAPIs, and use psycopg2.\n SQLAlchemy Basics\nLearn to use SQLAlchemy and SQLAlchemy ORM to work with a relational database in Python.\n SQLAlchemy ORM in Depth\nGet to know Model.query and the SQLAlchemy Object Lifecycle to master how to query for and change records in a database.\n Migrations\nHandle changes to your database schema over time using a version control system involving migration files.\n Build a CRUD App with SQLAlchemy - Part 1\nBuild out the ability to read and create todo items in our To-do app, handling changes from the database to the views.\n Build a CRUD App with SQLAlchemy ORM - Part 2\nFinish developing our To-Do app with update and delete functionality. Model relationships with To-Do lists.",
+        "last_updated": "2025-02-17",
+        "rating": 9.0,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044_sql_and_data_modeling_for_the_web"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "id": 80,
+        "title": "Using SQL for Data Analysis",
+        "description": "SQL is one of the most versatile tools available when it comes to extracting insights from stored data. Learn how to execute core SQL commands to define, select, manipulate, control access, aggregate, and join data and data tables. Understand when and how to use subqueries, several window functions, and partitions to complete complex tasks. Clean data, optimize SQL queries, and write select advanced JOINs to enhance analysis performance. Explain which cases you would want to use particular SQL commands and apply the results from queries to address business problems.Intro to Using SQL for Data Analysis\nThis is a quick summary of what is covered in this course.\n Basic SQL\nIn this section, you will gain knowledge about SQL basics for working with a single table. You will learn the key commands to filter a table in many different ways.\n SQL Joins\nIn this lesson, you will learn how to combine data from multiple tables together.\n SQL Aggregations\nIn this lesson, you will learn how to aggregate data using SQL functions\n SQL Subqueries & Temporary Tables\nIn this lesson, you will learn about subqueries, a fundamental advanced SQL topic. This lesson will walk you through the appropriate applications of subqueries, the different types of subqueries, and review subquery syntax and examples.\n SQL Window Functions\nWindow functions allow users to compare one row to another without doing any joins using one of the most powerful concepts in SQL data analysis.\n SQL Data Cleaning\nCleaning data is an important part of the data analysis process. You will be learning how to perform data cleaning using SQL in this lesson.",
+        "last_updated": "2025-02-17",
+        "rating": 9.6,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/business-analytics-nanodegree--nd098",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/business-analytics-nanodegree--nd098_using_sql_for_data_analysis"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "id": 82,
+        "title": "Introduction to SQL",
+        "description": "Learn SQL language fundamentals such as building basic queries and advanced functions like Window Functions, Subqueries and Common Table Expressions.Basic SQL\nIn this section, you will gain knowledge about SQL basics for working with a single table. You will learn the key commands to filter a table in many different ways.\n SQL Joins\nIn this lesson, you will learn how to combine data from multiple tables together.\n SQL Aggregations\nIn this lesson, you will learn how to aggregate data using SQL functions\n SQL Subqueries & Temporary Tables\nIn this lesson, you will learn about subqueries, a fundamental advanced SQL topic. This lesson will walk you through the appropriate applications of subqueries, the different types of subqueries, and review subquery syntax and examples.\n SQL Data Cleaning\nCleaning data is an important part of the data analysis process. You will be learning how to perform data cleaning using SQL in this lesson.\n SQL Window Functions\nWindow functions allow users to compare one row to another without doing any joins using one of the most powerful concepts in SQL data analysis.\n SQL Advanced JOINS & Performance Tuning\nLearn advanced joins and how to make queries that run quickly across giant datasets. Most of the examples in the lesson involve edge cases, some of which come up in interviews.",
+        "last_updated": "2025-02-17",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/programming-for-data-science-nanodegree-with-R--nd118",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/programming-for-data-science-nanodegree-with-R--nd118_introduction_to_sql"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "id": 86,
+        "title": "Introduction to SQL",
+        "description": "Learn SQL language fundamentals such as building basic queries and advanced functions like Window Functions, Subqueries and Common Table Expressions.Basic SQL\nIn this section, you will gain knowledge about SQL basics for working with a single table. You will learn the key commands to filter a table in many different ways.\n SQL Joins\nIn this lesson, you will learn how to combine data from multiple tables together.\n SQL Aggregations\nIn this lesson, you will learn how to aggregate data using SQL functions\n SQL Subqueries & Temporary Tables\nIn this lesson, you will learn about subqueries, a fundamental advanced SQL topic. This lesson will walk you through the appropriate applications of subqueries, the different types of subqueries, and review subquery syntax and examples.\n SQL Data Cleaning\nCleaning data is an important part of the data analysis process. You will be learning how to perform data cleaning using SQL in this lesson.\n SQL Window Functions\nWindow functions allow users to compare one row to another without doing any joins using one of the most powerful concepts in SQL data analysis.\n SQL Advanced JOINS & Performance Tuning\nLearn advanced joins and how to make queries that run quickly across giant datasets. Most of the examples in the lesson involve edge cases, some of which come up in interviews.",
+        "last_updated": "2025-02-17",
+        "rating": 9.6,
+        "price": 32.29,
+        "url": "https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104_introduction_to_sql"
+      },
+      {
+        "skills": [],
+        "id": 100,
+        "title": "SQL Lessons (Optional)",
+        "description": "Basic SQL\nIn this section, you will gain knowledge about SQL basics for working with a single table. You will learn the key commands to filter a table in many different ways.\n SQL Joins\nIn this lesson, you will learn how to combine data from multiple tables together.\n SQL Aggregations\nIn this lesson, you will learn how to aggregate data using SQL functions\n SQL Subqueries & Temporary Tables\nIn this lesson, you will learn about subqueries, a fundamental advanced SQL topic. This lesson will walk you through the appropriate applications of subqueries, the different types of subqueries, and review subquery syntax and examples.\n SQL Data Cleaning\nCleaning data is an important part of the data analysis process. You will be learning how to perform data cleaning using SQL in this lesson.\n SQL Window Functions\nWindow functions allow users to compare one row to another without doing any joins using one of the most powerful concepts in SQL data analysis.",
+        "last_updated": "2025-02-17",
+        "rating": 9.4,
+        "price": null,
+        "url": "https://www.udacity.com/course/predictive-analytics-for-business-nanodegree--nd008t",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/predictive-analytics-for-business-nanodegree--nd008t_sql_lessons_(optional)"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+          "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+          "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+          "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2",
+          "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01"
+        ],
+        "id": 109,
+        "title": "Transformative Technologies",
+        "description": "Unleash innovative opportunities for your business by strengthening your knowledge of transformative technologies and discussing their competitive advantages or potential disruptions for your business. You will choose at least one lesson that fits best with your business goal and interest and evaluate best practices through discussing executive-level decisions in a case studyIntro to Transformative Technologies\nSuccessful digital transformation requires taking advantage of transformative technologies. Which technologies should you explore?\n Cloud Computing\nIn this lesson, we cover the fundamentals of cloud computing and how to strategically leverage it for digital transformation.\n Artificial Intelligence and Machine Learning\nIn this lesson, we cover the fundamentals of artificial intelligence and machine learning and how they can help you transform your business.\n Data Science and Analytics\nIn this lesson, we discuss the importance of data science and analytics for successful and sustainable digital transformations.",
+        "last_updated": "2025-02-14",
+        "rating": null,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/digital-transformation-for-business-leaders--nd055",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/digital-transformation-for-business-leaders--nd055_transformative_technologies"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/89d3faa5-7493-46a3-967b-7b6d4eface0c",
+          "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d"
+        ],
+        "id": 127,
+        "title": "Introduction to Programming with Python I",
+        "description": "Learn basic programming with Python, one of the most versatile and widely used programming languages! You'll first learn core programming concepts and fundamental Python syntax by writing code to make a virtual \"turtle\" robot draw colorful shapes on the screen. You'll then learn how to write Python functions, run Python from a Command-Line Interface (CLI), manipulate strings and lists, and refactor your code to improve its structure and make it more modular.Introduction to VS Code workspaces\n Turtles and Code\nGet started learning core programming concepts with Python, while writing instructions to make a virtual \"turtle\" robot draw colorful shapes on the screen.\n Python Functions\nExpand your knowledge of Python by learning to write functions and conditional statements.\n Shell Workshop\nThe Unix shell is a powerful tool for developers of all sorts. In this lesson, you'll get a quick introduction to the very basics of using it on your own computer.\n Python at Home\nInstall Python on your own computer so you can write code anytime!\n Strings and Lists\nLearn to work with strings and text in your Python code.\n Style and Structure\nGet practice writing longer programs, and improving their structure and style.",
+        "last_updated": "2025-02-13",
+        "rating": 9.6,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/intro-to-programming-nanodegree--nd000",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-programming-nanodegree--nd000_introduction_to_programming_with_python_i"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/495ce586-09d7-4cec-83d7-2821be6590c4",
+          "http://data.europa.eu/esco/skill/5d73a509-4c15-423a-8873-8ea84daa037c",
+          "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d"
+        ],
+        "id": 128,
+        "title": "Introduction to Programming with Python II",
+        "description": "Continue to advance your skills as a beginning programmer! Python is one of the most versatile and widely used programming languages. In this second-level course, you will build on your understanding of fundamental Python and learn some more advanced skills, including how to work with files on your computer's disk and how to use Object-Oriented Programming (OOP) to create classes, objects, and methods.Introduction\nIn this lesson, we'll introduce you to your instructors, give you an overview of what you'll be learning, and provide a review you can use to check your pre-existing Python skills.\n Working with files\nLearn to work with files on your disk using Python code: listing files in a directory, moving files around, and reading & writing the contents of text files.\n Web APIs\nLearn to interact with Web APIs using the requests module, manipulate JSON, and use dictionaries.\n Objects and Classes\nLearn to create new kinds of data object using classes, including creating your own methods.",
+        "last_updated": "2025-02-13",
+        "rating": 9.6,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/intro-to-programming-nanodegree--nd000",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-programming-nanodegree--nd000_introduction_to_programming_with_python_ii"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3e23db60-0c3d-498a-a6ac-ffbed0ecb033",
+          "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777"
+        ],
+        "id": 139,
+        "title": "CSS Techniques, Tooling, and Web Accessibility",
+        "description": "This course equips learners with advanced CSS skills, including modern techniques, preprocessors, and scalable CSS architecture. It emphasizes building accessible web experiences and culminates in a hands-on project to create a professional portfolio site.CSS Architecture\nUnderstand CSS Architecture by learning methodologies BEM, OOCSS, and SMACSS to write scalable and maintainable styles with clear organization and improved readability.\n CSS Preprocessors\nExplore CSS Preprocessors: tools that extend CSS with features like variables, nesting, and modularity, offering a structured, efficient syntax for more organized and reusable code.\n Advanced CSS Techniques\nDive into Advanced CSS Techniques: master animations, media queries, and modern design to enhance web aesthetics and dynamic user experiences.\n Web Accessibility\nExplore web accessibility by understanding principles for inclusive design, accessible content creation, ARIA roles, and compliance with WCAG standards to enhance online user experiences.",
+        "last_updated": "2025-02-13",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011_css_techniques,_tooling,_and_web_accessibility"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213",
+          "http://data.europa.eu/esco/skill/906d21c9-7a9c-4919-817d-10676f9ddfe4",
+          "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+          "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389"
+        ],
+        "id": 146,
+        "title": "Advanced Data Analysis with Power BI",
+        "description": "Using Power BI, the overarching goal of the course is to help students become effective at the process of retrieving, analyzing, and visualizing data in order to answer questions and draw conclusions. After learning about descriptive and inferential statistics, histograms, linear regression, and the concepts of correlation and probability, the course moves into M, the language of Power Query to build custom formulas as part of the data transformation process. Students then learn the language of DAX to analyze data. The final lesson of the course goes through a number of visualizations in Power BI and explores how those visuals may be used, edited, or enhanced to effectively relay information to an audience.Introduction to the Advanced Data Analytics Course\nIn this first lesson, we'll introduce data analytics and the need for it. We'll take a brief look a each of the lessons to give students a feel for where we will be spending our time.\n Advanced Data Analytics\nThis lesson focuses on the steps of data analysis. We'll also look at specific tools and techniques for analysis including how to construct and interpret histograms and linear regressions.\n Power Query Transformations\nIn this lesson, we’ll dive deep into Power Query to retrieve and organize data. We'll take an in-depth look at M, the language of Power Query that helps in the data cleanup process.\n DAX Functions\nThis lesson focuses on the DAX language to measure, analyze and understand data, including custom formulas, calculated measures, columns, and tables, and common DAX errors.\n Advanced Visualizations\nThe focus of this lesson will be learning to create or edit advanced visualizations to analyze and present information, with the goal of drawing conclusions.",
+        "last_updated": "2025-02-12",
+        "rating": 9.2,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/data-analysis-and-visualization-with-power-BI-nanodegree--nd331",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-analysis-and-visualization-with-power-BI-nanodegree--nd331_advanced_data_analysis_with_power_bi"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/62d07a37-9c9b-40e8-b4e2-5020c7578e24",
+          "http://data.europa.eu/esco/skill/96f80c78-c021-4e15-8f94-784f2961a355",
+          "http://data.europa.eu/esco/skill/ed0718f6-5823-4c74-9749-2936c9c06203"
+        ],
+        "id": 150,
+        "title": "Systems Security",
+        "description": "In this course, you will learn about implementing authentication and authorization You will learn how to build and utilize tools that can alert you to system security breaches and you'll know how to effectively counter them.Introduction to Systems Security\nIn this lesson, you'll be introduced to the course and what to expect!\n Third Party Vulnerabilities\nIn this lesson, you will start learning about third party vulnerabilities and how to protect against them.\n Authentication\nIn this lesson, you will learn about password management tools, securing remote access, and encryption.\n Authorization\nIn this lesson, you will learn about access control, ownership and permissions, and creating rules and filters.\n Isolation\nIn this lesson, you will learn about restricting access, access control, and memory attacks.\n Auditing\nIn this lesson, you will learn about logging and monitoring.",
+        "last_updated": "2025-02-11",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/security-engineer-nanodegree--nd698",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/security-engineer-nanodegree--nd698_systems_security"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/62d07a37-9c9b-40e8-b4e2-5020c7578e24",
+          "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+          "http://data.europa.eu/esco/skill/ab49f767-296b-47d5-af56-0b4a69515b03",
+          "http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42"
+        ],
+        "id": 151,
+        "title": "Infrastructure Security",
+        "description": "In this course, you will be introduced to the industry best practices for security configurations and controls.Infrastructure Security\nThis lesson introduces this course and the instructor to help set your learning path.\n Infrastructure Security Assessment\nIn this lesson you'll set the foundation for good security assessment practices.\n Access Management\nIn this lesson, you'll learn about access management to make sure your files and data are secure.\n Monitoring and Detection\nIn this lesson you'll learn how to monitor and detect issues inside your perimeter.\n Identity Access Management\nIn this lesson you'll learn about identity management.\n Top Security Failures\nIn this lesson you'll learn about the top security failures inside of a perimeter and how to mitigate them",
+        "last_updated": "2025-02-11",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/security-engineer-nanodegree--nd698",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/security-engineer-nanodegree--nd698_infrastructure_security"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0d7f2cce-245a-4d02-9b8d-2e9946cc4c5d"
+        ],
+        "id": 158,
+        "title": "Hypothesis Testing",
+        "description": "Hypothesis testing is one of the most important topics in all of statistics because it tells us whether our conclusions are statistically significant. In this course, you will learn about the fundamental role statistics plays in hypothesis testing as well as how to implement statistical concepts in Python.Introduction\nIn this lesson, we begin the course by meeting the instructors and giving a quick introduction to experimentation.\n Normal Distribution Theory\nIn this lesson, you'll learn the mathematics behind moving from a coin flip to a normal distribution.\n Sampling Distributions and the Central Limit Theorem\nIn this lesson, you'll learn all about the underpinning of confidence intervals and hypothesis testing - sampling distributions.\n Confidence Intervals\nIn this lesson, you'll learn how to use sampling distributions and bootstrapping to create a confidence interval for any parameter of interest.\n Hypothesis Testing\nIn this lesson, you'll learn the necessary skills to create and analyze the results of hypothesis testing.\n A/B Tests\nIn this lesson, you'll work through a case study of how A/B testing works in the context of website metrics for an online education company.",
+        "last_updated": "2025-02-05",
+        "rating": null,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/statistics-for-data-analysis-nanodegree--nd588",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/statistics-for-data-analysis-nanodegree--nd588_hypothesis_testing"
+      },
+      {
+        "skills": [],
+        "id": 159,
+        "title": "Linear and Logistic Regression",
+        "description": "The linear and logistic regression course offers a detailed introduction to fundamental statistical and machine learning algorithms, particularly focusing on regression techniques. The course begins with simple linear regression and progresses to multiple linear regression, equipping students with the ability to analyze relationships between multiple variables. Finally, it covers logistic regression, a powerful tool for classification problems.Introduction\nIn this lesson, we kick off the course with an introduction to machine learning and why linear regression is such an important algorithm.\n Regression\nIn this lesson, you'll use Python to fit linear regression models, as well as understand how to interpret the results of linear models.\n Multiple Linear Regression\nIn this lesson, you'll learn to apply multiple linear regression models in Python. Then you'll learn how to interpret the results and understand if your model fits well.\n Logistic Regression\nIn this lesson, you'll learn to apply logistic regression models in Python as well as how to interpret logistic regression results.",
+        "last_updated": "2025-02-05",
+        "rating": null,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/statistics-for-data-analysis-nanodegree--nd588",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/statistics-for-data-analysis-nanodegree--nd588_linear_and_logistic_regression"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01"
+        ],
+        "id": 160,
+        "title": "Descriptive Statistics",
+        "description": "Learn how to describe data in terms of data types, measures of center, measures of spread, shape, and outliers. These essential skills in descriptive statistics provide the foundation for more advanced statistical techniques that are used for data science, data analysis, and machine learning.",
+        "last_updated": "2025-02-05",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/descriptive-statistics--cd12638",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/descriptive-statistics--cd12638_descriptive_statistics"
+      },
+      {
+        "skills": [],
+        "id": 162,
+        "title": "Linear and Logistic Regression",
+        "description": "The linear and logistic regression course offers a detailed introduction to fundamental statistical and machine learning algorithms, particularly focusing on regression techniques. The course begins with simple linear regression and progresses to multiple linear regression, equipping students with the ability to analyze relationships between multiple variables. Finally, it covers logistic regression, a powerful tool for classification problems.",
+        "last_updated": "2025-02-05",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/linear-and-logistic-regression--cd12641",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/linear-and-logistic-regression--cd12641_linear_and_logistic_regression"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2"
+        ],
+        "id": 164,
+        "title": "AI/ML Fluency",
+        "description": "In this course, you will learn fundamental topics of artificial intelligence and machine learning. You will learn about what they are, different algorithms/methods, and their applications.",
+        "last_updated": "2025-02-03",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/intro-to-ai-ml-fluency--cd1930",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-ai-ml-fluency--cd1930_ai/ml_fluency"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/6195c5f7-a4fb-425d-a3dd-c4467c4471a3",
+          "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+          "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+          "http://data.europa.eu/esco/skill/ed0718f6-5823-4c74-9749-2936c9c06203",
+          "http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42"
+        ],
+        "id": 173,
+        "title": "AWS Cloud Fundamentals",
+        "description": "The cloud has become a key enabler for innovation with beneficial features like high availability, unlimited capacity, and on-demand scalability and elasticity. Learn the fundamentals of cloud computing while being introduced to compute power, security, storage, networking, messaging, and management services in the cloud. While learning the fundamentals, you will explore tools and services offered by Amazon Web Services(AWS) through interactive, hands-on exercises. By the end of the course, you will have deployed your first website to AWS.Cloud Computing\nIn this lesson, you will learn the basics of cloud computing including cloud deployment models, benefits, and popular AWS options.\n Servers in the Cloud and Compute Services\nLearn why we need servers, compute power, and security.\n Storage & Content Delivery\nLearn why we need storage and content delivery in the cloud.\n Security\nLearn the importance of security in the cloud.\n Networking & Elasticity\nLearn the basics of networking and elasticity in the cloud.\n Messaging & Containers\nLearn the basics of messaging and containers in the cloud.\n AWS Management\nLearn why we need logging, auditing, and resource management in the cloud.",
+        "last_updated": "2025-02-02",
+        "rating": 8.8,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/cloud-developer-nanodegree--nd9990",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cloud-developer-nanodegree--nd9990_aws_cloud_fundamentals"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/a44c0ed6-68b1-457a-9c6d-ea8487bdfeb2"
+        ],
+        "id": 176,
+        "title": "Develop and Deploy Serverless Apps",
+        "description": "Serverless technologies have become very popular recently because they can increase the speed of development and drastically reduce the cost of running a cloud infrastructure. This course combines the theory of using serverless technologies with the practice of developing a complex serverless application and focuses on learning by doing. You will learn advanced serverless features such as implementing WebSockets and stream processing and learn about serverless best practices throughout the course.Developing and Deploying Serverless\nIntroduction to Developing and Deploying Serverless Applications\n Introduction to Serverless\nIntroduction to the course, and Introduction to Serverless\n REST API\nIn this lesson, we will cover the development of REST APIL for a group of images, how to store data in DynamoDB and build a web app using React.\n Event Processing\nIn this lesson you will learn about event processing using Serverless. We will focus on processing different event types with Lambda functions.\n Implementing Authentication\nIn this lesson, we cover authentication and authorization using Serverless. We will cover Authentication, OAuth, Auth0 protocols.",
+        "last_updated": "2025-02-02",
+        "rating": 8.8,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/cloud-developer-nanodegree--nd9990",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cloud-developer-nanodegree--nd9990_develop_and_deploy_serverless_apps"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669"
+        ],
+        "id": 178,
+        "title": "Computer Vision",
+        "description": "In this course, you will develop critical Machine Learning skills that are commonly leveraged in autonomous vehicle engineering. You will learn about the life cycle of a Machine Learning project, from framing the problem and choosing metrics to training and improving models. This course will focus on the camera sensor and you will learn how to process raw digital images before feeding them into different algorithms, such as neural networks. You will build convolutional neural networks using TensorFlow and learn how to classify and detect objects in images. With this course, you will be exposed to the whole Machine Learning workflow and get a good understanding of the work of a Machine Learning Engineer and how it translates to the autonomous vehicle context.Introduction to Deep Learning for Computer Vision\nDive into Deep Learning for Computer Vision, learning about its use cases, history, and what you’ll build by the end of the course.\n The Machine Learning Workflow\nMachine learning is more than just building a model - getting each step of the workflow right is crucial.\n Sensor and Camera Calibration\nLearn how to calibrate your camera to remove distortions for improved perception.\n From Linear Regression to Feedforward Neural Networks\nBuild skills in linear and logistic regression before taking on feedforward neural networks, a type of deep learning.\n Image Classification with CNNs\nConvolutional networks improve on feedforward networks for areas such as image classification - let’s get started building them!\n Object Detection in Images\nObject detection builds on classification by finding multiple important objects within a single image - find out how!",
+        "last_updated": "2025-02-02",
+        "rating": 8.4,
+        "price": 20.55,
+        "url": "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013_computer_vision"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/16977544-891e-44d7-86fd-444eadcf90ef"
+        ],
+        "id": 179,
+        "title": "Sensor fusion",
+        "description": "Besides cameras, self-driving cars rely on other sensors with complementary measurement principles to improve robustness and reliability, using sensor fusion. You will learn about the lidar sensor, different lidar types, and relevant criteria for sensor selection. Also, you will learn how to detect objects in a 3D lidar point cloud using a deep-learning approach, and then evaluate detection performance using a set of metrics. In the second half of the course, you will learn how to fuse camera and lidar detections and track objects over time with an Extended Kalman Filter. You will get hands-on experience with multi-target tracking, where you will initialize, update and delete tracks, assign measurements to tracks with data association techniques, and manage several tracks simultaneously.Introduction to Sensor Fusion and Perception\nGet started with sensor fusion and perception, why they are important, and the history of their development in self-driving cars.\n The Lidar Sensor\nLearn about the lidar sensor, capable of capturing important 3D data in point clouds.\n Detecting Objects in Lidar\nDetect objects from the 3D data coming in from a lidar sensor.\n Mid-Term Project: 3D Object Detection\nUse the Waymo dataset to detect 3D objects in the surrounding environment.\n Kalman Filters\nLearn from the best! Sebastian Thrun will walk you through the usage and concepts of a Kalman Filter using Python.\n Extended Kalman Filters\nBuild an Extended Kalman Filter that's capable of handling data from multiple sources.\n Multi-Target Tracking\nGet your tracking skills ready for the real world by learning how to track multiple targets simultaneously.",
+        "last_updated": "2025-02-02",
+        "rating": 8.4,
+        "price": 20.55,
+        "url": "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013_sensor_fusion"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/53b1dcbc-7c51-43cd-9e3a-9ca78afd2895",
+          "http://data.europa.eu/esco/skill/97965983-0da4-4902-9daf-d5cd2693ef73",
+          "http://data.europa.eu/esco/skill/baffa7a3-a6d4-4ea8-a0ad-1afec3fc0acb"
+        ],
+        "id": 180,
+        "title": "Localization",
+        "description": "In this course, you will learn all about robotic localization, from one-dimensional motion models up to using three-dimensional point cloud maps obtained from lidar sensors. You’ll begin by learning about the bicycle motion model, an approach to use simple motion to estimate location at the next time step, before gathering sensor data. Then, you’ll move onto using Markov localization in order to do 1D object tracking. From there, you will learn how to implement two scan matching algorithms, Iterative Closest Point (ICP) and Normal Distributions Transform (NDP), which work with 2D and 3D data. Finally, you will utilize these scan matching algorithms in the Point Cloud Library (PCL) to localize a simulated car with lidar sensing, using a 3D point cloud map obtained from the CARLA simulator.Introduction to Localization\nMeet the team that will guide you through the localization lessons, and learn the intuition behind robotic localization!\n C++ Checkpoint\nAre you ready to build Kalman Filters with C++? Take these quizzes to find out!\n Markov Localization\nLearn the math behind localization, as well as how to implement Markov localization in C++.\n [Optional] Intro to PCL\nLearn about the Point Cloud Library (PCL). Use a simulation highway environment to explore lidar sensing and generate point clouds.\n Creating Scan Matching Algorithms\nLearn about and build two scan matching algorithms for localization: Iterative Closest Point (ICP) and Normal Distributions Transforms (NDT).\n Utilizing Scan Matching\nLearn how to align point clouds with ICP and NDT before leveraging them to localize a self-driving car in a simulated environment!",
+        "last_updated": "2025-02-02",
+        "rating": 8.4,
+        "price": 20.55,
+        "url": "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013_localization"
+      },
+      {
+        "skills": [],
+        "id": 186,
+        "title": "Additional Content: Deep Learning (Optional)",
+        "description": "Find additional content on deep learning here, including fully convolutional networks and semantic segmentation for scene understanding, as well as how to improve inference performance from a speed standpoint.Fully Convolutional Networks\nIn this lesson you'll learn the motivation for Fully Convolutional Networks and how they are structured.\n Scene Understanding\nIn this lesson you'll be introduced to the problem of Scene Understanding and the role FCNs play.",
+        "last_updated": "2025-02-02",
+        "rating": 8.4,
+        "price": 20.55,
+        "url": "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013_additional_content:_deep_learning_(optional)"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080"
+        ],
+        "id": 189,
+        "title": "Generative AI Fundamentals",
+        "description": "Dive into generative AI with this course, which explores its fundamental principles and relationship to prior artificial intelligence innovations. We will walk through popular generative models and how they work, how deep learning models are developed using tools like PyTorch and Hugging Face, and finally, how to customize pre-trained open-source models for a specific use case. In the project, you will apply a cutting-edge technique called parameter-efficient fine-tuning (PEFT), which allows for the adaptation of massive foundation models with minimal usage of computational resources.Introduction to Generative AI Fundamentals\nThis lesson provides the foundational knowledge needed about generative AI: what it is, how it's applied, and explanations of some popular algorithms and architectures for text and image generation.\n Deep Learning Fundamentals\nThis lesson covers the essentials of deep learning for the generative AI practitioner. From perceptrons to transfer learning including an introduction to the PyTorch and Hugging Face Python libraries.\n Foundation Models\nThis lesson explores foundation models in AI, how they differ from traditional models, how you can apply them to various tasks and evaluate their performance, and the ethical implication of their use.\n Adapting Foundation Models\nThis lesson covers a range of techniques for adapting foundation models, including prompt tuning, in-context learning, full fine-tuning, and parameter-efficient fine-tuning (PEFT).",
+        "last_updated": "2025-01-31",
+        "rating": null,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/generative-ai--nd608",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/generative-ai--nd608_generative_ai_fundamentals"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+          "http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a"
+        ],
+        "id": 190,
+        "title": "Large Language Models (LLMs) & Text Generation",
+        "description": "Dive deeper into how computers understand and create language, and learn how to build a custom chatbot using unsupervised machine learning, prompt engineering, and retrieval augmented generation. We'll start with a high-level overview of the types of LLMs, the differences between them, and how best to account for their strengths and weaknesses. Then we'll get into the internal details, including natural language processing (NLP) techniques like tokenization, as well as modern transformer architectures and attention mechanisms. Finally, we'll build a practical LLM application that combines an LLM with a custom dataset.Introduction to LLMs\nThis lesson covers the types of LLMs, an intuitive understanding of their limitations and capabilities, inference and decoding hyperparameters, and strategies for effective prompt engineering.\n NLP Fundamentals\nThis lesson covers the essential Natural Language Processing topics needed to use the latest LLM technology. You will learn the basics of NLP and then dive into text encoding and text generation.\n Transformers and Attention Mechanism\nIn this lesson, you will open up the black box of transformer architectures and learn about the attention mechanisms and other components that make these powerful models possible.\n Retrieval Augmented Generation\nIn this lesson, we will learn how to create a custom Q&A bot powered by OpenAI! Along the way, you'll learn how OpenAI works and how to leverage its powerful language processing capabilities.\n Build Custom Datasets for LLMs\nIn this lesson, you will learn how to construct a relevant, quality dataset for fine-tuning large language models and performing retrieval augmented generation.",
+        "last_updated": "2025-01-31",
+        "rating": null,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/generative-ai--nd608",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/generative-ai--nd608_large_language_models_(llms)_&_text_generation"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/6a57def2-7b11-4b50-95b8-b16498795ad9",
+          "http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669"
+        ],
+        "id": 191,
+        "title": "Computer Vision and Generative AI",
+        "description": "Learn how computers process and understand image data, then harness the power of the latest Generative AI models to create new images.Introduction to Image Generation\nIn this lesson, you will define image generation and understand its relevance in AI and machine learning.\n Computer Vision Fundamentals\nLearn how computers see images and perform key image processing techniques using classic image processing techniques such as image transformation, noise reduction, and more.\n Image Generation and GANs\nExplore the landscape of Gen AI tools for Computer Vision and learn how they are evaluated. Learn what a generative adversarial network is and how it is utilized to generate images.\n Transformer-Based Computer Vision Models\nIn this lesson, we will be exploring Vision Transformers and the architecture that makes them work. Along the way we will explore Vision Transformers like DALL-E, DINO, and SAM.\n Diffusion Models\nLearn the fundamentals of transformers. Then, get hands-on with the creation of a diffusion algorithm and work with Huggingface Diffusers to generate and work with images.",
+        "last_updated": "2025-01-31",
+        "rating": null,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/generative-ai--nd608",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/generative-ai--nd608_computer_vision_and_generative_ai"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+          "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01"
+        ],
+        "id": 198,
+        "title": "Introduction to Data Science and Supervised Machine Learning",
+        "description": "This course is for data analysts who want to apply machine learning. You will begin with an introduction to the fundamental concepts and processes that differentiate data science from other fields. Then you will dive deeper into machine learning algorithms, including underlying math concepts like gradient descent, ensemble models like random forests, and an introduction to neural networks and deep learning. Once you can harness these algorithms, you will apply model evaluation techniques for both accuracy and fairness. The course culminates with advice for effectively communicating findings to stakeholders. Your final project will involve building a machine learning model and writing a blog post about your analysis, to build your data science portfolio.The Data Science Process\nLearn about the basics of data science and machine learning. Walk through the CRISP-DM process and how you can apply it to many data science problems.\n Supervised Machine Learning Algorithms\nExplore supervised machine learning algorithms: regression, classification, linear models, decision trees, random forests, and neural networks, with interactive exercises in scikit-learn.\n Machine Learning Model Evaluation\nLearn why default accuracy metrics can be misleading with real-world datasets, and the alternative metrics you can utilize to communicate the benefits and limitations of your models.\n Model Interpretability and Fairness\nTo apply AI ethically and transparently, you need to understand how your models make decisions and whether their impacts are fair. Apply feature importances, SHAP values, and the Aequitas framework\n Communicating to Stakeholders\nCreate a GitHub repository and Medium blog post to communicate your findings",
+        "last_updated": "2025-01-24",
+        "rating": 9.6,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/data-scientist-nanodegree--nd025",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-scientist-nanodegree--nd025_introduction_to_data_science_and_supervised_machine_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0620ecd1-e4b1-4dfa-972b-38a93e5ebd9d",
+          "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+          "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+          "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+          "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9"
+        ],
+        "id": 199,
+        "title": "Software Engineering for Data Scientists",
+        "description": "Software engineering skills are increasingly important for data scientists. In this course, you'll learn best practices for writing software, working with Python packages, and building web data dashboards. You'll take a look \"under the hood\" of Python packages like scikit-learn and then practice creating and sharing virtual environments, packages, and web data dashboards. You will also become familiar with code quality and reproducibility tools including unit tests, linting, and GitHub actions. In your final project, you will develop a FastHTML dashboard that allows users to interact with a machine learning model through a web interface.Object-Oriented Programming\nExplore object-oriented programming (OOP), including classes, instances, magic methods, inheritance, and polymorphism. Utilize professional coding patterns for efficient Python software development.\n Code Reproducibility\nUse and create virtual environments, write Python packages, manage file paths in a way that enables cross-platform compatibility, and ensure code quality through testing and linting.\n Data Science Dashboards\nDig into deployment options for ML models using web servers, web forms, dynamic endpoints, and interactive dashboards with Python and FastHTML.",
+        "last_updated": "2025-01-24",
+        "rating": 9.6,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/data-scientist-nanodegree--nd025",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-scientist-nanodegree--nd025_software_engineering_for_data_scientists"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/484d048c-a5d1-46a5-b57f-45b69c0ac552",
+          "http://data.europa.eu/esco/skill/4f5c1208-62fd-4e5a-a51e-306c06947e11",
+          "http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669"
+        ],
+        "id": 200,
+        "title": "Data Science Pipelines",
+        "description": "Pipelines are essential tools for data scientists. They enable you to seamlessly combine various different features and preprocessing approaches into a single pipeline object. In this course, you will build reproducible, modular scikit-learn pipelines that prevent subtle data leakage issues and allow you to harness new types of data. These data sources include image data, where you will leverage SVM (support vector machine) and CNN (convolutional neural network) models, and text data, where you will leverage modern NLP (natural language processing) tools including LLMs (large language models) hosted on Hugging Face.Scikit-Learn Pipelines\nMaster scikit-learn pipelines for efficient data workflows, preprocessing, feature engineering, and model optimization, enhancing machine learning projects with automation and clarity.\n Computer Vision Pipelines\nExplore computer vision by learning image preprocessing, feature extraction, and building classification pipelines with SVMs and CNNs using tools such as OpenCV and PyTorch.\n NLP Pipelines\nBuild machine learning pipelines with text data features, including tokenization, vectorization, and part-of-speech tagging with spaCy.",
+        "last_updated": "2025-01-24",
+        "rating": 9.6,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/data-scientist-nanodegree--nd025",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-scientist-nanodegree--nd025_data_science_pipelines"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+          "http://data.europa.eu/esco/skill/505e4ef3-7ce4-437d-b7b4-5c608f71c258"
+        ],
+        "id": 201,
+        "title": "Unsupervised Machine Learning and Recommendation Systems",
+        "description": "This course covers advanced data science topics related to unsupervised machine learning. You will apply techniques including clustering and dimensionality reduction, then learn about the different strategies for generating personalized recommendations. The final lesson of the course covers practical advice for data scientists using unsupervised models in the real world, including how to test them both \"online\" and \"offline\". For the final project, you will build a hybrid recommendation system for data science articles.Clustering\nExplore unsupervised learning in data science, focusing on clustering techniques, k-means algorithms, metrics, and applications for enhanced data analysis.\n Dimensionality Reduction\nLearn the fundamentals of dimensionality reduction and how to use it in your models effectively. Utilize Scikit-learn and matplotlib to calculate and visualize the dimension reduction process.\n Recommendation Systems\nLearn about the different methods used to create recommendation engines with Python.\n Unsupervised Machine Learning Model Evaluation\nLearn how to evaluate unsupervised machine learning models, including clustering, dimensionality reduction, and recommendation systems, to improve their performance.",
+        "last_updated": "2025-01-24",
+        "rating": 9.6,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/data-scientist-nanodegree--nd025",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-scientist-nanodegree--nd025_unsupervised_machine_learning_and_recommendation_systems"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+          "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9"
+        ],
+        "id": 202,
+        "title": "Software Engineering for Data Scientists",
+        "description": "Software engineering skills are increasingly important for data scientists. In this course, you'll learn best practices for writing software, working with Python packages, and building web data dashboards. You'll take a look \"under the hood\" of Python packages like scikit-learn and then practice creating and sharing virtual environments, packages, and web data dashboards. You will also become familiar with code quality and reproducibility tools including unit tests, linting, and GitHub actions. In your final project, you will develop a FastHTML dashboard that allows users to interact with a machine learning model through a web interface.",
+        "last_updated": "2025-01-24",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/software-engineering-for-data-scientists--cd0171",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/software-engineering-for-data-scientists--cd0171_software_engineering_for_data_scientists"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a"
+        ],
+        "id": 203,
+        "title": "Large Language Models (LLMs) & Text Generation",
+        "description": "Dive deeper into how computers understand and create language, and learn how to build a custom chatbot using unsupervised machine learning, prompt engineering, and retrieval augmented generation. We'll start with a high-level overview of the types of LLMs, the differences between them, and how best to account for their strengths and weaknesses. Then we'll get into the internal details, including natural language processing (NLP) techniques like tokenization, as well as modern transformer architectures and attention mechanisms. Finally, we'll build a practical LLM application that combines an LLM with a custom dataset.",
+        "last_updated": "2025-01-21",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/large-language-models-and-text-generation--cd13318",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/large-language-models-and-text-generation--cd13318_large_language_models_(llms)_&_text_generation"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/84295dbe-16b0-47e8-af9e-67ee1801673d",
+          "http://data.europa.eu/esco/skill/a4fd17bf-6309-47c5-b7fa-ae5560673acf",
+          "http://data.europa.eu/esco/skill/f69d330a-c343-433f-9532-fed6b8654b0e"
+        ],
+        "id": 205,
+        "title": "Analyzing Security Threats",
+        "description": "In this course, you’ll start by exploring the current threat landscape and identifying both threats and threat actors that organizations face. You will learn about the OWASP Top 10 and that they pose a critical threat to organizations. Then, you’ll learn all of the ways to mitigate threats, including the OWASP Top 10. Lastly, you’ll learn what threat modeling is and build your own threat models.Introduction to Analyzing Threats\nIn this lesson, you'll be introduced to what you'll be learning about in this course!\n Identifying Security Threats\nIn this lesson, you will learn about internal threats, external threats, and the OWASP Top 10.\n Mitigating Threats\nIn this lesson, you will learn different mitigation strategies and the threats they mitigate.\n Threat Modeling\nIn this lesson, you will use your new skills to create Threat Models for different threat scenarios.",
+        "last_updated": "2025-01-20",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/security-analyst-nanodegree--nd324",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/security-analyst-nanodegree--nd324_analyzing_security_threats"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284"
+        ],
+        "id": 211,
+        "title": "Introduction to Data Science and Supervised Machine Learning",
+        "description": "This course is for data analysts who want to apply machine learning. You will begin with an introduction to the fundamental concepts and processes that differentiate data science from other fields. Then you will dive deeper into machine learning algorithms, including underlying math concepts like gradient descent, ensemble models like random forests, and an introduction to neural networks and deep learning. Once you can harness these algorithms, you will apply model evaluation techniques for both accuracy and fairness. The course culminates with advice for effectively communicating findings to stakeholders. Your final project will involve building a machine learning model and writing a blog post about your analysis, to build your data science portfolio.",
+        "last_updated": "2025-01-20",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/introduction-to-data-science--cd0017",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/introduction-to-data-science--cd0017_introduction_to_data_science_and_supervised_machine_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/6195c5f7-a4fb-425d-a3dd-c4467c4471a3",
+          "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+          "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+          "http://data.europa.eu/esco/skill/ed0718f6-5823-4c74-9749-2936c9c06203",
+          "http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42"
+        ],
+        "id": 212,
+        "title": "AWS Cloud Fundamentals",
+        "description": "The cloud has become a key enabler for innovation with beneficial features like high availability, unlimited capacity, and on-demand scalability and elasticity. Learn the fundamentals of cloud computing while being introduced to compute power, security, storage, networking, messaging, and management services in the cloud. While learning the fundamentals, you will explore tools and services offered by Amazon Web Services(AWS) through interactive, hands-on exercises. By the end of the course, you will have deployed your first website to AWS.Cloud Computing\nIn this lesson, you will learn the basics of cloud computing including cloud deployment models, benefits, and popular AWS options.\n Servers in the Cloud and Compute Services\nLearn why we need servers, compute power, and security.\n Storage & Content Delivery\nLearn why we need storage and content delivery in the cloud.\n Security\nLearn the importance of security in the cloud.\n Networking & Elasticity\nLearn the basics of networking and elasticity in the cloud.\n Messaging & Containers\nLearn the basics of messaging and containers in the cloud.\n AWS Management\nLearn why we need logging, auditing, and resource management in the cloud.",
+        "last_updated": "2025-01-20",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991_aws_cloud_fundamentals"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0c15aa34-6977-4da7-b1f0-2ba6a582ef1b",
+          "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4"
+        ],
+        "id": 214,
+        "title": "Microservices at Scale using AWS and Kubernetes",
+        "description": "This lesson will provide you with a comprehensive understanding of microservices architecture, containers, and Kubernetes in the context of AWS. You will learn how to build, deploy, and manage containerized applications at scale while utilizing AWS tools and services. By the end of your journey, you will have a strong foundation in containerization, microservices, and Kubernetes DevOps skills, enabling you to tackle real-world challenges in your professional career.Introduction to Microservices at Scale with AWS and Kubernetes\nUnderstand the concepts, skills, and goals you'll work through as well as prerequisites and tools to succeed in your learning journey.\n Containers for DevOps on AWS\nDive into Docker containers and the Docker Engine and create, deploy, and manage containers. You'll learn about containerization, Docker images, Dockerfiles, and how to interact with AWS ECR.\n Microservices for DevOps on AWS\nUnderstand the significance of microservices and how they affect the responsibilities of DevOps engineers. Learn about continuous integration and deployment and how to use AWS tools like CodeBuild.\n Kubernetes on AWS Fundamentals\nUse Kubernetes to solve the cumbersome overhead of managing microservices deployed with Docker. Learn the basics of Kubernetes including architecture, components, and key concepts.\n Operationalizing Kubernetes\nExtend your Kubernetes knowledge to applying cluster management to production workloads: Helm charts, logging, and scaling.",
+        "last_updated": "2025-01-20",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991_microservices_at_scale_using_aws_and_kubernetes"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+          "http://data.europa.eu/esco/skill/867137fb-ff1b-4ca3-99f3-cb6969aa2c68",
+          "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+          "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968"
+        ],
+        "id": 219,
+        "title": "Backend Development with Node.js",
+        "description": "This course introduces the fundamental tools needed to build a basic API in a way that is both scalable, and maintainable. You will work with Node.js and its core modules, write TypeScript for developer error reduction, test with Jasmine to introduce unit testing in a Test-Driven Development environment, and use Express as a framework for building APIs.Foundations of Backend Development\nDiscover the tools that make backend development possible. You'll learn how those tools are used throughout the course and how they'll set you up to write clear, maintainable code.\n Getting Started with Node.JS\nLearn how JavaScript is used serverside with Node.js. You'll work with the tools Node.js provides as well as integrate third-party packages to create the backend for your applications.\n Developing with TypeScript\nTake advantage of strict typing by learning to write TypeScript, one of the most popular for application development. You'll write code in a way that reduces errors and expresses your intentions.\n Unit Testing with Jasmine\nExplore the software development testing paradigm. You'll learn how Jasmine can be used as a Test-Driven Development framework for writing server-side unit tests to create bug-free maintainable code.\n Building a Server\nBuild a server with the Express framework. You'll learn how APIs are architected and create and use middleware for expanded functionality. Finally, you'll learn to read and write to the file system.",
+        "last_updated": "2025-01-16",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067_backend_development_with_node.js"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+          "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa",
+          "http://data.europa.eu/esco/skill/8744f28f-59a9-45af-8ef6-6944cb5a1473"
+        ],
+        "id": 224,
+        "title": "Building a Workflow for AI",
+        "description": "This course introduces learners to the concepts of AI-based trading models. Learners will discover the basic building blocks used to create an AI-based trading model and key Machine Learning techniques they need to be aware of.Introduction to AI Workflows in Trading\nLearn how to prepare price data for AI models, backtest trading algorithms, and build a simple RSI algorithm.\n Unsupervised Learning\nExplore investment data, summarize key stats, use K-Means and PCA for clustering, adapt trading algorithms, and identify risk factors to enhance model insights on outperformance\n Supervised Learning: Regression\nBuild regression models using past returns, explore regularization to avoid over/underfitting, and differentiate between training and test data while identifying signs of overfitting and underfitting.\n Supervised Learning: Classification\nPredict categorical variables using logistic regression and decision trees. Improve model performance with cross-validation for strong out-of-sample results.",
+        "last_updated": "2025-01-15",
+        "rating": null,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/ai-trading-strategies--nd881",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-trading-strategies--nd881_building_a_workflow_for_ai"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79",
+          "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639"
+        ],
+        "id": 225,
+        "title": "Preparing for Data Analysis",
+        "description": "Preprocessing is a critical concept in any successful ML model. In this course, you will learn the basics of data engineering, data selection, and exploratory data analysis.An Overview of Machine Learning Pipelines\nWe'll define the steps of the machine learning pipeline, from data ingestion to production. We'll emphasize preprocessing and feature engineering, essential steps to well-performing trading models.\n Data Acquisition and Preprocessing\nHow do you get data from the Internet to your model? We'll talk about ingestion, transformation,and data wrangling using Pandas, the industry-standard time-series package for data manipulation.\n Feature Engineering for Trading Models\nFeature engineering significantly improves model performance, and in this lesson, we'll go over strategies you can use. Basic and more involved techniques will be presented, with use cases noted.\n Exploratory Data Analysis\nWhat's your data trying to tell you? Use EDA, exploratory data analysis, to find out! We'll use Python's two most popular plotting packages, matplotlib and Plotly, to find out your data's secrets.",
+        "last_updated": "2025-01-15",
+        "rating": null,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/ai-trading-strategies--nd881",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-trading-strategies--nd881_preparing_for_data_analysis"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a"
+        ],
+        "id": 227,
+        "title": "Reinforcement Learning",
+        "description": "In this course, learners will explore how to design, backtest, and optimize a working reinforcement-based ML trading strategy. This course will introduce popular techniques and indicators used in reinforcement learning-based trading, such as Q-learning, PCA, use of market indicators, assessment of market context, and assessment of the strategy outcomes. This course is designed for hobby traders with a background in data science. By the end of this course, you will be able to build, train, backtest, and optimize a reinforcement learning trading strategy with Python.Reinforcement Learning in Trading\nIntroduction to reinforcement learning, Q-learning, and core concepts including how reinforcement learning fits in the trading world.\n Representing the Financal Market: State and Action Spaces\nExplore the concept of Financial State and Action Spaces. Learn how to define states and extract popular market indicators and conditions with Python and YFinance.\n Constructing a Reinforcement Trading Model\nConstruct a RL trading model using Python including define and running a training loop. Learn key tips for implementation and run test data through the newly created model.\n Backtesting and Optimization Techniques\nExamine key backtesting concepts, gather important backtesting information on an RL model, and learn how to interpret those results to optimize performance.",
+        "last_updated": "2025-01-15",
+        "rating": null,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/ai-trading-strategies--nd881",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-trading-strategies--nd881_reinforcement_learning"
+      },
+      {
+        "skills": [],
+        "id": 228,
+        "title": "Optimizing AI Strategies",
+        "description": "This course covers various aspects of improving AI models. Topics include introduction to model optimization, hyperparameter tuning, regularization techniques, evaluating and optimizing strategies, and deployment considerations. Students will learn how to monitor, evaluate and enhance model performance, prevent overfitting, and apply techniques for real-world scenarios.Introduction to AI Model Optimization\nWe review how AI models work in principle and important terminology used in AI model training and optimization. We talk about where AI model optimization applies in using AI models for trading.\n Regularization Techniques to Prevent Overfitting\nOverfitting is a common issue when training AI models for trading. We’ll explore bias, variance, and the role of hyperparameters in the context of various AI model types.\n Hyperparameter Tuning Methods\nGet hands-on with AI model hyperparameters and discuss the various methods available to us for tuning them in a systematic or ad-hoc way, as well as the advantages and disadvantages of each method.\n Evaluating and Optimizing AI Strategies\nWe discuss some practical methods and important considerations related to model optimization and evaluation in the context of AI models for trading.\n Deployment and Real-World Considerations\nWe analyze important practical considerations for using AI models for trading. We discuss things we need to keep in mind as we maintain or iterate on our deployed models.",
+        "last_updated": "2025-01-15",
+        "rating": null,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/ai-trading-strategies--nd881",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-trading-strategies--nd881_optimizing_ai_strategies"
+      },
+      {
+        "skills": [],
+        "id": 233,
+        "title": "Introducing Generative AI with AWS",
+        "description": "Master the fundamentals of generative AI and develop a deep understanding of its historical context and real-world applications. Explore AI and machine learning foundations using AWS tools, large language models (LLMs) with transformer-based architectures, and the societal impacts of generative AI to understand AI's evolution and ethical deployment. Engage in exercises on AI history, machine learning approaches, prompt engineering, and responsible AI use to apply your knowledge in practical scenarios. Develop skills in distinguishing AI from ML, exploring LLMs, and emphasizing ethical AI deployment, enabling you to apply these concepts in real-world applications. Designed for learners with basic Python knowledge, this program empowers you to advance your understanding of generative AI.",
+        "last_updated": "2025-01-15",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/generative-AI-with-AWS--cd13232",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/generative-AI-with-AWS--cd13232_introducing_generative_ai_with_aws"
+      },
+      {
+        "skills": [],
+        "id": 236,
+        "title": "Building a Workflow for AI",
+        "description": "This course introduces learners to the concepts of AI-based trading models. Learners will discover the basic building blocks used to create an AI-based trading model and key Machine Learning techniques they need to be aware of.",
+        "last_updated": "2025-01-14",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/building-a-workflow-for-ai--cd13639",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/building-a-workflow-for-ai--cd13639_building_a_workflow_for_ai"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42"
+        ],
+        "id": 238,
+        "title": "AWS Cloud Fundamentals",
+        "description": "The cloud has become a key enabler for innovation with beneficial features like high availability, unlimited capacity, and on-demand scalability and elasticity. Learn the fundamentals of cloud computing while being introduced to compute power, security, storage, networking, messaging, and management services in the cloud. While learning the fundamentals, you will explore tools and services offered by Amazon Web Services(AWS) through interactive, hands-on exercises. By the end of the course, you will have deployed your first website to AWS.",
+        "last_updated": "2025-01-14",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/cloud-fundamentals--cd12097",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cloud-fundamentals--cd12097_aws_cloud_fundamentals"
+      },
+      {
+        "skills": [],
+        "id": 240,
+        "title": "Value-Based Methods",
+        "description": "Apply deep learning architectures to reinforcement learning tasks. Train your own agent that navigates a virtual world from sensory data.Study Plan\nThis lesson covers the study plan and prerequisites for this course.\n Deep Q-Networks\nExtend value-based reinforcement learning methods to complex problems using deep neural networks.",
+        "last_updated": "2025-01-09",
+        "rating": 9.2,
+        "price": 32.29,
+        "url": "https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893_value-based_methods"
+      },
+      {
+        "skills": [],
+        "id": 241,
+        "title": "Policy-Based Methods",
+        "description": "Study Plan\nObtain helpful resources to accelerate your learning in the third part of the Nanodegree program.\n Introduction to Policy-Based Methods\nPolicy-based methods try to directly optimize for the optimal policy.\n Policy Gradient Methods\nPolicy gradient methods search for the optimal policy through gradient ascent.\n Proximal Policy Optimization\nLearn what Proximal Policy Optimization (PPO) is and how it can improve policy gradients. Also learn how to implement the algorithm by training a computer to play the Atari Pong game.\n Actor-Critic Methods\nMiguel Morales explains how to combine value-based and policy-based methods, bringing together the best of both worlds, to solve challenging reinforcement learning problems.\n Deep RL for Finance (Optional)\nLearn how to apply deep reinforcement learning techniques for optimal execution of portfolio transactions.",
+        "last_updated": "2025-01-09",
+        "rating": 9.2,
+        "price": 32.29,
+        "url": "https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893_policy-based_methods"
+      },
+      {
+        "skills": [],
+        "id": 242,
+        "title": "Multi-Agent Reinforcement Learning",
+        "description": "Study Plan\nObtain helpful resources to accelerate your learning in the fourth part of the Nanodegree program.\n Introduction to Multi-Agent RL\n Case Study: AlphaZero",
+        "last_updated": "2025-01-09",
+        "rating": 9.2,
+        "price": 32.29,
+        "url": "https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893_multi-agent_reinforcement_learning"
+      },
+      {
+        "skills": [],
+        "id": 243,
+        "title": "Special Topics in Deep Reinforcement Learning (Optional)",
+        "description": "",
+        "last_updated": "2025-01-09",
+        "rating": 9.2,
+        "price": 32.29,
+        "url": "https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893_special_topics_in_deep_reinforcement_learning_(optional)"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+          "http://data.europa.eu/esco/skill/505e4ef3-7ce4-437d-b7b4-5c608f71c258"
+        ],
+        "id": 256,
+        "title": "Unsupervised Machine Learning and Recommendation Systems",
+        "description": "This course covers advanced data science topics related to unsupervised machine learning. You will apply techniques including clustering and dimensionality reduction, then learn about the different strategies for generating personalized recommendations. The final lesson of the course covers practical advice for data scientists using unsupervised models in the real world, including how to test them both \"online\" and \"offline\". For the final project, you will build a hybrid recommendation system for data science articles.",
+        "last_updated": "2025-01-07",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/experimental-design-and-recommendations--cd0019",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/experimental-design-and-recommendations--cd0019_unsupervised_machine_learning_and_recommendation_systems"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+          "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2"
+        ],
+        "id": 258,
+        "title": "Leveraging Data with AI",
+        "description": "This course is for product managers who want to build AI products. It does not require any prior familiarity with AI. You'll start by learning how AI can be applied, the different types of AI, data needs for AI, and the AI product lifecycle. Then, you'll dive deeper into two types of AI that can leverage existing datasets: personalization and forecasting. You'll learn some technical details about how these models work and how to evaluate them, and practice what you've learned with hands-on exercises. Finally, you'll pull this all together into a project where you'll develop a PRD for an AI-enabled gift recommendation system in an e-commerce setting.Using AI and Machine Learning in Business\nDiscover how AI and ML technologies can revolutionize business processes, from automating tasks to enabling smarter decision-making and innovation for a competitive edge.\n AI Personalization and Unsupervised Machine Learning\nLearn how techniques such as recommendation engines and clustering algorithms can be used to create personalized product experiences.\n Predicting the Future with AI\nThis lesson covers regressions and time series basics, how they're used in industry, and how to consider the data requirements to train these models.",
+        "last_updated": "2025-01-06",
+        "rating": 8.8,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/ai-product-manager-nanodegree--nd088",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-product-manager-nanodegree--nd088_leveraging_data_with_ai"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+          "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+          "http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213",
+          "http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669"
+        ],
+        "id": 259,
+        "title": "Bespoke Datasets for Multimodal AI Products",
+        "description": "This course is for product managers who want to build AI products that include multimodal data such as text, video, and audio. Leveraging existing data for AI applications is a great way to get started, but bespoke datasets can offer improved accuracy, domain specificity, and, ultimately, a competitive advantage. The course starts with an overview of supervised machine learning techniques, computer vision—the technology that allows computers to \"see\"—and how computer vision and supervised ML can be combined. Then, you'll learn more about how to create bespoke datasets for computer vision and other applications, and conclude with a walkthrough of the key stakeholders involved in AI product development. In the project, you'll develop a roadmap for an AI-powered video creation app.Supervised Machine Learning and Computer Vision\nDive deeper into each step of the supervised machine learning process, from data understanding to model evaluation, then learn how to combine these approaches with computer vision technology\n Data Annotation for AI Products\nLearn how data can affect the performance of an AI system and determine whether a bespoke dataset is needed, then practice developing a data annotation plan\n AI Stakeholders and Roadmaps\nCollaborate with stakeholders, enhance communication, and develop roadmaps for AI products. Develop skills in influencing without authority and the RICE prioritization framework.",
+        "last_updated": "2025-01-06",
+        "rating": 8.8,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/ai-product-manager-nanodegree--nd088",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-product-manager-nanodegree--nd088_bespoke_datasets_for_multimodal_ai_products"
+      },
+      {
+        "skills": [],
+        "id": 262,
+        "title": "Generative AI Fundamentals",
+        "description": "Dive into generative AI with this course, which explores its fundamental principles and relationship to prior artificial intelligence innovations. We will walk through popular generative models and how they work, how deep learning models are developed using tools like PyTorch and Hugging Face, and finally, how to customize pre-trained open-source models for a specific use case. In the project, you will apply a cutting-edge technique called parameter-efficient fine-tuning (PEFT), which allows for the adaptation of massive foundation models with minimal usage of computational resources.",
+        "last_updated": "2025-01-06",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/generative-ai-fundamentals--cd13303",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/generative-ai-fundamentals--cd13303_generative_ai_fundamentals"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/d38871eb-b988-495e-8fca-345677b597a8"
+        ],
+        "id": 289,
+        "title": "Estimation",
+        "description": "In this course, we will finish peeling back the layers of your autonomous flight solution. Instead of assuming perfect sensor readings, you will utilize sensor fusion and filtering. You will design an Extended Kalman Filter (EKF) to estimate attitude and position from IMU and GPS data of a flying robot.Introduction to Estimation\nReview basic probability and learn three approaches to state estimation for a stationary vehicle.\n Introduction to Sensors\nIn this lesson you'll learn about the sensors a drone uses to localize itself in the world. You'll implement sensor models, analyze sources of error, and perform calibration of various sensors.\n Extended Kalman Filters\nIn this lesson you'll learn how to estimate the state of a drone that's actually moving! You'll implement a Kalman Filter for a 1D drone and an Extended Kalman Filter for a non-linear 2D drone.\n The 3D EKF and UKF\nTake what you learned in the previous lesson and generalize to three dimensions. After learning about the 3D EKF you'll also learn another estimation algorithm called the Unscented Kalman Filter.\n Project: Estimation\nIn this project you'll implement an estimator to track the position and attitude of a quadrotor moving in three dimensions.",
+        "last_updated": "2024-12-24",
+        "rating": 9.4,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/flying-car-nanodegree--nd787",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/flying-car-nanodegree--nd787_estimation"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+          "http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213",
+          "http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669"
+        ],
+        "id": 297,
+        "title": "Bespoke Datasets for Multimodal AI Products",
+        "description": "This course is for product managers who want to build AI products that include multimodal data such as text, video, and audio. Leveraging existing data for AI applications is a great way to get started, but bespoke datasets can offer improved accuracy, domain specificity, and, ultimately, a competitive advantage. The course starts with an overview of supervised machine learning techniques, computer vision—the technology that allows computers to \"see\"—and how computer vision and supervised ML can be combined. Then, you'll learn more about how to create bespoke datasets for computer vision and other applications, and conclude with a walkthrough of the key stakeholders involved in AI product development. In the project, you'll develop a roadmap for an AI-powered video creation app.",
+        "last_updated": "2024-12-23",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/bespoke-datasets-for-multimodal-AI-products--cd13581",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/bespoke-datasets-for-multimodal-AI-products--cd13581_bespoke_datasets_for_multimodal_ai_products"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/32a2c63d-2d13-4784-abb8-678ef2cd8a46",
+          "http://data.europa.eu/esco/skill/54f78038-58a8-46cb-9633-41ade03c07b7"
+        ],
+        "id": 334,
+        "title": "Computing With Natural Language",
+        "description": "Learn advanced techniques like word embeddings, deep learning attention, and more. Build a machine translation model using recurrent neural network architectures.Introduction to Computing With Natural Language\nAn introduction of the course outline and prerequisite.\n Feature extraction and embeddings\nTransform text using methods like Bag-of-Words, TF-IDF, Word2Vec and GloVE to extract features that you can use in machine learning models.\n Topic Modeling\nIn this section, you'll learn to split a collection of documents into topics using Latent Dirichlet Analysis (LDA). In the lab, you'll be able to apply this model to a dataset of news articles.\n Sentiment Analysis\nLearn about using several machine learning classifiers, including Recurrent Neural Networks, to predict the sentiment in text. Apply this to a dataset of movie reviews.\n Sequence to Sequence\nHere you'll learn about a specific architecture of RNNs for generating one sequence from another sequence. These RNNs are useful for chatbots, machine translation, and more!\n Deep Learning Attention\nAttention is one of the most important recent innovations in deep learning. In this section, you'll learn attention, and you'll go over a basic implementation of it in the lab.\n RNN Keras Lab\nThis section will prepare you for the Machine Translation project. Here you will get hands-on practice with RNNs in Keras.",
+        "last_updated": "2024-12-18",
+        "rating": 9.0,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/natural-language-processing-nanodegree--nd892",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/natural-language-processing-nanodegree--nd892_computing_with_natural_language"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43"
+        ],
+        "id": 336,
+        "title": "Recurrent Neural Networks (NLP Elective) (Optional)",
+        "description": "Recurrent Neural Networks\nOrtal will introduce Recurrent Neural Networks (RNNs), which are machine learning models that are able to recognize and act on sequences of inputs.\n Long Short-Term Memory Networks (LSTM)\nLuis explains Long Short-Term Memory Networks (LSTM), and similar architectures which have the benefits of preserving long term memory.",
+        "last_updated": "2024-12-18",
+        "rating": 9.0,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/natural-language-processing-nanodegree--nd892",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/natural-language-processing-nanodegree--nd892_recurrent_neural_networks_(nlp_elective)_(optional)"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2"
+        ],
+        "id": 343,
+        "title": "Applying AI to 2D Medical Imaging Data",
+        "description": "Introduction to AI for 2D Medical Imaging\nIn this lesson, you will be given an introduction to this course about AI for 2D medical imaging, why AI is important and where AI fits in the space.\n Clinical Foundations of 2D Medical Imaging\nIn this lesson, we will cover clinical foundations such as clinical workflows, applications of 2D imaging in clinical settings and how machine learning impacts clinics.\n 2D Medical Imaging Exploratory Data Analysis\nIn this lesson, we will learn the DICOM standard in medical imaging, and how to explore medical imaging data and prepare it for machine learning applications.\n Classification Models of 2D Medical Images\nIn this lesson, we'll dive deep into classification tasks for 2D medical imaging using different machine learning models. and we will talk about pre-process data, train, test, and validate models.\n Translating AI Algorithms for Clinical Settings with the FDA\nIn this lesson, you will learn about how your work fits into the bigger picture, and how it’s regulated by the FDA, which is an often-overlooked, but incredibly important.",
+        "last_updated": "2024-12-18",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/ai-for-healthcare-nanodegree--nd320",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-for-healthcare-nanodegree--nd320_applying_ai_to_2d_medical_imaging_data"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/1859883d-c047-4fe1-8e74-7bb4385d6ad2",
+          "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+          "http://data.europa.eu/esco/skill/d0a7144b-ba91-4489-acb8-a055c6b7e968",
+          "http://data.europa.eu/esco/skill/ef539e4d-8907-4a88-b2f7-8f8fa95e3117"
+        ],
+        "id": 344,
+        "title": "Applying AI to 3D Medical Imaging Data",
+        "description": "Introduction to AI for 3D Medical Imaging\nIn this lesson, we will introduce the course and instructors. We will give you an overview of the context for AI in 3D medical imaging space, and cover the objectives of the course.\n 3D Medical Imaging - Clinical Fundamentals\nIn this lesson, we cover the basic terminology and concepts related to 3D medical imaging. We will look at the problem space from a clinical standpoint and learn how CT and MR scanners produce images.\n 3D Imaging Exploratory Data Analysis\nIn this lesson, we will dive deeper into medical imaging formats NIFTI and DICOM, how scanner data is represented, and how to read medical volumes stored in these files and analyze them.\n 3D Medical Imaging - End-to-End Deep Learning Applications\nIn this lesson, we cover the basics of building deep neural networks for 3D medical imaging (mostly segmentation & classification) and performance evaluation from a software and clinical perspective.\n Deploying AI Algorithms in Real World Scenarios\nIn this lesson, we'll talk about clinical networks, architecture, and AI deployment, tools and their use by data scientists and clinicians, as well as medical device regulation and data privacy.",
+        "last_updated": "2024-12-18",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/ai-for-healthcare-nanodegree--nd320",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-for-healthcare-nanodegree--nd320_applying_ai_to_3d_medical_imaging_data"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/5cd1930c-278d-4929-b413-27352f5b3687",
+          "http://data.europa.eu/esco/skill/adcca622-b933-4ba3-bc43-bf371879edc3"
+        ],
+        "id": 345,
+        "title": "Applying AI to EHR Data",
+        "description": "With the transition to electronic health records (EHR) over the last decade, the amount of EHR data has increased exponentially, providing an incredible opportunity to unlock this data with AI to benefit the healthcare system. Learn the fundamental skills of working with EHR data in order to build and evaluate compliant, interpretable machine learning models that account for bias and uncertainty using cutting-edge libraries and tools including Tensorflow Probability, Aequitas, and Shapley. Understand the implications of key data privacy and security standards in healthcare. Apply industry code sets, transform datasets at different EHR data levels, and use Tensorflow to engineer features.Applying AI to EHR Data Introduction\nThis lesson will provide you with an Introduction to the EHR Data course outline, content, as well as introduce you to your instructor.\n EHR Data Security and Analysis\nIn this lesson, you will learn about the importance of data security and the different standards that apply to EHR, as well as analyzing EHR data.\n EHR Code Sets\nIn this lesson you will learn how to work with different EHR codes and how to map them properly to records.\n EHR Transformations & Feature Engineering\nIn this lesson, you'll gain skills in feature engineering and transformation of EHR.\n Building, Evaluating and Interpreting Models\nIn this final lesson, you'll be putting all of your skills together to build, evaluate and interpret ML models for Bias and Uncertainty.",
+        "last_updated": "2024-12-18",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/ai-for-healthcare-nanodegree--nd320",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-for-healthcare-nanodegree--nd320_applying_ai_to_ehr_data"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/292549e6-08ec-456c-b008-eba7a0a68428",
+          "http://data.europa.eu/esco/skill/875217fb-fe22-4c2c-adf4-b57f2052626a"
+        ],
+        "id": 349,
+        "title": "Predictive Data Analysis",
+        "description": "Develop the skills to make data-driven predictions with confidence. Using Power BI Desktop, you’ll dive into essential tools for predictive analysis, mastering techniques like classification, regression, and forecasting. With a hands-on approach and varied datasets, you’ll gain practical experience that brings predictive data analysis to life, preparing you to tackle real-world challenges. Learn to uncover patterns and insights that reveal future risks, analyze different market trends, and support critical decision-making within any organization. By the end, you’ll be ready to turn raw data into actionable insights, empowering you to guide strategic actions that make an impact in any enterprise setting.Introduction to Predictive Data Analytics\nThis lesson will introduce predictive analytics concepts and a general overview of when to use it in your organization. We will also review the project and the primary tool we will use: Power BI.\n Regression\nWe will review one Machine Learning technique that involves numeric data: Regression. We will learn about its main features, how to interpret it and how to construct it using Power BI.\n Classification and Clustering\nWe will learn additional ML techniques: Classification and Clustering. We will review its main features, some clustering techniques, how to interpret them and how to construct clusters with Power BI.\n Time-Series Forecasting\nWe will review what a time-series is. Also, we will review deterministic and probabilistic forecasting methods, how to read and interpret time-series and how to create forecasts using Power BI.\n Additional Tools and Techniques\nWe will review additional ML and AI-powered tools using Power BI: we will focus on Power BI dataflows and its AutoML features and use two AI-powered visuals: the Q&A and the smart narratives.\n Commercial Flight Analysis in the State of New York\nIn this project, students will use the data of past flights departing from the State of New York to analyze and give recommendations about flight delays.",
+        "last_updated": "2024-12-18",
+        "rating": null,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/business-intelligence-analytics-nanodegree--nd429",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/business-intelligence-analytics-nanodegree--nd429_predictive_data_analysis"
+      },
+      {
+        "skills": [],
+        "id": 362,
+        "title": "After the AI Nanodegree Program",
+        "description": "Once you've completed the last project, review the information here to discover resources for you to continue learning and practicing AI.",
+        "last_updated": "2024-12-18",
+        "rating": 9.0,
+        "price": 32.29,
+        "url": "https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898_after_the_ai_nanodegree_program"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/2dfa5bd5-c87c-461c-bce9-69b2c58732bd"
+        ],
+        "id": 367,
+        "title": "Advanced Android Apps with Kotlin - Part 2",
+        "description": "Wandering in Google maps with Kotlin\nLearn how to use maps\n Virtual Treasure Hunt with Geofences\nLearn how to use Geofences and create a virtual treasure hunt app\n Testing: Basics\nLearn the basics of testing.\n Testing: Intro to Test Doubles & Dependency Injection\nLearn how to use Test Doubles, Dependency Injections, and Espresso to test your app.\n Testing: Survey of Advanced Topics\nLearning how to Navigation Testing, Coroutines, Room, Databinding, and End to End Tests.\n Implementing Login on Android with FirebaseUI\nLearn how to implement login for your Android app using the FirebaseUI open-source library.",
+        "last_updated": "2024-12-18",
+        "rating": 9.4,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940_advanced_android_apps_with_kotlin_-_part_2"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0c15aa34-6977-4da7-b1f0-2ba6a582ef1b",
+          "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b"
+        ],
+        "id": 377,
+        "title": "Clean Code Principles",
+        "description": "Develop skills that are essential for deploying production machine learning models. First, you will put your coding best practices on auto-pilot by learning how to use PyLint and AutoPEP8. Then you will further expand your git and Github skills to work with teams. Finally, you will learn best practices associated with testing and logging used in production settings in order to ensure your models can stand the test of time.Introduction\nGet introduced to clean code principles, why and when to use them, and the history of clean code. Then, see what you'll be able to build by the end of the course!\n Coding Best Practices\nLearn coding best practices, such as clean and modular code, code efficiency, refactoring, documentation, and linting.\n Working with Others Using Version Control\nVersion control is crucial for any coding project, but becomes even more important when working in teams. Another new area in working with teams is the code review, which you'll also learn about here.\n Production Ready Code\nFind more coding best practices here, such as handling errors, testing and logging, as well as addressing model drift in machine learning models.",
+        "last_updated": "2024-12-18",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821_clean_code_principles"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/c3404999-faaa-4779-9cbf-e594b9c4d3b6",
+          "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389"
+        ],
+        "id": 378,
+        "title": "Building a Reproducible Model Workflow",
+        "description": "This course empowers the students to be more efficient, effective, and productive in modern, real-world ML projects by adopting best practices around reproducible workflows. In particular, it teaches the fundamentals of MLops and how to: a) create a clean, organized, reproducible, end-to-end machine learning pipeline from scratch using MLflow b) clean and validate the data using pytest c) track experiments, code, and results using GitHub and Weights & Biases d) select the best-performing model for production and e) deploy a model using MLflow. Along the way, it also touches on other technologies like Kubernetes, Kubeflow, and Great Expectations and how they relate to the content of the class.Introduction to Reproducible Model Workflows\nDive into reproducible model workflows and machine learning operations, learning about use cases, its history, and what you'll build at the end of the course.\n Machine Learning Pipelines\nBuild out machine learning pipelines, as well as learning how to version data and model artifacts.\n Data Exploration and Preparation\nCome up with re-usable processes for performing exploratory data analysis (EDA), cleaning and pre-processing data, and segregating/splitting data.\n Data Validation\nValidate data through deterministic and non-deterministic testing, and look at handling different parameters with PyTest.\n Training, Validation and Experiment Tracking\nWrite an inference pipeline, validate and choose your best performing models from experiments, and test your final model artifacts.\n Final Pipeline, Release and Deploy\nWrite a full end-to-end pipeline, release the pipeline, and deploy with MLflow.",
+        "last_updated": "2024-12-18",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821_building_a_reproducible_model_workflow"
+      },
+      {
+        "skills": [],
+        "id": 379,
+        "title": "Deploying a Scalable ML Pipeline in Production",
+        "description": "This course teaches students how to robustly deploy a machine learning model into production. En route to that goal students will learn how to put the finishing touches on a model by taking a fine grained approach to model performance, checking bias, and ultimately writing a model card. Students will also learn how to version control their data and models using Data Version Control (DVC). The last piece in preparation for deployment will be learning Continuous Integration and Continuous Deployment which will be accomplished using GitHub Actions and Heroku, respectively. Finally, students will learn how to write a fast, type-checked, and auto-documented API using FastAPI.Introduction to Deploying a Scalable ML Pipeline in Production\nWe'll introduce you to the course concepts of operationalizing our model, focusing on the ecosystem surrounding that model to successfully deploy it, and easily maintain it in production.\n Performance Testing and Preparing a Model for Production\nIn this lesson, we will cover performance testing and preparing a model for production.\n [Optional] Data and Model Versioning\nIn this lesson, we will review git and then delve into Data Version Control (DVC) and the concepts of data provenance.\n CI/CD\nWe cover the software engineering principles of automation, testing, and versioning. We put these into action using Continuous Integration and Continuous Delivery with Heroku and Github Actions.\n API Deployment with FastAPI\nDelve into FastAPI which leverages type hints to build a robust and self-documenting REST API. First, build out our API locally, test it, and the deploy to Heroku where you'll test it again live.",
+        "last_updated": "2024-12-18",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821_deploying_a_scalable_ml_pipeline_in_production"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+          "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+          "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4"
+        ],
+        "id": 380,
+        "title": "ML Model Scoring and Monitoring",
+        "description": "This course will help students automate the devops processes required to score and re-deploy ML models. Students will automate model training and deployment. They will set up regular scoring processes to be performed after model deployment, and also learn to reason carefully about model drift, and whether models need to be retrained and re-deployed. Students will learn to diagnose operational issues with models, including data integrity and stability problems, timing problems, and dependency issues. Finally, students will learn to set up automated reporting with API’s.Welcome to ML Model Scoring and Monitoring\nThis lesson will talk about goals for the course, when to use ML model scoring and monitoring, stakeholders, the history of the field, and the tools and dependencies you need to be aware of.\n Model Training and Deployment\nThis lesson will talk about model training and deployment. We’ll focus on automating the training and deployment process and making sure that the trained, deployed models are ready to be monitored.\n Model Scoring and Model Drift\nThis lesson will discuss model scoring and model drift, an important part of the continuous monitoring that makes sure your deployed model remains as accurate as possible.\n Diagnosing and Fixing Operational Problems\nThere are problems that can come up in deployed projects. So this lesson will talk about diagnosing and fixing operational problems, a crucial part of the post-deployment machine learning process.\n Model Reporting and Monitoring with API's\nThis lesson will discuss model reporting and monitoring with APIs which can be used as an automatic interface with your ML project.",
+        "last_updated": "2024-12-18",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821_ml_model_scoring_and_monitoring"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/02e22093-3436-46a8-8dc5-b041bc4800cc",
+          "http://data.europa.eu/esco/skill/2e6379be-59ad-414a-8d81-68102b6b77b1",
+          "http://data.europa.eu/esco/skill/c3404999-faaa-4779-9cbf-e594b9c4d3b6"
+        ],
+        "id": 382,
+        "title": "Using Azure Machine Learning",
+        "description": "Machine learning is a critical business operation for many organizations. Learn how to configure machine learning pipelines in Azure, identify use cases for Automated Machine Learning, and use the Azure ML SDK to design, create, and manage machine learning pipelines in Azure.Introduction to Azure ML\nIn this lesson, we'll look at an overview of the course, look ahead to your final project, and discuss some of the reasons why—and when—you would want to do Machine Learning in the cloud.\n Workspaces and the AzureML Studio\nIn this lesson, we'll learn how workspaces and AzureML studio enable you to be more productive as a data scientist or ML engineer.\n Datastores and Datasets\nDatastores and Datasets are a critical component of cloud computing. We'll learn how to integrate third party datasets and open datasets into our ML pipeline to quickly develop working solutions.\n Training Models in Azure ML\nWe'll learn how to manage pipelines and use hyperparameters in experiments, as well as how to automate changes that create huge value in terms of prediction accuracy.\n The AzureML SDK\nIn this lesson, we'll cover how the Azure ML SDK allows us to programmatically create and manage pipelines. We'll see that this approach makes pipeline creation and management a reproducible process.\n Automated ML and Hyperparameter Tuning\nWe'll discuss how we can use the Azure ML SDK to do automated ML and create models more quickly and accurately. We'll also have a look at how we can make we can make our models easier to interpret.",
+        "last_updated": "2024-12-18",
+        "rating": 8.2,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333_using_azure_machine_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/c3404999-faaa-4779-9cbf-e594b9c4d3b6"
+        ],
+        "id": 383,
+        "title": "Machine Learning Operations",
+        "description": "This course covers a lot of the key concepts of operationalizing Machine Learning, from selecting the appropriate targets for deploying models, to enabling Application Insights, identifying problems in logs, and harnessing the power of Azure’s Pipelines. All these concepts are part of core DevOps pillars that will allow you to demonstrate solid skills for shipping machine learning models into production.Introduction to Azure ML\nThis is a welcome lesson. In this lesson, you will get an overview of the course\n Deploy a Model\nIn this lesson, you will learn about how to authorize operations for machine learning and deploy machine learning models to Azure.\n Consume Endpoints\nIn this lesson, you will learn about how to consume deployed service and load-test the endpoint.\n Pipeline Automation\nIn this lesson, you will learn how to create a batch inference pipeline, publish a pipeline and consume the pipeline endpoint.",
+        "last_updated": "2024-12-18",
+        "rating": 8.2,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333_machine_learning_operations"
+      },
+      {
+        "skills": [],
+        "id": 384,
+        "title": "Capstone - Azure Machine Learning Engineer",
+        "description": "This capstone project gives you the opportunity to use the Azure Machine learning knowledge you have obtained from this Nanodegree to solve the problem of your interest.",
+        "last_updated": "2024-12-18",
+        "rating": 8.2,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333_capstone_-_azure_machine_learning_engineer"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79",
+          "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+          "http://data.europa.eu/esco/skill/457c2e47-07e6-4073-827e-e1c21f3e5869"
+        ],
+        "id": 385,
+        "title": "Introduction to Machine Learning",
+        "description": "Gain foundational machine learning expertise using AWS SageMaker, from data preparation and exploratory analysis to deploying powerful models like XGBoost and AutoGluon. Covering the entire ML workflow, including feature engineering, model tuning, and evaluation, you'll gain practical experience with real-world data projects. Designed for those familiar with Python and data science basics, the curriculum equips you to handle diverse ML tasks confidently and effectively, making it ideal for anyone looking to apply machine learning in various professional and industry settings.Introduction to Machine Learning\nOverview of key background around Machine Learning and preparing you to be successful in the rest of this course.\n Exploratory Data Analysis\nUse AWS SageMaker Studio to access S3 datasets and perform data analysis, feature engineering with Data Wrangler and Pandas. And finally label new data using SageMaker Ground Truth.\n Machine Learning Concepts\nIn this lesson you'll learn about ML Lifecycles, how to differentiate between supervised vs. unsupervised ML, regression methods, and classification methods.\n Model Deployment Workflow\nIn this lesson you'll load a dataset, clean/create features, train a regression/classification model with scikit learn, evaluate a model and tune a model's hyperparameter.\n Algorithms and Tools\nIn this lesson you'll train, test, and optimize on liner, tree-based, XGBoost, and AutoGluon Tabular models. And you will also create a model using SageMaker Jumpstart",
+        "last_updated": "2024-12-18",
+        "rating": 9.4,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189_introduction_to_machine_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+          "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284"
+        ],
+        "id": 386,
+        "title": "Developing your First ML Workflow",
+        "description": "This course discusses how to use AWS services to train a model, deploy a model, and how to use AWS Lambda Functions, Step Functions to compose your model and services into an event-driven application.Introduction to Developing ML Workflows\nThis lesson gives an introduction to the course, including prerequisites, final project, stakeholders, and tools & environment.\n SageMaker Essentials\nThis lesson will go over SageMaker essential services such as training jobs, endpoints, batch transforms, and processing jobs.\n Designing Your First Workflow\nThis lesson will discuss machine learning workflows and AWS tools such as Lambda, Step Function for building a workflow.\n Monitoring a ML Workflow\nThis lesson will go over monitoring a machine learning workflow and some useful services within AWS to help you monitoring the healthy of data and machine learning models.",
+        "last_updated": "2024-12-18",
+        "rating": 9.4,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189_developing_your_first_ml_workflow"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/02e22093-3436-46a8-8dc5-b041bc4800cc",
+          "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604",
+          "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+          "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+          "http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669",
+          "http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080",
+          "http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a"
+        ],
+        "id": 387,
+        "title": "Deep Learning Topics with Computer Vision and NLP",
+        "description": "In this course you will learn how to train, finetune and deploy deep learning models using Amazon SageMaker. You’ll begin by learning what deep learning is, where it is used, and the tools used by deep learning engineers. Next we will learn about artificial neurons and neural networks and how to train them. After that we will learn about advanced neural network architectures like Convolutional Neural Networks and BERT as well as how to finetune them for specific tasks. Finally, you will learn about Amazon SageMaker and you will take everything you learned and do them in SageMaker Studio.Introduction to Deep Learning Topics within Computer Vision and NLP\nIn this lesson, we will give a background around Deep Learning for Computer Vision and NLP and preparing you to be successful in the rest of this course.\n Introduction to Deep Learning\nIn this lesson, you will learn about neural networks, cost functions, optimization, and how to train a neural network.\n Common Model Architecture Types and Fine-Tuning\nIn this lesson you will learn about Model Architectures, Convolutions, and Fine-tuning.\n Deploy Deep Learning Models on SageMaker\nIn this lesson, you will learn how to apply all you have learned about deep learning in AWS SageMaker.",
+        "last_updated": "2024-12-18",
+        "rating": 9.4,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189_deep_learning_topics_with_computer_vision_and_nlp"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/54f78038-58a8-46cb-9633-41ade03c07b7",
+          "http://data.europa.eu/esco/skill/9da7bfb1-9e1a-46de-8374-dac1a7cfa86c"
+        ],
+        "id": 388,
+        "title": "Operationalizing Machine Learning on SageMaker",
+        "description": "This course covers advanced topics related to deploying professional machine learning projects on SageMaker. Students will learn how to maximize output while decreasing costs. They will also learn how to deploy projects that can handle high traffic, how to work with especially large datasets, and how to approach security in machine learning AWS applications.Introduction to Operationalizing Machine Learning on SageMaker\nIn this introductory lesson, we will give you a course overview of topics and design. We will also introduce what exactly operationalizing machine learning means as well as how it applies.\n Manage compute resources in AWS accounts to ensure efficient utilization\nThis lesson is about managing computing resources effectively. We’ll talk about lowering costs and getting more with less.\n Train models on large-scale datasets using distributed training\nThis lesson is about training models on large datasets. We’ll talk about distributed models, distributed data, and some skills related to distributed training.\n Construct pipelines for high throughput, low latency models\nThis lesson is about high throughput, low latency models. Essentially, this means that we’ll be talking about preparing your projects to deal with high traffic and minimal time delays.\n Design Secure Machine Learning Projects in AWS\nOur final lesson is about security. Security is crucial for all major machine learning projects, so these skills can be very helpful in your career.",
+        "last_updated": "2024-12-18",
+        "rating": 9.4,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189_operationalizing_machine_learning_on_sagemaker"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0ee7b0d6-db98-4785-9948-f2ef415d155a"
+        ],
+        "id": 389,
+        "title": "Capstone Build Your Own Machine Learning Portfolio",
+        "description": "Machine Learning Engineer Capstone Project\nPut your Machine Learning Engineer skills to the test by solving a real-world problem using all that you have learned throughout the program.\n Capstone Proposal\nSubmit a Project Proposal for the Project that you selected.",
+        "last_updated": "2024-12-18",
+        "rating": 9.4,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189_capstone_build_your_own_machine_learning_portfolio"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/4754d9fe-dc3a-4f8f-8ea6-5dbcea3a21ca",
+          "http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669"
+        ],
+        "id": 399,
+        "title": "Computer Vision and Machine Learning",
+        "description": "In this course you’ll learn how a computer sees an image, and how we can use machine learning to teach a computer to identify images programmatically.Computer Vision and Classification\nStudents will learn how to program an image classifier using computer vision techniques. Along the way you'll learn about machine learning, color transformation, feature extraction, and more!",
+        "last_updated": "2024-12-18",
+        "rating": 9.2,
+        "price": 32.29,
+        "url": "https://www.udacity.com/course/intro-to-self-driving-cars--nd113",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-self-driving-cars--nd113_computer_vision_and_machine_learning"
+      },
+      {
+        "skills": [],
+        "id": 400,
+        "title": "Introduction to Deep Learning",
+        "description": "This course covers foundational deep learning theory and practice. We begin with how to think about deep learning and when it is the right tool to use. The course covers the fundamental algorithms of deep learning, deep learning architecture and goals, and interweaves the theory with implementation in PyTorch.Introduction to Deep Learning\nMeet your instructor, get an overview of the course, and find a few interesting resources in this introductory lesson.\n Deep Learning\nThis introductory lesson on Deep Learning covers how experts think about deep learning and how to know when deep learning is the right tool for the job, including some examples.\n Minimizing Error Function with Gradient Descent\nBeginning with PyTorch and moving into both Error Functions, Gradient Descent, and Backpropagation, this lesson provides an overview of foundational neural network concepts.\n Intro to Neural Networks\nThis introduction to neural networks explains how algorithms inspired by the human brain operate and puts to use those concepts when designing a neural network to solve particular problems.\n Training Neural Networks\nLearn how to train neural networks and avoid overfitting or underfitting by employing techniques like Early Stopping, Regularization, Dropout, Local Minima, and Random Restart!",
+        "last_updated": "2024-12-18",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/deep-learning-nanodegree--nd101",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/deep-learning-nanodegree--nd101_introduction_to_deep_learning"
+      },
+      {
+        "skills": [],
+        "id": 401,
+        "title": "Convolutional Neural Networks",
+        "description": "This course introduces Convolutional Neural Networks, the most widely used type of neural networks specialized in image processing. You will learn the main characteristics of CNNs that make them so useful for image processing, their inner workings, and how to build them from scratch to complete image classification tasks. You will learn what are the most successful CNN architectures, and what are their main characteristics. You will apply these architectures to custom datasets using transfer learning. You will also learn about autoencoders, a very important architecture at the basis of many modern CNNs, and how to use them for anomaly detection as well as image denoising. Finally, you will learn how to use CNNs for object detection and semantic segmentation.Introduction to CNNs\nIn this lesson we will look at the main applications of CNNs, understand professional roles involved in the development of a CNN-based application, and learn about the history of CNNs.\n CNN Concepts\nIn this lesson we will recap how to use a Multi-Layer Perceptron for image classification, understand the limitations of this approach, and learn how CNNs can overcome these limitations.\n CNNs in Depth\nIn this lesson we will study in depth the basic layers used in CNNs, build a CNN from scratch in PyTorch, use it to classify images, improve its performance, and export it for production.\n Transfer Learning\nIn this lesson we will learn about key CNN architectures and their innovations, and apply multiple ways of adapting them to our use cases with transfer learning.\n Autoencoders\nIn this lesson we will design and train linear and CNN-based autoencoders for anomaly detection and for image denoising.\n Object Detection and Segmentation\nIn this lesson we will study applications of CNNs beyond image classification. We will train and evaluate an object detection model as well as a semantic segmentation model on custom datasets.",
+        "last_updated": "2024-12-18",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/deep-learning-nanodegree--nd101",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/deep-learning-nanodegree--nd101_convolutional_neural_networks"
+      },
+      {
+        "skills": [],
+        "id": 403,
+        "title": "Building Generative Adversarial Networks",
+        "description": "Learn to understand and implement a Deep Convolutional GAN (generative adversarial network) to generate realistic images, with Ian Goodfellow, the inventor of GANs, and Jun-Yan Zhu, the creator of CycleGANs.Introduction to Generative Adversarial Networks\nIntroduction to this course, prerequisites, and your course instructor.\n Generative Adversarial Networks\nIan Goodfellow, the inventor of GANs, introduces you to these exciting models. You'll also implement your own GAN on the MNIST dataset.\n Training a Deep Convolutional GANs\nIn this lesson, you'll implement a Deep Convolution GAN to generate complex color images.\n Image to Image Translation\nJun-Yan Zhu, one of the creators of the CycleGAN, will lead you through Pix2Pix and CycleGAN formulations that learn to do image-to-image translation tasks.\n Modern GANs\nIn this lesson, you will implement more advanced GAN architectural techniques that have had a significant impact on the realism of generated images.",
+        "last_updated": "2024-12-18",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/deep-learning-nanodegree--nd101",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/deep-learning-nanodegree--nd101_building_generative_adversarial_networks"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/4c864bcd-d786-4d6c-ae17-aa0310c9f1a5",
+          "http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec"
+        ],
+        "id": 412,
+        "title": "Building Computer Vision Solutions with Azure",
+        "description": "This course is designed for anyone who would like to use computer vision technology in their application to solve a business problem. You will begin by learning what computer vision is and its business use cases through real-life business use cases. You will then learn to create solutions using different types of vision-based Azure Cognitive Services, including Azure Form Recognizer for text extraction, Azure Face and Video Analyzer for facial detection and recognition, and Azure Computer Vision and Custom Vision for image classification and object detection. Finally, you will learn and apply the deployment and monitoring tools to ensure that your solution is complete and runs smoothly.Introduction to Building Computer Vision Solutions with Azure\nIn this lesson, you will learn why computer vision is important, among other foundational topics. You will get an overview of what we will cover in this course.\n Design Computer Vision Applications\nIn this lesson, you will learn about the business and technical considerations of computer vision applications and solutions. This lesson provides the fundamentals for you to get started.\n Extracting Text from Digital Content\nIn this lesson, you will apply computer vision technology to extract text from various kinds of digital images & documents using specialized Azure Cognitive Services.\n Image Classification\nThe best business use cases of AI are in image classification and object detection solutions, and this lesson gives you a head start on how to implement these with the Azure Custom Vision service.\n Object Detection & Spatial Analysis\n Solutions Deployment & Monitoring\nThis lesson provides the operational knowledge on how to deploy and manage your computer vision solutions at Azure to make sure they are running smoothly to produce results.\n Automated Passenger Boarding Kiosk\nIn this project, you will build an automated passenger boarding kiosk. Your objective will be to perform various validation processes and confirm if a given passenger can board the plane or not.",
+        "last_updated": "2024-12-17",
+        "rating": 6.6,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/ai-engineer-using-microsoft-azure--nd073",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-engineer-using-microsoft-azure--nd073_building_computer_vision_solutions_with_azure"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0d168770-4d9c-4096-b048-a6577818d306",
+          "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+          "http://data.europa.eu/esco/skill/3d957fb2-b8f4-4b4c-b955-23299c761ad5"
+        ],
+        "id": 419,
+        "title": "Spring Boot Basics [Java]",
+        "description": "Learn the fundamentals of Java while being introduced to a Spring Boot framework and associated integrations and plugins.Introduction to Spring Boot\nIn this lesson, you will meet your instructor, learn about the prerequisites, and discuss what web development is and how it has been accomplished.\n Web Development in Java\nIn this lesson, we're going to take a look at the structure of web applications in Java, Spring's role in web development, and the use of Maven as a dependency management tool.\n Spring Boot Basics for Web Development\nIn this lesson, we'll be learning how Spring framework operates and how to integrate with it to build flexible, maintainable application components.\n Spring MVC and Thymeleaf\nIn this lesson, we're going to learn how to build web sites with Spring! We'll be using Spring MVC and Thymeleaf.\n Data Persistence & Security\nIn this lesson, we will explore connecting our Spring Boot applications to SQL databases and the benefits of persistent data. We'll be using MyBatis and Spring Security!\n Testing\nIn this lesson, you'll learn how to use Selenium, write tests with JUnit, and integrate Selenium in order to test complex, multi-action user stories.",
+        "last_updated": "2024-12-17",
+        "rating": 9.2,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/java-developer-nanodegree--nd035",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/java-developer-nanodegree--nd035_spring_boot_basics_[java]"
+      }
+    ],
+    "count": 1626
+  }
+}

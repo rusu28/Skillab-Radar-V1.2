@@ -1,0 +1,1498 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "https://skillab-tracker.csd.auth.gr/api/courses",
+    "params": {
+      "page": 3,
+      "page_size": 300
+    },
+    "data": {
+      "keywords": [
+        "software",
+        "developer",
+        "python",
+        "data"
+      ],
+      "keywords_logic": "or"
+    }
+  },
+  "response": {
+    "items": [
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+          "http://data.europa.eu/esco/skill/f0699875-51da-48d2-bc92-54b0749baef1"
+        ],
+        "id": 407,
+        "title": "Azure Performance",
+        "description": "Introduction to Azure Performance\nWe're going to introduce you to the Azure Performance course by going over the prerequisites, business stakeholders, course outline, the tools needed, and finally - the project!\n Application Insights\nBuild a foundation by setting up Application Insights for a few types of Azure resources. We'll also use the Application Insights SDK in a Python application.\n Application Analytics\nLearn about creating an Azure log analytics resource and log ingestion. Find only the logs you need, and how to display the results in a chart.\n Azure Management\nMaking Azure work for you! Creat an automation account, setting up autoscaling rules for a VM Scale set, and make a Runbook to automate the process.",
+        "last_updated": "2024-12-17",
+        "rating": 8.6,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/cloud-developer-using-microsoft-azure-nanodegree--nd081",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cloud-developer-using-microsoft-azure-nanodegree--nd081_azure_performance"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+          "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+          "http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82",
+          "http://data.europa.eu/esco/skill/ef30e7f8-1ef0-4a6f-87ac-d6a701125305"
+        ],
+        "id": 409,
+        "title": "Java Fundamentals",
+        "description": "In order to be a great Java developer you must first learn the fundamentals of Java. This course introduces the fundamental concepts and practices of Java programming. These include basic Object-oriented Programming (OOP) concepts such as classes, encapsulation and inheritance, as well as core Java concepts such as collections, exceptions and commonly used Java types.Introduction to Java\nIn this lesson, we'll cover some fundamentals—such as why you would want to learn Java, and what prerequisites you'll need to succeed in the course.\n Java Programing Basics\nThis lesson covers all the major building blocks we need to create a simple Java app, including keywords, variables, loops, methods, access modifiers, arrays, and Javadoc.\n Defining Classes\nIn this lesson, we'll learn about what an object is, what a class is, and how we can create (or instantiate) objects from classes.\n Object-Oriented Programming\nIn this lesson, we'll go deeper into objects and classes and learn about some of the advanced concepts of object-oriented programming, including inheritance and polymorphism.\n Common Types\nWe'll learn about some of the important class types provided by the Java API, including Exceptions, Enums, RegEx, Dates and Calendar, and advanced String features.\n Generics and Collections\nWorking with multiple types can introduce some challenges. In this lesson we'll learn how two tools—generics and collections—can help us address these challenges and make our code type safe.\n Advanced Collections\nIn this lesson we'll learn about maps, sets and queues. Each of these provides a uniquely powerful data structure that, when used correctly, can solve complex problems efficiently.",
+        "last_updated": "2024-12-17",
+        "rating": 9.0,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/java-programming-nanodegree--nd079",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/java-programming-nanodegree--nd079_java_fundamentals"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+          "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+          "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+          "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+          "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc"
+        ],
+        "id": 410,
+        "title": "Advanced Java Programming Techniques",
+        "description": "The best Java programs combine excellent software designs with modern language features. This course will teach you some lesser known features of Java, such as functional programming, I/O, serialization, and reflection. Strengthen your software design intuition by exploring the design ideas that underpin understandable, extensible and scalable software systems. Learn the basic concepts and techniques of concurrent programming in Java, so your programs can take advantage of modern, multi-core hardware.Introduction to Advanced Java Programming Techniques\nIn this lesson, you'll be introduced to the course and what to expect!\n Functional Programming in Java\nIn this lesson, you'll learn how to implement lambdas, functional interfaces, and other Java functional programming tools.\n Working with Files & I/O\nIn this lesson, you'll learn how to use files and streams in Java.\n Design Patterns\nIn this lesson, you'll learn about common design patterns and when to use them.\n Reflection\nIn this lesson, you'll learn reflection, the ability of a program to examine its own structure at runtime.\n Introduction to Concurrent Programming\nIn this lesson, you'll be introduced to concurrency and threading in Java.",
+        "last_updated": "2024-12-17",
+        "rating": 9.0,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/java-programming-nanodegree--nd079",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/java-programming-nanodegree--nd079_advanced_java_programming_techniques"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "id": 414,
+        "title": "Knowledge Mining With Azure AI Search",
+        "description": "In this course, you'll learn how to build end-to-end solutions with Azure Cognitive Search. You'll learn how to import data into Cognitive Search, enrich data using built-in and custom skills, and consume data from Cognitive Search in your applications.Introduction to Knowledge Mining with Azure\nWelcome to the course! In this lesson, we'll cover the course prerequisites and environment, and introduce Azure Cognitive Search solutions.\n Designing an Azure AI Search Solution\nIn this lesson, you'll learn about defining requirements and designing Cognitive Search solutions\n Importing Data into Azure AI Search\nIn this lesson, you'll import data into Azure Cognitive Search and learn how to configure Indexes, Indexers, and Enrichments.\n Enriching Data in Azure AI Search\nIn this lesson, you'll learn about enriching data and creating skills and skillsets in Azure Cognitive Search\n Consuming Azure AI Search in an External Application\nIn this lesson, you'll learn how to consume Azure Cognitive Search in external applications and monitor the performance of solutions",
+        "last_updated": "2024-12-17",
+        "rating": 6.6,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/ai-engineer-using-microsoft-azure--nd073",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-engineer-using-microsoft-azure--nd073_knowledge_mining_with_azure_ai_search"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0d168770-4d9c-4096-b048-a6577818d306",
+          "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+          "http://data.europa.eu/esco/skill/3d957fb2-b8f4-4b4c-b955-23299c761ad5"
+        ],
+        "id": 419,
+        "title": "Spring Boot Basics [Java]",
+        "description": "Learn the fundamentals of Java while being introduced to a Spring Boot framework and associated integrations and plugins.Introduction to Spring Boot\nIn this lesson, you will meet your instructor, learn about the prerequisites, and discuss what web development is and how it has been accomplished.\n Web Development in Java\nIn this lesson, we're going to take a look at the structure of web applications in Java, Spring's role in web development, and the use of Maven as a dependency management tool.\n Spring Boot Basics for Web Development\nIn this lesson, we'll be learning how Spring framework operates and how to integrate with it to build flexible, maintainable application components.\n Spring MVC and Thymeleaf\nIn this lesson, we're going to learn how to build web sites with Spring! We'll be using Spring MVC and Thymeleaf.\n Data Persistence & Security\nIn this lesson, we will explore connecting our Spring Boot applications to SQL databases and the benefits of persistent data. We'll be using MyBatis and Spring Security!\n Testing\nIn this lesson, you'll learn how to use Selenium, write tests with JUnit, and integrate Selenium in order to test complex, multi-action user stories.",
+        "last_updated": "2024-12-17",
+        "rating": 9.2,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/java-developer-nanodegree--nd035",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/java-developer-nanodegree--nd035_spring_boot_basics_[java]"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+          "http://data.europa.eu/esco/skill/8c4b7305-4b83-4586-9d42-2817f96c60ea",
+          "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+          "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+          "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+          "http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42"
+        ],
+        "id": 420,
+        "title": "Web Services and APIs",
+        "description": "Explore the differences between web services, APIs, and microservices. Develop REST and GraphQL APIs, and learn how to secure, consume, document, and test those APIs and web services.Overview\nFirst, meet your instructor Kesha and learn about the course. Then, learn a brief overview of web services and how they compare to APIs and microservices.\n REST APIs\nLearn how to build RESTful APIs with Spring Boot, first by learning about the REST architecture, then how to use annotations with REST controllers in Spring Boot.\n GraphQL APIs\nDive into GraphQL, a query language for APIs. GraphQL lets calling clients limit the data response to just what is needed.\n Microservices\nFind out how Microservices improve on the older monolithic application structure, including how to use Eureka and Spring Data REST for easy development and deployment.\n Security\nSecurity is key to keeping your information safe - here, you'll learn how to add security to your APIs to keep out unwanted eyes and avoid undesired changes.\n Consuming SOAP & REST\nEnable the consumption of SOAP and REST APIs within your own API to further speed up development time and avoid reinventing the wheel.\n Documentation\nLearn about the importance of documentation and easily implement it with the use of Swagger within your code.\n Unit & Integration Tests\nBuild unit and integration tests to give you confidence your application continues to work as intended after making new changes to your code.",
+        "last_updated": "2024-12-17",
+        "rating": 9.2,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/java-developer-nanodegree--nd035",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/java-developer-nanodegree--nd035_web_services_and_apis"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "id": 421,
+        "title": "Data Stores & Persistence",
+        "description": "Build applications that read and write to relational databases using both the Java Persistence API (JPA) and SQL. Use standard design patterns to make your persistence layer easy to test and integrate with a Spring Boot application.Introduction to Data Stores & Persistence\nAn introduction to the Data Stores & Persistence course. You will learn about persisting data in web-based Java applications.\n Data in Multitier Architecture\nThis lesson discusses Entity design and the relationship between data in the various layers of your application.\n Java Persistence API (JPA)\nWe'll be looking at using JPA to manage the state of our Entities for us. We'll learn about the concept of a Persistence Context and using an Entity Manager to change the state of our Entities.\n Connecting To Data Sources\nIn this lesson, you'll set up an external database, connect to external databases, configure and initialize multiple data sources, and configure data sources for unit tests.\n Persistence Without JPA\nIn this lesson, we'll be covering initialization with SQL, Data Objects vs. Entities, Data Access Objects (DAOs), JdbcTemplate, and Performance.",
+        "last_updated": "2024-12-17",
+        "rating": 9.2,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/java-developer-nanodegree--nd035",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/java-developer-nanodegree--nd035_data_stores_&_persistence"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0c15aa34-6977-4da7-b1f0-2ba6a582ef1b",
+          "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+          "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+          "http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42"
+        ],
+        "id": 422,
+        "title": "Security and DevOps",
+        "description": "Learn about Git, version control and best practices for authorization and authentication. Use Jenkins to build a CI/CD pipeline to deploy code to production.Authentication and Authorization\nImplement authentication on a Spring Boot application using a JSON Web Token (JWT).\n Testing and Logging\nRefresh testing fundamentals. Use logging to get insights into your code and debug your applications. Get practice with two commonly used logging utilities: SLF4J and Log4J.\n Splunk\nSplunk was founded in 2003 to make sense of machine-generated data. Here you’ll learn about what Splunk can be used for, how to install it, and how to use it for generating dashboards and more.\n CI/CD",
+        "last_updated": "2024-12-17",
+        "rating": 9.2,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/java-developer-nanodegree--nd035",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/java-developer-nanodegree--nd035_security_and_devops"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+          "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576"
+        ],
+        "id": 423,
+        "title": "Intro to Java Programming (Optional)",
+        "description": "Variables and Data Types\nDiscover the basic idea behind programing and write your first Java program. Use variables to store and retrieve information.\n Control Flow and Conditionals\nUse if-else statements and switch-case statements to write Java programs to tackle any decision making scenario.\n Functions\nCreate functions in Java. Declare methods with input arguments and return types. Then, call the functions you create.\n Loops\nUse for and while loops to iterate over a block of code. Learn how to write nested loops. Use 2D arrays to store and retrieve information.",
+        "last_updated": "2024-12-17",
+        "rating": 9.2,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/java-developer-nanodegree--nd035",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/java-developer-nanodegree--nd035_intro_to_java_programming_(optional)"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c"
+        ],
+        "id": 424,
+        "title": "Object-Oriented JavaScript",
+        "description": "Objects in Depth\nObjects in JavaScript encapsulate both data and functionality. You'll create, access, and modify objects to build a solid foundation for object-oriented programming.\n Functions at Runtime\nFunctions are one of most important data structures. Learn what a \"first-class function\" is, learn about scope, dig into closures, and use immediately-invoked function expressions for private state.\n Classes and Objects\nCreating objects individually isn't sustainable. Learn how to create similar objects with ease using Classes. You'll also learn how object inheritance works through Prototypal Inheritance.\n Object-Oriented Design Patterns\nDiscover object-oriented design patterns that can be used to create an object -- all without involving its prototype. What's more: you'll also learn how to implement private properties in objects.",
+        "last_updated": "2024-12-17",
+        "rating": 8.8,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032_object-oriented_javascript"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56"
+        ],
+        "id": 426,
+        "title": "Asynchronous Programming with JavaScript",
+        "description": "This course dives deep into asynchronous programming, a technique essential for building responsive web applications. Learn how asynchronous code keeps your apps running smoothly even while waiting for data. Master key concepts like threads, callbacks, promises, and the elegant async/await syntax. Write clean, efficient code that keeps users engaged and in control. This course empowers you to harness the full potential of JavaScript without compromising user experience.Introduction to Asynchronous Programming\nMeet your instructor and explore what you'll learn in the course and why it is important.\n Synchronous Concepts and Asynchronous Callbacks\nTo create a foundation for asynchronous programming concepts, we start with a discussion of synchronous code and the concepts of blocking vs non-blocking, then learn to use asynchronous callbacks.\n Sequencing Events - Promises\nThis lesson goes from basic Promise syntax all the way to implementing Promises, Fetch, and Promise methods.\n Sequencing Events - Async/Await\nThis lesson will get you acquainted with the Async/Await syntax introduced in ES8. Let's master the code and principles behind this helpful addition designed to make asynchronous flows easier.",
+        "last_updated": "2024-12-17",
+        "rating": 8.8,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032_asynchronous_programming_with_javascript"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0ee7b0d6-db98-4785-9948-f2ef415d155a",
+          "http://data.europa.eu/esco/skill/63f224ea-d889-42ea-b3ef-730ef78c7176",
+          "http://data.europa.eu/esco/skill/a571ae14-3e16-4fd3-a615-5646e0b0b696",
+          "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+          "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5"
+        ],
+        "id": 427,
+        "title": "Applying Data Science to Product Management",
+        "description": "In this course, you will apply the skills you learn to analyze data and create a business case in the form of a product proposal for a new flying taxi service in New York.Introduction to Data Product Management\nFind out about the rise of the data product manager with the explosion of information in recent years.\n Granularity, Distribution, and Modeling Data\nLearn about the granularity, distribution and modeling of data, key areas to utilize in your data PM skill set.\n Trends, Enrichment, & Visualization\nEstablishing trends, enriching data, and visualizing that data are the next important areas in your data product manager journey.\n Flying Taxi Business Case Part 1 (Midterm)\nYou are responsible for bringing the first flying car taxi service to market by analyzing data and building a product proposal.\n Setting Product Objectives & Strategy\nLearn how to set product objectives and strategy to drive your desired results.\n Proposal Synthesis & Design\nYour product proposal is a crucial piece of getting a product to market - learn here how to synthesize and design your presentation.",
+        "last_updated": "2024-12-17",
+        "rating": 8.6,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/data-product-manager-nanodegree--nd030",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-product-manager-nanodegree--nd030_applying_data_science_to_product_management"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0e0c9c11-b39e-43cf-ba95-2fe646f5de64",
+          "http://data.europa.eu/esco/skill/484d048c-a5d1-46a5-b57f-45b69c0ac552",
+          "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49"
+        ],
+        "id": 428,
+        "title": "Establishing Data Infrastructure",
+        "description": "Building the right data infrastructure for your business is critical in today’s world in order to scale and deliver the quality and features your customers need. In this course you’ll learn how to identify your product’s data producers, anticipate the needs of your product’s data producers and work with your stakeholders to put together the right data pipeline to support your data needs. In the project you’ll put these skills together to create a data infrastructure plan for a new and exciting startup that will support its rapidly changing environment data requirements.Introduction to Data Infrastructure\nThis is the Introduction to the Data Infrastructure Course.\n Introduction to Data Pipeline\nIntroduction to the concept of Data Pipelines, need for a data pipeline, and components of a data pipeline.\n Data Consumers\nAbout systems, services or users who consume data\n Data Producers\nThis lesson is about systems or services that produce data.\n Data Strategy\nPutting everything together to create the right data strategy for your situation.",
+        "last_updated": "2024-12-17",
+        "rating": 8.6,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/data-product-manager-nanodegree--nd030",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-product-manager-nanodegree--nd030_establishing_data_infrastructure"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+          "http://data.europa.eu/esco/skill/3c1cbc5e-2220-4f45-bcc8-3d52c8c9cae0",
+          "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+          "http://data.europa.eu/esco/skill/c0fce59c-e227-4745-945f-95eb2f0bc03e"
+        ],
+        "id": 429,
+        "title": "Leveraging Data in Iterative Product Design",
+        "description": "In this course, you will learn how to apply conversion funnels, perform segment analysis, and use both quantitative and qualitative data in the iterative design cycle to improve your product. In the project, you will have the opportunity to apply the skills you learn to identify areas for product improvements and design a future plan.Introduction to Iterative Design\nIn this lesson, you will be given an overview of the course.\n Choose & Measure KPIs for Live Products\nIn this lesson, you will learn how to choose and measure KPIs for different business models.\n Evaluate User Conversion Funnels\nIn this lesson, you will learn how to create user conversion funnels and apply it to product management.\n Apply User Segment Analysis\nIn this lesson, you will learn how to generate user segments and apply user segment analysis.\n Quantitative and Qualitative Data\nIn this lesson, you will learn the benefits and drawbacks of quantitative and qualitative data and how to integrate data into the iterative design lifecycle.\n A/B Test and Multivariate Test\nIn this lesson, you will learn the A/B test, multivariate test, how to evaluate the test and respond to the test results.",
+        "last_updated": "2024-12-17",
+        "rating": 8.6,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/data-product-manager-nanodegree--nd030",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-product-manager-nanodegree--nd030_leveraging_data_in_iterative_product_design"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+          "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb",
+          "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+          "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389"
+        ],
+        "id": 430,
+        "title": "Introduction to Data",
+        "description": "Descriptive Statistics - Part I\nIn this lesson, you will learn about data types, measures of center, and the basics of statistical notation.\n Descriptive Statistics - Part II\nIn this lesson, you will learn about measures of spread, shape, and outliers as associated with quantitative data. You will also get a first look at inferential statistics.\n Spreadsheets 1: Getting Started\nIn this lesson, you will learn about the basic functionality for spreadsheet software, use cell referencing and menu shortcuts.\n Working with Data\n Spreadsheets 2: Manipulate Data\nIn this lesson, you will learn basic spreadsheet function: sort and filter data, use text and math functions, split columns and remove duplicates.\n Spreadsheets 3: Analyze Data\nIn this lesson, you will learn how to summarize data with aggregation and conditional functions. You will learn how to use pivot tables and lookup functions.\n Spreadsheets 4: Visualize Data\nIn this lesson you will build data visualizations for quantitative and categorical data; create pie, bar, line, scatter, histogram, and boxplot charts, and build professional presentations.",
+        "last_updated": "2024-12-17",
+        "rating": 9.2,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/marketing-analytics-nanodegree--nd028",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/marketing-analytics-nanodegree--nd028_introduction_to_data"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/c0326e27-5fa8-4dca-aecb-ed89ab491513",
+          "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+          "http://data.europa.eu/esco/skill/ef30e7f8-1ef0-4a6f-87ac-d6a701125305"
+        ],
+        "id": 431,
+        "title": "Data Visualization",
+        "description": "Learn how to select the most appropriate data visualization for an analysis. Learn how to evaluate the effectiveness of a data visualization and build interactive and engaging Tableau dashboards.Data Visualization Fundamentals\nIn this lesson you learn to evaluate the quality of data visualizations and build high quality visualizations, starting with the fundamentals of data dashboards.\n Design Principles\nIn this lesson you learn to implement the best design practices, and to use the most appropriate chart for a particular situation.\n Storytelling With Data\n Creating Visualizations in Tableau\nThis lesson teaches you how to build data visualizations in Tableau using data hierarchies, filters, groups, sets, and calculated fields, as well as create map-based data visualizations in Tableau.\n Telling Stories with Tableau\nIn this lesson you learn how to build interactive Tableau dashboards and tell impactful stories using data.",
+        "last_updated": "2024-12-17",
+        "rating": 9.2,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/marketing-analytics-nanodegree--nd028",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/marketing-analytics-nanodegree--nd028_data_visualization"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/11c56452-fcec-4b00-9695-cca4728e5048",
+          "http://data.europa.eu/esco/skill/8770350e-746f-4adb-9556-18ca68104be6"
+        ],
+        "id": 432,
+        "title": "Marketing Analytics Techniques",
+        "description": "Introduction to Marketing Analytics\n Metrics That Matter\n Crafting an Analytic Brief\n Analyzing Marketing Data\n Macro Digital Analysis",
+        "last_updated": "2024-12-17",
+        "rating": 9.2,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/marketing-analytics-nanodegree--nd028",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/marketing-analytics-nanodegree--nd028_marketing_analytics_techniques"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/1c00bc98-2713-4c62-82c5-6d86f2e6a4cb",
+          "http://data.europa.eu/esco/skill/8afe68ff-b261-4fa8-ab25-bb30b0e5c292",
+          "http://data.europa.eu/esco/skill/b0ac313d-de44-4344-ada6-76d2177b6d92"
+        ],
+        "id": 437,
+        "title": "Digital Animation Fundamentals",
+        "description": "This course is designed to introduce you to the world of digital animation using the powerful open-source software Synfig Studio. Throughout this course, you will learn the fundamentals of animation and gain hands-on experience in creating captivating 2D animations using Synfig's robust toolset. From animation principles and drawing fundamentals to keyframe and tweening techniques, this course covers various aspects of digital animation, allowing you to unleash your creativity and bring your imagination to life.Introduction to Digital Animation\nTake a step into the exciting world of digital animation, exploring the fundamental principles of animation, which is the foundation of any animated production.\n Drawing for Animation\nLearn the art of drawing by exploring fundamental principles that will enhance character design, storyboarding, and storytelling skills to produce cohesive and imaginative artwork.\n Keyframe Animation\nGive your digital artwork the illusion of movement through the use of keyframes and techniques such as onion skinning to create smooth and visually appealing animated sequences.",
+        "last_updated": "2024-12-17",
+        "rating": null,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/2D-animation-and-video-editing--nd002-digitalarts",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/2D-animation-and-video-editing--nd002-digitalarts_digital_animation_fundamentals"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/10cade4f-df4d-4408-8924-5994976fc798",
+          "http://data.europa.eu/esco/skill/609a8ac1-9d29-4237-9886-596dbbe7ca8a"
+        ],
+        "id": 438,
+        "title": "Mastering Character Animation",
+        "description": "Explore the art of character animation, understanding the principles of movement, emotions, and storytelling while also learning about the creation of backgrounds, ensuring the setting complements the characters' narratives and enhances the overall visual experience. You will also learn camera techniques to frame shots effectively, mastering the art of visual composition and storytelling through camera angles and movements before moving on to exporting animations to various formats, ensuring compatibility across platforms. You will also get an introduction to digital video, learn about the key concepts and terms used in video editing, and explore the free video editing software DaVinci Resolve.Character Animation\nThrough careful attention to detail and the use of fundamental principles, create believable and dynamic character movements, capturing the essence of personality and storytelling.\n Backgrounds, Camera, and Environments\nLearn how to navigate backgrounds and environments by strategically positioning and moving the camera to convey emotions, highlight important details and guide the audience's attention.\n Exporting and Embedding Digital Animation\nExplore various formats for exporting animated sequences and show the world your creativity by embedding your animation in presentations, social media, and other online spaces.",
+        "last_updated": "2024-12-17",
+        "rating": null,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/2D-animation-and-video-editing--nd002-digitalarts",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/2D-animation-and-video-editing--nd002-digitalarts_mastering_character_animation"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/8afe68ff-b261-4fa8-ab25-bb30b0e5c292",
+          "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49",
+          "http://data.europa.eu/esco/skill/cae4c053-05d1-413d-8499-f37793aad56e"
+        ],
+        "id": 439,
+        "title": "Video Editing",
+        "description": "Unleash your creativity in video editing! From the art of storytelling to the technical aspects of editing, you'll gain a deep understanding of the editing process. Explore the power of industry-leading software DaVinci Resolve and discover techniques for timeline editing, color correction, audio editing, and visual effects. You'll gain the knowledge to navigate the technical aspects of editing with confidence. This course equips you with the essential skills to grow and excel in the dynamic field of video editing. Discover your creativity and tell captivating stories through the magic of editing. Embark on an exciting journey into the world of visual storytelling!Digital Video Editing\nMaster DaVinci Resolve's editing workflow as you learn essential techniques for importing, organizing, and cutting footage. Learn to confidently edit and bring your creative visions to life.\n Motion Graphics, Overlays, and Compositing\nEnhance your videos creatively and engage your audience with captivating text elements, stunning visual effects, dynamic motion graphics, and seamless green screen effects.",
+        "last_updated": "2024-12-17",
+        "rating": null,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/2D-animation-and-video-editing--nd002-digitalarts",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/2D-animation-and-video-editing--nd002-digitalarts_video_editing"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/df64a7cc-2e96-4304-95d3-56fe0ac2dd39"
+        ],
+        "id": 441,
+        "title": "Raster Design and Branding",
+        "description": "These lessons cover Masking in raster design, exploring composite designs and pixel selection tools. Discover the power of vector tools, focusing on the pen tool and text manipulation. Learn about filters, their application with layers, and non-destructive editing. Explore branding and visual identity, understanding their impact and creation process, including design-thinking methodology and logo development.Introduction to Masking\nMasking in raster design. Explore composite designs using layers and masking and understanding pixel selection tools. Using advanced features like clipping masks for nuanced compositions.\n Vector Tools in Raster Software\nIn this lesson discover the power of vector tools within raster design software. We will look specifically at the pen tool and its anchor points as well as the power of text in vector design.\n Filters and Fun\nWe cover the power of filters. We look at different types and how to apply them. We examine how they work in conjunction with layers, blend modes and non-destructive editing using smart objects.",
+        "last_updated": "2024-12-17",
+        "rating": null,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/digital-arts--nd001-digitalarts",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/digital-arts--nd001-digitalarts_raster_design_and_branding"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/b758675a-b03b-4e4b-897c-57ca14b1a3d0"
+        ],
+        "id": 448,
+        "title": "Discover Software",
+        "description": "In this course, you will gain practical skills in software applications, explore word processing with Google Docs, delve into artificial intelligence using Google Translate, master logic and programming with Blockly, and learn digital media encoding with Python. You will also enhance your proficiency in these tools and unlock new possibilities for success in the world of softwareExploring Software-Word Processing with Google Docs\nThis lesson covers the basic components of computer software and files while introducing you to Google Docs.\n Exploring Software-Artificial Intelligence with Google Translate\nThis lesson discusses the uses of artificial intelligence and how it works. You are introduced to the concepts of probability and prediction while learning how to use Google Translate.\n Exploring Logic and Programming-Programming with Blockly\nIn this lesson, you will explore block-based programming using Blockly. You will be introduced to the concepts of sequencing, selection, and loops, and you will end by creating a Blockly program.",
+        "last_updated": "2024-12-17",
+        "rating": null,
+        "price": 32.29,
+        "url": "https://www.udacity.com/course/computer-literacy--nd001-comp-literacy",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/computer-literacy--nd001-comp-literacy_discover_software"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/b8c01891-e3df-4a4b-948d-95b45e1788f5",
+          "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d"
+        ],
+        "id": 450,
+        "title": "Discover Programming",
+        "description": "In this course, you will delve into the world of programming, explore the power of strings in programming through Blockly, discover the art of programming mobile apps with a focus on strings, master control structures for mobile app development, and gain proficiency in the versatile programming language Python. You will also unlock the secrets of programming and unleash your creativity in this course.Exploring Programming-Programming with Strings in Blockly\nDiscover programming with strings in Blockly, covering user input, string manipulation, list handling, and building projects like a superhero name generator.\n Exploring Programming-Programming Mobile Apps with Strings\nLearn to create a mobile app with Thunkable, focusing on app planning, UI elements, events, and string input/output to build a story generator app.\n Exploring Programming-Programming Mobile Apps with Control Structures\nDive into mobile app development with control structures, learn to use if/else blocks, loops, manage app data, and explore databases.",
+        "last_updated": "2024-12-17",
+        "rating": null,
+        "price": 32.29,
+        "url": "https://www.udacity.com/course/computer-literacy--nd001-comp-literacy",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/computer-literacy--nd001-comp-literacy_discover_programming"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26",
+          "http://data.europa.eu/esco/skill/83b493c8-4837-41e3-9800-cff1df06cf38",
+          "http://data.europa.eu/esco/skill/a88da605-095f-4a4f-be1c-d1444df8228a",
+          "http://data.europa.eu/esco/skill/dfb9cec6-3ae3-408a-9d57-c44361bf7aaf"
+        ],
+        "id": 451,
+        "title": "Discover Multimedia",
+        "description": "In this course, you will delve into the captivating field of multimedia, explore various aspects, including image processing, web media, color manipulation, and digital audio.Exploring Multimedia-Black and White Images and Compression\nDiscover how images are digitally represented using pixels and explore various data compression techniques, including lossy and lossless, to optimize storage and transfer.\n Exploring Multimedia-Web Media and Encoding\nDiscover how utf-8 encoding and HTML, CSS styles enable web pages to display media on browsers, and learn to create and style web pages.\n Exploring Multimedia-Color and Steganography\nDive into digital color representation with RGB and hex codes, explore metadata insights, and learn steganography basics to conceal messages within images.",
+        "last_updated": "2024-12-17",
+        "rating": null,
+        "price": 32.29,
+        "url": "https://www.udacity.com/course/computer-literacy--nd001-comp-literacy",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/computer-literacy--nd001-comp-literacy_discover_multimedia"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/071233c4-ad2b-4f50-b79f-768d2231163e"
+        ],
+        "id": 452,
+        "title": "Discover Networks",
+        "description": "In this course, you will explore the fascinating field of networks, gain an understanding of network addressing and the fundamentals of the Internet.Exploring Networks-Addressing and the Internet\nDiscover how digital addressing and the Internet work, including IP addresses, DHCP, domain names, LANs, WANs, and MAC addresses.\n Exploring Networks-Internet Messages\nDiscover how internet messages work, from exploring cookies and network servers to creating web forms, understanding URLs, and crafting QR code games.\n Exploring Networks-Routing and Sending Messages\nDiscover how data is routed and messages are sent over the internet, exploring the complexities of data packets, routing protocols, and secure routing methods.",
+        "last_updated": "2024-12-17",
+        "rating": null,
+        "price": 32.29,
+        "url": "https://www.udacity.com/course/computer-literacy--nd001-comp-literacy",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/computer-literacy--nd001-comp-literacy_discover_networks"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+          "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb",
+          "http://data.europa.eu/esco/skill/36ff57b0-637d-4a83-a0e8-d14f86f9f078",
+          "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01"
+        ],
+        "id": 453,
+        "title": "Discover Data and Presentation Software",
+        "description": "In this course, you will explore the fundamentals of software spreadsheets and data science, learning how to organize and analyze data effectively.Exploring Software-Spreadsheets and Data Science\nDiscover data science via spreadsheets: Collect, structure, visualize, and analyze data to uncover insights and patterns.",
+        "last_updated": "2024-12-17",
+        "rating": null,
+        "price": 32.29,
+        "url": "https://www.udacity.com/course/computer-literacy--nd001-comp-literacy",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/computer-literacy--nd001-comp-literacy_discover_data_and_presentation_software"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f",
+          "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5"
+        ],
+        "id": 455,
+        "title": "C/C++ Data Structures",
+        "description": "This C++ Data Structures course provides a practical introduction to the design, implementation, and application of data structures. It begins with the fundamentals and primitive structures like arrays and linked lists, then explores composite structures such as stacks, queues, circular buffers, trees, and hash tables. Learners also examine the role of data structures in embedded systems and conclude with a hands-on project to apply their skills in solving real-world problems. By the end of the course, participants will be equipped to optimize data handling and design efficient algorithms in C++.",
+        "last_updated": "2024-12-16",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/c-c-plus-plus-data-structures--cd13412",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/c-c-plus-plus-data-structures--cd13412_c/c++_data_structures"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+          "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+          "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+          "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc"
+        ],
+        "id": 456,
+        "title": "Advanced Java Programming Techniques",
+        "description": "The best Java programs combine excellent software designs with modern language features. This course will teach you some lesser known features of Java, such as functional programming, I/O, serialization, and reflection. Strengthen your software design intuition by exploring the design ideas that underpin understandable, extensible and scalable software systems. Learn the basic concepts and techniques of concurrent programming in Java, so your programs can take advantage of modern, multi-core hardware.",
+        "last_updated": "2024-12-16",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/advanced-java-programming-techniques--cd0381",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/advanced-java-programming-techniques--cd0381_advanced_java_programming_techniques"
+      },
+      {
+        "skills": [],
+        "id": 457,
+        "title": "Building Generative AI Applications for Data Insights on Azure",
+        "description": "You'll learn Azure OpenAI services, focusing on building applications that extract valuable insights from data using generative AI models. You'll set up and configure Azure AI tools, apply prompt engineering techniques, and integrate external data sources with retrieval-augmented generation (RAG) solutions. You'll gain practical experience in building AI-driven applications for data analysis.",
+        "last_updated": "2024-12-12",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/building-generative-ai-applications-for-data-insights-on-azure--cd13908",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/building-generative-ai-applications-for-data-insights-on-azure--cd13908_building_generative_ai_applications_for_data_insights_on_azure"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/457c2e47-07e6-4073-827e-e1c21f3e5869",
+          "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+          "http://data.europa.eu/esco/skill/c3404999-faaa-4779-9cbf-e594b9c4d3b6"
+        ],
+        "id": 458,
+        "title": "Building Generative AI Solutions on Azure with OpenAI GPT Large Language Models",
+        "description": "Develop, evaluate, and deploy custom copilots and applications using Azure AI Studio, Prompt Flow and OpenAI large language models. You'll operationalize AI-driven applications on Azure using GenAIOps, focusing on evaluation, monitoring and continuous integration and deployment pipelines. You'll create prompt flows, integrate data sources, and manage the full lifecycle of generative AI solutions in real-world scenarios.",
+        "last_updated": "2024-12-12",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/building-generative-ai-solutions-on-azure-with-openai-gpt-large-language-models--cd13696",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/building-generative-ai-solutions-on-azure-with-openai-gpt-large-language-models--cd13696_building_generative_ai_solutions_on_azure_with_openai_gpt_large_language_models"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/62d07a37-9c9b-40e8-b4e2-5020c7578e24",
+          "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab"
+        ],
+        "id": 459,
+        "title": "Enterprise Identity and Access Control",
+        "description": "This course focuses on identity and access management. As a security architect, implementing an organization-wide strategy for strong Identity and access management can greatly improve the security posture of the organization. IAM can be tricky to architect and implement. Too much access can lead to data exposure, whereas, too little access can lead to business hindrance. A fine balance is required while designing a strong IAM model. We will be covering some of those concepts and methodologies in this course.",
+        "last_updated": "2024-12-11",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/enterprise-identity-and-access-control--cd0395",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/enterprise-identity-and-access-control--cd0395_enterprise_identity_and_access_control"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/b5d7adfd-b8ad-4f12-88fa-e2d161c0b296",
+          "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389"
+        ],
+        "id": 461,
+        "title": "Data Visualization with Matplotlib and Seaborn",
+        "description": "Learn to apply sound design and data visualization principles to the data analysis process. Learn how to use analysis and visualizations to tell a story with data.",
+        "last_updated": "2024-12-10",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/data-visualization-with-matplotlib-and-seaborn--cd12532",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-visualization-with-matplotlib-and-seaborn--cd12532_data_visualization_with_matplotlib_and_seaborn"
+      },
+      {
+        "skills": [],
+        "id": 463,
+        "title": "Google Cloud: AI Fundamentals",
+        "description": "Unlock the power of artificial intelligence on GCP. Build machine learning models with Vertex AI, analyze language data, and harness the creativity of generative AI.",
+        "last_updated": "2024-12-10",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/google-cloud-AI-fundamentals--cd13366",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/google-cloud-AI-fundamentals--cd13366_google_cloud:_ai_fundamentals"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669"
+        ],
+        "id": 468,
+        "title": "Computer Vision and Generative AI",
+        "description": "Learn how computers process and understand image data, then harness the power of the latest Generative AI models to create new images.",
+        "last_updated": "2024-11-28",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/computer-vision-and-generative-AI--cd13331",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/computer-vision-and-generative-AI--cd13331_computer_vision_and_generative_ai"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+          "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15"
+        ],
+        "id": 470,
+        "title": "Beginner Python PCEP™ Certification Prep",
+        "description": "Explore the world of Python and prepare to take the PCEP exam. Through these lessons, you will gain an understanding of syntax, data types, operators, control flow, functions, modules, input/output operations, string manipulation, object-oriented programming, list comprehensions, generators, iterators, regular expressions, and functional programming.",
+        "last_updated": "2024-11-26",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/beginner-python-pcep-certification-prep--cd13568",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/beginner-python-pcep-certification-prep--cd13568_beginner_python_pcep™_certification_prep"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389"
+        ],
+        "id": 471,
+        "title": "Data Visualization in Tableau",
+        "description": "Learn how to select the most appropriate data visualization for an analysis. Learn how to evaluate the effectiveness of a data visualization and build interactive and engaging Tableau dashboards.",
+        "last_updated": "2024-11-26",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/data-visualization-with-tableau--cd0337",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-visualization-with-tableau--cd0337_data_visualization_in_tableau"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f"
+        ],
+        "id": 473,
+        "title": "Spark and Data Lakes",
+        "description": "In this course, you will learn about the big data ecosystem and how to use Spark to work with massive datasets. You’ll also learn about how to store big data in a data lake and query it with Spark.",
+        "last_updated": "2024-11-24",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/spark-and-data-lakes--cd12441",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/spark-and-data-lakes--cd12441_spark_and_data_lakes"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/292549e6-08ec-456c-b008-eba7a0a68428",
+          "http://data.europa.eu/esco/skill/875217fb-fe22-4c2c-adf4-b57f2052626a"
+        ],
+        "id": 474,
+        "title": "Predictive Data Analysis",
+        "description": "Develop the skills to make data-driven predictions with confidence. Using Power BI Desktop, you’ll dive into essential tools for predictive analysis, mastering techniques like classification, regression, and forecasting. With a hands-on approach and varied datasets, you’ll gain practical experience that brings predictive data analysis to life, preparing you to tackle real-world challenges. Learn to uncover patterns and insights that reveal future risks, analyze different market trends, and support critical decision-making within any organization. By the end, you’ll be ready to turn raw data into actionable insights, empowering you to guide strategic actions that make an impact in any enterprise setting.",
+        "last_updated": "2024-11-22",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/predictive-data-analysis--cd12034",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/predictive-data-analysis--cd12034_predictive_data_analysis"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc"
+        ],
+        "id": 475,
+        "title": "Data Preparation and Modeling",
+        "description": "The preparation phase is the most important step in data analysis. An effective data model is required before data can be effectively analyzed, and creating that data model may utilize a wide range of skills. This course teaches the skills to load, clean, and organize data in Power Query and create relational tables in Power Query and Power BI. Completing this course will provide the knowledge to effectively source data in Power BI and create a clean and efficient data model for analysis.",
+        "last_updated": "2024-11-22",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/data-preparation-and-modeling--cd12033",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-preparation-and-modeling--cd12033_data_preparation_and_modeling"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+          "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378"
+        ],
+        "id": 476,
+        "title": "Introduction to Data Analytics",
+        "description": "This course establishes a framework for data analytics as a series of progressive steps starting with the data source and ending with the interpretation of results. We introduce fundamental concepts such as data analytics life cycle, data integrity, and the four types of data analytics (descriptive, diagnostic, predictive, and prescriptive). Students who complete this course will be equipped with the skills to identify the data analytics strategy used in a given situation and where they are in the data analytics life cycle.",
+        "last_updated": "2024-11-22",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/intro-to-data-analytics--cd12032",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-data-analytics--cd12032_introduction_to_data_analytics"
+      },
+      {
+        "skills": [],
+        "id": 477,
+        "title": "Building a Reproducible Model Workflow",
+        "description": "This course empowers the students to be more efficient, effective, and productive in modern, real-world ML projects by adopting best practices around reproducible workflows. In particular, it teaches the fundamentals of MLops and how to: a) create a clean, organized, reproducible, end-to-end machine learning pipeline from scratch using MLflow b) clean and validate the data using pytest c) track experiments, code, and results using GitHub and Weights & Biases d) select the best-performing model for production and e) deploy a model using MLflow. Along the way, it also touches on other technologies like Kubernetes, Kubeflow, and Great Expectations and how they relate to the content of the class.",
+        "last_updated": "2024-11-21",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/building-a-reproducible-model-workflow--cd0581",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/building-a-reproducible-model-workflow--cd0581_building_a_reproducible_model_workflow"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+          "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+          "http://data.europa.eu/esco/skill/9710092c-f174-4e84-95bf-2064d39ad7a0",
+          "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700"
+        ],
+        "id": 478,
+        "title": "Data Governance",
+        "description": "In this course, you will learn how to design a data governance solution that meets your company’s needs. First, you will learn about the different types of metadata and how to build a Metadata Management System, Enterprise Data Model, and Enterprise Data Catalog. Next, you will learn how to perform data profiling using various techniques including data quality dimensions, how to identify remediation options for data quality issues, and how to measure and monitor data quality using data quality scores, thresholds, dashboards, exceptions, and trend reports. Finally, you will learn the concepts of Master Data and golden record, different types of Master Data Management Architectures, as well as the golden record creation and master data governance processes.",
+        "last_updated": "2024-11-21",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/data-governance--cd0033",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-governance--cd0033_data_governance"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+          "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+          "http://data.europa.eu/esco/skill/5d73a509-4c15-423a-8873-8ea84daa037c",
+          "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+          "http://data.europa.eu/esco/skill/ef30e7f8-1ef0-4a6f-87ac-d6a701125305"
+        ],
+        "id": 479,
+        "title": "Introduction to R Programming",
+        "description": "In this course, you’ll learn to represent and store data using R data types and variables, and use conditionals and loops to control the flow of your programs. You’ll harness the power of complex data structures like lists, sets, dictionaries, and tuples to store collections of related data. You’ll define and document your own custom functions, write scripts, and handle errors. You will also learn to use two powerful R libraries - Numpy, a scientific computing package, and Pandas, a data manipulation package.",
+        "last_updated": "2024-11-20",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/introduction-to-r-programming--cd0382",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/introduction-to-r-programming--cd0382_introduction_to_r_programming"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+          "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+          "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779"
+        ],
+        "id": 481,
+        "title": "SQL and Data Modeling for the Web",
+        "description": "You'll learn the skills needed to traverse the stack and develop an entire database-backed web application. By the end of the course, you'll have the fundamentals you need to start building web applications, including how to do Create, Read, Update, and Delete (CRUD) operations on a database, how to apply these operations across both databases and web applications, how to set up relationships between elements of an application, and ultimately how to think about important principles and patterns in building data models for a web application",
+        "last_updated": "2024-11-19",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/sql-and-data-modeling-for-the-web--cd0046",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/sql-and-data-modeling-for-the-web--cd0046_sql_and_data_modeling_for_the_web"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a"
+        ],
+        "id": 483,
+        "title": "Reinforcement Learning",
+        "description": "In this course, learners will explore how to design, backtest, and optimize a working reinforcement-based ML trading strategy. This course will introduce popular techniques and indicators used in reinforcement learning-based trading, such as Q-learning, PCA, use of market indicators, assessment of market context, and assessment of the strategy outcomes. This course is designed for hobby traders with a background in data science. By the end of this course, you will be able to build, train, backtest, and optimize a reinforcement learning trading strategy with Python.",
+        "last_updated": "2024-11-17",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/reinforcement-learning--cd13651",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/reinforcement-learning--cd13651_reinforcement_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389"
+        ],
+        "id": 486,
+        "title": "Java Fundamentals",
+        "description": "In order to be a great Java developer you must first learn the fundamentals of Java. This course introduces the fundamental concepts and practices of Java programming. These include basic Object-oriented Programming (OOP) concepts such as classes, encapsulation and inheritance, as well as core Java concepts such as collections, exceptions and commonly used Java types.",
+        "last_updated": "2024-11-16",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/java-fundamentals--cd0282",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/java-fundamentals--cd0282_java_fundamentals"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2",
+          "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de"
+        ],
+        "id": 487,
+        "title": "Designing Data Systems",
+        "description": "In this course, students will learn about the major components in architecting an enterprise data system by actually designing a staging area, operational data store, and data warehouse. Students will learn the importance of creating business requirements and data artifacts that define the data in a \"Single Version of Truth.\" From ingesting data into a staging database, moving the data to the operational data store where data is transformed, to ultimately accessing the data warehouse. Students will learn how the data warehouse helps eliminate data silos and bring data from across the enterprise into one central system, which can be governed and accessible by anyone in the enterprise to understand and analyze intelligent insights to address business challenges and opportunities.",
+        "last_updated": "2024-11-15",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/designing-data-systems--cd0032",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/designing-data-systems--cd0032_designing_data_systems"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+          "http://data.europa.eu/esco/skill/b6f26b50-3914-46ff-8f88-3defb71e007a",
+          "http://data.europa.eu/esco/skill/c5bc42be-4970-4dce-80e2-af78bae42e84"
+        ],
+        "id": 488,
+        "title": "Generative AI Fluency",
+        "description": "This course provides a comprehensive high-level overview of Generative AI, beginning with foundational concepts and terminology and then delving into specific applications such as Large Language Models (LLMs) for text generation and diffusion-based models image creation. Key lessons include an in-depth look at LLMs, AI image generation methods, and hands-on experience with tools like DALL-E and Midjourney. The course concludes by addressing practical aspects of deploying Generative AI in production environments, focusing on data collection, prompt execution, maintenance, and orchestration strategies.",
+        "last_updated": "2024-11-14",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/generative-ai-fluency--cd13224",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/generative-ai-fluency--cd13224_generative_ai_fluency"
+      },
+      {
+        "skills": [],
+        "id": 491,
+        "title": "Google Cloud Platform Analytics",
+        "description": "The GCP Analytics course covers the fundamentals of Google Cloud Data Analytics, with a focus on BigQuery and Looker. Students will learn how to work with datasets using BigQuery and, how to visualize and analyze data using Looker and Looker Studio. The course includes a hands-on project where students will apply their skills to analyze and interpret real-world data sets using BigQuery and Looker Studio. By the end of the course, students will have a solid foundation in GCP analytics tools and techniques.",
+        "last_updated": "2024-11-12",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/google-cloud-platform-analytics--cd13364",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/google-cloud-platform-analytics--cd13364_google_cloud_platform_analytics"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+          "http://data.europa.eu/esco/skill/dbc538a0-7d1d-4394-b2f6-8fae44a55d86",
+          "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2"
+        ],
+        "id": 494,
+        "title": "AI for Business Leaders",
+        "description": "The AI for Business Leaders program is designed for those looking to deepen their understanding of Artificial Intelligence and the innovations in the field of Machine Learning that have driven its recent progress. The program is designed to arm students with a deep but approachable knowledge of how these systems work and what it takes to implement them. Throughout the program, we’ll follow a fictitious retailer to gain practice in making discriminating judgments on what AI use cases might be best for a given business at a given point in time. In the final project, students will replicate this experience, and formulate a cohesive AI strategy for a fictitious organization.The Paradigm Shift\nWe’ll begin studying machine learning and artificial intelligence. You’ll develop an understanding of their potential and the language to talk about AI and ML with your team, and build your first model!\n The Math Behind The Magic\nThis lesson will take a deeper dive into AI and ML techniques using a data-first perspective. We’ll also explore the mathematical underpinnings of how ML models learn.\n Architectures of AI Systems\nThis lesson focuses on capabilities and architectures commonly used in ML/AI systems, and develops student skills with building these architectures, including the data, capabilities, and user layers.\n Working with Data\nMachine Learning is a data-hungry process. In this lesson, we’ll talk about some of the more operational elements of building ML and AI systems, namely data labeling and infrastructure management.\n Accuracy, Bias, and Ethics\nWhat does it mean for a model to be useful? In this lesson, we’ll explore topics like accuracy and precision as well as model overfit and underfit, to figure out ways to assess a model’s usefulness.\n Gathering Feedback\nBuilding support for an AI/Machine Learning project is an important part of the journey. We’ll talk about best practices for clearly understanding the priorities of your business and communicating how AI/ML can help to advance them.\n Thinking Bigger\nMany times, progress with ML/AI requires a business to execute several projects in parallel. In this lesson, we’ll talk about how to bring use cases together to form a greater whole.",
+        "last_updated": "2024-11-06",
+        "rating": 9.0,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/ai-for-business-leaders--nd054",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-for-business-leaders--nd054_ai_for_business_leaders"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79",
+          "http://data.europa.eu/esco/skill/457c2e47-07e6-4073-827e-e1c21f3e5869"
+        ],
+        "id": 496,
+        "title": "Introduction to Machine Learning",
+        "description": "Gain foundational machine learning expertise using AWS SageMaker, from data preparation and exploratory analysis to deploying powerful models like XGBoost and AutoGluon. Covering the entire ML workflow, including feature engineering, model tuning, and evaluation, you'll gain practical experience with real-world data projects. Designed for those familiar with Python and data science basics, the curriculum equips you to handle diverse ML tasks confidently and effectively, making it ideal for anyone looking to apply machine learning in various professional and industry settings.",
+        "last_updated": "2024-11-05",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/introduction-to-machine-learning--cd0385",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/introduction-to-machine-learning--cd0385_introduction_to_machine_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de"
+        ],
+        "id": 498,
+        "title": "Cloud Data Warehouses",
+        "description": "In this course, you’ll learn to create cloud-based data warehouses. You’ll sharpen your data warehousing skills, deepen your understanding of data infrastructure, and be introduced to data engineering on the cloud using Amazon Web Services (AWS).",
+        "last_updated": "2024-11-05",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/cloud-data-warehouses--cd12440",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cloud-data-warehouses--cd12440_cloud_data_warehouses"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+          "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01"
+        ],
+        "id": 499,
+        "title": "Data Science for Business Leaders",
+        "description": "The goal of the Data Science for Business Leaders Executive Program is to equip learners with the understanding of strategic, human capital, and technical requirements that power the ability of data science to deliver enhanced business outcomes, as well as the strategic execution skills to develop an organizational data science strategy that unlocks this potential. This program focuses on the unique knowledge and skills that business leaders need to unlock the value of data in their organizations, or enable a more data-driven department/organization that leverages data to inform strategic decisions for business operational improvement and growth.Introduction to Data Science for Business Leaders\nIn this lesson, you'll meet your instructor and learn about what this course is going to cover.\n Principles of Data Science\nIn this lesson, you'll learn about the principles of data science to help you build a solid foundation.\n The Business Case for Data Science\nIn this lesson, you'll learn why data science is vital for any business and how to make the case for a solid business case to others.\n Human Capital of Data Science\nIn this lesson you'll learn how to build a data driven culture and team.\n Data and Machine Learning Infrastructure\nIn this lesson you'll learn about creating a strategy around Data and Machine Learning Infrastructure.",
+        "last_updated": "2024-11-05",
+        "rating": 8.8,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/data-science-for-business-leaders--nd045",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-science-for-business-leaders--nd045_data_science_for_business_leaders"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+          "http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a"
+        ],
+        "id": 500,
+        "title": "Programming with Swift",
+        "description": "This course provides an introduction to Swift, Apple's powerful and intuitive programming language for iOS app development. The lessons cover an introduction to Swift, functions, object-oriented Swift and Swift patterns. The final project for this course is to build a Command Line Interface (CLI) Todo Application. This course is tailored for novice developers, perfect for becoming proficient in Swift and laying the groundwork for iOS app development.Introduction to Swift\nLearn the basics of Swift, including its syntax, variables, data types, and foundational programming concepts.\n Swift Functions and Closures\nLearn about Swift's functions and closures, exploring how to define and use them effectively for efficient and readable code.\n Object-Oriented Programming in Swift\nExplore Swift's OOP concepts: creating classes, utilizing inheritance, and implementing encapsulation for efficient iOS app development.\n Swift Patterns\nLearn Swift design patterns, mastering techniques for cleaner, more scalable code in iOS app development.",
+        "last_updated": "2024-11-05",
+        "rating": 9.2,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/ios-developer-nanodegree--nd003",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ios-developer-nanodegree--nd003_programming_with_swift"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/020918ef-4b55-47c1-8430-ab7b8f6a7377",
+          "http://data.europa.eu/esco/skill/b483124c-180c-4d3a-8b7c-72e4e7a5b49b",
+          "http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a",
+          "http://data.europa.eu/esco/skill/ce26e71f-2d47-474e-89b6-7920931ac4fc",
+          "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+          "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5"
+        ],
+        "id": 502,
+        "title": "iOS Application Data with SwiftData",
+        "description": "In this course, you'll master data management and persistence in iOS 17+ using Swift, SwiftUI, and SwiftData. You will start with the basics of creating views and managing state with @State, @Binding, and @EnvironmentObject. As you progress, you'll learn to define data models and schemas, implement CRUD operations, and manage related data. Advanced topics include data migrations for managing data models. Through hands-on exercises and real-world examples, you'll build several data-driven iOS applications.State Management in iOS\nMaster basic iOS state management and data persistence: Understand @State, @Observable, data structures, UI updates, and persisting data.\n Data Persistence with SwiftData\nDive into the essentials of SwiftData for iOS, learning about model management, data operations, queries, and optimizing data persistence strategies.\n SwiftData Model Relationships\nExplore SwiftData's model relationships, including one-to-one, one-to-many, and many-to-many relationships, and learn to create, query, and delete related data.\n SwiftData Schema Updates and Migration\nExplore SwiftData database migrations, schema updates, and how to manage data model changes without losing data through practical examples.",
+        "last_updated": "2024-11-05",
+        "rating": 9.2,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/ios-developer-nanodegree--nd003",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ios-developer-nanodegree--nd003_ios_application_data_with_swiftdata"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+          "http://data.europa.eu/esco/skill/a420a3ed-32a1-4ab8-b590-cba5a89bc8f8"
+        ],
+        "id": 503,
+        "title": "Networking and Concurrency for iOS Apps",
+        "description": "In this course, you'll learn how to integrate data from the Internet and websites into your applications, including APIs, networking, authentication, and concurrency. You'll also learn how to integrate these concepts into iOS app UI design, with a focus on practical application through a travel journey project. By the end of the course, you'll have a solid foundation in skills for leveraging networking and managing concurrency in your iOS apps.APIs and Networking for iOS Developers\nExplore APIs and networking in iOS, including making HTTP requests, handling responses/errors, and sending/receiving data using URLSession and Codable.\n Authentication for iOS Apps\nExplore implementing Sign In with Apple: learn setup, manage authentication states and data, alongside traditional username/password methods.\n Concurrency in iOS Apps\nExplore iOS concurrency: from responsive UIs and Swift's async/await, actors, to structured concurrency for efficient, error-handled asynchronous coding.\n Integrating Concurrency and Network into iOS App UI\nEnhance iOS apps with concurrency for smoother network UIs, covering async/await, error handling, offline modes, and UI feedback on network status.",
+        "last_updated": "2024-11-05",
+        "rating": 9.2,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/ios-developer-nanodegree--nd003",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ios-developer-nanodegree--nd003_networking_and_concurrency_for_ios_apps"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/c5bc42be-4970-4dce-80e2-af78bae42e84",
+          "http://data.europa.eu/esco/skill/df64a7cc-2e96-4304-95d3-56fe0ac2dd39",
+          "http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8"
+        ],
+        "id": 504,
+        "title": "Planning and Publishing iOS Apps",
+        "description": "This course covers the foundational aspects of planning, designing, and publishing iOS applications. You will learn how to effectively plan and design iOS projects, scaffold projects for success, navigate software development workflows specific to iOS, and eventually publish apps to the App Store. By the end of the course, you'll explore and experience the entire iOS app development process.Planning and Designing iOS Projects\nMaster iOS project planning and design: From idea development, targeting audiences, UI/UX design to App Store submission and maintenance.\n Scaffolding iOS Projects\n Software Development Workflows for iOS Projects\n Publishing iOS Apps to the App Store",
+        "last_updated": "2024-11-05",
+        "rating": 9.2,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/ios-developer-nanodegree--nd003",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ios-developer-nanodegree--nd003_planning_and_publishing_ios_apps"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "id": 508,
+        "title": "Introduction to SQL",
+        "description": "SQL is one of the most versatile tools available for extracting insights from stored data. Learn how to execute core SQL commands to define, select, manipulate, control access, aggregate, and join data and data tables. Understand when and how to use subqueries, several window functions, and partitions to complete complex tasks. Clean data, optimize SQL queries and write select advanced JOINs to enhance analysis performance, explain which cases you would want to use particular SQL commands, and apply the results from queries to address business problems.Course Overview\n Basic SQL\nIn this section, you will gain knowledge about SQL basics for working with a single table. You will learn the key commands to filter a table in many different ways.\n SQL Joins\nIn this lesson, you will learn how to combine data from multiple tables together.\n SQL Aggregations\nIn this lesson, you will learn how to aggregate data using SQL functions\n SQL Subqueries & Temporary Tables\nIn this lesson, you will learn about subqueries, a fundamental advanced SQL topic. This lesson will walk you through the appropriate applications of subqueries, the different types of subqueries, and review subquery syntax and examples.\n SQL Data Cleaning\nCleaning data is an important part of the data analysis process. You will be learning how to perform data cleaning using SQL in this lesson.\n SQL Window Functions\nWindow functions allow users to compare one row to another without doing any joins using one of the most powerful concepts in SQL data analysis.\n SQL Advanced JOINS & Performance Tuning\nLearn advanced joins and how to make queries that run quickly across giant datasets. Most of the examples in the lesson involve edge cases, some of which come up in interviews.\n Congratulations",
+        "last_updated": "2024-11-05",
+        "rating": 9.2,
+        "price": 113.0,
+        "url": "https://www.udacity.com/course/learn-sql--nd072",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/learn-sql--nd072_introduction_to_sql"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+          "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+          "http://data.europa.eu/esco/skill/906d21c9-7a9c-4919-817d-10676f9ddfe4",
+          "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+          "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5"
+        ],
+        "id": 509,
+        "title": "Management of Relational and Non-relational Databases",
+        "description": "Databases need to be structured properly to enable efficient and effective querying and analysis of data. Build normalized, consistent, and performant relational data models. Use SQL Database Definition Language (DDL) to create the data schemas designed in Postgres and apply SQL Database Manipulation Language (DML) to migrate data from a denormalized schema to a normalized one. Understand the tradeoffs between relational databases and their non-relational counterparts, and justify which one is best for different scenarios. With a radical shift of paradigms, learn about MongoDB and Redis to get an understanding of the differences in behaviors and requirements for non-relational databases.Intro to DBMS: Relational and Non-Relational Databases\nGet introduced to database management systems, as well as learning the difference between relational and non-relational databases.\n Normalizing Data\nFind out about the different forms of normalized data for optimizing database storage.\n Data Definition Language (DDL)\nLearn about the data definition language, such as creating tables and different data types.\n Data Manipulation Language (DML)\nDive into the data manipulation language in order to alter existing tables and data.\n Consistency with Constraints\nFind out how to keep consistency amongst your data by adding constraints.\n Performance with Indexes\nMaximize your database performance by using indexes when and where appropriate.\n Intro to Non-Relational Databases\nWith your relational database skills in hand, you’re ready for a look into the other side of data, with non-relational databases.",
+        "last_updated": "2024-11-05",
+        "rating": 9.2,
+        "price": 113.0,
+        "url": "https://www.udacity.com/course/learn-sql--nd072",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/learn-sql--nd072_management_of_relational_and_non-relational_databases"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/418c13d1-2b4e-4bdd-82f4-4eaa5efb630c",
+          "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389"
+        ],
+        "id": 510,
+        "title": "Advanced Data Storytelling",
+        "description": "Explore advanced data visualization and storytelling techniques. Discover various types of data stories and how to use them effectively. Learn to utilize Tableau Storypoint to add interactivity and visual elements and enhance your analyses with animation and narration using both Tableau Pages and Flourish.",
+        "last_updated": "2024-11-04",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/advanced-data-storytelling--cd0234",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/advanced-data-storytelling--cd0234_advanced_data_storytelling"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378"
+        ],
+        "id": 511,
+        "title": "How to Use ChatGPT",
+        "description": "This learning experience will guide you through using ChatGPT, a large language model developed by OpenAI. You'll gain in-depth knowledge of the underlying technology that powers ChatGPT and master the art of prompt design while exploring its capabilities, limitations, and training. Whether you're a digital professional, AI enthusiast, or an aspiring AI practitioner, this course equips you with the skills to craft effective prompts, generate high-quality responses, and interpret the outputs of the model. Through industry-relevant hands-on practice, you'll learn to harness ChatGPT's conversational AI capabilities to generate content, analyze data, and create nuanced AI tools.",
+        "last_updated": "2024-11-01",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/how-to-use-chatgpt--cd13054",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/how-to-use-chatgpt--cd13054_how_to_use_chatgpt"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0b0335f3-0aa1-491e-895e-81fc8774a300",
+          "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+          "http://data.europa.eu/esco/skill/9d0d89be-bffa-4393-b6f6-8d05bea49051",
+          "http://data.europa.eu/esco/skill/b74fd765-e1ae-4f56-a188-45cd782bca01"
+        ],
+        "id": 512,
+        "title": "Automate Data Pipelines",
+        "description": "Schedule, monitor, and manage data workflows efficiently using tools like Apache Airflow. Build data pipelines by leveraging Airflow DAGs to organize tasks and utilize AWS resources such as S3 and Redshift to process and move data effectively between systems. Engage in hands-on projects to automate and maintain complex data pipelines, streamlining operations and improving data reliability. Gain expertise in workflow automation, data integration, and error handling, enabling you to construct efficient and scalable data pipelines in production environments. Ideal for data engineers and professionals aiming to advance their skills in managing and automating data workflows.",
+        "last_updated": "2024-10-31",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/automate-data-pipelines--cd12380",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/automate-data-pipelines--cd12380_automate_data_pipelines"
+      },
+      {
+        "skills": [],
+        "id": 513,
+        "title": "Application Security",
+        "description": "Explore the history of application security and gain insights into key concepts in the field. Review the OWASP Top 10, along with best practices to mitigate common vulnerabilities. Apply essential techniques for conducting penetration testing. Perform static code scans using special software and manually test a web application. Understand methods for performing Static Application Security Testing (SAST) and interpret the test results. Write effective security reports and calculate vulnerability severity using the CVSS v3.1 standard. Communicate findings with development and QA teams to collaboratively enhance application security.",
+        "last_updated": "2024-10-31",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/application-security--cd0633",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/application-security--cd0633_application_security"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d"
+        ],
+        "id": 515,
+        "title": "Advanced Python Techniques",
+        "description": "In this course, you will learn advanced Python skills and master a myriad of modern subject matter.",
+        "last_updated": "2024-10-28",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/advanced-python-techniques--cd0010",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/advanced-python-techniques--cd0010_advanced_python_techniques"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+          "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+          "http://data.europa.eu/esco/skill/9c6974e1-8d8b-43e9-b6b0-75da7634bfc9",
+          "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389"
+        ],
+        "id": 516,
+        "title": "Introduction to Data",
+        "description": "Learn the basic concepts of data analysis and descriptive statistics. Learn how to manipulate, analyze and visualize data in Excel and Google Sheets. Learn about business metrics across a wide range of business areas (marketing, sales, growth and finance). Finally, learn about forecasting sales and financial metrics.",
+        "last_updated": "2024-10-26",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/introduction-to-data-analytics-for-business--cd0022",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/introduction-to-data-analytics-for-business--cd0022_introduction_to_data"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213",
+          "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389"
+        ],
+        "id": 518,
+        "title": "Data Storytelling",
+        "description": "In this course, you will learn the end-to-end process for telling a story and providing a recommendation based on data. You’ll learn to create a “ghost deck” to define a problem statement, scope possible analyses, and outline a set of potential solutions, along with next steps. You’ll also learn to identify what type of data analysis tool is appropriate for specific types of visualizations. You will learn how to identify limitations and biases in data. Lastly, you’ll learn to create a polished deck that uncovers the story from within the data through data visualizations.",
+        "last_updated": "2024-10-26",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/data-storytelling--cd0233",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-storytelling--cd0233_data_storytelling"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389"
+        ],
+        "id": 519,
+        "title": "Advanced Data Analysis with Power BI",
+        "description": "Using Power BI, the overarching goal of the course is to help students become effective at the process of retrieving, analyzing, and visualizing data in order to answer questions and draw conclusions. After learning about descriptive and inferential statistics, histograms, linear regression, and the concepts of correlation and probability, the course moves into M, the language of Power Query to build custom formulas as part of the data transformation process. Students then learn the language of DAX to analyze data. The final lesson of the course goes through a number of visualizations in Power BI and explores how those visuals may be used, edited, or enhanced to effectively relay information to an audience.",
+        "last_updated": "2024-10-25",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/advanced-data-analysis-with-power-bi--cd0014",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/advanced-data-analysis-with-power-bi--cd0014_advanced_data_analysis_with_power_bi"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3cb69f14-c297-474a-8950-5e7af4da0049",
+          "http://data.europa.eu/esco/skill/457c2e47-07e6-4073-827e-e1c21f3e5869",
+          "http://data.europa.eu/esco/skill/4a460161-eaea-4fe2-bd0e-164ccc635be1",
+          "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+          "http://data.europa.eu/esco/skill/7935deb6-0bed-4e38-985e-1f83b8e16940",
+          "http://data.europa.eu/esco/skill/d62d2b4c-a6f8-439e-8a1b-4f29ab5f2c47",
+          "http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a"
+        ],
+        "id": 522,
+        "title": "AI Algorithms in Trading",
+        "description": "Learn how to analyze alternative data and use machine learning to generate trading signals. Run a backtest to evaluate and combine top performing signals.Welcome To Term II\nWelcome to Term 2! Say hello to your instructors and get an overview of the program.\n Intro to Natural Language Processing\nLearn how to build a Natural Language Processing pipeline.\n Text Processing\nLearn to prepare text obtained from different sources for further processing, by cleaning, normalizing and splitting it into individual words or tokens.\n Feature Extraction\nTransform text using methods like Bag-of-Words, TF-IDF, Word2Vec and GloVE to extract features that you can use in machine learning models.\n Financial Statements\nLearn how to scrape data from financial documents using Regular Expressions and BeautifulSoup\n Basic NLP Analysis\nLearn how to apply to NLP to financial statements\n Project 5: NLP on Financial Statements\nNLP Analysis on 10-k financial statements to generate an alpha factor.\n Introduction to Neural Networks\nIn this lesson, Luis will teach you the foundations of deep learning and neural networks. You'll also implement gradient descent and backpropagation in python, right here in the classroom!\n Training Neural Networks\nNow that you know what neural networks are, in this lesson you will learn several techniques to improve their training.\n Deep Learning with PyTorch\nLearn how to use PyTorch for building deep learning models\n Recurrent Neural Networks\nLearn how to use recurrent neural networks to learn from sequential data such as text. Build a network that can generate realistic text one letter at a time.\n Embeddings & Word2Vec\nIn this lesson, you'll learn about embeddings in neural networks by implementing the Word2Vec model.\n Sentiment Prediction RNN\nImplement a sentiment prediction RNN for predicting whether a movie review is positive or negative!\n Project 6: Sentiment Analysis with Neural Networks\nBuild a deep learning model to classify the sentiment of messages.\n Overview\nLearn about machine learning from a bird's-eye-view.\n Decision Trees\nDecision trees are a structure for decision-making where each decision leads to a set of consequences or additional decisions.\n Model Testing and Evaluation\nLearn about metrics to evaluate models and about how to avoid over- and underfitting.\n Random Forests\nLearn about random forest models and how to use them to combine alpha factors.\n Feature Engineering\nLearn to engineer features such as market dispersion, market volatility, sector and date parts. Also learn to engineer targets (labels) that are robust to market changes over time.\n Overlapping Labels\nLearn about an issue with non-independent labels that comes up during alpha combination with machine learning models.\n Feature Importance\nFeature importance helps us decide how relevant each feature is to a machine learning model's predictions. Learn about two methods for calculating feature importance.\n Project 7: Combining Signals for Enhanced Alpha\nBuild a random forest to generate better alpha.\n Intro to Backtesting\nBacktesting helps you determine whether or not your strategies can be generalizable to future unseen data.\n Optimization with Transaction Costs\nLearn about how to make the portfolio optimization in a backtest more realistic, and also more computationally efficient.\n Attribution\nUse performance attribution to determine how each factor contributed to the portfolio's results.",
+        "last_updated": "2024-10-08",
+        "rating": 9.2,
+        "price": null,
+        "url": "https://www.udacity.com/course/ai-for-trading--nd880",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-for-trading--nd880_ai_algorithms_in_trading"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+          "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+          "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+          "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+          "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5"
+        ],
+        "id": 523,
+        "title": "Python Refresher (Optional)",
+        "description": "Why Python Programming\nWelcome to Introduction to Python! Here's an overview of the course.\n Data Types and Operators\nFamiliarize yourself with the building blocks of Python! Learn about data types and operators, compound data structures, type conversion, built-in functions, and style guidelines.\n Control Flow\nBuild logic into your code with control flow tools! Learn about conditional statements, repeating code with loops and useful built-in functions, and list comprehensions.\n Functions\nLearn how to use functions to improve and reuse your code! Learn about functions, variable scope, documentation, lambda expressions, iterators, and generators.",
+        "last_updated": "2024-10-08",
+        "rating": 9.2,
+        "price": null,
+        "url": "https://www.udacity.com/course/ai-for-trading--nd880",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-for-trading--nd880_python_refresher_(optional)"
+      },
+      {
+        "skills": [],
+        "id": 526,
+        "title": "Statistics (Optional)",
+        "description": "Descriptive Statistics - Part I\nIn this lesson, you will learn about data types, measures of center, and the basics of statistical notation.\n Descriptive Statistics - Part II\nIn this lesson, you will learn about measures of spread, shape, and outliers as associated with quantitative data. You will also get a first look at inferential statistics.\n Admissions Case Study\nLearn to ask the right questions, as you learn about Simpson's Paradox.\n Probability\nGain the basics of probability using coins and die.\n Binomial Distribution\nLearn about one of the most popular distributions in probability - the Binomial Distribution.\n Conditional Probability\nNot all events are independent. Learn the probability rules for dependent events.\n Bayes Rule\nLearn one of the most popular rules in all of statistics - Bayes rule.\n Python Probability Practice\nTake what you have learned in the last lessons and put it to practice in Python.\n Normal Distribution Theory\nLearn the mathematics behind moving from a coin flip to a normal distribution.\n Sampling distributions and the Central Limit Theorem\nLearn all about the underpinning of confidence intervals and hypothesis testing - sampling distributions.\n Confidence Intervals\nLearn how to use sampling distributions and bootstrapping to create a confidence interval for any parameter of interest.\n Hypothesis Testing\nLearn the necessary skills to create and analyze the results in hypothesis testing.",
+        "last_updated": "2024-10-08",
+        "rating": 9.2,
+        "price": null,
+        "url": "https://www.udacity.com/course/ai-for-trading--nd880",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-for-trading--nd880_statistics_(optional)"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/d62d2b4c-a6f8-439e-8a1b-4f29ab5f2c47"
+        ],
+        "id": 527,
+        "title": "Machine Learning (Optional)",
+        "description": "Linear Regression\nLinear regression is a very effective algorithm to predict numerical data.\n Naive Bayes\nNaive Bayesian Algorithms are powerful tools for creating classifiers for incoming labeled data.\n Clustering\nClustering is one of the most common methods of unsupervised learning. Here, we'll discuss the K-means clustering algorithm.\n Decision Trees\nDecision trees are a structure for decision-making where each decision leads to a set of consequences or additional decisions.",
+        "last_updated": "2024-10-08",
+        "rating": 9.2,
+        "price": null,
+        "url": "https://www.udacity.com/course/ai-for-trading--nd880",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-for-trading--nd880_machine_learning_(optional)"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+          "http://data.europa.eu/esco/skill/a7e17d18-93e2-4eff-8ada-f1eff25c1189"
+        ],
+        "id": 532,
+        "title": "Data Preparation with Alteryx",
+        "description": "The course 'Data Preparation with Alteryx' covers essential topics for effective data preparation and analysis. Starting with understanding data and identifying common issues, students will learn data transformation and blending techniques using Alteryx. The course culminates in a practical lesson on analyzing weather events for insurance decision-making, demonstrating real-world applications of the skills learned.",
+        "last_updated": "2024-10-07",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/data-preparation-with-alteryx--cd13536",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-preparation-with-alteryx--cd13536_data_preparation_with_alteryx"
+      },
+      {
+        "skills": [],
+        "id": 533,
+        "title": "Value-Based Methods",
+        "description": "Apply deep learning architectures to reinforcement learning tasks. Train your own agent that navigates a virtual world from sensory data.",
+        "last_updated": "2024-10-07",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/value-based-methods--cd0373",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/value-based-methods--cd0373_value-based_methods"
+      },
+      {
+        "skills": [],
+        "id": 537,
+        "title": "Small Datasets in Machine Learning",
+        "description": "This learning journey is designed to provide a comprehensive understanding of machine learning models and techniques specifically tailored for small datasets. You'll learn how to effectively utilize small datasets to build powerful models while avoiding common pitfalls associated with data scarcity. We'll cover methodologies and practical applications, allowing you to develop a strong foundation in machine learning techniques that apply to small dataset problems so you can successfully apply these techniques in your projects.",
+        "last_updated": "2024-10-06",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/small-data--cd12528",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/small-data--cd12528_small_datasets_in_machine_learning"
+      },
+      {
+        "skills": [],
+        "id": 538,
+        "title": "Discover Software",
+        "description": "In this course, you will gain practical skills in software applications, explore word processing with Google Docs, delve into artificial intelligence using Google Translate, master logic and programming with Blockly, and learn digital media encoding with Python. You will also enhance your proficiency in these tools and unlock new possibilities for success in the world of software",
+        "last_updated": "2024-10-04",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/discover-software--cd12239",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/discover-software--cd12239_discover_software"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f"
+        ],
+        "id": 540,
+        "title": "Embedded Systems Programming with C/C++",
+        "description": "This Embedded Systems Programming course introduces students to the fundamentals of programming microcontrollers using C/C++. Key topics include Embedded C/C++ basics, bit manipulation for hardware control, and managing interrupts for real-time responsiveness. The course also covers essential code optimization techniques to ensure efficient, reliable software performance on resource-constrained devices. Ideal for those looking to build a strong foundation in embedded systems development.",
+        "last_updated": "2024-10-03",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/embedded-systems-programming-with-c-plus-plus--cd13411",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/embedded-systems-programming-with-c-plus-plus--cd13411_embedded_systems_programming_with_c/c++"
+      },
+      {
+        "skills": [],
+        "id": 547,
+        "title": "Knowledge Mining With Azure AI Search",
+        "description": "In this course, you'll learn how to build end-to-end solutions with Azure Cognitive Search. You'll learn how to import data into Cognitive Search, enrich data using built-in and custom skills, and consume data from Cognitive Search in your applications.",
+        "last_updated": "2024-09-30",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/knowledge-mining-with-azure-cognitive-search--cd0463",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/knowledge-mining-with-azure-cognitive-search--cd0463_knowledge_mining_with_azure_ai_search"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+          "http://data.europa.eu/esco/skill/2dfa5bd5-c87c-461c-bce9-69b2c58732bd",
+          "http://data.europa.eu/esco/skill/8684e6e6-15be-4908-815e-72236400b0a3",
+          "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5"
+        ],
+        "id": 548,
+        "title": "Go Language (Golang)",
+        "description": "Students will learn the fundamentals skills, including variables, loops, data structures, functions, interfaces, structs, and maps. Then students will use those skills to test and build an actual web server.",
+        "last_updated": "2024-09-13",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/golang--cd11970",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/golang--cd11970_go_language_(golang)"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2"
+        ],
+        "id": 549,
+        "title": "Leveraging Data with AI",
+        "description": "This course is for product managers who want to build AI products. It does not require any prior familiarity with AI. You'll start by learning how AI can be applied, the different types of AI, data needs for AI, and the AI product lifecycle. Then, you'll dive deeper into two types of AI that can leverage existing datasets: personalization and forecasting. You'll learn some technical details about how these models work and how to evaluate them, and practice what you've learned with hands-on exercises. Finally, you'll pull this all together into a project where you'll develop a PRD for an AI-enabled gift recommendation system in an e-commerce setting.",
+        "last_updated": "2024-09-11",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/leveraging-data-with-AI--cd13580",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/leveraging-data-with-AI--cd13580_leveraging_data_with_ai"
+      },
+      {
+        "skills": [],
+        "id": 554,
+        "title": "GitHub Actions",
+        "description": "Mastering GitHub Actions is designed to equip learners with practical skills in automating and optimizing software development workflows using GitHub Actions. You'll create custom workflows, including continuous integration (CI) and continuous deployment (CD) processes, and tailor them for real-world applications.",
+        "last_updated": "2024-09-04",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/github-actions--cd13461",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/github-actions--cd13461_github_actions"
+      },
+      {
+        "skills": [],
+        "id": 555,
+        "title": "Data Structures",
+        "description": "Learn about the core data structures used in programming.",
+        "last_updated": "2024-09-02",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/data-structures--cd0328",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-structures--cd0328_data_structures"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3c2e6f38-42c1-46ec-b782-5854b2db330d",
+          "http://data.europa.eu/esco/skill/afa14e38-5973-4cce-a077-f796c1ced2cc"
+        ],
+        "id": 556,
+        "title": "Blockchain Fluency",
+        "description": "In this course, you learn the basics of blockchain, blockchain transactions, data on the blockchain, and the differences between a public blockchain and a private blockchain.",
+        "last_updated": "2024-08-30",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/blockchain-fluency--cd12332",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/blockchain-fluency--cd12332_blockchain_fluency"
+      },
+      {
+        "skills": [],
+        "id": 565,
+        "title": "Introduction to Data Analysis with Pandas and NumPy",
+        "description": "Learn the data analysis process of questioning, wrangling, exploring, analyzing, and communicating data. You will work with data in Python using libraries like NumPy and pandas.",
+        "last_updated": "2024-08-06",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/intro-to-data-analysis--cd12529",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-data-analysis--cd12529_introduction_to_data_analysis_with_pandas_and_numpy"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f"
+        ],
+        "id": 570,
+        "title": "Data Stewardship Fluency",
+        "description": "This course will give you an introduction to data stewardship. You will be introduced to who data stewards are, the importance of data stewards, and the data management and governance responsibility of a data steward.",
+        "last_updated": "2024-07-30",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/data-stewardship-fluency--cd12589",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-stewardship-fluency--cd12589_data_stewardship_fluency"
+      },
+      {
+        "skills": [],
+        "id": 572,
+        "title": "Introduction to Artificial Intelligence",
+        "description": "In this course, you'll learn about the foundations of AI. You'll configure your programming environment to work on AI problems with Python. At the end of the course you'll build a Sudoku solver and solve constraint satisfaction problems.",
+        "last_updated": "2024-07-29",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/intro-to-artificial-intelligence--cd0327",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-artificial-intelligence--cd0327_introduction_to_artificial_intelligence"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42"
+        ],
+        "id": 573,
+        "title": "Azure API Management",
+        "description": "This course introduces students to utilizing Azure API Management. It shows how to create basic APIs in Azure and expose them via API management. Learners will reinforce why to use API management versus a non-managed API. Learners will implement APIs through Azure API Management. Additionally, learners will apply policies, security, and monitoring to APIs in API Management. Learners will create a weather data API project and expose and manage it in Azure API Management.",
+        "last_updated": "2024-07-29",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/azure-api-management--cd13426",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/azure-api-management--cd13426_azure_api_management"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8"
+        ],
+        "id": 574,
+        "title": "Planning and Publishing iOS Apps",
+        "description": "This course covers the foundational aspects of planning, designing, and publishing iOS applications. You will learn how to effectively plan and design iOS projects, scaffold projects for success, navigate software development workflows specific to iOS, and eventually publish apps to the App Store. By the end of the course, you'll explore and experience the entire iOS app development process.",
+        "last_updated": "2024-07-29",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/planning-and-publishing-iOS-apps--cd13103",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/planning-and-publishing-iOS-apps--cd13103_planning_and_publishing_ios_apps"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+          "http://data.europa.eu/esco/skill/a420a3ed-32a1-4ab8-b590-cba5a89bc8f8"
+        ],
+        "id": 575,
+        "title": "Networking and Concurrency for iOS Apps",
+        "description": "In this course, you'll learn how to integrate data from the Internet and websites into your applications, including APIs, networking, authentication, and concurrency. You'll also learn how to integrate these concepts into iOS app UI design, with a focus on practical application through a travel journey project. By the end of the course, you'll have a solid foundation in skills for leveraging networking and managing concurrency in your iOS apps.",
+        "last_updated": "2024-07-29",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/networking-and-concurrency-for-iOS-apps--cd13101",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/networking-and-concurrency-for-iOS-apps--cd13101_networking_and_concurrency_for_ios_apps"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/020918ef-4b55-47c1-8430-ab7b8f6a7377",
+          "http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a",
+          "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779"
+        ],
+        "id": 576,
+        "title": "iOS Application Data with SwiftData",
+        "description": "In this course, you'll master data management and persistence in iOS 17+ using Swift, SwiftUI, and SwiftData. You will start with the basics of creating views and managing state with @State, @Binding, and @EnvironmentObject. As you progress, you'll learn to define data models and schemas, implement CRUD operations, and manage related data. Advanced topics include data migrations for managing data models. Through hands-on exercises and real-world examples, you'll build several data-driven iOS applications.",
+        "last_updated": "2024-07-29",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/iOS-application-data-with-swiftdata--cd13102",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/iOS-application-data-with-swiftdata--cd13102_ios_application_data_with_swiftdata"
+      },
+      {
+        "skills": [],
+        "id": 578,
+        "title": "Data Architecture Foundations",
+        "description": "In this course, you will cover the foundations of data architecture.",
+        "last_updated": "2024-07-29",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/data-architecture-foundations--cd0041",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-architecture-foundations--cd0041_data_architecture_foundations"
+      },
+      {
+        "skills": [],
+        "id": 582,
+        "title": "Data Pipelines with Azure",
+        "description": "In this course, you’ll learn to build, orchestrate, automate and monitor data pipelines in Azure using Azure Data Factory and pipelines in Azure Synapse Analytics. You’ll build, trigger, and monitor data pipelines on the Azure platform for analytical workloads and run data transformations, optimize data flows, and work with data pipelines in production.",
+        "last_updated": "2024-07-27",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/data-pipelines-with-azure--cd11532",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-pipelines-with-azure--cd11532_data_pipelines_with_azure"
+      },
+      {
+        "skills": [],
+        "id": 584,
+        "title": "Introduction to Neural Networks with TensorFlow",
+        "description": "Learn the fundamentals of neural networks with Python and TensorFlow, and then use your new skills to create your own image classifier—an application that will first train a deep learning model on a dataset of images and then use the trained model to classify new images.",
+        "last_updated": "2024-07-15",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/introduction-to-neural-networks-with-tensorflow--cd0375",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/introduction-to-neural-networks-with-tensorflow--cd0375_introduction_to_neural_networks_with_tensorflow"
+      },
+      {
+        "skills": [],
+        "id": 585,
+        "title": "Building a Custom OpenAI Chatbot",
+        "description": "In this course, we will create a custom Q&A bot powered by OpenAI! Along the way, you'll learn how OpenAI works and how to leverage its powerful language processing capabilities to build a functional Q&A bot that can provide insightful answers to your questions and impress your friends with its knowledge. We'll start by creating an unsupervised machine-learning workflow to match the user's question to the relevant context in our dataset. We'll use that workflow to send a custom prompt that includes this context to an OpenAI text completion model. The output will be a custom response that is better aligned with our user's need for accurate data about recent events.",
+        "last_updated": "2024-07-12",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/build-a-custom-chatbot-with-openAI-api--cd12792",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/build-a-custom-chatbot-with-openAI-api--cd12792_building_a_custom_openai_chatbot"
+      },
+      {
+        "skills": [],
+        "id": 587,
+        "title": "Efficient I2C Communication and Sensor Integration",
+        "description": "This course covers I2C communications, debugging I2C devices, and integrating accelerometer sensors. You will learn to interface, transmit data, debug I2C devices, and utilize accelerometers in embedded systems, gaining practical skills for reliable implementation and troubleshooting.",
+        "last_updated": "2024-07-04",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/efficient-I2C-communication-and-sensor-integration--cd12748",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/efficient-I2C-communication-and-sensor-integration--cd12748_efficient_i2c_communication_and_sensor_integration"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+          "http://data.europa.eu/esco/skill/6e4f75b4-c60f-4623-a9ba-760c8245753b"
+        ],
+        "id": 588,
+        "title": "Embedded Systems: Sensor Integration and Communication",
+        "description": "This course covers sensor integration and communication protocols. You will learn about different types of sensors, including external and ultrasonic sensors, and their interfacing techniques. The course also teaches essential communication protocols for effective data transmission. By the end of this course, you will be equipped to implement and manage sensor-based systems in embedded applications.",
+        "last_updated": "2024-07-01",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/sensor-integration-and-communication--cd12747",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/sensor-integration-and-communication--cd12747_embedded_systems:_sensor_integration_and_communication"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/b99c9b86-b16f-4592-8505-de3d9c99e25b",
+          "http://data.europa.eu/esco/skill/d97c894e-d330-4bd3-b8ba-138fc11855ee"
+        ],
+        "id": 589,
+        "title": "Digital Arts and AI Tools Fluency",
+        "description": "Unleash your creativity with our introductory course on Digital Arts and AI Tools. This course acts as a gateway to the fascinating world of digital art, combining digital art principles with cutting-edge AI technologies. After taking this course, you will be familiar with the fundamental digital art skills and a variety of AI tools that are rapidly revolutionizing the art landscape. You will start by learning the basics of digital arts, including elements and principles of design, the creative process, and how to work with images using free online software. After that, you will learn how to use DALL-E, ArtBreeder, and Midjourney to create digital artwork. You will also learn how to write effective prompts for AI-based text-to-image tools.",
+        "last_updated": "2024-06-29",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/digital-arts-and-ai-tools-fluency--cd12879",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/digital-arts-and-ai-tools-fluency--cd12879_digital_arts_and_ai_tools_fluency"
+      },
+      {
+        "skills": [],
+        "id": 591,
+        "title": "Introduction to Computer Vision",
+        "description": "Master computer vision and image processing essentials. Learn to extract important features from image data, and apply deep learning techniques to classification tasks",
+        "last_updated": "2024-06-27",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/introduction-to-computer-vision--cd0360",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/introduction-to-computer-vision--cd0360_introduction_to_computer_vision"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+          "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+          "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01"
+        ],
+        "id": 593,
+        "title": "Data Science Fluency",
+        "description": "Learn the data science process, including how to build effective data visualizations, and how to communicate with various stakeholders.",
+        "last_updated": "2024-06-27",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/intro-to-data-science-fluency--cd1880",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-data-science-fluency--cd1880_data_science_fluency"
+      },
+      {
+        "skills": [],
+        "id": 598,
+        "title": "Introduction to Neural Networks with PyTorch",
+        "description": "Learn the fundamentals of neural networks with Python and PyTorch, and then use your new skills to create your own image classifier—an application that will first train a deep learning model on a dataset of images and then use the trained model to classify new images.",
+        "last_updated": "2024-06-16",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/introduction-to-neural-networks-with-pytorch--cd0281",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/introduction-to-neural-networks-with-pytorch--cd0281_introduction_to_neural_networks_with_pytorch"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0ad58425-0691-4da4-b89b-eaa15c09c142"
+        ],
+        "id": 599,
+        "title": "Enterprise-Wide Application Security",
+        "description": "Application security is a critical part of any enterprise security plan. We will be cover how to perform a threat assessment by doing threat modeling and pen testing. This course will teach mitigation and defensive strategies in an application software development lifecycle. The focus will be on covering how enterprises bake security into their lifecycle by shifting security left and the different ways they enhance their security posture across on-premise, cloud, containers, and APIs.",
+        "last_updated": "2024-06-13",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/enterprise-wide-application-security--cd0392",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/enterprise-wide-application-security--cd0392_enterprise-wide_application_security"
+      }
+    ],
+    "count": 3293
+  }
+}

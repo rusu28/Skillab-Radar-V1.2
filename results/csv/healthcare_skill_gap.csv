@@ -1,0 +1,51 @@
+domain,skill_uri,skill_label,capability_family,demand_count,supply_count,course_count,demand_frequency,supply_frequency,course_frequency,gap_score,trend_score,relevance_index
+Healthcare,http://data.europa.eu/esco/skill/23ac233d-84ad-4517-b0f5-8ca19ba2614e,monitor developments in field of expertise,monitoring developments in area of expertise,20,0,0,0.833333,0.0,0.0,0.833333,-0.228772,0.583333
+Healthcare,http://data.europa.eu/esco/skill/8f6ed69b-29d0-4c01-81ba-f05920a185f3,digital curation,"library, information and archival studies",15,0,0,0.625,0.0,0.0,0.625,-0.219048,0.4375
+Healthcare,http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137,think analytically,"processing information, ideas and concepts",14,0,0,0.583333,0.0,0.0,0.583333,-0.219048,0.408333
+Healthcare,http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d,consult with business clients,collaborating and liaising,12,0,4,0.5,0.0,0.210526,0.5,-0.153651,0.394227
+Healthcare,http://data.europa.eu/esco/skill/bdcac0c8-b77a-4640-9eaf-c0cf3efd1e23,process payments,executing financial transactions,11,0,0,0.458333,0.0,0.0,0.458333,-0.166259,0.337704
+Healthcare,http://data.europa.eu/esco/skill/b19e0820-a96f-4c0a-a724-3c056180c1b3,build team spirit,leading others,11,0,0,0.458333,0.0,0.0,0.458333,-0.219048,0.320833
+Healthcare,http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4,adapt to change,demonstrating willingness to learn,9,0,0,0.375,0.0,0.0,0.375,-0.242143,0.2625
+Healthcare,http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363,interact with users to gather requirements,engaging with others to identify needs,9,0,0,0.375,0.0,0.0,0.375,-0.219048,0.2625
+Healthcare,http://data.europa.eu/esco/skill/14832d87-2f2f-4895-b290-e4760ebae42a,solve technical problems,resolving computer problems,7,0,0,0.291667,0.0,0.0,0.291667,-0.095873,0.25623
+Healthcare,http://data.europa.eu/esco/skill/7bb5d9af-0a7e-48a7-a860-0e1ded0f6e75,design customer experiences,"creating artistic, visual or instructive materials",7,0,0,0.291667,0.0,0.0,0.291667,-0.18254,0.212897
+Healthcare,http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77,production processes,"engineering, manufacturing and construction not elsewhere classified",7,0,1,0.291667,0.0,0.052632,0.291667,-0.219048,0.20943
+Healthcare,http://data.europa.eu/esco/skill/a15dab55-f1da-4f85-ae3e-2b5c5b5333ca,provide high quality customer service,selling products or services,7,0,1,0.291667,0.0,0.052632,0.291667,-0.219048,0.20943
+Healthcare,http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d,sales activities,wholesale and retail sales,7,0,0,0.291667,0.0,0.0,0.291667,-0.219048,0.204167
+Healthcare,http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16,packaging functions,sociology and cultural studies,7,0,0,0.291667,0.0,0.0,0.291667,-0.219048,0.204167
+Healthcare,http://data.europa.eu/esco/skill/5c1e686c-92cc-4bd7-9f23-51f9d8a58886,customise guns,fabricating precision instruments or jewellery,7,0,0,0.291667,0.0,0.0,0.291667,-0.219048,0.204167
+Healthcare,http://data.europa.eu/esco/skill/2a0efd9a-4a60-4edc-8561-f2754d24eeb8,mathematical economics,economics,7,1,0,0.291667,0.030303,0.0,0.261364,-0.219048,0.196591
+Healthcare,http://data.europa.eu/esco/skill/c6c1af60-9594-460c-a328-00f9ad292be0,coaching techniques,inter-disciplinary programmes and qualifications involving education,6,0,0,0.25,0.0,0.0,0.25,-0.022857,0.263572
+Healthcare,http://data.europa.eu/esco/skill/f7e7ccb6-fadc-4c35-935d-e1040be40dfe,handle financial transactions,executing financial transactions,6,0,0,0.25,0.0,0.0,0.25,-0.022857,0.263572
+Healthcare,http://data.europa.eu/esco/skill/fef5a450-6230-4a34-b3e3-764252dbdcec,devise special promotions,"developing financial, business or marketing plans",6,0,0,0.25,0.0,0.0,0.25,-0.022857,0.263572
+Healthcare,http://data.europa.eu/esco/skill/c5bc42be-4970-4dce-80e2-af78bae42e84,manage maintenance operations,directing operational activities,6,0,9,0.25,0.0,0.473684,0.25,-0.219048,0.222368
+Healthcare,http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284,communicate with stakeholders,collaborating and liaising,6,0,1,0.25,0.0,0.052632,0.25,-0.219048,0.180263
+Healthcare,http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241,perform quality audits,management skills,6,0,1,0.25,0.0,0.052632,0.25,-0.219048,0.180263
+Healthcare,http://data.europa.eu/esco/skill/378caeec-10a0-4162-b75c-ab374a42e93d,e-procurement,wholesale and retail sales,6,0,0,0.25,0.0,0.0,0.25,-0.219048,0.175
+Healthcare,http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82,study a collection,conducting academic or market research,6,0,0,0.25,0.0,0.0,0.25,-0.219048,0.175
+Healthcare,http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352,achieve sales targets,selling products or services,6,0,0,0.25,0.0,0.0,0.25,-0.219048,0.175
+Healthcare,http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db,control production,planning production processes,6,0,0,0.25,0.0,0.0,0.25,-0.219048,0.175
+Healthcare,http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14,improve business processes,developing operational policies and procedures,6,0,0,0.25,0.0,0.0,0.25,-0.219048,0.175
+Healthcare,http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d,ensure compliance with company regulations,ensuring compliance with legislation,6,0,0,0.25,0.0,0.0,0.25,-0.219048,0.175
+Healthcare,http://data.europa.eu/esco/skill/bda0d115-f315-453e-99dc-f8b0e5862db3,ensure compliance with policies,supervising a team or group,6,1,0,0.25,0.030303,0.0,0.219697,-0.249143,0.167424
+Healthcare,http://data.europa.eu/esco/skill/345486f3-f265-4fc8-8ed0-5e96e768e333,process booking,entering and transforming information,5,0,0,0.208333,0.0,0.0,0.208333,0.050159,0.270913
+Healthcare,http://data.europa.eu/esco/skill/fdc21239-053c-4b52-9bef-2bc2771a4939,make reservations,accompanying and welcoming people,5,0,0,0.208333,0.0,0.0,0.208333,0.050159,0.270913
+Healthcare,http://data.europa.eu/esco/skill/db9050db-ae5d-4be8-8114-c26f272c3bda,manage health and safety,complying with health and safety procedures,5,0,14,0.208333,0.0,0.736842,0.208333,-0.219048,0.219518
+Healthcare,http://data.europa.eu/esco/skill/47ac9325-b072-4e37-8e40-e6ffed03e851,supervision of persons,management and administration,5,0,5,0.208333,0.0,0.263158,0.208333,-0.219048,0.172149
+Healthcare,http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2,hygiene in a health care setting,occupational health and safety,5,0,3,0.208333,0.0,0.157895,0.208333,-0.219048,0.161623
+Healthcare,http://data.europa.eu/esco/skill/677d5144-4c77-4f8d-afc7-116f4bc0e660,own management skills,management skills,5,0,1,0.208333,0.0,0.052632,0.208333,-0.219048,0.151096
+Healthcare,http://data.europa.eu/esco/skill/7d9d73a8-08df-4624-a5df-95cb220c0736,cosmetics,hair and beauty services,5,0,1,0.208333,0.0,0.052632,0.208333,-0.219048,0.151096
+Healthcare,http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68,perform project management,"directing, supervising and coordinating projects",5,0,0,0.208333,0.0,0.0,0.208333,-0.219048,0.145833
+Healthcare,http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328,propose ICT solutions to business problems,designing ict systems or applications,5,0,0,0.208333,0.0,0.0,0.208333,-0.230476,0.145833
+Healthcare,http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8,pharmaceutical technology,pharmacy,5,0,0,0.208333,0.0,0.0,0.208333,-0.219048,0.145833
+Healthcare,http://data.europa.eu/esco/skill/f7f56b20-8f05-4731-a1bf-79fdcffc72ce,check deliveries on receipt,executing financial transactions,5,0,0,0.208333,0.0,0.0,0.208333,-0.219048,0.145833
+Healthcare,http://data.europa.eu/esco/skill/08e2ff26-88ff-47b5-9d37-d19ace01b075,manage feedback,following instructions and procedures,6,2,0,0.25,0.060606,0.0,0.189394,-0.022857,0.24842
+Healthcare,http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389,Java (computer programming),using digital tools for collaboration and productivity,6,2,0,0.25,0.060606,0.0,0.189394,-0.188952,0.165372
+Healthcare,http://data.europa.eu/esco/skill/fc3cdc2c-7b79-4b5c-a4b0-f3b996fef849,attend meetings,collaborating and liaising,5,1,1,0.208333,0.030303,0.052632,0.17803,-0.219048,0.143521
+Healthcare,http://data.europa.eu/esco/skill/0e21e183-e787-4f23-a240-93b416c088c2,maintain personal hygiene standards,management skills,5,1,0,0.208333,0.030303,0.0,0.17803,-0.219048,0.138258
+Healthcare,http://data.europa.eu/esco/skill/4b406514-b3ed-4906-a347-7ebe6be52450,sell tourist packages,selling products or services,4,0,1,0.166667,0.0,0.052632,0.166667,0.184762,0.314311
+Healthcare,http://data.europa.eu/esco/skill/18d39e12-b7f5-4426-8b84-afd3d43af20e,arrange bookings,performing general clerical and administrative tasks,4,0,0,0.166667,0.0,0.0,0.166667,0.123175,0.278254
+Healthcare,http://data.europa.eu/esco/skill/0fe57279-53a8-478f-bcf9-dfe8172f0fb6,respond to inquiries in written form,developing professional relationships or networks,4,0,0,0.166667,0.0,0.0,0.166667,0.123175,0.278254
+Healthcare,http://data.europa.eu/esco/skill/68aefa78-9a8c-4d5f-879a-abcfe1cd464f,adhere to health well-being and safety,complying with health and safety procedures,4,0,9,0.166667,0.0,0.473684,0.166667,-0.219048,0.164035
+Healthcare,http://data.europa.eu/esco/skill/ed1fbdc3-1071-423c-9bb4-e3288ca6d1fe,hardware components suppliers,wholesale and retail sales,4,0,1,0.166667,0.0,0.052632,0.166667,-0.146032,0.148914
+Healthcare,http://data.europa.eu/esco/skill/68698869-c13c-4563-adc7-118b7644f45d,identify customer's needs,engaging with others to identify needs,4,0,5,0.166667,0.0,0.263158,0.166667,-0.219048,0.142982

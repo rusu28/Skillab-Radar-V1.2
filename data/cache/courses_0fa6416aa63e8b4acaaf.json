@@ -1,0 +1,1516 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "https://skillab-tracker.csd.auth.gr/api/courses",
+    "params": {
+      "page": 2,
+      "page_size": 300
+    },
+    "data": {
+      "keywords": [
+        "software",
+        "developer",
+        "programming",
+        "python",
+        "java",
+        "javascript",
+        "typescript",
+        "data",
+        "database",
+        "SQL",
+        "cloud",
+        "DevOps",
+        "cybersecurity",
+        "AI",
+        "machine learning",
+        "frontend",
+        "backend",
+        "full stack",
+        "web",
+        "API",
+        "mobile",
+        "network",
+        "systems",
+        "Linux",
+        "Docker",
+        "Kubernetes",
+        "analytics",
+        "engineer",
+        "digital",
+        "automation",
+        "testing",
+        "QA",
+        "architecture",
+        "infrastructure",
+        "application"
+      ],
+      "keywords_logic": "or"
+    }
+  },
+  "response": {
+    "items": [
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d"
+        ],
+        "id": 118,
+        "title": "DC Motors & Encoders",
+        "description": "In this course, you will explore Embedded Systems, delving into direct current motors, encoders, reading rotary encoders, and mastering servo motors. You will also gain practical knowledge in controlling motors, understanding encoder feedback, interpreting rotary encoder signals, and effectively utilizing servo motors.Direct Current Motors\nIn this lesson you will learn everything about DC motors, working principles, applications and how to control their direction and speed.\n Encoders\nIn this lesson you will learn about encoders, how they work using photodetectors and some of their applications. Also you will learn about gray code which helps on error correction when using encoders\n Reading Rotary Encoders\nIn this lesson you will learn about the process to read rotary encoders, explore how to read one of the most common rotary encoders and the difference between manual and interrupt readings.",
+        "last_updated": "2025-02-13",
+        "rating": null,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/introduction-to-robotics--nd002-embsys",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/introduction-to-robotics--nd002-embsys_dc_motors_&_encoders"
+      },
+      {
+        "skills": [],
+        "id": 119,
+        "title": "Enhancing Motor Control Skills",
+        "description": "Controlling Servo Motors\nIn this lesson you will be diving into the world of robot movement where servo motors play a critical role. By the end of this lesson, you will be able to control servo motors using PWM.\n Advanced Analog Input\nIn this lesson you will learn about advanced analog input reading and how to configure and use the Analog to Digital converter to read rotary and slide potentiometers and other analog devices.",
+        "last_updated": "2025-02-13",
+        "rating": null,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/introduction-to-robotics--nd002-embsys",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/introduction-to-robotics--nd002-embsys_enhancing_motor_control_skills"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/08e2ff26-88ff-47b5-9d37-d19ace01b075",
+          "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+          "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+          "http://data.europa.eu/esco/skill/63f224ea-d889-42ea-b3ef-730ef78c7176",
+          "http://data.europa.eu/esco/skill/7a8fb784-67fa-41e9-a75c-6b491d91f800"
+        ],
+        "id": 123,
+        "title": "Product Development",
+        "description": "The development phase is where ideas transform into tangible products. Learn how to manage the lifecycle of a code change effectively, create detailed test plans to validate product functionality, and gather early feedback to inform iterative improvements. Develop strategies for prioritizing issues to maximize development efficiency and effectiveness. Additionally, you will gain insights into conducting go/no go launch meetings, enabling you to make informed decisions about product readiness.Introduction to Product Development\nAn introduction to the Product Development course, prerequisites, a brief history of product development, and an overview of the course project.\n Influencing without Authority\nInfluencing without authority is a critical skill for a PM. Building credibility and trust are key components, along with being able to negotiate and say no.\n Development Methodologies, Collaboration, & Tools\nAs a PM you won't write code but you do need to understand how work gets done. This lesson covers different development methodologies, how to communicate, and an overview of key engineering processes.\n Testing, Feedback, and Preparing for Launch\nPMs are responsible for shipping high-quality products. This lesson covers using testing and real-world feedback to improve your product, and how to determine when your product is ready to launch.",
+        "last_updated": "2025-02-13",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/product-manager-nanodegree--nd036",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/product-manager-nanodegree--nd036_product_development"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26",
+          "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777"
+        ],
+        "id": 126,
+        "title": "Introduction to Web Development",
+        "description": "Get acquainted with how the web works! Learn about your browser, the internet, and a filetype called HTML. HTML stands for \"Hypertext Markup Language.\" HTML is the language used to create webpages. Learn the basics of HTML to create a simple web page!The Web and HTML\nIn this lesson, we'll be exploring how to create web pages—and, along the way, you'll learn some important concepts about how computer languages work.\n Basic HTML Page\nIn this first lab, you'll demonstrate your understanding of HTML basics by turning your notes from the lesson into a working HTML web page.\n Styling with CSS\nLearn how to add style to your website by using Cascading Style Sheets (CSS).",
+        "last_updated": "2025-02-13",
+        "rating": 9.6,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/intro-to-programming-nanodegree--nd000",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-programming-nanodegree--nd000_introduction_to_web_development"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/89d3faa5-7493-46a3-967b-7b6d4eface0c",
+          "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d"
+        ],
+        "id": 127,
+        "title": "Introduction to Programming with Python I",
+        "description": "Learn basic programming with Python, one of the most versatile and widely used programming languages! You'll first learn core programming concepts and fundamental Python syntax by writing code to make a virtual \"turtle\" robot draw colorful shapes on the screen. You'll then learn how to write Python functions, run Python from a Command-Line Interface (CLI), manipulate strings and lists, and refactor your code to improve its structure and make it more modular.Introduction to VS Code workspaces\n Turtles and Code\nGet started learning core programming concepts with Python, while writing instructions to make a virtual \"turtle\" robot draw colorful shapes on the screen.\n Python Functions\nExpand your knowledge of Python by learning to write functions and conditional statements.\n Shell Workshop\nThe Unix shell is a powerful tool for developers of all sorts. In this lesson, you'll get a quick introduction to the very basics of using it on your own computer.\n Python at Home\nInstall Python on your own computer so you can write code anytime!\n Strings and Lists\nLearn to work with strings and text in your Python code.\n Style and Structure\nGet practice writing longer programs, and improving their structure and style.",
+        "last_updated": "2025-02-13",
+        "rating": 9.6,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/intro-to-programming-nanodegree--nd000",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-programming-nanodegree--nd000_introduction_to_programming_with_python_i"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/495ce586-09d7-4cec-83d7-2821be6590c4",
+          "http://data.europa.eu/esco/skill/5d73a509-4c15-423a-8873-8ea84daa037c",
+          "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d"
+        ],
+        "id": 128,
+        "title": "Introduction to Programming with Python II",
+        "description": "Continue to advance your skills as a beginning programmer! Python is one of the most versatile and widely used programming languages. In this second-level course, you will build on your understanding of fundamental Python and learn some more advanced skills, including how to work with files on your computer's disk and how to use Object-Oriented Programming (OOP) to create classes, objects, and methods.Introduction\nIn this lesson, we'll introduce you to your instructors, give you an overview of what you'll be learning, and provide a review you can use to check your pre-existing Python skills.\n Working with files\nLearn to work with files on your disk using Python code: listing files in a directory, moving files around, and reading & writing the contents of text files.\n Web APIs\nLearn to interact with Web APIs using the requests module, manipulate JSON, and use dictionaries.\n Objects and Classes\nLearn to create new kinds of data object using classes, including creating your own methods.",
+        "last_updated": "2025-02-13",
+        "rating": 9.6,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/intro-to-programming-nanodegree--nd000",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-programming-nanodegree--nd000_introduction_to_programming_with_python_ii"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067"
+        ],
+        "id": 129,
+        "title": "Introduction to Javascript",
+        "description": "In this course, you will use learn the basics of JavaScript! You will learn how to create and use the primary data types in JavaScript and how to use conditionals and loops to control the flow of your JavaScript code. You'll write your first JavaScript functions and you'll learn how to use arrays and objects to store collections of data. By the end of the course, you use your new JavaScript knowledge to build the core functionality of an eCommerce shopping cart.Introduction to VS Code workspaces\n What is JavaScript\nLearn the history of JavaScript and start writing your code immediately using the JavaScript console.\n Data Types & Variables\nLearn to represent real-world data using JavaScript variables, and distinguish between the different data types in the language.\n Conditionals\nLearn how to add logic to your JavaScript programs using conditional statements.\n Loops\nHarness the power of JavaScript loops to reduce code duplication and automate repetitive tasks.\n Functions\nDive into the world of JavaScript functions. Learn to harness their power to streamline and organize your programs.\n Arrays\nLearn how to use Arrays to store complex data in your JavaScript programs.\n Objects\nMeet the next JavaScript data structure: the Object. Learn to use it to store complex data alongside Arrays.",
+        "last_updated": "2025-02-13",
+        "rating": 9.6,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/intro-to-programming-nanodegree--nd000",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-programming-nanodegree--nd000_introduction_to_javascript"
+      },
+      {
+        "skills": [],
+        "id": 130,
+        "title": "Git and GitHub (Optional)",
+        "description": "Programmers use version control software to manage changes to software projects large and small. In these lessons you will learn to keep track of changes to your code using the Git version control software, and collaborate with other programmers using GitHub.What is Version Control\nVersion control is an incredibly important part of a professional programmer's life. In this lesson, you'll learn about the benefits of version control and install the version control tool Git!\n Create a Git Repo\nNow that you've learned the benefits of Version Control and gotten Git installed, it's time you learn how to create a repository.\n Commits, Tags, Conflicts\nKnowing how to review an existing Git repository's history of commits is extremely important. You'll learn how to do just that in this lesson.\n Remotes and Developer Repos\nIn this lesson, you'll learn how to fork another developer's project. Collaborating with other developers can be a tricky process, so you'll learn how to contribute to a public project.",
+        "last_updated": "2025-02-13",
+        "rating": 9.6,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/intro-to-programming-nanodegree--nd000",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-programming-nanodegree--nd000_git_and_github_(optional)"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+          "http://data.europa.eu/esco/skill/44847349-e7ff-4bdb-82b9-6a18140efcaf"
+        ],
+        "id": 132,
+        "title": "Blockchain With Solidity",
+        "description": "This introductory Solidity course covers essential topics for aspiring blockchain developers. It empowers you with the knowledge and skills needed to create smart contracts. You will learn to write your first Solidity smart contract, explore design patterns and dApp interactions, use Hardhat for testing, and take smart contracts to production. The final project involves developing a collateralized loan smart contract. By the end of the course, you will be equipped with the knowledge and skills necessary to excel in the field of blockchain development.Writing Your First Solidity Smart Contract\nLearn to write your first Solidity smart contract, covering Ethereum basics, Solidity syntax, coding environment setup, and contract testing/deployment.\n Solidity Design Patterns and dApp Interactions\nExplore Solidity design patterns, utilize time, apply function modifiers, control access, and use libraries for effective dApp interactions.\n Going to Production with Smart Contracts\nExplore crafting and deploying secure smart contracts, integrating with dApps, understanding Ethereum transactions, and using Hardhat for testing in DeFi.",
+        "last_updated": "2025-02-13",
+        "rating": null,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/blockchain-developer--nd1310",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/blockchain-developer--nd1310_blockchain_with_solidity"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067"
+        ],
+        "id": 134,
+        "title": "Introduction to Javascript [Optional] (Optional)",
+        "description": "Introduction to VS Code workspaces\n What is JavaScript\nLearn the history of JavaScript and start writing your code immediately using the JavaScript console.\n Data Types & Variables\nLearn to represent real-world data using JavaScript variables, and distinguish between the different data types in the language.\n Conditionals\nLearn how to add logic to your JavaScript programs using conditional statements.\n Loops\nHarness the power of JavaScript loops to reduce code duplication and automate repetitive tasks.\n Functions\nDive into the world of JavaScript functions. Learn to harness their power to streamline and organize your programs.\n Arrays\nLearn how to use Arrays to store complex data in your JavaScript programs.",
+        "last_updated": "2025-02-13",
+        "rating": null,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/blockchain-developer--nd1310",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/blockchain-developer--nd1310_introduction_to_javascript_[optional]_(optional)"
+      },
+      {
+        "skills": [],
+        "id": 135,
+        "title": "Asynchronous Programming with JavaScript [Optional] (Optional)",
+        "description": "Introduction to Asynchronous Programming\nIntroduction to the course and concepts to be covered in this course.\n Synchronous Concepts and Asynchronous Callbacks\nTo create a foundation for asynchronous programming concepts, we start with a discussion of synchronous code and the concepts of blocking vs non-blocking, then learn to use asynchronous callbacks.\n Sequencing Events - Promises\nThis lesson goes from basic Promise syntax all the way to implementing Promises, Fetch, and Promise methods.",
+        "last_updated": "2025-02-13",
+        "rating": null,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/blockchain-developer--nd1310",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/blockchain-developer--nd1310_asynchronous_programming_with_javascript_[optional]_(optional)"
+      },
+      {
+        "skills": [],
+        "id": 136,
+        "title": "Introduction to Javascript",
+        "description": "In this course, you will use learn the basics of JavaScript! You will learn how to create and use the primary data types in JavaScript and how to use conditionals and loops to control the flow of your JavaScript code. You'll write your first JavaScript functions and you'll learn how to use arrays and objects to store collections of data. By the end of the course, you use your new JavaScript knowledge to build the core functionality of an eCommerce shopping cart.",
+        "last_updated": "2025-02-13",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/intro-to-javascript--cd2073",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-javascript--cd2073_introduction_to_javascript"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d"
+        ],
+        "id": 137,
+        "title": "Introduction to Programming with Python I",
+        "description": "Learn basic programming with Python, one of the most versatile and widely used programming languages! You'll first learn core programming concepts and fundamental Python syntax by writing code to make a virtual \"turtle\" robot draw colorful shapes on the screen. You'll then learn how to write Python functions, run Python from a Command-Line Interface (CLI), manipulate strings and lists, and refactor your code to improve its structure and make it more modular.",
+        "last_updated": "2025-02-13",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/intro-to-programming-with-python-one--cd0228",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-programming-with-python-one--cd0228_introduction_to_programming_with_python_i"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26",
+          "http://data.europa.eu/esco/skill/3d957fb2-b8f4-4b4c-b955-23299c761ad5",
+          "http://data.europa.eu/esco/skill/be64bb4c-84ac-4c83-8cc7-fc8593e15136",
+          "http://data.europa.eu/esco/skill/eda4d727-4374-49af-ace4-118c7c906835"
+        ],
+        "id": 138,
+        "title": "Web Development Fundamentals",
+        "description": "In this course, you’ll obtain the knowledge and skills to start building professional web pages. You'll learn modern best practices and coding standards for content and page styling with HTML and CSS, as well as responsive layouts, Flexbox, and CSS Grid. With these skills, you'll create a business landing page that meets modern responsiveness and semantic standards.HTML Fundamentals\nLearn the basics of HTML and start developing in VS Code, using different elements to build out the basic structure of webpages. Learn basic HTML debugging techniques using web browser DevTools.\n Semantic HTML\nElevate basic HTML knowledge with up do date semantic standards that optimize your code for better readability, accessibility, and Search Engine Optimization.\n CSS Fundamentals\nLearn the basics of CSS and start using various color, text, and display properties to style your HTML elements and start adding personality and visual appeal to your we pages.\n Layout Techniques and Respoinsive Design\nYou'll learn layout techniques using flexbox, grid, and float for structuring webpages, as well as responsive design techniques and mobile-first principles that accommodate various screen sizes.",
+        "last_updated": "2025-02-13",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011_web_development_fundamentals"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3e23db60-0c3d-498a-a6ac-ffbed0ecb033",
+          "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777"
+        ],
+        "id": 139,
+        "title": "CSS Techniques, Tooling, and Web Accessibility",
+        "description": "This course equips learners with advanced CSS skills, including modern techniques, preprocessors, and scalable CSS architecture. It emphasizes building accessible web experiences and culminates in a hands-on project to create a professional portfolio site.CSS Architecture\nUnderstand CSS Architecture by learning methodologies BEM, OOCSS, and SMACSS to write scalable and maintainable styles with clear organization and improved readability.\n CSS Preprocessors\nExplore CSS Preprocessors: tools that extend CSS with features like variables, nesting, and modularity, offering a structured, efficient syntax for more organized and reusable code.\n Advanced CSS Techniques\nDive into Advanced CSS Techniques: master animations, media queries, and modern design to enhance web aesthetics and dynamic user experiences.\n Web Accessibility\nExplore web accessibility by understanding principles for inclusive design, accessible content creation, ARIA roles, and compliance with WCAG standards to enhance online user experiences.",
+        "last_updated": "2025-02-13",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011_css_techniques,_tooling,_and_web_accessibility"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7"
+        ],
+        "id": 140,
+        "title": "JavaScript and the DOM",
+        "description": "Dive into the essentials of JavaScript and its powerful relationship with the Document Object Model (DOM). This course covers fundamental JavaScript syntax, enabling you to manipulate web content dynamically. You'll explore how to create content and respond to browser events, enhancing user interactions on your site. Performance optimization techniques will help you write efficient code. In the final project, you’ll apply all of your learned concepts to develop a fully functional web project, showcasing your ability to merge JavaScript with HTML and CSS for a seamless user interface.Javascript Syntax\nWith the latest updates to the JavaScript language, a number of syntax improvements have been added. In this lesson, you'll learn to improve your JavaScript code with these syntax updates.\n The Document Object Model\nThe Document Object Model (DOM) allows developers to interact with and control the rendered page. You'll learn how the DOM is formed, what Nodes and Elements are, and how to select items from the DOM.\n Creating Content with JavaScript\nStatic is boring, so we'll use JavaScript and DOM methods to create new page content, update existing content, and delete content. You'll also learn how to check and set the styling of page elements.\n Working with Browser Events\nHundreds of events fire every time you interact with a page. Learn what an event is, how to listen for an event and respond to it, what data is included with an event, and the phases of an event.\n Asynchronous JavaScript and Performance\nLearn about JavaScript's asynchronous operations, event loop, API interactions with Fetch and Promises, and use async/await for efficient, non-blocking code execution.",
+        "last_updated": "2025-02-13",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011_javascript_and_the_dom"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+          "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "id": 141,
+        "title": "Modern Development Practices and Optimization",
+        "description": "This course focuses on streamlining front-end workflows through tools like package managers, task runners, and module bundlers. Learners will master testing techniques, performance optimization, and code quality best practices to build efficient and maintainable web applications.Package Management and Bundlers\nThis course streamlines front-end workflows with package managers, task runners, and bundlers. Learners master testing, optimization, and code quality to build efficient, maintainable web applications\n Testing\nDiscover testing essentials: hypothesis, types, design principles, tools usage, implementation strategy, and analyzing results to ensure robust software development.\n Performance Optimization and Code Quality\nMaster the art of code efficiency with techniques for performance enhancement, debugging, refactoring, and quality assurance practices to ensure robust, maintainable software.",
+        "last_updated": "2025-02-13",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011_modern_development_practices_and_optimization"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/44847349-e7ff-4bdb-82b9-6a18140efcaf"
+        ],
+        "id": 142,
+        "title": "Blockchain With Solidity",
+        "description": "This introductory Solidity course covers essential topics for aspiring blockchain developers. It empowers you with the knowledge and skills needed to create smart contracts. You will learn to write your first Solidity smart contract, explore design patterns and dApp interactions, use Hardhat for testing, and take smart contracts to production. The final project involves developing a collateralized loan smart contract. By the end of the course, you will be equipped with the knowledge and skills necessary to excel in the field of blockchain development.",
+        "last_updated": "2025-02-13",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/blockchain-with-solidity--cd13282",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/blockchain-with-solidity--cd13282_blockchain_with_solidity"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3d957fb2-b8f4-4b4c-b955-23299c761ad5"
+        ],
+        "id": 143,
+        "title": "Web Development Fundamentals",
+        "description": "In this course, you’ll obtain the knowledge and skills to start building professional web pages. You'll learn modern best practices and coding standards for content and page styling with HTML and CSS, as well as responsive layouts, Flexbox, and CSS Grid. With these skills, you'll create a business landing page that meets modern responsiveness and semantic standards.",
+        "last_updated": "2025-02-13",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/web-development-fundamentals--cd0427",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/web-development-fundamentals--cd0427_web_development_fundamentals"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+          "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5"
+        ],
+        "id": 144,
+        "title": "Preparing and Modeling Data with Power BI",
+        "description": "This course is a crucial step in Power BI for anyone who needs to mash together multiple data sources, clean them, restructure them, and harmonize them into a single and efficient data model to support reporting. We’ll cover Power BI’s built-in Extract-Transform-Load (ETL) tool, Power Query, learn foundational data modeling principles, cover some introductory DAX (Data Analytics Expressions), and touch on troubleshooting and optimization.Introduction to Preparing and Modeling Data\nMeet your instructor, get an overview of the course, and learn some fundamental concepts about how Power BI is used to prepare data and generate easy-to-understand visual reports.\n Key Concepts in Data Modeling\nLearn core concepts of data modeling in Power BI, including how to make your data model more efficient by splitting it into fact tables and dimension tables.\n Getting Your Data & Initial Transformations\nLearn how to gather your data using the Get Data feature and tidy it up using basic transformations, so that it is ready for more advance transformations and data modeling.\n Bigger Transformations & Date Tables\nLearn different ways we can take the data we have at our fingertips and use bigger transformations to morph it into what we need for our data model and, ultimately, our reporting.\n Relationships and Relationship-Related DAX\nThis lesson is all about relationships and filters. We'll cover relationship cardinality and direction, filter direction, implicit DAX, quick measure, and custom DAX functions that rely on filters.\n Reports and DAX for Common Reporting Needs\nGo into greater depth on reports and DAX that is specifically helpful for reporting, including how to add basic components to your report and group the data using measures and calculated columns.",
+        "last_updated": "2025-02-12",
+        "rating": 9.2,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/data-analysis-and-visualization-with-power-BI-nanodegree--nd331",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-analysis-and-visualization-with-power-BI-nanodegree--nd331_preparing_and_modeling_data_with_power_bi"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/2dfa5bd5-c87c-461c-bce9-69b2c58732bd",
+          "http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213",
+          "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389"
+        ],
+        "id": 145,
+        "title": "Creating Visualizations with Power BI",
+        "description": "In this course, students will learn how to carry Power BI beyond mere bar charts and transform their reports into data exploration & storytelling tools that companies can use to better understand their data.Welcome to Creating Visualizations with Power BI\nThis lesson will just quickly make sure you've covered everything you need to know and then we'll introduce the topic of data visualization and why it's important.\n Building Compelling Data Visualizations\nIn this lesson, we're going to kick things off with an overview of common data visualizations you will use in Power BI such as bar charts, line charts, and advanced visuals like scatter plot and maps.\n Designing User-Friendly Reports\nIn this lesson, we're going to discuss useful design principles that can help those data visuals really shine.\n Creating Interactive Reports for Data Exploration\nIn this lesson, we'll talk about tools like filters and slicers that will help your users explore data by searching for specific items that interest them.\n Elevating Reports with Advanced Report Features\nIn this lesson, we are going to explore a couple of advanced Power BI features that will tie our previous lessons together and test all the skills you have learned up to this point.",
+        "last_updated": "2025-02-12",
+        "rating": 9.2,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/data-analysis-and-visualization-with-power-BI-nanodegree--nd331",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-analysis-and-visualization-with-power-BI-nanodegree--nd331_creating_visualizations_with_power_bi"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213",
+          "http://data.europa.eu/esco/skill/906d21c9-7a9c-4919-817d-10676f9ddfe4",
+          "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+          "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389"
+        ],
+        "id": 146,
+        "title": "Advanced Data Analysis with Power BI",
+        "description": "Using Power BI, the overarching goal of the course is to help students become effective at the process of retrieving, analyzing, and visualizing data in order to answer questions and draw conclusions. After learning about descriptive and inferential statistics, histograms, linear regression, and the concepts of correlation and probability, the course moves into M, the language of Power Query to build custom formulas as part of the data transformation process. Students then learn the language of DAX to analyze data. The final lesson of the course goes through a number of visualizations in Power BI and explores how those visuals may be used, edited, or enhanced to effectively relay information to an audience.Introduction to the Advanced Data Analytics Course\nIn this first lesson, we'll introduce data analytics and the need for it. We'll take a brief look a each of the lessons to give students a feel for where we will be spending our time.\n Advanced Data Analytics\nThis lesson focuses on the steps of data analysis. We'll also look at specific tools and techniques for analysis including how to construct and interpret histograms and linear regressions.\n Power Query Transformations\nIn this lesson, we’ll dive deep into Power Query to retrieve and organize data. We'll take an in-depth look at M, the language of Power Query that helps in the data cleanup process.\n DAX Functions\nThis lesson focuses on the DAX language to measure, analyze and understand data, including custom formulas, calculated measures, columns, and tables, and common DAX errors.\n Advanced Visualizations\nThe focus of this lesson will be learning to create or edit advanced visualizations to analyze and present information, with the goal of drawing conclusions.",
+        "last_updated": "2025-02-12",
+        "rating": 9.2,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/data-analysis-and-visualization-with-power-BI-nanodegree--nd331",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-analysis-and-visualization-with-power-BI-nanodegree--nd331_advanced_data_analysis_with_power_bi"
+      },
+      {
+        "skills": [],
+        "id": 147,
+        "title": "Preparing and Modeling Data with Power BI",
+        "description": "This course is a crucial step in Power BI for anyone who needs to mash together multiple data sources, clean them, restructure them, and harmonize them into a single and efficient data model to support reporting. We’ll cover Power BI’s built-in Extract-Transform-Load (ETL) tool, Power Query, learn foundational data modeling principles, cover some introductory DAX (Data Analytics Expressions), and touch on troubleshooting and optimization.",
+        "last_updated": "2025-02-12",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/preparing-and-modeling-data--cd0012",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/preparing-and-modeling-data--cd0012_preparing_and_modeling_data_with_power_bi"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/02e22093-3436-46a8-8dc5-b041bc4800cc",
+          "http://data.europa.eu/esco/skill/37bc4dc0-1233-4008-98db-1116d0c1cfcc",
+          "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+          "http://data.europa.eu/esco/skill/89ff28d6-342c-435d-83aa-83e71dbbbc96",
+          "http://data.europa.eu/esco/skill/adcca622-b933-4ba3-bc43-bf371879edc3",
+          "http://data.europa.eu/esco/skill/ed0718f6-5823-4c74-9749-2936c9c06203",
+          "http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42"
+        ],
+        "id": 149,
+        "title": "Security Engineering Fundamentals",
+        "description": "This course introduces the fundamental concepts and practices of security engineering including basic security principles and practical applications of cryptography. You will also learn strategies to implement risk evaluation, security review, and audit.Introduction to Security Engineering\nIn this lesson, you'll be introduced to the course and what to expect!\n What is Security Engineering?\nIn this lesson, you'll be introduced to Security Engineering and different facets of security.\n Security Principles\nIn this lesson, you'll be introduced to the CIA triad, Authorization, Authentication, Non-Repudiation, and the Principles of Secure Design.\n Practical Cryptography\nIn this lesson, you'll learn about encryption, hashing, and their uses in modern security.\n Risk Evaluation\nIn this lesson, you'll learn how to evaluate risks and begin suggesting mitigations and creating models.\n Security Review and Audit\nIn this lesson, you'll learn the how a Security Engineer interacts with the review and audit process.",
+        "last_updated": "2025-02-11",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/security-engineer-nanodegree--nd698",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/security-engineer-nanodegree--nd698_security_engineering_fundamentals"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/62d07a37-9c9b-40e8-b4e2-5020c7578e24",
+          "http://data.europa.eu/esco/skill/96f80c78-c021-4e15-8f94-784f2961a355",
+          "http://data.europa.eu/esco/skill/ed0718f6-5823-4c74-9749-2936c9c06203"
+        ],
+        "id": 150,
+        "title": "Systems Security",
+        "description": "In this course, you will learn about implementing authentication and authorization You will learn how to build and utilize tools that can alert you to system security breaches and you'll know how to effectively counter them.Introduction to Systems Security\nIn this lesson, you'll be introduced to the course and what to expect!\n Third Party Vulnerabilities\nIn this lesson, you will start learning about third party vulnerabilities and how to protect against them.\n Authentication\nIn this lesson, you will learn about password management tools, securing remote access, and encryption.\n Authorization\nIn this lesson, you will learn about access control, ownership and permissions, and creating rules and filters.\n Isolation\nIn this lesson, you will learn about restricting access, access control, and memory attacks.\n Auditing\nIn this lesson, you will learn about logging and monitoring.",
+        "last_updated": "2025-02-11",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/security-engineer-nanodegree--nd698",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/security-engineer-nanodegree--nd698_systems_security"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/62d07a37-9c9b-40e8-b4e2-5020c7578e24",
+          "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+          "http://data.europa.eu/esco/skill/ab49f767-296b-47d5-af56-0b4a69515b03",
+          "http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42"
+        ],
+        "id": 151,
+        "title": "Infrastructure Security",
+        "description": "In this course, you will be introduced to the industry best practices for security configurations and controls.Infrastructure Security\nThis lesson introduces this course and the instructor to help set your learning path.\n Infrastructure Security Assessment\nIn this lesson you'll set the foundation for good security assessment practices.\n Access Management\nIn this lesson, you'll learn about access management to make sure your files and data are secure.\n Monitoring and Detection\nIn this lesson you'll learn how to monitor and detect issues inside your perimeter.\n Identity Access Management\nIn this lesson you'll learn about identity management.\n Top Security Failures\nIn this lesson you'll learn about the top security failures inside of a perimeter and how to mitigate them",
+        "last_updated": "2025-02-11",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/security-engineer-nanodegree--nd698",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/security-engineer-nanodegree--nd698_infrastructure_security"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+          "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09"
+        ],
+        "id": 152,
+        "title": "Application Security",
+        "description": "Explore the history of application security and gain insights into key concepts in the field. Review the OWASP Top 10, along with best practices to mitigate common vulnerabilities. Apply essential techniques for conducting penetration testing. Perform static code scans using special software and manually test a web application. Understand methods for performing Static Application Security Testing (SAST) and interpret the test results. Write effective security reports and calculate vulnerability severity using the CVSS v3.1 standard. Communicate findings with development and QA teams to collaboratively enhance application security.Introduction to Application Security\nWelcome to Application Security, but before we start let's learn a little about who I am and the history of application security.\n Common Web Application Vulnerabilities\nIn this lesson we will go over who is OWASP and talk about the OWASP Top 10 and recommendations/best practices to mediate them.\n Web Penetration Testing\nIn this lesson we will go over techniques used to conduct penetration testing on a web application.\n Discovery Methodologies\nIn this lesson we will go over Static Application Security Testing and how to read/modify them.\n Vulnerability Response\nIn this section we are going to focus on report writing and how to calculate severity using CVSS v3.1.\n Mitigation and Verification\nWe learned how to find and document all vulnerabilities, but we are not done just yet. Now we need to focus our efforts on communicating with the development and QA teams to achieve a more secure app.",
+        "last_updated": "2025-02-11",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/security-engineer-nanodegree--nd698",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/security-engineer-nanodegree--nd698_application_security"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42"
+        ],
+        "id": 153,
+        "title": "Infrastructure Security",
+        "description": "In this course, you will be introduced to the industry best practices for security configurations and controls.",
+        "last_updated": "2025-02-11",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/infrastructure-security--cd0632",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/infrastructure-security--cd0632_infrastructure_security"
+      },
+      {
+        "skills": [],
+        "id": 154,
+        "title": "Systems Security",
+        "description": "In this course, you will learn about implementing authentication and authorization You will learn how to build and utilize tools that can alert you to system security breaches and you'll know how to effectively counter them.",
+        "last_updated": "2025-02-11",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/system-security--cd0631",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/system-security--cd0631_systems_security"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44"
+        ],
+        "id": 155,
+        "title": "Cybersecurity Foundations",
+        "description": "Security is embedded in all we do online and is a critical job skill and career field. This foundations course explains security fundamentals including core principles, critical security controls, and cybersecurity best practices. Students will also evaluate specific security techniques used to administer a system that meets industry standards and core controls, assess high-level risks, vulnerabilities, and attack vectors of a sample system, and explain ways to establish and maintain the security of different types of computer systems.",
+        "last_updated": "2025-02-07",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/cybersecurity-foundations--cd0001",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cybersecurity-foundations--cd0001_cybersecurity_foundations"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+          "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01"
+        ],
+        "id": 156,
+        "title": "Descriptive Statistics",
+        "description": "Learn how to describe data in terms of data types, measures of center, measures of spread, shape, and outliers. These essential skills in descriptive statistics provide the foundation for more advanced statistical techniques that are used for data science, data analysis, and machine learning.Introduction\nIn this lesson, we kick off the course with an introduction to data and descriptive statistics.\n Data Types\nIn this lesson, we establish key distinctions between different types of data, including quantitative, categorical, ordinal, nominal, continuous, and discrete data types.\n Measures of Center\nIn this lesson, we get into the calculations and use cases for three popular measures of center: mean, median, and mode.\n Notation\nIn this lesson, we demystify the mathematical notation used for random variables, observed values, and aggregations.\n Measures of Spread\nIn this lesson, we get into the calculations and use cases for several popular measures of spread, including five-number summaries, standard deviation, and variance.\n Shape and Outliers\nIn this lesson, we cover two additional forms of descriptive statistics for data distributions: shape and outliers.",
+        "last_updated": "2025-02-05",
+        "rating": null,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/statistics-for-data-analysis-nanodegree--nd588",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/statistics-for-data-analysis-nanodegree--nd588_descriptive_statistics"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0d7f2cce-245a-4d02-9b8d-2e9946cc4c5d"
+        ],
+        "id": 158,
+        "title": "Hypothesis Testing",
+        "description": "Hypothesis testing is one of the most important topics in all of statistics because it tells us whether our conclusions are statistically significant. In this course, you will learn about the fundamental role statistics plays in hypothesis testing as well as how to implement statistical concepts in Python.Introduction\nIn this lesson, we begin the course by meeting the instructors and giving a quick introduction to experimentation.\n Normal Distribution Theory\nIn this lesson, you'll learn the mathematics behind moving from a coin flip to a normal distribution.\n Sampling Distributions and the Central Limit Theorem\nIn this lesson, you'll learn all about the underpinning of confidence intervals and hypothesis testing - sampling distributions.\n Confidence Intervals\nIn this lesson, you'll learn how to use sampling distributions and bootstrapping to create a confidence interval for any parameter of interest.\n Hypothesis Testing\nIn this lesson, you'll learn the necessary skills to create and analyze the results of hypothesis testing.\n A/B Tests\nIn this lesson, you'll work through a case study of how A/B testing works in the context of website metrics for an online education company.",
+        "last_updated": "2025-02-05",
+        "rating": null,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/statistics-for-data-analysis-nanodegree--nd588",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/statistics-for-data-analysis-nanodegree--nd588_hypothesis_testing"
+      },
+      {
+        "skills": [],
+        "id": 159,
+        "title": "Linear and Logistic Regression",
+        "description": "The linear and logistic regression course offers a detailed introduction to fundamental statistical and machine learning algorithms, particularly focusing on regression techniques. The course begins with simple linear regression and progresses to multiple linear regression, equipping students with the ability to analyze relationships between multiple variables. Finally, it covers logistic regression, a powerful tool for classification problems.Introduction\nIn this lesson, we kick off the course with an introduction to machine learning and why linear regression is such an important algorithm.\n Regression\nIn this lesson, you'll use Python to fit linear regression models, as well as understand how to interpret the results of linear models.\n Multiple Linear Regression\nIn this lesson, you'll learn to apply multiple linear regression models in Python. Then you'll learn how to interpret the results and understand if your model fits well.\n Logistic Regression\nIn this lesson, you'll learn to apply logistic regression models in Python as well as how to interpret logistic regression results.",
+        "last_updated": "2025-02-05",
+        "rating": null,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/statistics-for-data-analysis-nanodegree--nd588",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/statistics-for-data-analysis-nanodegree--nd588_linear_and_logistic_regression"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01"
+        ],
+        "id": 160,
+        "title": "Descriptive Statistics",
+        "description": "Learn how to describe data in terms of data types, measures of center, measures of spread, shape, and outliers. These essential skills in descriptive statistics provide the foundation for more advanced statistical techniques that are used for data science, data analysis, and machine learning.",
+        "last_updated": "2025-02-05",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/descriptive-statistics--cd12638",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/descriptive-statistics--cd12638_descriptive_statistics"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/b758675a-b03b-4e4b-897c-57ca14b1a3d0"
+        ],
+        "id": 161,
+        "title": "Probability",
+        "description": "This course is a comprehensive dive into the fundamental concepts and principles of probability. You’ll begin with basic probability theory, then progress to more complex topics such as binomial distributions, conditional probability, and Bayes’ Rule. These skills will enhance your ability to reason about uncertainty and make claims using data.",
+        "last_updated": "2025-02-05",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/probability--cd12639",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/probability--cd12639_probability"
+      },
+      {
+        "skills": [],
+        "id": 162,
+        "title": "Linear and Logistic Regression",
+        "description": "The linear and logistic regression course offers a detailed introduction to fundamental statistical and machine learning algorithms, particularly focusing on regression techniques. The course begins with simple linear regression and progresses to multiple linear regression, equipping students with the ability to analyze relationships between multiple variables. Finally, it covers logistic regression, a powerful tool for classification problems.",
+        "last_updated": "2025-02-05",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/linear-and-logistic-regression--cd12641",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/linear-and-logistic-regression--cd12641_linear_and_logistic_regression"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1"
+        ],
+        "id": 163,
+        "title": "C Programming",
+        "description": "In this course, you'll gain a solid foundation in C programming by understanding how to work with data types, operators, and control structures to build logical workflows. You'll learn to create reusable code using functions, effectively manage data with arrays and pointers, and handle more complex data structures with structs and unions. Through hands-on exercises, you'll master memory management, debugging techniques, and error handling, culminating in a practical project where you'll develop a file compression tool yourself.",
+        "last_updated": "2025-02-04",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/c-programming--cd13409",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/c-programming--cd13409_c_programming"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2"
+        ],
+        "id": 164,
+        "title": "AI/ML Fluency",
+        "description": "In this course, you will learn fundamental topics of artificial intelligence and machine learning. You will learn about what they are, different algorithms/methods, and their applications.",
+        "last_updated": "2025-02-03",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/intro-to-ai-ml-fluency--cd1930",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-ai-ml-fluency--cd1930_ai/ml_fluency"
+      },
+      {
+        "skills": [],
+        "id": 165,
+        "title": "Modern Development Practices and Optimization",
+        "description": "This course focuses on streamlining front-end workflows through tools like package managers, task runners, and module bundlers. Learners will master testing techniques, performance optimization, and code quality best practices to build efficient and maintainable web applications.",
+        "last_updated": "2025-02-03",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/modern-development-practices-and-optimization--cd13955",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/modern-development-practices-and-optimization--cd13955_modern_development_practices_and_optimization"
+      },
+      {
+        "skills": [],
+        "id": 166,
+        "title": "Establishing a Culture of Reliability",
+        "description": "This course is all about how to foster a culture that is based on reliability. We will learn how to utilize best practices for several key areas of being a Site Reliability Engineer (SRE) and how they contribute to a culture of reliability. We will cover how to have balanced and effective on-call rotations as well as how to handle incidents. Next, we will discuss how to review your system throughout its lifecycle to find and mitigate any potential risk factors. Managing system capacity at all phases of a system's lifecycle is another major component to ensuring that everything is operating at maximum reliability. We will round out this course by discussing a thorn in every SRE's side: toil. We will discuss how to identify and reduce toil to maximize time spent performing operational work.",
+        "last_updated": "2025-02-03",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/establishing-a-culture-of-reliability--cd1901",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/establishing-a-culture-of-reliability--cd1901_establishing_a_culture_of_reliability"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+          "http://data.europa.eu/esco/skill/ce8ae6ca-61d8-4174-b457-641de96cbff4"
+        ],
+        "id": 167,
+        "title": "Self Healing Architectures",
+        "description": "Self-healing architecture is resilient enough to withstand failure and resolve issues without human intervention through automation. In this course, you'll gain skills in self-healing architecture design strategies, deployment strategies, and cloud automation",
+        "last_updated": "2025-02-03",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/self-healing-architectures--cd1900",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/self-healing-architectures--cd1900_self_healing_architectures"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/47ca0da1-cae5-4395-ae6b-fd97b9ff48d3"
+        ],
+        "id": 168,
+        "title": "Planning for High Availability and Incident Response",
+        "description": "In this course, we will look at how SREs view availability and reliability for their infrastructure. We'll learn how to create effective monitoring using SLOs and SLIs. We will create dashboards in Grafana. Next, we'll identify all our IT assets, ensure they are configured for high availability. And then we will craft a disaster recovery plan to make sure failover is seamless and automated. After that, we'll deploy the infrastructure to AWS using Terraform. We'll learn the benefits of infrastructure as code. We'll see how easy it is to deploy to multiple regions. Finally, we'll learn how to make databases highly available and disaster recovery ready. We'll look at recovery strategies and implement them in AWS via Terraform.",
+        "last_updated": "2025-02-03",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/planning-for-high-availability-and-incident-response--cd1899",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/planning-for-high-availability-and-incident-response--cd1899_planning_for_high_availability_and_incident_response"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/37bc4dc0-1233-4008-98db-1116d0c1cfcc",
+          "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+          "http://data.europa.eu/esco/skill/f2c63b7a-ed6c-4890-9f8c-7685d172624c"
+        ],
+        "id": 169,
+        "title": "Designing AWS Architecture for Organizations",
+        "description": "Learn to design and implement secure and scalable AWS network architectures. Explore strategies for managing multi-account environments using AWS Organizations and Control Tower. Develop cost and visibility strategies, leveraging tools like AWS Cost Explorer and tagging for effective cost management. Through hands-on exercises, you'll gain the skills to configure VPCs, establish secure connectivity, enforce governance, and optimize costs. By the end of the course, you'll be prepared to architect robust, efficient, and compliant AWS infrastructures for real-world scenarios.Architect Network Connectivity Strategies\nLearn to design secure and scalable AWS network architectures, configure VPCs, implement connectivity using Direct Connect and VPN, and monitor network traffic with AWS tools.\n Design a Multi-Account AWS Environment\nDesign and manage multi-account AWS environments using AWS Organizations and Control Tower, implement governance policies, and set up centralized logging and notification strategies.\n Determine Cost and Visibility Strategies\nAnalyze costs with AWS Cost Explorer, optimize resource usage, implement rightsizing strategies, and use tagging for effective cost allocation and enhanced financial visibility.",
+        "last_updated": "2025-02-03",
+        "rating": 9.2,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063_designing_aws_architecture_for_organizations"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/b483124c-180c-4d3a-8b7c-72e4e7a5b49b",
+          "http://data.europa.eu/esco/skill/e3145bd7-7f35-44ec-a5dc-4417c5c9ab9a"
+        ],
+        "id": 170,
+        "title": "Designing AWS Architecture for Workloads",
+        "description": "The course 'Designing AWS Architecture for Workloads' covers the essential lessons of selecting architecture, migrating workloads, determining new architecture for existing workloads, and creating infrastructure for analytics workloads. Students will learn how to design and implement AWS architecture tailored to various workloads, making informed decisions to optimize performance and efficiency.Selecting Architecture for Workloads\nMaster AWS architecture selection for data workloads: Review strategies, apply Well-Architected Framework, and leverage cloud tools for optimized deployment and migration.\n Migrating workloads\nExplore AWS tools for seamless workload migration. Learn about Discovery, Migration Hub, DMS, and data validation techniques to ensure smooth transitions to the cloud.\n Determining new Architecture for Cloud Workloads\nOptimize AWS workloads using Well-Architected Tool, modernize architecture with AWS services, enhance performance, reliability, and cost efficiency, leverage hands-on exercises.",
+        "last_updated": "2025-02-03",
+        "rating": 9.2,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063_designing_aws_architecture_for_workloads"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/11430d93-c835-48ed-8e70-285fa69c9ae6",
+          "http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42"
+        ],
+        "id": 171,
+        "title": "Modernizing and Optimizing Architecture",
+        "description": "Transform legacy systems and design high-performing, cost-efficient cloud architectures using AWS. Explore modernization techniques like serverless and event-driven designs, and implement optimization strategies for scalability and efficiency. Gain hands-on experience automating infrastructure with AWS CloudFormation, reducing latency with CloudFront, and optimizing resources with Auto Scaling and AWS Budgets. Architect and deploy a cloud-based AI solution using Amazon Bedrock for performance, security, and cost objectives. Modernize and optimize cloud infrastructures for real-world applications.Modernizing and Optimizing Workloads\nModernize workloads with serverless and event-driven architectures, automate infrastructure using AWS CloudFormation, and enhance efficiency with advanced optimization techniques.\n Designing Solutions to Meet Performance Objectives\nDesign high-performance solutions with AWS to reduce latency, improve scalability, and optimize resources using tools like AWS CloudFront and Auto Scaling for real-world cloud applications.\n Identifying Opportunities for Cost Optimizations\nMonitor and optimize AWS costs using tools like AWS Budgets and S3 lifecycle policies, and implement strategies to reduce expenses while maintaining performance and scalability.",
+        "last_updated": "2025-02-03",
+        "rating": 9.2,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063_modernizing_and_optimizing_architecture"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/37bc4dc0-1233-4008-98db-1116d0c1cfcc",
+          "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0"
+        ],
+        "id": 172,
+        "title": "Designing AWS Architecture for Organizations",
+        "description": "Learn to design and implement secure and scalable AWS network architectures. Explore strategies for managing multi-account environments using AWS Organizations and Control Tower. Develop cost and visibility strategies, leveraging tools like AWS Cost Explorer and tagging for effective cost management. Through hands-on exercises, you'll gain the skills to configure VPCs, establish secure connectivity, enforce governance, and optimize costs. By the end of the course, you'll be prepared to architect robust, efficient, and compliant AWS infrastructures for real-world scenarios.",
+        "last_updated": "2025-02-03",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/designing-aws-architecture-for-organizations--cd13784",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/designing-aws-architecture-for-organizations--cd13784_designing_aws_architecture_for_organizations"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/6195c5f7-a4fb-425d-a3dd-c4467c4471a3",
+          "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+          "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+          "http://data.europa.eu/esco/skill/ed0718f6-5823-4c74-9749-2936c9c06203",
+          "http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42"
+        ],
+        "id": 173,
+        "title": "AWS Cloud Fundamentals",
+        "description": "The cloud has become a key enabler for innovation with beneficial features like high availability, unlimited capacity, and on-demand scalability and elasticity. Learn the fundamentals of cloud computing while being introduced to compute power, security, storage, networking, messaging, and management services in the cloud. While learning the fundamentals, you will explore tools and services offered by Amazon Web Services(AWS) through interactive, hands-on exercises. By the end of the course, you will have deployed your first website to AWS.Cloud Computing\nIn this lesson, you will learn the basics of cloud computing including cloud deployment models, benefits, and popular AWS options.\n Servers in the Cloud and Compute Services\nLearn why we need servers, compute power, and security.\n Storage & Content Delivery\nLearn why we need storage and content delivery in the cloud.\n Security\nLearn the importance of security in the cloud.\n Networking & Elasticity\nLearn the basics of networking and elasticity in the cloud.\n Messaging & Containers\nLearn the basics of messaging and containers in the cloud.\n AWS Management\nLearn why we need logging, auditing, and resource management in the cloud.",
+        "last_updated": "2025-02-02",
+        "rating": 8.8,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/cloud-developer-nanodegree--nd9990",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cloud-developer-nanodegree--nd9990_aws_cloud_fundamentals"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/54660948-b811-49a9-874c-bf2be5f280a2"
+        ],
+        "id": 174,
+        "title": "Full Stack Apps on AWS",
+        "description": "Explore the foundational concepts of designing and deploying scalable, extendable, and maintainable full-stack applications using modern cloud architecture.Introduction to Full Stack Apps on AWS\nReview the prerequisites and technical requirements and learn more about what you'll be building.\n REST API Development on AWS\nYou'll learn how to create REST APIs, focusing on client-server communication, URL anatomy, request types, and headers.\n Developing with AWS Databases and Storage\nExplore using AWS RDS and S3 in Node.js apps, covering database setup, data storage, object storage, and integrating AWS services.\n Deploying Applications on AWS\nIn this lesson you will learn the process of configuring, deploying, and launching your applications to AWS.\n Securing AWS Applications\nYou'll explore securing full stack apps on AWS, focusing on password storage, user authentication, implementing Node.js authentication, and secret storage.\n AWS Frontend Development\nBuild a React app that communicates with a backend service and deploy it to Elastic Beanstalk. Use Axios for HTTP requests, handle user authentication, fetch data, and manage app state.",
+        "last_updated": "2025-02-02",
+        "rating": 8.8,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/cloud-developer-nanodegree--nd9990",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cloud-developer-nanodegree--nd9990_full_stack_apps_on_aws"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+          "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+          "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+          "http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42"
+        ],
+        "id": 175,
+        "title": "Monolith to Microservices at Scale",
+        "description": "Microservices are becoming the default mode of developing and deploying applications at scale. Microservices architecture makes it easier to scale an application to a large system and is a great enabler for continuous integration and delivery. The microservices architecture allows independent scaling, independent releases and deployments, and independent development so that each service has its own codebase. In this course, we will cover the best practices on how to develop and deploy microservices. You will learn topics such as different microservice architecture patterns, independent scaling, resiliency, service replication, service registration, and discovery. By the end of this course, you should be able to design and build an application using a microservice architecture.Introduction to Microservices\nUsing microservices is both a technical and business decision. In this lesson you will learn about the use cases that caused microservices to become popular.\n Microservices Design Principles and Best Practices\nWhen applied correctly, microservice architecture can deliver great business value. In this lesson, we will compare microservices and monoliths and discuss best practices for refactoring.\n Containers Using Docker\nApplications are often deployed in containers. In this lesson we'll learn why we use containers and how to use Docker to build our applications to be deployed as containers\n Automating the Application Development Lifecycle\nIn this lesson, we'll learn about why the industry embraces Continuous Integration and Continuous Deployment and how Docker helps streamline the process\n Orchestration with Kubernetes\nKubernetes is a powerful tool that is often used to deploy containers. In this lesson we’ll learn about why we would consider using Kubernetes and to deploy our applications\n Best Practices/Design Patterns for Kubernetes in Production\nIn this lesson we'll learn some of the best practices for running your application in Kubernetes including logging, scale, and security",
+        "last_updated": "2025-02-02",
+        "rating": 8.8,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/cloud-developer-nanodegree--nd9990",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cloud-developer-nanodegree--nd9990_monolith_to_microservices_at_scale"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/a44c0ed6-68b1-457a-9c6d-ea8487bdfeb2"
+        ],
+        "id": 176,
+        "title": "Develop and Deploy Serverless Apps",
+        "description": "Serverless technologies have become very popular recently because they can increase the speed of development and drastically reduce the cost of running a cloud infrastructure. This course combines the theory of using serverless technologies with the practice of developing a complex serverless application and focuses on learning by doing. You will learn advanced serverless features such as implementing WebSockets and stream processing and learn about serverless best practices throughout the course.Developing and Deploying Serverless\nIntroduction to Developing and Deploying Serverless Applications\n Introduction to Serverless\nIntroduction to the course, and Introduction to Serverless\n REST API\nIn this lesson, we will cover the development of REST APIL for a group of images, how to store data in DynamoDB and build a web app using React.\n Event Processing\nIn this lesson you will learn about event processing using Serverless. We will focus on processing different event types with Lambda functions.\n Implementing Authentication\nIn this lesson, we cover authentication and authorization using Serverless. We will cover Authentication, OAuth, Auth0 protocols.",
+        "last_updated": "2025-02-02",
+        "rating": 8.8,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/cloud-developer-nanodegree--nd9990",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cloud-developer-nanodegree--nd9990_develop_and_deploy_serverless_apps"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+          "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b"
+        ],
+        "id": 177,
+        "title": "Monolith to Microservices at Scale",
+        "description": "Microservices are becoming the default mode of developing and deploying applications at scale. Microservices architecture makes it easier to scale an application to a large system and is a great enabler for continuous integration and delivery. The microservices architecture allows independent scaling, independent releases and deployments, and independent development so that each service has its own codebase. In this course, we will cover the best practices on how to develop and deploy microservices. You will learn topics such as different microservice architecture patterns, independent scaling, resiliency, service replication, service registration, and discovery. By the end of this course, you should be able to design and build an application using a microservice architecture.",
+        "last_updated": "2025-02-02",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/monolith-to-microservices-at-scale--cd0354",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/monolith-to-microservices-at-scale--cd0354_monolith_to_microservices_at_scale"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669"
+        ],
+        "id": 178,
+        "title": "Computer Vision",
+        "description": "In this course, you will develop critical Machine Learning skills that are commonly leveraged in autonomous vehicle engineering. You will learn about the life cycle of a Machine Learning project, from framing the problem and choosing metrics to training and improving models. This course will focus on the camera sensor and you will learn how to process raw digital images before feeding them into different algorithms, such as neural networks. You will build convolutional neural networks using TensorFlow and learn how to classify and detect objects in images. With this course, you will be exposed to the whole Machine Learning workflow and get a good understanding of the work of a Machine Learning Engineer and how it translates to the autonomous vehicle context.Introduction to Deep Learning for Computer Vision\nDive into Deep Learning for Computer Vision, learning about its use cases, history, and what you’ll build by the end of the course.\n The Machine Learning Workflow\nMachine learning is more than just building a model - getting each step of the workflow right is crucial.\n Sensor and Camera Calibration\nLearn how to calibrate your camera to remove distortions for improved perception.\n From Linear Regression to Feedforward Neural Networks\nBuild skills in linear and logistic regression before taking on feedforward neural networks, a type of deep learning.\n Image Classification with CNNs\nConvolutional networks improve on feedforward networks for areas such as image classification - let’s get started building them!\n Object Detection in Images\nObject detection builds on classification by finding multiple important objects within a single image - find out how!",
+        "last_updated": "2025-02-02",
+        "rating": 8.4,
+        "price": 20.55,
+        "url": "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013_computer_vision"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/16977544-891e-44d7-86fd-444eadcf90ef"
+        ],
+        "id": 179,
+        "title": "Sensor fusion",
+        "description": "Besides cameras, self-driving cars rely on other sensors with complementary measurement principles to improve robustness and reliability, using sensor fusion. You will learn about the lidar sensor, different lidar types, and relevant criteria for sensor selection. Also, you will learn how to detect objects in a 3D lidar point cloud using a deep-learning approach, and then evaluate detection performance using a set of metrics. In the second half of the course, you will learn how to fuse camera and lidar detections and track objects over time with an Extended Kalman Filter. You will get hands-on experience with multi-target tracking, where you will initialize, update and delete tracks, assign measurements to tracks with data association techniques, and manage several tracks simultaneously.Introduction to Sensor Fusion and Perception\nGet started with sensor fusion and perception, why they are important, and the history of their development in self-driving cars.\n The Lidar Sensor\nLearn about the lidar sensor, capable of capturing important 3D data in point clouds.\n Detecting Objects in Lidar\nDetect objects from the 3D data coming in from a lidar sensor.\n Mid-Term Project: 3D Object Detection\nUse the Waymo dataset to detect 3D objects in the surrounding environment.\n Kalman Filters\nLearn from the best! Sebastian Thrun will walk you through the usage and concepts of a Kalman Filter using Python.\n Extended Kalman Filters\nBuild an Extended Kalman Filter that's capable of handling data from multiple sources.\n Multi-Target Tracking\nGet your tracking skills ready for the real world by learning how to track multiple targets simultaneously.",
+        "last_updated": "2025-02-02",
+        "rating": 8.4,
+        "price": 20.55,
+        "url": "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013_sensor_fusion"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/53b1dcbc-7c51-43cd-9e3a-9ca78afd2895",
+          "http://data.europa.eu/esco/skill/97965983-0da4-4902-9daf-d5cd2693ef73",
+          "http://data.europa.eu/esco/skill/baffa7a3-a6d4-4ea8-a0ad-1afec3fc0acb"
+        ],
+        "id": 180,
+        "title": "Localization",
+        "description": "In this course, you will learn all about robotic localization, from one-dimensional motion models up to using three-dimensional point cloud maps obtained from lidar sensors. You’ll begin by learning about the bicycle motion model, an approach to use simple motion to estimate location at the next time step, before gathering sensor data. Then, you’ll move onto using Markov localization in order to do 1D object tracking. From there, you will learn how to implement two scan matching algorithms, Iterative Closest Point (ICP) and Normal Distributions Transform (NDP), which work with 2D and 3D data. Finally, you will utilize these scan matching algorithms in the Point Cloud Library (PCL) to localize a simulated car with lidar sensing, using a 3D point cloud map obtained from the CARLA simulator.Introduction to Localization\nMeet the team that will guide you through the localization lessons, and learn the intuition behind robotic localization!\n C++ Checkpoint\nAre you ready to build Kalman Filters with C++? Take these quizzes to find out!\n Markov Localization\nLearn the math behind localization, as well as how to implement Markov localization in C++.\n [Optional] Intro to PCL\nLearn about the Point Cloud Library (PCL). Use a simulation highway environment to explore lidar sensing and generate point clouds.\n Creating Scan Matching Algorithms\nLearn about and build two scan matching algorithms for localization: Iterative Closest Point (ICP) and Normal Distributions Transforms (NDT).\n Utilizing Scan Matching\nLearn how to align point clouds with ICP and NDT before leveraging them to localize a self-driving car in a simulated environment!",
+        "last_updated": "2025-02-02",
+        "rating": 8.4,
+        "price": 20.55,
+        "url": "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013_localization"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f"
+        ],
+        "id": 181,
+        "title": "Planning",
+        "description": "Path planning routes a vehicle from one point to another, and it handles how to react when emergencies arise. The Mercedes-Benz Vehicle Intelligence team will take you through the three stages of path planning. First, you’ll apply model-driven and data-driven approaches to predict how other vehicles on the road will behave. Then you’ll construct a finite state machine to decide which of several maneuvers your own vehicle should undertake. Finally, you’ll generate a safe and comfortable trajectory to execute that maneuver.Behavior Planning\nLearn how to think about high-level behavior planning in a self-driving car.\n Trajectory Generation\nUse C++ and the Eigen linear algebra library to build candidate trajectories for the vehicle to follow.\n Motion Planning",
+        "last_updated": "2025-02-02",
+        "rating": 8.4,
+        "price": 20.55,
+        "url": "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013_planning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/20a7df5e-f388-4073-b3e2-4bf7a4c46f28",
+          "http://data.europa.eu/esco/skill/47d491a9-f7c0-4b13-a10f-983d3aa0113e",
+          "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0"
+        ],
+        "id": 187,
+        "title": "Additional Content: Functional Safety (Optional)",
+        "description": "Find additional content around the field of functional safety for autonomous vehicles and a high level overview of ISO 26262.Introduction to Functional Safety\nYou will learn to make safer vehicles using risk evaluation and systems engineering.\n Functional Safety: Safety Plan\nA functional safety plan is critical to any functional safety project. Here you will learn what goes into a safety plan so that you can document your own.\n Functional Safety: Hazard Analysis and Risk Assessment\nIn a hazard analysis and risk assessment, you will identify vehicular malfunctions and evaluate their risk levels. You can then derive safety goals defining how your vehicle will remain safe.\n Functional Safety: Functional Safety Concept\nYou will derive functional safety requirements from the safety goals and then add extra functionality to the system diagram. Finally you document your work, a part of functional safety.\n Functional Safety: Technical Safety Concept\nOnce you have derived functional safety requirements, you drill down into more detail. In the technical safety concept, you refine your requirements into technical safety requirements.",
+        "last_updated": "2025-02-02",
+        "rating": 8.4,
+        "price": 20.55,
+        "url": "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013_additional_content:_functional_safety_(optional)"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080"
+        ],
+        "id": 189,
+        "title": "Generative AI Fundamentals",
+        "description": "Dive into generative AI with this course, which explores its fundamental principles and relationship to prior artificial intelligence innovations. We will walk through popular generative models and how they work, how deep learning models are developed using tools like PyTorch and Hugging Face, and finally, how to customize pre-trained open-source models for a specific use case. In the project, you will apply a cutting-edge technique called parameter-efficient fine-tuning (PEFT), which allows for the adaptation of massive foundation models with minimal usage of computational resources.Introduction to Generative AI Fundamentals\nThis lesson provides the foundational knowledge needed about generative AI: what it is, how it's applied, and explanations of some popular algorithms and architectures for text and image generation.\n Deep Learning Fundamentals\nThis lesson covers the essentials of deep learning for the generative AI practitioner. From perceptrons to transfer learning including an introduction to the PyTorch and Hugging Face Python libraries.\n Foundation Models\nThis lesson explores foundation models in AI, how they differ from traditional models, how you can apply them to various tasks and evaluate their performance, and the ethical implication of their use.\n Adapting Foundation Models\nThis lesson covers a range of techniques for adapting foundation models, including prompt tuning, in-context learning, full fine-tuning, and parameter-efficient fine-tuning (PEFT).",
+        "last_updated": "2025-01-31",
+        "rating": null,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/generative-ai--nd608",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/generative-ai--nd608_generative_ai_fundamentals"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+          "http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a"
+        ],
+        "id": 190,
+        "title": "Large Language Models (LLMs) & Text Generation",
+        "description": "Dive deeper into how computers understand and create language, and learn how to build a custom chatbot using unsupervised machine learning, prompt engineering, and retrieval augmented generation. We'll start with a high-level overview of the types of LLMs, the differences between them, and how best to account for their strengths and weaknesses. Then we'll get into the internal details, including natural language processing (NLP) techniques like tokenization, as well as modern transformer architectures and attention mechanisms. Finally, we'll build a practical LLM application that combines an LLM with a custom dataset.Introduction to LLMs\nThis lesson covers the types of LLMs, an intuitive understanding of their limitations and capabilities, inference and decoding hyperparameters, and strategies for effective prompt engineering.\n NLP Fundamentals\nThis lesson covers the essential Natural Language Processing topics needed to use the latest LLM technology. You will learn the basics of NLP and then dive into text encoding and text generation.\n Transformers and Attention Mechanism\nIn this lesson, you will open up the black box of transformer architectures and learn about the attention mechanisms and other components that make these powerful models possible.\n Retrieval Augmented Generation\nIn this lesson, we will learn how to create a custom Q&A bot powered by OpenAI! Along the way, you'll learn how OpenAI works and how to leverage its powerful language processing capabilities.\n Build Custom Datasets for LLMs\nIn this lesson, you will learn how to construct a relevant, quality dataset for fine-tuning large language models and performing retrieval augmented generation.",
+        "last_updated": "2025-01-31",
+        "rating": null,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/generative-ai--nd608",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/generative-ai--nd608_large_language_models_(llms)_&_text_generation"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/6a57def2-7b11-4b50-95b8-b16498795ad9",
+          "http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669"
+        ],
+        "id": 191,
+        "title": "Computer Vision and Generative AI",
+        "description": "Learn how computers process and understand image data, then harness the power of the latest Generative AI models to create new images.Introduction to Image Generation\nIn this lesson, you will define image generation and understand its relevance in AI and machine learning.\n Computer Vision Fundamentals\nLearn how computers see images and perform key image processing techniques using classic image processing techniques such as image transformation, noise reduction, and more.\n Image Generation and GANs\nExplore the landscape of Gen AI tools for Computer Vision and learn how they are evaluated. Learn what a generative adversarial network is and how it is utilized to generate images.\n Transformer-Based Computer Vision Models\nIn this lesson, we will be exploring Vision Transformers and the architecture that makes them work. Along the way we will explore Vision Transformers like DALL-E, DINO, and SAM.\n Diffusion Models\nLearn the fundamentals of transformers. Then, get hands-on with the creation of a diffusion algorithm and work with Huggingface Diffusers to generate and work with images.",
+        "last_updated": "2025-01-31",
+        "rating": null,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/generative-ai--nd608",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/generative-ai--nd608_computer_vision_and_generative_ai"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576"
+        ],
+        "id": 192,
+        "title": "Building Generative AI Solutions",
+        "description": "Gain the skills to build advanced AI systems with real-world impact. Start by teaching AI to interpret human language through semantic search, then manage complex data structures with vector databases. Get hands-on with LangChain to develop adaptive language models, gaining the expertise to bring AI-driven solutions to life. With a focus on practical applications across industries, you’ll learn to create user-friendly AI solutions that truly stand out. By the end, you’ll be equipped to design innovative systems that redefine what’s possible, ready to apply your expertise wherever AI can make a difference.Introduction to Building Generative Apps\nThis lesson explores the design and implementation of Generative AI using Large Language Models in features, applications, and solutions.\n Building Solutions with Vector Databases\nThis lesson covers vector databases, crucial for enhancing AI's long-term memory. Topics include core concepts, retrieval methods, and advanced indexing.\n Developing Generative AI Solutions with LangChain\nIn this lesson, you will explore and get hands-on with LangChain, a framework for working with large language models (LLM) and powering the next generation of AI apps.",
+        "last_updated": "2025-01-31",
+        "rating": null,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/generative-ai--nd608",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/generative-ai--nd608_building_generative_ai_solutions"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576"
+        ],
+        "id": 193,
+        "title": "Building Generative AI Solutions with Vector Databases",
+        "description": "This lesson covers vector databases, crucial for enhancing AI's long-term memory. Topics include core concepts, retrieval methods, and advanced indexing.",
+        "last_updated": "2025-01-31",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/building-generative-ai-solutions-with-vector-databases--cd12952",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/building-generative-ai-solutions-with-vector-databases--cd12952_building_generative_ai_solutions_with_vector_databases"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576"
+        ],
+        "id": 194,
+        "title": "Building Generative AI Solutions",
+        "description": "Gain the skills to build advanced AI systems with real-world impact. Start by teaching AI to interpret human language through semantic search, then manage complex data structures with vector databases. Get hands-on with LangChain to develop adaptive language models, gaining the expertise to bring AI-driven solutions to life. With a focus on practical applications across industries, you’ll learn to create user-friendly AI solutions that truly stand out. By the end, you’ll be equipped to design innovative systems that redefine what’s possible, ready to apply your expertise wherever AI can make a difference.",
+        "last_updated": "2025-01-31",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/intro-to-building-generative-AI-solutions--cd13267",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-building-generative-AI-solutions--cd13267_building_generative_ai_solutions"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7"
+        ],
+        "id": 195,
+        "title": "JavaScript and the DOM",
+        "description": "Dive into the essentials of JavaScript and its powerful relationship with the Document Object Model (DOM). This course covers fundamental JavaScript syntax, enabling you to manipulate web content dynamically. You'll explore how to create content and respond to browser events, enhancing user interactions on your site. Performance optimization techniques will help you write efficient code. In the final project, you’ll apply all of your learned concepts to develop a fully functional web project, showcasing your ability to merge JavaScript with HTML and CSS for a seamless user interface.",
+        "last_updated": "2025-01-30",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/java-script-and-the-dom--cd0428",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/java-script-and-the-dom--cd0428_javascript_and_the_dom"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+          "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848"
+        ],
+        "id": 197,
+        "title": "Mastering Stepper Motors in Embedded Systems",
+        "description": "This course covers the essentials of stepper motors and their control. You will learn about stepper motor basics, control techniques, and the use of device drivers and libraries. The course also emphasizes driver abstractions for modular, reusable code. Practical examples and case studies provide hands-on experience, preparing students to implement precise motor control in embedded systems.",
+        "last_updated": "2025-01-26",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/mastering-stepper-motors-in-embedded-systems--cd12746",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/mastering-stepper-motors-in-embedded-systems--cd12746_mastering_stepper_motors_in_embedded_systems"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+          "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01"
+        ],
+        "id": 198,
+        "title": "Introduction to Data Science and Supervised Machine Learning",
+        "description": "This course is for data analysts who want to apply machine learning. You will begin with an introduction to the fundamental concepts and processes that differentiate data science from other fields. Then you will dive deeper into machine learning algorithms, including underlying math concepts like gradient descent, ensemble models like random forests, and an introduction to neural networks and deep learning. Once you can harness these algorithms, you will apply model evaluation techniques for both accuracy and fairness. The course culminates with advice for effectively communicating findings to stakeholders. Your final project will involve building a machine learning model and writing a blog post about your analysis, to build your data science portfolio.The Data Science Process\nLearn about the basics of data science and machine learning. Walk through the CRISP-DM process and how you can apply it to many data science problems.\n Supervised Machine Learning Algorithms\nExplore supervised machine learning algorithms: regression, classification, linear models, decision trees, random forests, and neural networks, with interactive exercises in scikit-learn.\n Machine Learning Model Evaluation\nLearn why default accuracy metrics can be misleading with real-world datasets, and the alternative metrics you can utilize to communicate the benefits and limitations of your models.\n Model Interpretability and Fairness\nTo apply AI ethically and transparently, you need to understand how your models make decisions and whether their impacts are fair. Apply feature importances, SHAP values, and the Aequitas framework\n Communicating to Stakeholders\nCreate a GitHub repository and Medium blog post to communicate your findings",
+        "last_updated": "2025-01-24",
+        "rating": 9.6,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/data-scientist-nanodegree--nd025",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-scientist-nanodegree--nd025_introduction_to_data_science_and_supervised_machine_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0620ecd1-e4b1-4dfa-972b-38a93e5ebd9d",
+          "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+          "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+          "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+          "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9"
+        ],
+        "id": 199,
+        "title": "Software Engineering for Data Scientists",
+        "description": "Software engineering skills are increasingly important for data scientists. In this course, you'll learn best practices for writing software, working with Python packages, and building web data dashboards. You'll take a look \"under the hood\" of Python packages like scikit-learn and then practice creating and sharing virtual environments, packages, and web data dashboards. You will also become familiar with code quality and reproducibility tools including unit tests, linting, and GitHub actions. In your final project, you will develop a FastHTML dashboard that allows users to interact with a machine learning model through a web interface.Object-Oriented Programming\nExplore object-oriented programming (OOP), including classes, instances, magic methods, inheritance, and polymorphism. Utilize professional coding patterns for efficient Python software development.\n Code Reproducibility\nUse and create virtual environments, write Python packages, manage file paths in a way that enables cross-platform compatibility, and ensure code quality through testing and linting.\n Data Science Dashboards\nDig into deployment options for ML models using web servers, web forms, dynamic endpoints, and interactive dashboards with Python and FastHTML.",
+        "last_updated": "2025-01-24",
+        "rating": 9.6,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/data-scientist-nanodegree--nd025",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-scientist-nanodegree--nd025_software_engineering_for_data_scientists"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/484d048c-a5d1-46a5-b57f-45b69c0ac552",
+          "http://data.europa.eu/esco/skill/4f5c1208-62fd-4e5a-a51e-306c06947e11",
+          "http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669"
+        ],
+        "id": 200,
+        "title": "Data Science Pipelines",
+        "description": "Pipelines are essential tools for data scientists. They enable you to seamlessly combine various different features and preprocessing approaches into a single pipeline object. In this course, you will build reproducible, modular scikit-learn pipelines that prevent subtle data leakage issues and allow you to harness new types of data. These data sources include image data, where you will leverage SVM (support vector machine) and CNN (convolutional neural network) models, and text data, where you will leverage modern NLP (natural language processing) tools including LLMs (large language models) hosted on Hugging Face.Scikit-Learn Pipelines\nMaster scikit-learn pipelines for efficient data workflows, preprocessing, feature engineering, and model optimization, enhancing machine learning projects with automation and clarity.\n Computer Vision Pipelines\nExplore computer vision by learning image preprocessing, feature extraction, and building classification pipelines with SVMs and CNNs using tools such as OpenCV and PyTorch.\n NLP Pipelines\nBuild machine learning pipelines with text data features, including tokenization, vectorization, and part-of-speech tagging with spaCy.",
+        "last_updated": "2025-01-24",
+        "rating": 9.6,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/data-scientist-nanodegree--nd025",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-scientist-nanodegree--nd025_data_science_pipelines"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+          "http://data.europa.eu/esco/skill/505e4ef3-7ce4-437d-b7b4-5c608f71c258"
+        ],
+        "id": 201,
+        "title": "Unsupervised Machine Learning and Recommendation Systems",
+        "description": "This course covers advanced data science topics related to unsupervised machine learning. You will apply techniques including clustering and dimensionality reduction, then learn about the different strategies for generating personalized recommendations. The final lesson of the course covers practical advice for data scientists using unsupervised models in the real world, including how to test them both \"online\" and \"offline\". For the final project, you will build a hybrid recommendation system for data science articles.Clustering\nExplore unsupervised learning in data science, focusing on clustering techniques, k-means algorithms, metrics, and applications for enhanced data analysis.\n Dimensionality Reduction\nLearn the fundamentals of dimensionality reduction and how to use it in your models effectively. Utilize Scikit-learn and matplotlib to calculate and visualize the dimension reduction process.\n Recommendation Systems\nLearn about the different methods used to create recommendation engines with Python.\n Unsupervised Machine Learning Model Evaluation\nLearn how to evaluate unsupervised machine learning models, including clustering, dimensionality reduction, and recommendation systems, to improve their performance.",
+        "last_updated": "2025-01-24",
+        "rating": 9.6,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/data-scientist-nanodegree--nd025",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-scientist-nanodegree--nd025_unsupervised_machine_learning_and_recommendation_systems"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+          "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9"
+        ],
+        "id": 202,
+        "title": "Software Engineering for Data Scientists",
+        "description": "Software engineering skills are increasingly important for data scientists. In this course, you'll learn best practices for writing software, working with Python packages, and building web data dashboards. You'll take a look \"under the hood\" of Python packages like scikit-learn and then practice creating and sharing virtual environments, packages, and web data dashboards. You will also become familiar with code quality and reproducibility tools including unit tests, linting, and GitHub actions. In your final project, you will develop a FastHTML dashboard that allows users to interact with a machine learning model through a web interface.",
+        "last_updated": "2025-01-24",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/software-engineering-for-data-scientists--cd0171",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/software-engineering-for-data-scientists--cd0171_software_engineering_for_data_scientists"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a"
+        ],
+        "id": 203,
+        "title": "Large Language Models (LLMs) & Text Generation",
+        "description": "Dive deeper into how computers understand and create language, and learn how to build a custom chatbot using unsupervised machine learning, prompt engineering, and retrieval augmented generation. We'll start with a high-level overview of the types of LLMs, the differences between them, and how best to account for their strengths and weaknesses. Then we'll get into the internal details, including natural language processing (NLP) techniques like tokenization, as well as modern transformer architectures and attention mechanisms. Finally, we'll build a practical LLM application that combines an LLM with a custom dataset.",
+        "last_updated": "2025-01-21",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/large-language-models-and-text-generation--cd13318",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/large-language-models-and-text-generation--cd13318_large_language_models_(llms)_&_text_generation"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/77e7cb08-2c6f-42ab-881b-b34b2318acbe",
+          "http://data.europa.eu/esco/skill/9da7bfb1-9e1a-46de-8374-dac1a7cfa86c",
+          "http://data.europa.eu/esco/skill/c69fe106-693e-4633-8c80-9734e52700b1",
+          "http://data.europa.eu/esco/skill/fe30a4b0-1a99-4fc7-afff-b162b8c834ba"
+        ],
+        "id": 204,
+        "title": "Fundamentals of Defending Systems",
+        "description": "In this course, you will begin your exploration into the role of a security analyst. You will learn about the core principles and philosophies that drive work in the security field. Then, you will discover physical, logical, and administrative controls, their industry-recognized frameworks, and how to apply them to secure a network, system, or application. Lastly, you will apply security concepts to create defensible, resilient network architecture.Introduction to the Analyst Role\nThis lesson is an introduction to the Security Analyst role and how that role fits into an organization.\n Core Frameworks and Principles\nThis lesson provides the underlying philosophy and objectives for your work as an Analyst. Through real examples, you'll explore a variety of attack vectors and threat modeling strategies.\n Controls\nThis lesson is a broad survey of the families of security controls and provides opportunities to work with some of the technical mechanisms used to prevent security challenges.\n Defensible Network Architecture\nThis lesson focuses on improving your organization's posture by applying control concepts to design infrastructure that is more resistant to intrusion.",
+        "last_updated": "2025-01-20",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/security-analyst-nanodegree--nd324",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/security-analyst-nanodegree--nd324_fundamentals_of_defending_systems"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0c15aa34-6977-4da7-b1f0-2ba6a582ef1b",
+          "http://data.europa.eu/esco/skill/18ab25a5-ce2d-4cd5-b7b0-3890f595f77d",
+          "http://data.europa.eu/esco/skill/8181aa4c-42bc-4036-a3d2-5cb6bbb34239",
+          "http://data.europa.eu/esco/skill/8fa510d0-a8a6-4932-a361-00f8442cfe23",
+          "http://data.europa.eu/esco/skill/dad7e408-162f-46a4-8567-db560e19e2fc",
+          "http://data.europa.eu/esco/skill/f69d330a-c343-433f-9532-fed6b8654b0e"
+        ],
+        "id": 207,
+        "title": "Monitoring, Logging and Responding to Incidents",
+        "description": "In this course, you will discover the importance of incident detection and use the Snort Intrusion Detection System to automatically generate alerts based on suspicious network traffic. You will learn to analyze automated alerts for false positives and determine if they represent a real security threat. You will analyze network traffic using Wireshark and capture live traffic using tcpdump. You will also use Splunk to search and correlate security log data across multiple sources. Finally, you will follow incident handling procedures to respond and recover from security incident scenarios.Foundations of Monitoring and Logging\nFind out why monitoring and logging is essential to cybersecurity, learn about the history of log monitoring, and get started with the virtual machine you'll be using in this course.\n Incident Detection\nDiscover how to uncover security incidents using an Intrusion Detection System. Create and analyze IDS rules and security log data.\n Monitoring and Logging\nCapture and analyze network traffic using tcpdump and Wireshark, and search security logs using Splunk, a powerful SIEM tool.\n Incident Handling\nFind out about the process to remediate security incidents, and an important tool to handle incidents consistently: incident handling playbooks.",
+        "last_updated": "2025-01-20",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/security-analyst-nanodegree--nd324",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/security-analyst-nanodegree--nd324_monitoring,_logging_and_responding_to_incidents"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/77e7cb08-2c6f-42ab-881b-b34b2318acbe",
+          "http://data.europa.eu/esco/skill/c69fe106-693e-4633-8c80-9734e52700b1"
+        ],
+        "id": 208,
+        "title": "Fundamentals of Defending Systems",
+        "description": "In this course, you will begin your exploration into the role of a security analyst. You will learn about the core principles and philosophies that drive work in the security field. Then, you will discover physical, logical, and administrative controls, their industry-recognized frameworks, and how to apply them to secure a network, system, or application. Lastly, you will apply security concepts to create defensible, resilient network architecture.",
+        "last_updated": "2025-01-20",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/fundamentals-of-defending-systems--cd0288",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/fundamentals-of-defending-systems--cd0288_fundamentals_of_defending_systems"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de"
+        ],
+        "id": 209,
+        "title": "Cloud Data Warehouses with Azure",
+        "description": "In this course, you will learn to create cloud-based data warehouses and sharpen your data warehousing skills, deepen your knowledge of data infrastructure, and be introduced to data engineering on the cloud using Azure.",
+        "last_updated": "2025-01-20",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/cloud-data-warehouses-with-azure--cd11530",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cloud-data-warehouses-with-azure--cd11530_cloud_data_warehouses_with_azure"
+      },
+      {
+        "skills": [],
+        "id": 210,
+        "title": "Communication in Embedded Systems",
+        "description": "This course provides a comprehensive overview of key physical communication mediums and protocols commonly used in embedded systems, including I2C, SPI, UART, and CAN/LIN. It covers each protocol's unique use cases and helps learners understand the differences and trade-offs between them. By the end of the course, students will be able to determine which communication bus is best for specific problems, identify relevant pins or nets in schematics, and understand the advantages and disadvantages of each communication option.",
+        "last_updated": "2025-01-20",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/communications-in-embedded-systems--cd13408",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/communications-in-embedded-systems--cd13408_communication_in_embedded_systems"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284"
+        ],
+        "id": 211,
+        "title": "Introduction to Data Science and Supervised Machine Learning",
+        "description": "This course is for data analysts who want to apply machine learning. You will begin with an introduction to the fundamental concepts and processes that differentiate data science from other fields. Then you will dive deeper into machine learning algorithms, including underlying math concepts like gradient descent, ensemble models like random forests, and an introduction to neural networks and deep learning. Once you can harness these algorithms, you will apply model evaluation techniques for both accuracy and fairness. The course culminates with advice for effectively communicating findings to stakeholders. Your final project will involve building a machine learning model and writing a blog post about your analysis, to build your data science portfolio.",
+        "last_updated": "2025-01-20",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/introduction-to-data-science--cd0017",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/introduction-to-data-science--cd0017_introduction_to_data_science_and_supervised_machine_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/6195c5f7-a4fb-425d-a3dd-c4467c4471a3",
+          "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+          "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+          "http://data.europa.eu/esco/skill/ed0718f6-5823-4c74-9749-2936c9c06203",
+          "http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42"
+        ],
+        "id": 212,
+        "title": "AWS Cloud Fundamentals",
+        "description": "The cloud has become a key enabler for innovation with beneficial features like high availability, unlimited capacity, and on-demand scalability and elasticity. Learn the fundamentals of cloud computing while being introduced to compute power, security, storage, networking, messaging, and management services in the cloud. While learning the fundamentals, you will explore tools and services offered by Amazon Web Services(AWS) through interactive, hands-on exercises. By the end of the course, you will have deployed your first website to AWS.Cloud Computing\nIn this lesson, you will learn the basics of cloud computing including cloud deployment models, benefits, and popular AWS options.\n Servers in the Cloud and Compute Services\nLearn why we need servers, compute power, and security.\n Storage & Content Delivery\nLearn why we need storage and content delivery in the cloud.\n Security\nLearn the importance of security in the cloud.\n Networking & Elasticity\nLearn the basics of networking and elasticity in the cloud.\n Messaging & Containers\nLearn the basics of messaging and containers in the cloud.\n AWS Management\nLearn why we need logging, auditing, and resource management in the cloud.",
+        "last_updated": "2025-01-20",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991_aws_cloud_fundamentals"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576"
+        ],
+        "id": 213,
+        "title": "Deploy Infrastructure as Code (IAC)",
+        "description": "With the advent of cloud computing, along came several tools that enabled us to deploy the underlying infrastructure components that provide security and services to our servers by writing scripts. In this course, you’ll learn how to deploy this infrastructure using CloudFormation, AWS’ tool for Infrastructure as Code. You will use CloudFormation to deploy Infrastructure patterns that are used in the industry broadly and can be readily used to deploy any cloud application. Like in the real world, you will begin with initial business requirements that you will turn into Cloud Architecture Diagrams. Then you will deploy this architecture using CloudFormation.Getting Started with CloudFormation\nSet up the necessary tools to get started with AWS CloudFormation and deploy your first server.\n Infrastructure Diagrams\nConvert business requirements into infrastructure diagrams and understand the principles behind design choices.\n Networking Infrastructure\nLearn about various networking components that can be used in a VPC.\n Servers and Security Groups\nImplement security groups and understand the concept of least-privilege as it applies to network traffic\n Storage and Databases\nDeploy relational database and encryption service for your application.",
+        "last_updated": "2025-01-20",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991_deploy_infrastructure_as_code_(iac)"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0c15aa34-6977-4da7-b1f0-2ba6a582ef1b",
+          "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4"
+        ],
+        "id": 214,
+        "title": "Microservices at Scale using AWS and Kubernetes",
+        "description": "This lesson will provide you with a comprehensive understanding of microservices architecture, containers, and Kubernetes in the context of AWS. You will learn how to build, deploy, and manage containerized applications at scale while utilizing AWS tools and services. By the end of your journey, you will have a strong foundation in containerization, microservices, and Kubernetes DevOps skills, enabling you to tackle real-world challenges in your professional career.Introduction to Microservices at Scale with AWS and Kubernetes\nUnderstand the concepts, skills, and goals you'll work through as well as prerequisites and tools to succeed in your learning journey.\n Containers for DevOps on AWS\nDive into Docker containers and the Docker Engine and create, deploy, and manage containers. You'll learn about containerization, Docker images, Dockerfiles, and how to interact with AWS ECR.\n Microservices for DevOps on AWS\nUnderstand the significance of microservices and how they affect the responsibilities of DevOps engineers. Learn about continuous integration and deployment and how to use AWS tools like CodeBuild.\n Kubernetes on AWS Fundamentals\nUse Kubernetes to solve the cumbersome overhead of managing microservices deployed with Docker. Learn the basics of Kubernetes including architecture, components, and key concepts.\n Operationalizing Kubernetes\nExtend your Kubernetes knowledge to applying cluster management to production workloads: Helm charts, logging, and scaling.",
+        "last_updated": "2025-01-20",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991_microservices_at_scale_using_aws_and_kubernetes"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/414bfea8-a6bd-44e1-8820-80b1238a39cc",
+          "http://data.europa.eu/esco/skill/c3404999-faaa-4779-9cbf-e594b9c4d3b6"
+        ],
+        "id": 215,
+        "title": "Build CI/CD Pipelines, Monitoring, and Logging",
+        "description": "In this course, you will learn how to stretch for Continuous Delivery as your “true north” while you build CI/CD systems that automate the “stuff” between developers and the cloud. You’ll gain essential knowledge and put it into practice as you learn about Continuous Integration and Continuous Deployment. You’ll combine your existing knowledge of Cloud Formation and AWS with new tools like GitHub Actions.Introduction to CI/CD\nAn introduction to this course, Continuous Integration, and Continuous Deployment!\n Continuous Integration and Continuous Deployment\nIn this lesson, we'll cover the fundamentals of CI/CD. Talk about the benefits, best practices, and look at the building blocks of pipelines!\n Building a Continuous Integration Pipeline\nIn this lesson, we'll get hands-on and execute CI pipelines and workflows, to build toward deployment using GitHub Actions.\n Enabling Continuous Delivery with Deployment Pipelines\nIn this lesson, we will be hands-on and fully implement CI/CD pipelines that build in complexity using GitHub Actions.",
+        "last_updated": "2025-01-20",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991_build_ci/cd_pipelines,_monitoring,_and_logging"
+      },
+      {
+        "skills": [],
+        "id": 216,
+        "title": "Build CI/CD Pipelines, Monitoring, and Logging",
+        "description": "In this course, you will learn how to stretch for Continuous Delivery as your “true north” while you build CI/CD systems that automate the “stuff” between developers and the cloud. You’ll gain essential knowledge and put it into practice as you learn about Continuous Integration and Continuous Deployment. You’ll combine your existing knowledge of Cloud Formation and AWS with new tools like GitHub Actions.",
+        "last_updated": "2025-01-20",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/building-a-continuous-integration-pipeline--cd12354",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/building-a-continuous-integration-pipeline--cd12354_build_ci/cd_pipelines,_monitoring,_and_logging"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d"
+        ],
+        "id": 217,
+        "title": "Building Generative AI Applications with Amazon Bedrock",
+        "description": "Build cutting-edge generative AI applications with Amazon Bedrock and Python. Learn to integrate models in applications using BOTO3 and APIs, leverage AWS services such as S3 and Amazon Aurora, and create end-to-end AI solutions. Through practical exercises and a real-world project, you'll gain expertise in Retrieval-Augmented Generation (RAG), embeddings, and secure AI pipelines.",
+        "last_updated": "2025-01-17",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/building-generative-ai-applications-with-amazon-bedrock--cd13926",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/building-generative-ai-applications-with-amazon-bedrock--cd13926_building_generative_ai_applications_with_amazon_bedrock"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a"
+        ],
+        "id": 218,
+        "title": "Programming with Swift",
+        "description": "This course provides an introduction to Swift, Apple's powerful and intuitive programming language for iOS app development. The lessons cover an introduction to Swift, functions, object-oriented Swift and Swift patterns. The final project for this course is to build a Command Line Interface (CLI) Todo Application. This course is tailored for novice developers, perfect for becoming proficient in Swift and laying the groundwork for iOS app development.",
+        "last_updated": "2025-01-16",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/programming-with-swift--cd13099",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/programming-with-swift--cd13099_programming_with_swift"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+          "http://data.europa.eu/esco/skill/867137fb-ff1b-4ca3-99f3-cb6969aa2c68",
+          "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+          "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968"
+        ],
+        "id": 219,
+        "title": "Backend Development with Node.js",
+        "description": "This course introduces the fundamental tools needed to build a basic API in a way that is both scalable, and maintainable. You will work with Node.js and its core modules, write TypeScript for developer error reduction, test with Jasmine to introduce unit testing in a Test-Driven Development environment, and use Express as a framework for building APIs.Foundations of Backend Development\nDiscover the tools that make backend development possible. You'll learn how those tools are used throughout the course and how they'll set you up to write clear, maintainable code.\n Getting Started with Node.JS\nLearn how JavaScript is used serverside with Node.js. You'll work with the tools Node.js provides as well as integrate third-party packages to create the backend for your applications.\n Developing with TypeScript\nTake advantage of strict typing by learning to write TypeScript, one of the most popular for application development. You'll write code in a way that reduces errors and expresses your intentions.\n Unit Testing with Jasmine\nExplore the software development testing paradigm. You'll learn how Jasmine can be used as a Test-Driven Development framework for writing server-side unit tests to create bug-free maintainable code.\n Building a Server\nBuild a server with the Express framework. You'll learn how APIs are architected and create and use middleware for expanded functionality. Finally, you'll learn to read and write to the file system.",
+        "last_updated": "2025-01-16",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067_backend_development_with_node.js"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+          "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+          "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+          "http://data.europa.eu/esco/skill/a8d07b5a-c1a1-42c6-9d53-db9c7a2ca996",
+          "http://data.europa.eu/esco/skill/a9441b7f-6917-4d42-8d1c-88bd1784d3da"
+        ],
+        "id": 220,
+        "title": "Creating an API with PostgreSQL and Express",
+        "description": "This course covers the primary skills required for API development. Students will build a RESTful JSON API with Node and Postgres. Along the way, you will cover essential topics like databases and querying, API architecture, database migrations, REST, CRUD, creating a testing environment, password hashing and route authorization via JWTs. By completing the exercises and course content, students will gain the knowledge to create a secure, well organized API from scratch and learn skills JavaScript developers use every day.Introduction to Building APIs with Postgres and Express\nWelcome to the very beginning of the APIs with Postgres course! In this lesson we will kick things off by talking about the course contents and requirements, and all get on the same page with APIs.\n Databases and SQL\nThis lesson will focus solely on databases. We'll cover various types of databases, each with their own strengths and then hone our attention in on SQL and the relational database Postgres.\n Create an API with a PostgreSQL connection\nYou know some Postgres and Node. This lesson is all about getting them to talk to each other. We will cover many vital web development concepts and create a clean and dependable API structure.\n Create an API with Express\nMaking the data in our database accessible to the outside world is the whole job of our API. In this lesson we cover the libraries and logic needed to make our API able to respond to outside requests.\n Authentication and Authorization in a Node API\nNo API is complete without offering adequate protection and privacy. This lesson is all about industry standard methods for protecting information and requiring authorization for private pages\n SQL for advanced API functionality\nNow that you've seen the bigger picture for utilizing Postgres and Node to create an API, we circle back around to explore some new Postgres syntax and apply it in the API.",
+        "last_updated": "2025-01-16",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067_creating_an_api_with_postgresql_and_express"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+          "http://data.europa.eu/esco/skill/1ffac4ac-fda7-407d-8ed1-ca8f4a8dc146"
+        ],
+        "id": 221,
+        "title": "Angular Fundamentals",
+        "description": "Foundations of Angular Development\nDiscover what Angular is, and how it can be used to build dynamic web applications. You'll also learn about the structure of this course, as well as some tools to help you become successful.\n Angular Overview\nExplore the Angular CLI, a powerful tool that developers use to build Angular applications from the command line. Leveraging the Angular CLI, you'll also generate your first components and modules.\n Components\nTake a deep dive into the building blocks of an Angular application's user interface. Discover templates, the component lifecycle, events, and the communication and navigation between components.\n Libraries & Services\nCreate reusable services to contain an application's non-UI business logic. Extend your applications with the use of third-party libraries and other dependencies.\n Data\nFetch data asynchronously using HTTP, and render it in your application. You'll also collect and validate input from your users with template-driven forms.",
+        "last_updated": "2025-01-16",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067_angular_fundamentals"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+          "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+          "http://data.europa.eu/esco/skill/6195c5f7-a4fb-425d-a3dd-c4467c4471a3"
+        ],
+        "id": 222,
+        "title": "Deployment Process",
+        "description": "Being able to deploy your own application is a skill that is often overlooked by developers, thus making it a rare and valuable skill to have! This course will teach the necessary knowledge to create your own production environment and automate the deployment of code to it. By building an automated pipeline and scripts students will gain insights into the world of automated deployments that have been revolutionizing how fast companies are able to deliver features to their customers.Foundations of Deployment Process\nWe will go over the importance of the deployment process and understand some important moments of the history of automated deployments.\n Setting up a Production Environment\nWe will cover the different elements of cloud infrastructure that need to be provisioned in order to deploy a web application.\n Interact with Cloud Services via a CLI\nWe will learn how to interact with cloud services using a command line interface. We will cover the AWS and Elastic Beanstalk CLI.\n Write scripts for web applications\nIn this lesson we will cover how to combine cli commands together in scripts. We will cover the basics of package.json scripts as well as shell scripts.\n Configure and Document a Pipeline\nIn this final lesson everything will come together and we will learn how to create an automated pipeline! We will use CircleCI and it's different services to automate deployments.",
+        "last_updated": "2025-01-16",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067_deployment_process"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/867137fb-ff1b-4ca3-99f3-cb6969aa2c68"
+        ],
+        "id": 223,
+        "title": "Backend Development with Node.js",
+        "description": "This course introduces the fundamental tools needed to build a basic API in a way that is both scalable, and maintainable. You will work with Node.js and its core modules, write TypeScript for developer error reduction, test with Jasmine to introduce unit testing in a Test-Driven Development environment, and use Express as a framework for building APIs.",
+        "last_updated": "2025-01-16",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/backend-development-with-node-js--cd0292",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/backend-development-with-node-js--cd0292_backend_development_with_node.js"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+          "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa",
+          "http://data.europa.eu/esco/skill/8744f28f-59a9-45af-8ef6-6944cb5a1473"
+        ],
+        "id": 224,
+        "title": "Building a Workflow for AI",
+        "description": "This course introduces learners to the concepts of AI-based trading models. Learners will discover the basic building blocks used to create an AI-based trading model and key Machine Learning techniques they need to be aware of.Introduction to AI Workflows in Trading\nLearn how to prepare price data for AI models, backtest trading algorithms, and build a simple RSI algorithm.\n Unsupervised Learning\nExplore investment data, summarize key stats, use K-Means and PCA for clustering, adapt trading algorithms, and identify risk factors to enhance model insights on outperformance\n Supervised Learning: Regression\nBuild regression models using past returns, explore regularization to avoid over/underfitting, and differentiate between training and test data while identifying signs of overfitting and underfitting.\n Supervised Learning: Classification\nPredict categorical variables using logistic regression and decision trees. Improve model performance with cross-validation for strong out-of-sample results.",
+        "last_updated": "2025-01-15",
+        "rating": null,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/ai-trading-strategies--nd881",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-trading-strategies--nd881_building_a_workflow_for_ai"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79",
+          "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639"
+        ],
+        "id": 225,
+        "title": "Preparing for Data Analysis",
+        "description": "Preprocessing is a critical concept in any successful ML model. In this course, you will learn the basics of data engineering, data selection, and exploratory data analysis.An Overview of Machine Learning Pipelines\nWe'll define the steps of the machine learning pipeline, from data ingestion to production. We'll emphasize preprocessing and feature engineering, essential steps to well-performing trading models.\n Data Acquisition and Preprocessing\nHow do you get data from the Internet to your model? We'll talk about ingestion, transformation,and data wrangling using Pandas, the industry-standard time-series package for data manipulation.\n Feature Engineering for Trading Models\nFeature engineering significantly improves model performance, and in this lesson, we'll go over strategies you can use. Basic and more involved techniques will be presented, with use cases noted.\n Exploratory Data Analysis\nWhat's your data trying to tell you? Use EDA, exploratory data analysis, to find out! We'll use Python's two most popular plotting packages, matplotlib and Plotly, to find out your data's secrets.",
+        "last_updated": "2025-01-15",
+        "rating": null,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/ai-trading-strategies--nd881",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-trading-strategies--nd881_preparing_for_data_analysis"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/5d5f0963-a8b7-4a4f-a8f5-05b3142752b9"
+        ],
+        "id": 226,
+        "title": "Evaluating Returns and Backtesting",
+        "description": "This course will advance learners' abilities to construct and backtest strategies. The curriculum emphasizes a deep understanding of key performance metrics—such as annualized returns, volatility, and various risk-adjusted ratios—to critically evaluate the effectiveness of trading strategies. Additionally, learners will enhance their skills in visualizing strategy performance through advanced graphical representations. By mastering the implementation and rigorous evaluation of trading models, students will be well-equipped to optimize strategies and ensure robust performance in the world of capital markets.Measuring Returns\nUnderstand the foundations for backtesting. Learners will examine formulas and develop tools for calculating and plotting returns.\n Measuring Risks\nUnderstand volatility, skewness, kurtosis, and the impacts that these concepts have on developing a trading strategy.\n Measuring Risk-Adjusted Returns\nExplore drawdowns, how to calculate them, and which ratios should be employed when developing a backtest strategy. Calculations include the Sharpe, Sortino, and Calmar Ratio.\n Backtesting a Risk Parity Portfolio\nThrough Python, learn how to implement Walk-Forward Validation and combine core calculations to develop a robust backtesting strategy.",
+        "last_updated": "2025-01-15",
+        "rating": null,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/ai-trading-strategies--nd881",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-trading-strategies--nd881_evaluating_returns_and_backtesting"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a"
+        ],
+        "id": 227,
+        "title": "Reinforcement Learning",
+        "description": "In this course, learners will explore how to design, backtest, and optimize a working reinforcement-based ML trading strategy. This course will introduce popular techniques and indicators used in reinforcement learning-based trading, such as Q-learning, PCA, use of market indicators, assessment of market context, and assessment of the strategy outcomes. This course is designed for hobby traders with a background in data science. By the end of this course, you will be able to build, train, backtest, and optimize a reinforcement learning trading strategy with Python.Reinforcement Learning in Trading\nIntroduction to reinforcement learning, Q-learning, and core concepts including how reinforcement learning fits in the trading world.\n Representing the Financal Market: State and Action Spaces\nExplore the concept of Financial State and Action Spaces. Learn how to define states and extract popular market indicators and conditions with Python and YFinance.\n Constructing a Reinforcement Trading Model\nConstruct a RL trading model using Python including define and running a training loop. Learn key tips for implementation and run test data through the newly created model.\n Backtesting and Optimization Techniques\nExamine key backtesting concepts, gather important backtesting information on an RL model, and learn how to interpret those results to optimize performance.",
+        "last_updated": "2025-01-15",
+        "rating": null,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/ai-trading-strategies--nd881",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-trading-strategies--nd881_reinforcement_learning"
+      },
+      {
+        "skills": [],
+        "id": 228,
+        "title": "Optimizing AI Strategies",
+        "description": "This course covers various aspects of improving AI models. Topics include introduction to model optimization, hyperparameter tuning, regularization techniques, evaluating and optimizing strategies, and deployment considerations. Students will learn how to monitor, evaluate and enhance model performance, prevent overfitting, and apply techniques for real-world scenarios.Introduction to AI Model Optimization\nWe review how AI models work in principle and important terminology used in AI model training and optimization. We talk about where AI model optimization applies in using AI models for trading.\n Regularization Techniques to Prevent Overfitting\nOverfitting is a common issue when training AI models for trading. We’ll explore bias, variance, and the role of hyperparameters in the context of various AI model types.\n Hyperparameter Tuning Methods\nGet hands-on with AI model hyperparameters and discuss the various methods available to us for tuning them in a systematic or ad-hoc way, as well as the advantages and disadvantages of each method.\n Evaluating and Optimizing AI Strategies\nWe discuss some practical methods and important considerations related to model optimization and evaluation in the context of AI models for trading.\n Deployment and Real-World Considerations\nWe analyze important practical considerations for using AI models for trading. We discuss things we need to keep in mind as we maintain or iterate on our deployed models.",
+        "last_updated": "2025-01-15",
+        "rating": null,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/ai-trading-strategies--nd881",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-trading-strategies--nd881_optimizing_ai_strategies"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/6b4f794c-062e-4e05-863a-ae1bad44f395",
+          "http://data.europa.eu/esco/skill/8867088a-e54d-41bc-81e8-a21ff98e81d3",
+          "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d"
+        ],
+        "id": 229,
+        "title": "Momentum-Based Trading",
+        "description": "In this course, learners will explore how to design, backtest, and optimize a working momentum-based ML trading strategy.What is Momentum-Based Trading\nNormal distribution and geometric Brownian motion are key to momentum trading. Shapiro-Wilk’s and Student’s t-tests are useful statistical tools for developing momentum-based trading strategies.\n Identifying and Extracting Momentum Features\nExplore geometric Brownian motion for stock price modeling, calibration, forecasting, and confidence intervals, followed by deriving and coding the Black-Scholes formula for European option pricing.\n Constructing a Momentum Trading Model\nBuilding a momentum-based trading program using MySQL/SQLite, Python, and geometric Brownian motion for price forecasting, confidence intervals, and Monte-Carlo simulation for scenario analysis.\n Backtesting and Optimization Techniques\nThe lesson covers back-testing momentum strategies, evaluating with Sharpe ratio and maximum drawdown, and quantitative risk management using Value-at-Risk (VaR) and Expected Shortfall (ES) in Python.",
+        "last_updated": "2025-01-15",
+        "rating": null,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/ai-trading-strategies--nd881",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-trading-strategies--nd881_momentum-based_trading"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639"
+        ],
+        "id": 230,
+        "title": "Preparing for Data Analysis",
+        "description": "Preprocessing is a critical concept in any successful ML model. In this course, you will learn the basics of data engineering, data selection, and exploratory data analysis.",
+        "last_updated": "2025-01-15",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/preparing-for-data-analysis--cd13649",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/preparing-for-data-analysis--cd13649_preparing_for_data_analysis"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/906d21c9-7a9c-4919-817d-10676f9ddfe4",
+          "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+          "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5"
+        ],
+        "id": 231,
+        "title": "Data Ingestion with Kafka and Kafka Streaming",
+        "description": "Learn to use REST Proxy, Kafka Connect, KSQL, and Faust Python Stream Processing and use it to stream public transit statuses using Kafka and Kafka ecosystem to build a stream processing application that shows the status of trains in real-time.Introduction to Stream Processing\nIn this lesson students will learn what data streaming is. Students will learn the pros and cons of data streaming, and how it compares to traditional data strategies.\n Apache Kafka\nIn this lesson we’ll review the architecture and configuration of Apache Kafka.\n Data Schemas and Apache Avro\nThis lesson covers data schemas and data schema management, with a focus on Apache Avro.\n Kafka Connect and REST Proxy\nThis lesson covers producing and consuming data into Kafka with Kafka Connect and REST Proxy.\n Stream Processing Fundamentals\nLearn to build real-time applications that instantly process events, the concepts of stream processing state storage, windowed processing, and stateful and non-stateful stream processing.\n Stream Processing with Faust\nStudents will learn how to use the Python stream processing library Faust to rapidly create powerful stream processing applications.\n KSQL\nLearn how to write simple SQL queries to turn Kafka topics into KSQL streams and tables, and then write those tables back out to Kafka.",
+        "last_updated": "2025-01-15",
+        "rating": 8.8,
+        "price": 113.0,
+        "url": "https://www.udacity.com/course/data-streaming-nanodegree--nd029",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-streaming-nanodegree--nd029_data_ingestion_with_kafka_and_kafka_streaming"
+      },
+      {
+        "skills": [],
+        "id": 232,
+        "title": "Streaming API Development and Documentation",
+        "description": "In this course you will grow your expertise in the components of streaming data systems, and build a real time analytics application. Specifically, you will be able to identify components of Spark Streaming (architecture and API), build a continuous application with Structured Streaming, consume and process data from Apache Kafka with Spark Structured Streaming (including setting up and running a Spark Cluster), create a DataFrame as an aggregation of source DataFrames, sink a composite DataFrame to Kafka, and visually inspect a data sink for accuracy.Welcome\nIntroduction to Data Streaming with Spark\n Streaming Dataframes, Views, and Spark SQL\nIn this lesson, you'll learn about working with Spark Dataframes and views.\n Joins and JSON\nIn this lesson, you'll learn how to work with JSON and complete Joins for data streaming.\n Redis, Base64 and JSON\nThis lesson will focus on working with Redis, Base64, and JSON in Data Streaming.",
+        "last_updated": "2025-01-15",
+        "rating": 8.8,
+        "price": 113.0,
+        "url": "https://www.udacity.com/course/data-streaming-nanodegree--nd029",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-streaming-nanodegree--nd029_streaming_api_development_and_documentation"
+      },
+      {
+        "skills": [],
+        "id": 233,
+        "title": "Introducing Generative AI with AWS",
+        "description": "Master the fundamentals of generative AI and develop a deep understanding of its historical context and real-world applications. Explore AI and machine learning foundations using AWS tools, large language models (LLMs) with transformer-based architectures, and the societal impacts of generative AI to understand AI's evolution and ethical deployment. Engage in exercises on AI history, machine learning approaches, prompt engineering, and responsible AI use to apply your knowledge in practical scenarios. Develop skills in distinguishing AI from ML, exploring LLMs, and emphasizing ethical AI deployment, enabling you to apply these concepts in real-world applications. Designed for learners with basic Python knowledge, this program empowers you to advance your understanding of generative AI.",
+        "last_updated": "2025-01-15",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/generative-AI-with-AWS--cd13232",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/generative-AI-with-AWS--cd13232_introducing_generative_ai_with_aws"
+      },
+      {
+        "skills": [],
+        "id": 234,
+        "title": "Hypothesis Testing",
+        "description": "Hypothesis testing is one of the most important topics in all of statistics because it tells us whether our conclusions are statistically significant. In this course, you will learn about the fundamental role statistics plays in hypothesis testing as well as how to implement statistical concepts in Python.",
+        "last_updated": "2025-01-14",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/hypothesis-testing--cd12640",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/hypothesis-testing--cd12640_hypothesis_testing"
+      },
+      {
+        "skills": [],
+        "id": 235,
+        "title": "Creating Visualizations with Power BI",
+        "description": "In this course, students will learn how to carry Power BI beyond mere bar charts and transform their reports into data exploration & storytelling tools that companies can use to better understand their data.",
+        "last_updated": "2025-01-14",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/creating-visualizations-with-power-bi--cd0013",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/creating-visualizations-with-power-bi--cd0013_creating_visualizations_with_power_bi"
+      }
+    ],
+    "count": 4627
+  }
+}

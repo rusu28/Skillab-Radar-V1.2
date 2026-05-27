@@ -1,0 +1,51 @@
+domain,skill_uri,skill_label,capability_family,demand_count,supply_count,course_count,demand_frequency,supply_frequency,course_frequency,gap_score,trend_score,relevance_index
+IT,http://data.europa.eu/esco/skill/23ac233d-84ad-4517-b0f5-8ca19ba2614e,monitor developments in field of expertise,monitoring developments in area of expertise,21,0,0,0.583333,0.0,0.0,0.583333,-0.219048,0.408333
+IT,http://data.europa.eu/esco/skill/8f6ed69b-29d0-4c01-81ba-f05920a185f3,digital curation,"library, information and archival studies",17,0,0,0.472222,0.0,0.0,0.472222,-0.219048,0.330556
+IT,http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137,think analytically,"processing information, ideas and concepts",11,0,1,0.305556,0.0,0.066667,0.305556,-0.219048,0.220556
+IT,http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576,database,database and network design and administration,1,4,12,0.027778,0.086957,0.8,0.0,0.0,0.1925
+IT,http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389,deliver visual presentation of data,presenting research or technical information,0,2,12,0.0,0.043478,0.8,0.0,0.0,0.18
+IT,http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d,consult with business clients,collaborating and liaising,9,0,0,0.25,0.0,0.0,0.25,-0.237857,0.175
+IT,http://data.europa.eu/esco/skill/ecc18804-a466-40d9-98b4-fba5cd67dd4b,accounting,accounting and taxation,9,0,0,0.25,0.0,0.0,0.25,-0.219048,0.175
+IT,http://data.europa.eu/esco/skill/a15dab55-f1da-4f85-ae3e-2b5c5b5333ca,provide high quality customer service,selling products or services,9,0,0,0.25,0.0,0.0,0.25,-0.219048,0.175
+IT,http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d,Python (computer programming),using digital tools for collaboration and productivity,5,40,15,0.138889,0.869565,1.0,0.0,-0.181429,0.171786
+IT,http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742,SQL,software and applications development and analysis,2,34,7,0.055556,0.73913,0.466667,0.0,0.0,0.171667
+IT,http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42,coordinate security,maintaining and enforcing physical security,2,14,7,0.055556,0.304348,0.466667,0.0,0.0,0.171667
+IT,http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7,crowdsourcing strategy,"finance, banking and insurance",9,1,0,0.25,0.021739,0.0,0.228261,-0.219048,0.169565
+IT,http://data.europa.eu/esco/skill/7935deb6-0bed-4e38-985e-1f83b8e16940,participate in training sessions,practising sports,2,0,4,0.055556,0.0,0.266667,0.055556,0.0,0.165556
+IT,http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d,sales activities,wholesale and retail sales,8,0,1,0.222222,0.0,0.066667,0.222222,-0.219048,0.162222
+IT,http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77,production processes,"engineering, manufacturing and construction not elsewhere classified",3,1,1,0.083333,0.021739,0.066667,0.061594,0.0,0.159565
+IT,http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363,interact with users to gather requirements,engaging with others to identify needs,3,1,1,0.083333,0.021739,0.066667,0.061594,0.0,0.159565
+IT,http://data.europa.eu/esco/skill/d62d2b4c-a6f8-439e-8a1b-4f29ab5f2c47,make decisions,taking a proactive approach,2,0,3,0.055556,0.0,0.2,0.055556,0.0,0.158889
+IT,http://data.europa.eu/esco/skill/3d427a49-4f85-42cd-8a92-62d4a34f41a1,file documents,managing information,3,0,0,0.083333,0.0,0.0,0.083333,0.0,0.158333
+IT,http://data.europa.eu/esco/skill/99b163e8-7815-43e2-83f3-a47f3076354c,accounting entries,accounting and taxation,3,0,0,0.083333,0.0,0.0,0.083333,0.0,0.158333
+IT,http://data.europa.eu/esco/skill/2636b3d3-843e-46a9-8b4c-a9d6ca3f5a2d,provide technical documentation,performing general clerical and administrative tasks,3,0,0,0.083333,0.0,0.0,0.083333,0.0,0.158333
+IT,http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f,pharmaceutical industry,pharmacy,3,0,0,0.083333,0.0,0.0,0.083333,0.0,0.158333
+IT,http://data.europa.eu/esco/skill/1b957e3d-0017-42b0-9bfe-49a1cdd31de7,teach writing,teaching academic or vocational subjects,3,0,0,0.083333,0.0,0.0,0.083333,0.0,0.158333
+IT,http://data.europa.eu/esco/skill/2a2fa8e8-aaf3-4abf-a60b-af6415f1c6d4,strive for company growth,"developing financial, business or marketing plans",3,0,0,0.083333,0.0,0.0,0.083333,0.0,0.158333
+IT,http://data.europa.eu/esco/skill/44985078-6f4c-42b2-bceb-a37ea224b21d,manage difficult clients,engaging with others to identify needs,3,0,0,0.083333,0.0,0.0,0.083333,0.0,0.158333
+IT,http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04,answer incoming calls,providing information to the public and clients,3,0,0,0.083333,0.0,0.0,0.083333,0.0,0.158333
+IT,http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81,analyse production processes for improvement,analysing business operations,3,0,0,0.083333,0.0,0.0,0.083333,0.0,0.158333
+IT,http://data.europa.eu/esco/skill/8c6feedd-339f-4dba-b28a-dae84c759853,develop project schedule,planning events and programmes,3,0,0,0.083333,0.0,0.0,0.083333,0.0,0.158333
+IT,http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2,hygiene in a health care setting,occupational health and safety,3,0,0,0.083333,0.0,0.0,0.083333,0.0,0.158333
+IT,http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1,data visualisation software,database and network design and administration,3,0,0,0.083333,0.0,0.0,0.083333,0.0,0.158333
+IT,http://data.europa.eu/esco/skill/fef5a450-6230-4a34-b3e3-764252dbdcec,devise special promotions,"developing financial, business or marketing plans",3,0,0,0.083333,0.0,0.0,0.083333,0.0,0.158333
+IT,http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247,manage project changes,planning events and programmes,3,0,0,0.083333,0.0,0.0,0.083333,0.0,0.158333
+IT,http://data.europa.eu/esco/skill/7d9bace0-63d0-4848-ac87-350a98082c12,participate actively in civic life,applying civic skills and competences,3,0,0,0.083333,0.0,0.0,0.083333,0.0,0.158333
+IT,http://data.europa.eu/esco/skill/a8d07b5a-c1a1-42c6-9d53-db9c7a2ca996,PostgreSQL,database and network design and administration,3,14,3,0.083333,0.304348,0.2,0.0,0.0,0.1575
+IT,http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081,manage standard enterprise resource planning system,"managing, gathering and storing digital data",8,0,0,0.222222,0.0,0.0,0.222222,-0.219048,0.155556
+IT,http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68,innovation processes,management and administration,8,0,0,0.222222,0.0,0.0,0.222222,-0.219048,0.155556
+IT,http://data.europa.eu/esco/skill/b19e0820-a96f-4c0a-a724-3c056180c1b3,build team spirit,leading others,8,0,0,0.222222,0.0,0.0,0.222222,-0.219048,0.155556
+IT,http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16,packaging functions,sociology and cultural studies,3,1,0,0.083333,0.021739,0.0,0.061594,0.0,0.152899
+IT,http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec,operate relational database management system,"managing, gathering and storing digital data",3,23,2,0.083333,0.5,0.133333,0.0,0.0,0.150833
+IT,http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284,communicate with stakeholders,collaborating and liaising,6,0,5,0.166667,0.0,0.333333,0.166667,-0.219048,0.15
+IT,http://data.europa.eu/esco/skill/02e22093-3436-46a8-8dc5-b041bc4800cc,create model,making models,2,2,3,0.055556,0.043478,0.2,0.012077,0.0,0.148019
+IT,http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be,use spreadsheets software,"managing, gathering and storing digital data",2,1,2,0.055556,0.021739,0.133333,0.033816,0.0,0.146787
+IT,http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5,data models,database and network design and administration,0,12,7,0.0,0.26087,0.466667,0.0,0.0,0.146667
+IT,http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333,use scripting programming,programming computer systems,0,8,7,0.0,0.173913,0.466667,0.0,0.0,0.146667
+IT,http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44,cyber security,military and defence,1,0,4,0.027778,0.0,0.266667,0.027778,0.0,0.146111
+IT,http://data.europa.eu/esco/skill/6f8a40d6-f9ce-43ec-a72f-d4213a53f3ed,Ansible,software and applications development and analysis,2,0,1,0.055556,0.0,0.066667,0.055556,0.0,0.145556
+IT,http://data.europa.eu/esco/skill/63f224ea-d889-42ea-b3ef-730ef78c7176,develop new products,designing systems and products,2,0,1,0.055556,0.0,0.066667,0.055556,0.0,0.145556
+IT,http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2,web analytics,database and network design and administration,2,3,3,0.055556,0.065217,0.2,0.0,0.0,0.145
+IT,http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1,plan software testing,planning production processes,2,1,1,0.055556,0.021739,0.066667,0.033816,0.0,0.140121
+IT,http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72,integrate system components,setting up computer systems,2,1,1,0.055556,0.021739,0.066667,0.033816,0.0,0.140121
+IT,http://data.europa.eu/esco/skill/1ffac4ac-fda7-407d-8ed1-ca8f4a8dc146,Angular,software and applications development and analysis,2,1,1,0.055556,0.021739,0.066667,0.033816,0.0,0.140121

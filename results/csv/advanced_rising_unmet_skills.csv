@@ -1,0 +1,219 @@
+domain,skill_uri,skill_label,capability_family,trend_score,trend_label,months_observed,total_monthly_mentions,gap_score,demand_count,supply_count,course_count,rising_unmet_score
+Education,http://data.europa.eu/esco/skill/4b406514-b3ed-4906-a347-7ebe6be52450,sell tourist packages,selling products or services,0.313333,rising,4,4,0.137931,4,0,0,0.043218334022999995
+Education,http://data.europa.eu/esco/skill/18d39e12-b7f5-4426-8b84-afd3d43af20e,arrange bookings,performing general clerical and administrative tasks,0.293333,rising,4,4,0.137931,4,0,0,0.040459714023
+Education,http://data.europa.eu/esco/skill/0fe57279-53a8-478f-bcf9-dfe8172f0fb6,respond to inquiries in written form,developing professional relationships or networks,0.293333,rising,4,4,0.137931,4,0,0,0.040459714023
+Education,http://data.europa.eu/esco/skill/fdc21239-053c-4b52-9bef-2bc2771a4939,make reservations,accompanying and welcoming people,0.293333,rising,4,4,0.137931,4,0,0,0.040459714023
+Education,http://data.europa.eu/esco/skill/345486f3-f265-4fc8-8ed0-5e96e768e333,process booking,entering and transforming information,0.188889,rising,4,5,0.172414,5,0,0,0.032567108046
+Healthcare,http://data.europa.eu/esco/skill/4b406514-b3ed-4906-a347-7ebe6be52450,sell tourist packages,selling products or services,0.184762,rising,6,4,0.166667,4,0,1,0.030793728254000004
+Tourism,http://data.europa.eu/esco/skill/4b406514-b3ed-4906-a347-7ebe6be52450,sell tourist packages,selling products or services,0.13,rising,5,5,0.208333,5,0,3,0.02708329
+Tourism,http://data.europa.eu/esco/skill/18d39e12-b7f5-4426-8b84-afd3d43af20e,arrange bookings,performing general clerical and administrative tasks,0.128889,rising,5,4,0.166667,4,0,0,0.021481542963000002
+Tourism,http://data.europa.eu/esco/skill/0fe57279-53a8-478f-bcf9-dfe8172f0fb6,respond to inquiries in written form,developing professional relationships or networks,0.128889,rising,5,4,0.166667,4,0,0,0.021481542963000002
+Healthcare,http://data.europa.eu/esco/skill/0fe57279-53a8-478f-bcf9-dfe8172f0fb6,respond to inquiries in written form,developing professional relationships or networks,0.123175,rising,6,4,0.166667,4,0,0,0.020529207725
+Healthcare,http://data.europa.eu/esco/skill/18d39e12-b7f5-4426-8b84-afd3d43af20e,arrange bookings,performing general clerical and administrative tasks,0.123175,rising,6,4,0.166667,4,0,0,0.020529207725
+Education,http://data.europa.eu/esco/skill/14832d87-2f2f-4895-b290-e4760ebae42a,solve technical problems,resolving computer problems,0.084444,rising,4,6,0.206897,6,0,0,0.017471210268
+Healthcare,http://data.europa.eu/esco/skill/fdc21239-053c-4b52-9bef-2bc2771a4939,make reservations,accompanying and welcoming people,0.050159,rising,6,5,0.208333,5,0,0,0.010449774947
+Healthcare,http://data.europa.eu/esco/skill/345486f3-f265-4fc8-8ed0-5e96e768e333,process booking,entering and transforming information,0.050159,rising,6,5,0.208333,5,0,0,0.010449774947
+Tourism,http://data.europa.eu/esco/skill/345486f3-f265-4fc8-8ed0-5e96e768e333,process booking,entering and transforming information,0.044444,stable,5,5,0.208333,5,0,0,0.009259151851999999
+Tourism,http://data.europa.eu/esco/skill/fdc21239-053c-4b52-9bef-2bc2771a4939,make reservations,accompanying and welcoming people,0.044444,stable,5,5,0.208333,5,0,0,0.009259151851999999
+IT,http://data.europa.eu/esco/skill/68698869-c13c-4563-adc7-118b7644f45d,identify customer's needs,engaging with others to identify needs,-0.219048,cooling,6,6,0.166667,6,0,0,0.0
+IT,http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d,ensure compliance with company regulations,ensuring compliance with legislation,-0.219048,cooling,6,6,0.166667,6,0,0,0.0
+IT,http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137,think analytically,"processing information, ideas and concepts",-0.219048,cooling,6,11,0.305556,11,0,1,0.0
+IT,http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7,crowdsourcing strategy,"finance, banking and insurance",-0.219048,cooling,6,9,0.228261,9,1,0,0.0
+IT,http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8,prospect new customers,developing professional relationships or networks,-0.219048,cooling,6,6,0.166667,6,0,0,0.0
+IT,http://data.europa.eu/esco/skill/bdcac0c8-b77a-4640-9eaf-c0cf3efd1e23,process payments,executing financial transactions,-0.219048,cooling,6,6,0.166667,6,0,0,0.0
+IT,http://data.europa.eu/esco/skill/677d5144-4c77-4f8d-afc7-116f4bc0e660,own management skills,management skills,-0.219048,cooling,6,6,0.166667,6,0,0,0.0
+IT,http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284,communicate with stakeholders,collaborating and liaising,-0.219048,cooling,6,6,0.166667,6,0,5,0.0
+IT,http://data.europa.eu/esco/skill/23ac233d-84ad-4517-b0f5-8ca19ba2614e,monitor developments in field of expertise,monitoring developments in area of expertise,-0.219048,cooling,6,21,0.583333,21,0,0,0.0
+IT,http://data.europa.eu/esco/skill/8f6ed69b-29d0-4c01-81ba-f05920a185f3,digital curation,"library, information and archival studies",-0.219048,cooling,6,17,0.472222,17,0,0,0.0
+IT,http://data.europa.eu/esco/skill/5c1e686c-92cc-4bd7-9f23-51f9d8a58886,customise guns,fabricating precision instruments or jewellery,-0.219048,cooling,6,5,0.095411,5,2,0,0.0
+IT,http://data.europa.eu/esco/skill/5f2efbdf-08a2-49cd-9c06-bd284e4f0fbf,negotiate terms with suppliers,negotiating and managing contracts and agreements,-0.219048,cooling,6,5,0.138889,5,0,0,0.0
+IT,http://data.europa.eu/esco/skill/7d092d81-d1e2-4c34-b3cb-c1c9f2e68b7d,finish project within budget,"organising, planning and scheduling work and activities",-0.219048,cooling,6,5,0.138889,5,0,0,0.0
+IT,http://data.europa.eu/esco/skill/e3e42d54-78bd-4337-aa87-bb31a7670c9a,issue sales invoices,executing financial transactions,-0.219048,cooling,6,5,0.138889,5,0,0,0.0
+IT,http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4,adapt to change,demonstrating willingness to learn,-0.219048,cooling,6,5,0.11715,5,1,0,0.0
+IT,http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de,data warehouse,database and network design and administration,-0.219048,cooling,6,5,0.095411,5,2,3,0.0
+IT,http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2,business requirements techniques,management and administration,-0.219048,cooling,6,5,0.138889,5,0,2,0.0
+IT,http://data.europa.eu/esco/skill/ed1fbdc3-1071-423c-9bb4-e3288ca6d1fe,hardware components suppliers,wholesale and retail sales,-0.219048,cooling,6,5,0.138889,5,0,0,0.0
+IT,http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241,perform quality audits,management skills,-0.219048,cooling,6,5,0.138889,5,0,1,0.0
+IT,http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352,achieve sales targets,selling products or services,-0.219048,cooling,6,5,0.138889,5,0,0,0.0
+IT,http://data.europa.eu/esco/skill/7bb5d9af-0a7e-48a7-a860-0e1ded0f6e75,design customer experiences,"creating artistic, visual or instructive materials",-0.219048,cooling,6,4,0.111111,4,0,0,0.0
+IT,http://data.europa.eu/esco/skill/a6532ae5-efc4-4ca4-b172-c11471940d09,electronic business,inter-disciplinary programmes and qualifications involving information and communication technologies (icts),-0.219048,cooling,6,4,0.111111,4,0,0,0.0
+IT,http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a,market analysis,marketing and advertising,-0.219048,cooling,6,4,0.111111,4,0,1,0.0
+IT,http://data.europa.eu/esco/skill/f7f56b20-8f05-4731-a1bf-79fdcffc72ce,check deliveries on receipt,executing financial transactions,-0.219048,cooling,6,4,0.111111,4,0,0,0.0
+IT,http://data.europa.eu/esco/skill/54660948-b811-49a9-874c-bf2be5f280a2,satisfy technical requirements,designing systems and products,-0.219048,cooling,6,4,0.111111,4,0,1,0.0
+IT,http://data.europa.eu/esco/skill/0cb013af-6dd9-4fb2-b34e-63dda1a5cf82,operate cash register,executing financial transactions,-0.219048,cooling,6,4,0.111111,4,0,0,0.0
+IT,http://data.europa.eu/esco/skill/c09c5786-a479-46de-b0aa-d5d2d8ccc123,manage customer service,directing operational activities,-0.219048,cooling,6,4,0.111111,4,0,0,0.0
+IT,http://data.europa.eu/esco/skill/c5bc42be-4970-4dce-80e2-af78bae42e84,manage maintenance operations,directing operational activities,-0.219048,cooling,6,4,0.111111,4,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/14832d87-2f2f-4895-b290-e4760ebae42a,solve technical problems,resolving computer problems,-0.124444,cooling,5,7,0.291667,7,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/bdcac0c8-b77a-4640-9eaf-c0cf3efd1e23,process payments,executing financial transactions,-0.188889,cooling,5,10,0.416667,10,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d,sales activities,wholesale and retail sales,-0.253333,cooling,5,13,0.526741,13,1,0,0.0
+Tourism,http://data.europa.eu/esco/skill/b19e0820-a96f-4c0a-a724-3c056180c1b3,build team spirit,leading others,-0.253333,cooling,5,10,0.416667,10,0,1,0.0
+Tourism,http://data.europa.eu/esco/skill/a15dab55-f1da-4f85-ae3e-2b5c5b5333ca,provide high quality customer service,selling products or services,-0.253333,cooling,5,10,0.416667,10,0,1,0.0
+Tourism,http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352,achieve sales targets,selling products or services,-0.253333,cooling,5,8,0.333333,8,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68,innovation processes,management and administration,-0.253333,cooling,5,8,0.333333,8,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/378caeec-10a0-4162-b75c-ab374a42e93d,e-procurement,wholesale and retail sales,-0.253333,cooling,5,8,0.333333,8,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/7bb5d9af-0a7e-48a7-a860-0e1ded0f6e75,design customer experiences,"creating artistic, visual or instructive materials",-0.253333,cooling,5,8,0.333333,8,0,0,0.0
+IT,http://data.europa.eu/esco/skill/c2a0c52c-0b4b-4180-a918-92650ea3b458,think innovatively,thinking creatively and innovatively,-0.219048,cooling,6,4,0.111111,4,0,0,0.0
+IT,http://data.europa.eu/esco/skill/e8bd4f15-c928-463c-8454-5a7d99dd9926,direct customers to merchandise,selling products or services,-0.219048,cooling,6,4,0.111111,4,0,0,0.0
+IT,http://data.europa.eu/esco/skill/0ba7e293-4665-4c8b-86fa-c1a4b1daee12,place orders for computer products,purchasing goods or services,-0.219048,cooling,6,4,0.111111,4,0,0,0.0
+IT,http://data.europa.eu/esco/skill/633a3637-2c6b-40ae-ac38-289eb2a62aa6,business analysis,management and administration,-0.219048,cooling,6,4,0.111111,4,0,1,0.0
+IT,http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14,improve business processes,developing operational policies and procedures,-0.219048,cooling,6,4,0.111111,4,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/df5e3d02-9f0f-44ee-91c2-85c62f161868,"promote ideas, products, services ",communicating,-0.253333,cooling,5,6,0.25,6,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9,laboratory equipment,chemistry,-0.253333,cooling,5,6,0.220149,6,2,4,0.0
+Tourism,http://data.europa.eu/esco/skill/c6c1af60-9594-460c-a328-00f9ad292be0,coaching techniques,inter-disciplinary programmes and qualifications involving education,-0.253333,cooling,5,7,0.261816,7,2,0,0.0
+Tourism,http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d,consult with business clients,collaborating and liaising,-0.253333,cooling,5,7,0.291667,7,0,2,0.0
+Tourism,http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4,adapt to change,demonstrating willingness to learn,-0.253333,cooling,5,7,0.291667,7,0,1,0.0
+Tourism,http://data.europa.eu/esco/skill/677d5144-4c77-4f8d-afc7-116f4bc0e660,own management skills,management skills,-0.253333,cooling,5,6,0.25,6,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/29a50780-f81b-429c-b410-7f23a492e19d,sell products,selling products or services,-0.253333,cooling,5,6,0.25,6,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363,interact with users to gather requirements,engaging with others to identify needs,-0.253333,cooling,5,6,0.205224,6,3,0,0.0
+Tourism,http://data.europa.eu/esco/skill/fd89f784-88dc-4d35-abd7-86aa073cab12,keep an open mind,demonstrating willingness to learn,-0.253333,cooling,5,5,0.208333,5,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/ecc18804-a466-40d9-98b4-fba5cd67dd4b,accounting,accounting and taxation,-0.253333,cooling,5,5,0.193408,5,1,18,0.0
+Tourism,http://data.europa.eu/esco/skill/0cb013af-6dd9-4fb2-b34e-63dda1a5cf82,operate cash register,executing financial transactions,-0.253333,cooling,5,4,0.166667,4,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/68698869-c13c-4563-adc7-118b7644f45d,identify customer's needs,engaging with others to identify needs,-0.253333,cooling,5,5,0.208333,5,0,1,0.0
+Tourism,http://data.europa.eu/esco/skill/f7f56b20-8f05-4731-a1bf-79fdcffc72ce,check deliveries on receipt,executing financial transactions,-0.253333,cooling,5,5,0.208333,5,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/0bfb44c7-c412-49ed-aab4-e33d0dd3b265,manage sales teams,supervising a team or group,-0.253333,cooling,5,5,0.208333,5,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7,crowdsourcing strategy,"finance, banking and insurance",-0.253333,cooling,5,5,0.208333,5,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab,security engineering,engineering and engineering trades not elsewhere classified,-0.253333,cooling,5,5,0.208333,5,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/80e7418e-7434-456c-85e1-e8aef626a8c0,coordinate catering,directing operational activities,-0.253333,cooling,5,4,0.166667,4,0,10,0.0
+Tourism,http://data.europa.eu/esco/skill/ed1fbdc3-1071-423c-9bb4-e3288ca6d1fe,hardware components suppliers,wholesale and retail sales,-0.253333,cooling,5,4,0.166667,4,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/4b3138e1-c09e-4c5c-a13c-8d533747a1c3,use X-ray machines,operating audio-visual equipment,-0.253333,cooling,5,4,0.166667,4,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d,ensure compliance with company regulations,ensuring compliance with legislation,-0.253333,cooling,5,4,0.166667,4,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/b478d218-21df-447f-9eba-6fb11f94b071,maintain telephony system,"maintaining electrical, electronic and precision equipment",-0.253333,cooling,5,4,0.166667,4,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/7d092d81-d1e2-4c34-b3cb-c1c9f2e68b7d,finish project within budget,"organising, planning and scheduling work and activities",-0.253333,cooling,5,4,0.166667,4,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/2945dc58-5b5c-4023-97ee-34ec05905b81,check in luggage,marking materials or objects for identification,-0.253333,cooling,5,4,0.166667,4,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/c2a0c52c-0b4b-4180-a918-92650ea3b458,think innovatively,thinking creatively and innovatively,-0.253333,cooling,5,4,0.166667,4,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/be20d05c-f6b4-4580-9fcf-f00f4baab562,make data-driven decisions,analysing business operations,-0.253333,cooling,5,4,0.166667,4,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/e8bd4f15-c928-463c-8454-5a7d99dd9926,direct customers to merchandise,selling products or services,-0.253333,cooling,5,4,0.166667,4,0,0,0.0
+IT,http://data.europa.eu/esco/skill/a15dab55-f1da-4f85-ae3e-2b5c5b5333ca,provide high quality customer service,selling products or services,-0.219048,cooling,6,9,0.25,9,0,0,0.0
+IT,http://data.europa.eu/esco/skill/ecc18804-a466-40d9-98b4-fba5cd67dd4b,accounting,accounting and taxation,-0.219048,cooling,6,9,0.25,9,0,0,0.0
+IT,http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68,innovation processes,management and administration,-0.219048,cooling,6,8,0.222222,8,0,0,0.0
+IT,http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081,manage standard enterprise resource planning system,"managing, gathering and storing digital data",-0.219048,cooling,6,8,0.222222,8,0,0,0.0
+IT,http://data.europa.eu/esco/skill/b19e0820-a96f-4c0a-a724-3c056180c1b3,build team spirit,leading others,-0.219048,cooling,6,8,0.222222,8,0,0,0.0
+IT,http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d,sales activities,wholesale and retail sales,-0.219048,cooling,6,8,0.222222,8,0,1,0.0
+Tourism,http://data.europa.eu/esco/skill/08e2ff26-88ff-47b5-9d37-d19ace01b075,manage feedback,following instructions and procedures,-0.253333,cooling,5,4,0.136816,4,2,1,0.0
+Tourism,http://data.europa.eu/esco/skill/c09c5786-a479-46de-b0aa-d5d2d8ccc123,manage customer service,directing operational activities,-0.253333,cooling,5,4,0.166667,4,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/fef5a450-6230-4a34-b3e3-764252dbdcec,devise special promotions,"developing financial, business or marketing plans",-0.253333,cooling,5,4,0.166667,4,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04,answer incoming calls,providing information to the public and clients,-0.253333,cooling,5,4,0.166667,4,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284,communicate with stakeholders,collaborating and liaising,-0.253333,cooling,5,4,0.166667,4,0,0,0.0
+Tourism,http://data.europa.eu/esco/skill/e13b734a-218c-434a-a7cc-febac6d24ef3,call-centre technologies,database and network design and administration,-0.253333,cooling,5,4,0.166667,4,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/f7e7ccb6-fadc-4c35-935d-e1040be40dfe,handle financial transactions,executing financial transactions,-0.022857,stable,6,6,0.25,6,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/08e2ff26-88ff-47b5-9d37-d19ace01b075,manage feedback,following instructions and procedures,-0.022857,stable,6,6,0.189394,6,2,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/7bb5d9af-0a7e-48a7-a860-0e1ded0f6e75,design customer experiences,"creating artistic, visual or instructive materials",-0.18254,cooling,6,7,0.291667,7,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389,Java (computer programming),using digital tools for collaboration and productivity,-0.188952,cooling,6,6,0.189394,6,2,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/c6c1af60-9594-460c-a328-00f9ad292be0,coaching techniques,inter-disciplinary programmes and qualifications involving education,-0.022857,stable,6,6,0.25,6,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/fef5a450-6230-4a34-b3e3-764252dbdcec,devise special promotions,"developing financial, business or marketing plans",-0.022857,stable,6,6,0.25,6,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/14832d87-2f2f-4895-b290-e4760ebae42a,solve technical problems,resolving computer problems,-0.095873,cooling,6,7,0.291667,7,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/ed1fbdc3-1071-423c-9bb4-e3288ca6d1fe,hardware components suppliers,wholesale and retail sales,-0.146032,cooling,6,4,0.166667,4,0,1,0.0
+Healthcare,http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d,consult with business clients,collaborating and liaising,-0.153651,cooling,6,12,0.5,12,0,4,0.0
+Healthcare,http://data.europa.eu/esco/skill/bdcac0c8-b77a-4640-9eaf-c0cf3efd1e23,process payments,executing financial transactions,-0.166259,cooling,6,11,0.458333,11,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/a15dab55-f1da-4f85-ae3e-2b5c5b5333ca,provide high quality customer service,selling products or services,-0.219048,cooling,6,7,0.291667,7,0,1,0.0
+Healthcare,http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16,packaging functions,sociology and cultural studies,-0.219048,cooling,6,7,0.291667,7,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/5c1e686c-92cc-4bd7-9f23-51f9d8a58886,customise guns,fabricating precision instruments or jewellery,-0.219048,cooling,6,7,0.291667,7,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77,production processes,"engineering, manufacturing and construction not elsewhere classified",-0.219048,cooling,6,7,0.291667,7,0,1,0.0
+Healthcare,http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352,achieve sales targets,selling products or services,-0.219048,cooling,6,6,0.25,6,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/378caeec-10a0-4162-b75c-ab374a42e93d,e-procurement,wholesale and retail sales,-0.219048,cooling,6,6,0.25,6,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db,control production,planning production processes,-0.219048,cooling,6,6,0.25,6,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241,perform quality audits,management skills,-0.219048,cooling,6,6,0.25,6,0,1,0.0
+Healthcare,http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d,ensure compliance with company regulations,ensuring compliance with legislation,-0.219048,cooling,6,6,0.25,6,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14,improve business processes,developing operational policies and procedures,-0.219048,cooling,6,6,0.25,6,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/8f6ed69b-29d0-4c01-81ba-f05920a185f3,digital curation,"library, information and archival studies",-0.219048,cooling,6,15,0.625,15,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137,think analytically,"processing information, ideas and concepts",-0.219048,cooling,6,14,0.583333,14,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/b19e0820-a96f-4c0a-a724-3c056180c1b3,build team spirit,leading others,-0.219048,cooling,6,11,0.458333,11,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363,interact with users to gather requirements,engaging with others to identify needs,-0.219048,cooling,6,9,0.375,9,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/2a0efd9a-4a60-4edc-8561-f2754d24eeb8,mathematical economics,economics,-0.219048,cooling,6,7,0.261364,7,1,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d,sales activities,wholesale and retail sales,-0.219048,cooling,6,7,0.291667,7,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/677d5144-4c77-4f8d-afc7-116f4bc0e660,own management skills,management skills,-0.219048,cooling,6,5,0.208333,5,0,1,0.0
+Healthcare,http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2,hygiene in a health care setting,occupational health and safety,-0.219048,cooling,6,5,0.208333,5,0,3,0.0
+Healthcare,http://data.europa.eu/esco/skill/db9050db-ae5d-4be8-8114-c26f272c3bda,manage health and safety,complying with health and safety procedures,-0.219048,cooling,6,5,0.208333,5,0,14,0.0
+Healthcare,http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8,pharmaceutical technology,pharmacy,-0.219048,cooling,6,5,0.208333,5,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/0e21e183-e787-4f23-a240-93b416c088c2,maintain personal hygiene standards,management skills,-0.219048,cooling,6,5,0.17803,5,1,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/fc3cdc2c-7b79-4b5c-a4b0-f3b996fef849,attend meetings,collaborating and liaising,-0.219048,cooling,6,5,0.17803,5,1,1,0.0
+Healthcare,http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68,perform project management,"directing, supervising and coordinating projects",-0.219048,cooling,6,5,0.208333,5,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/fef5a450-6230-4a34-b3e3-764252dbdcec,devise special promotions,"developing financial, business or marketing plans",-0.5,cooling,2,3,0.115385,3,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/c6c1af60-9594-460c-a328-00f9ad292be0,coaching techniques,inter-disciplinary programmes and qualifications involving education,-0.666667,cooling,2,4,0.153846,4,0,1,0.0
+Green Energy,http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d,consult with business clients,collaborating and liaising,-0.833333,cooling,2,7,0.269231,7,0,1,0.0
+Green Energy,http://data.europa.eu/esco/skill/23ac233d-84ad-4517-b0f5-8ca19ba2614e,monitor developments in field of expertise,monitoring developments in area of expertise,-1.0,cooling,2,13,0.5,13,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7,crowdsourcing strategy,"finance, banking and insurance",-1.0,cooling,2,13,0.5,13,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/8f6ed69b-29d0-4c01-81ba-f05920a185f3,digital curation,"library, information and archival studies",-1.0,cooling,2,11,0.423077,11,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/b19e0820-a96f-4c0a-a724-3c056180c1b3,build team spirit,leading others,-1.0,cooling,2,11,0.423077,11,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d,sales activities,wholesale and retail sales,-1.0,cooling,2,9,0.346154,9,0,1,0.0
+Green Energy,http://data.europa.eu/esco/skill/a15dab55-f1da-4f85-ae3e-2b5c5b5333ca,provide high quality customer service,selling products or services,-1.0,cooling,2,8,0.307692,8,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/ecc18804-a466-40d9-98b4-fba5cd67dd4b,accounting,accounting and taxation,-1.0,cooling,2,8,0.307692,8,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/378caeec-10a0-4162-b75c-ab374a42e93d,e-procurement,wholesale and retail sales,-1.0,cooling,2,7,0.269231,7,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/68698869-c13c-4563-adc7-118b7644f45d,identify customer's needs,engaging with others to identify needs,-1.0,cooling,2,7,0.269231,7,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137,think analytically,"processing information, ideas and concepts",-1.0,cooling,2,6,0.230769,6,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/e3e42d54-78bd-4337-aa87-bb31a7670c9a,issue sales invoices,executing financial transactions,-1.0,cooling,2,6,0.230769,6,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04,answer incoming calls,providing information to the public and clients,-1.0,cooling,2,6,0.230769,6,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68,innovation processes,management and administration,-1.0,cooling,2,5,0.192308,5,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081,manage standard enterprise resource planning system,"managing, gathering and storing digital data",-1.0,cooling,2,5,0.192308,5,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d,ensure compliance with company regulations,ensuring compliance with legislation,-1.0,cooling,2,5,0.192308,5,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8,prospect new customers,developing professional relationships or networks,-1.0,cooling,2,5,0.192308,5,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284,communicate with stakeholders,collaborating and liaising,-0.219048,cooling,6,6,0.25,6,0,1,0.0
+Healthcare,http://data.europa.eu/esco/skill/c5bc42be-4970-4dce-80e2-af78bae42e84,manage maintenance operations,directing operational activities,-0.219048,cooling,6,6,0.25,6,0,9,0.0
+Healthcare,http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82,study a collection,conducting academic or market research,-0.219048,cooling,6,6,0.25,6,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/7d9d73a8-08df-4624-a5df-95cb220c0736,cosmetics,hair and beauty services,-0.219048,cooling,6,5,0.208333,5,0,1,0.0
+Healthcare,http://data.europa.eu/esco/skill/f7f56b20-8f05-4731-a1bf-79fdcffc72ce,check deliveries on receipt,executing financial transactions,-0.219048,cooling,6,5,0.208333,5,0,0,0.0
+Healthcare,http://data.europa.eu/esco/skill/47ac9325-b072-4e37-8e40-e6ffed03e851,supervision of persons,management and administration,-0.219048,cooling,6,5,0.208333,5,0,5,0.0
+Green Energy,http://data.europa.eu/esco/skill/2a0efd9a-4a60-4edc-8561-f2754d24eeb8,mathematical economics,economics,-1.0,cooling,2,4,0.153846,4,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77,production processes,"engineering, manufacturing and construction not elsewhere classified",-1.0,cooling,2,5,0.192308,5,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16,packaging functions,sociology and cultural studies,-1.0,cooling,2,5,0.155271,5,1,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4,adapt to change,demonstrating willingness to learn,-1.0,cooling,2,5,0.192308,5,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/2a2fa8e8-aaf3-4abf-a60b-af6415f1c6d4,strive for company growth,"developing financial, business or marketing plans",-1.0,cooling,2,5,0.192308,5,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/bdcac0c8-b77a-4640-9eaf-c0cf3efd1e23,process payments,executing financial transactions,-1.0,cooling,2,5,0.192308,5,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/0cb013af-6dd9-4fb2-b34e-63dda1a5cf82,operate cash register,executing financial transactions,-1.0,cooling,2,4,0.153846,4,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/b478d218-21df-447f-9eba-6fb11f94b071,maintain telephony system,"maintaining electrical, electronic and precision equipment",-1.0,cooling,2,4,0.153846,4,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab,security engineering,engineering and engineering trades not elsewhere classified,-1.0,cooling,2,4,0.153846,4,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2,hygiene in a health care setting,occupational health and safety,-1.0,cooling,2,4,0.153846,4,0,1,0.0
+Green Energy,http://data.europa.eu/esco/skill/f7f56b20-8f05-4731-a1bf-79fdcffc72ce,check deliveries on receipt,executing financial transactions,-1.0,cooling,2,4,0.153846,4,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/4b3138e1-c09e-4c5c-a13c-8d533747a1c3,use X-ray machines,operating audio-visual equipment,-1.0,cooling,2,4,0.153846,4,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/df5e3d02-9f0f-44ee-91c2-85c62f161868,"promote ideas, products, services ",communicating,-1.0,cooling,2,4,0.153846,4,0,2,0.0
+Green Energy,http://data.europa.eu/esco/skill/677d5144-4c77-4f8d-afc7-116f4bc0e660,own management skills,management skills,-1.0,cooling,2,4,0.153846,4,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/7bb5d9af-0a7e-48a7-a860-0e1ded0f6e75,design customer experiences,"creating artistic, visual or instructive materials",-1.0,cooling,2,4,0.153846,4,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/5f2efbdf-08a2-49cd-9c06-bd284e4f0fbf,negotiate terms with suppliers,negotiating and managing contracts and agreements,-1.0,cooling,2,4,0.153846,4,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db,control production,planning production processes,-1.0,cooling,2,3,0.115385,3,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4,SAP Data Services,database and network design and administration,-1.0,cooling,2,3,0.115385,3,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/e8bd4f15-c928-463c-8454-5a7d99dd9926,direct customers to merchandise,selling products or services,-1.0,cooling,2,4,0.153846,4,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/0ba7e293-4665-4c8b-86fa-c1a4b1daee12,place orders for computer products,purchasing goods or services,-1.0,cooling,2,4,0.153846,4,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/68aefa78-9a8c-4d5f-879a-abcfe1cd464f,adhere to health well-being and safety,complying with health and safety procedures,-1.0,cooling,2,4,0.153846,4,0,2,0.0
+Green Energy,http://data.europa.eu/esco/skill/2945dc58-5b5c-4023-97ee-34ec05905b81,check in luggage,marking materials or objects for identification,-1.0,cooling,2,4,0.153846,4,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241,perform quality audits,management skills,-1.0,cooling,2,3,0.115385,3,0,1,0.0
+Green Energy,http://data.europa.eu/esco/skill/15d6d4e9-9b4b-4a93-aea5-a29a67b6d9e7,insurance law,law,-1.0,cooling,2,3,0.115385,3,0,0,0.0
+Green Energy,http://data.europa.eu/esco/skill/47ac9325-b072-4e37-8e40-e6ffed03e851,supervision of persons,management and administration,-1.0,cooling,2,3,0.115385,3,0,1,0.0
+Education,http://data.europa.eu/esco/skill/bdcac0c8-b77a-4640-9eaf-c0cf3efd1e23,process payments,executing financial transactions,-0.093333,cooling,4,8,0.275862,8,0,0,0.0
+Education,http://data.europa.eu/esco/skill/23ac233d-84ad-4517-b0f5-8ca19ba2614e,monitor developments in field of expertise,monitoring developments in area of expertise,-0.313333,cooling,4,18,0.62069,18,0,0,0.0
+Education,http://data.europa.eu/esco/skill/8f6ed69b-29d0-4c01-81ba-f05920a185f3,digital curation,"library, information and archival studies",-0.313333,cooling,4,15,0.517241,15,0,0,0.0
+Education,http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7,crowdsourcing strategy,"finance, banking and insurance",-0.313333,cooling,4,12,0.413793,12,0,0,0.0
+Education,http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68,innovation processes,management and administration,-0.313333,cooling,4,11,0.37931,11,0,0,0.0
+Education,http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d,sales activities,wholesale and retail sales,-0.313333,cooling,4,10,0.344828,10,0,0,0.0
+Education,http://data.europa.eu/esco/skill/b19e0820-a96f-4c0a-a724-3c056180c1b3,build team spirit,leading others,-0.313333,cooling,4,9,0.310345,9,0,0,0.0
+Education,http://data.europa.eu/esco/skill/68698869-c13c-4563-adc7-118b7644f45d,identify customer's needs,engaging with others to identify needs,-0.313333,cooling,4,8,0.275862,8,0,0,0.0
+Education,http://data.europa.eu/esco/skill/c6c1af60-9594-460c-a328-00f9ad292be0,coaching techniques,inter-disciplinary programmes and qualifications involving education,-0.313333,cooling,4,8,0.247291,8,1,0,0.0
+Education,http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137,think analytically,"processing information, ideas and concepts",-0.313333,cooling,4,7,0.241379,7,0,1,0.0
+Education,http://data.europa.eu/esco/skill/a15dab55-f1da-4f85-ae3e-2b5c5b5333ca,provide high quality customer service,selling products or services,-0.313333,cooling,4,7,0.241379,7,0,0,0.0
+Education,http://data.europa.eu/esco/skill/378caeec-10a0-4162-b75c-ab374a42e93d,e-procurement,wholesale and retail sales,-0.313333,cooling,4,6,0.206897,6,0,0,0.0
+Education,http://data.europa.eu/esco/skill/677d5144-4c77-4f8d-afc7-116f4bc0e660,own management skills,management skills,-0.313333,cooling,4,6,0.206897,6,0,1,0.0
+Education,http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4,adapt to change,demonstrating willingness to learn,-0.313333,cooling,4,6,0.206897,6,0,0,0.0
+Education,http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04,answer incoming calls,providing information to the public and clients,-0.313333,cooling,4,6,0.206897,6,0,0,0.0
+Education,http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d,consult with business clients,collaborating and liaising,-0.313333,cooling,4,6,0.206897,6,0,0,0.0
+Education,http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77,production processes,"engineering, manufacturing and construction not elsewhere classified",-0.313333,cooling,4,6,0.206897,6,0,1,0.0
+Education,http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab,security engineering,engineering and engineering trades not elsewhere classified,-0.313333,cooling,4,5,0.172414,5,0,1,0.0
+Education,http://data.europa.eu/esco/skill/fd89f784-88dc-4d35-abd7-86aa073cab12,keep an open mind,demonstrating willingness to learn,-0.313333,cooling,4,5,0.172414,5,0,0,0.0
+Education,http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352,achieve sales targets,selling products or services,-0.313333,cooling,4,4,0.137931,4,0,0,0.0
+Education,http://data.europa.eu/esco/skill/0cb013af-6dd9-4fb2-b34e-63dda1a5cf82,operate cash register,executing financial transactions,-0.313333,cooling,4,4,0.137931,4,0,0,0.0
+Education,http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081,manage standard enterprise resource planning system,"managing, gathering and storing digital data",-0.313333,cooling,4,4,0.137931,4,0,0,0.0
+Education,http://data.europa.eu/esco/skill/f7f56b20-8f05-4731-a1bf-79fdcffc72ce,check deliveries on receipt,executing financial transactions,-0.313333,cooling,4,4,0.137931,4,0,0,0.0
+Education,http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241,perform quality audits,management skills,-0.313333,cooling,4,4,0.137931,4,0,1,0.0
+Education,http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d,ensure compliance with company regulations,ensuring compliance with legislation,-0.313333,cooling,4,4,0.137931,4,0,0,0.0
+Education,http://data.europa.eu/esco/skill/4b3138e1-c09e-4c5c-a13c-8d533747a1c3,use X-ray machines,operating audio-visual equipment,-0.313333,cooling,4,4,0.137931,4,0,0,0.0
+Education,http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8,prospect new customers,developing professional relationships or networks,-0.313333,cooling,4,4,0.137931,4,0,0,0.0
+Education,http://data.europa.eu/esco/skill/df5e3d02-9f0f-44ee-91c2-85c62f161868,"promote ideas, products, services ",communicating,-0.313333,cooling,4,4,0.137931,4,0,2,0.0
+Education,http://data.europa.eu/esco/skill/78d90f00-5226-44fc-95c2-0d8dac6b081b,technology education,teacher training with subject specialisation,-0.313333,cooling,4,4,0.137931,4,0,0,0.0
+Education,http://data.europa.eu/esco/skill/e3e42d54-78bd-4337-aa87-bb31a7670c9a,issue sales invoices,executing financial transactions,-0.313333,cooling,4,4,0.137931,4,0,0,0.0
+Education,http://data.europa.eu/esco/skill/7bb5d9af-0a7e-48a7-a860-0e1ded0f6e75,design customer experiences,"creating artistic, visual or instructive materials",-0.313333,cooling,4,4,0.137931,4,0,0,0.0
+Education,http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363,interact with users to gather requirements,engaging with others to identify needs,-0.313333,cooling,4,4,0.10936,4,1,1,0.0
+Education,http://data.europa.eu/esco/skill/2945dc58-5b5c-4023-97ee-34ec05905b81,check in luggage,marking materials or objects for identification,-0.313333,cooling,4,4,0.137931,4,0,0,0.0
+Education,http://data.europa.eu/esco/skill/68aefa78-9a8c-4d5f-879a-abcfe1cd464f,adhere to health well-being and safety,complying with health and safety procedures,-0.313333,cooling,4,4,0.137931,4,0,0,0.0
+Education,http://data.europa.eu/esco/skill/99b163e8-7815-43e2-83f3-a47f3076354c,accounting entries,accounting and taxation,-0.313333,cooling,4,4,0.137931,4,0,0,0.0
+Education,http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8,pharmaceutical technology,pharmacy,-0.313333,cooling,4,4,0.137931,4,0,0,0.0
+Education,http://data.europa.eu/esco/skill/0ba7e293-4665-4c8b-86fa-c1a4b1daee12,place orders for computer products,purchasing goods or services,-0.313333,cooling,4,4,0.137931,4,0,0,0.0
+Education,http://data.europa.eu/esco/skill/e8bd4f15-c928-463c-8454-5a7d99dd9926,direct customers to merchandise,selling products or services,-0.313333,cooling,4,4,0.137931,4,0,0,0.0
+Education,http://data.europa.eu/esco/skill/44985078-6f4c-42b2-bceb-a37ea224b21d,manage difficult clients,engaging with others to identify needs,-0.313333,cooling,4,4,0.137931,4,0,0,0.0

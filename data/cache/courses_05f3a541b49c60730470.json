@@ -1,0 +1,1550 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "https://skillab-tracker.csd.auth.gr/api/courses",
+    "params": {
+      "page": 2,
+      "page_size": 300
+    },
+    "data": {
+      "keywords": [
+        "software",
+        "developer",
+        "python",
+        "data"
+      ],
+      "keywords_logic": "or"
+    }
+  },
+  "response": {
+    "items": [
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+          "http://data.europa.eu/esco/skill/505e4ef3-7ce4-437d-b7b4-5c608f71c258"
+        ],
+        "id": 201,
+        "title": "Unsupervised Machine Learning and Recommendation Systems",
+        "description": "This course covers advanced data science topics related to unsupervised machine learning. You will apply techniques including clustering and dimensionality reduction, then learn about the different strategies for generating personalized recommendations. The final lesson of the course covers practical advice for data scientists using unsupervised models in the real world, including how to test them both \"online\" and \"offline\". For the final project, you will build a hybrid recommendation system for data science articles.Clustering\nExplore unsupervised learning in data science, focusing on clustering techniques, k-means algorithms, metrics, and applications for enhanced data analysis.\n Dimensionality Reduction\nLearn the fundamentals of dimensionality reduction and how to use it in your models effectively. Utilize Scikit-learn and matplotlib to calculate and visualize the dimension reduction process.\n Recommendation Systems\nLearn about the different methods used to create recommendation engines with Python.\n Unsupervised Machine Learning Model Evaluation\nLearn how to evaluate unsupervised machine learning models, including clustering, dimensionality reduction, and recommendation systems, to improve their performance.",
+        "last_updated": "2025-01-24",
+        "rating": 9.6,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/data-scientist-nanodegree--nd025",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-scientist-nanodegree--nd025_unsupervised_machine_learning_and_recommendation_systems"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+          "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9"
+        ],
+        "id": 202,
+        "title": "Software Engineering for Data Scientists",
+        "description": "Software engineering skills are increasingly important for data scientists. In this course, you'll learn best practices for writing software, working with Python packages, and building web data dashboards. You'll take a look \"under the hood\" of Python packages like scikit-learn and then practice creating and sharing virtual environments, packages, and web data dashboards. You will also become familiar with code quality and reproducibility tools including unit tests, linting, and GitHub actions. In your final project, you will develop a FastHTML dashboard that allows users to interact with a machine learning model through a web interface.",
+        "last_updated": "2025-01-24",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/software-engineering-for-data-scientists--cd0171",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/software-engineering-for-data-scientists--cd0171_software_engineering_for_data_scientists"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0c15aa34-6977-4da7-b1f0-2ba6a582ef1b",
+          "http://data.europa.eu/esco/skill/18ab25a5-ce2d-4cd5-b7b0-3890f595f77d",
+          "http://data.europa.eu/esco/skill/8181aa4c-42bc-4036-a3d2-5cb6bbb34239",
+          "http://data.europa.eu/esco/skill/8fa510d0-a8a6-4932-a361-00f8442cfe23",
+          "http://data.europa.eu/esco/skill/dad7e408-162f-46a4-8567-db560e19e2fc",
+          "http://data.europa.eu/esco/skill/f69d330a-c343-433f-9532-fed6b8654b0e"
+        ],
+        "id": 207,
+        "title": "Monitoring, Logging and Responding to Incidents",
+        "description": "In this course, you will discover the importance of incident detection and use the Snort Intrusion Detection System to automatically generate alerts based on suspicious network traffic. You will learn to analyze automated alerts for false positives and determine if they represent a real security threat. You will analyze network traffic using Wireshark and capture live traffic using tcpdump. You will also use Splunk to search and correlate security log data across multiple sources. Finally, you will follow incident handling procedures to respond and recover from security incident scenarios.Foundations of Monitoring and Logging\nFind out why monitoring and logging is essential to cybersecurity, learn about the history of log monitoring, and get started with the virtual machine you'll be using in this course.\n Incident Detection\nDiscover how to uncover security incidents using an Intrusion Detection System. Create and analyze IDS rules and security log data.\n Monitoring and Logging\nCapture and analyze network traffic using tcpdump and Wireshark, and search security logs using Splunk, a powerful SIEM tool.\n Incident Handling\nFind out about the process to remediate security incidents, and an important tool to handle incidents consistently: incident handling playbooks.",
+        "last_updated": "2025-01-20",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/security-analyst-nanodegree--nd324",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/security-analyst-nanodegree--nd324_monitoring,_logging_and_responding_to_incidents"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de"
+        ],
+        "id": 209,
+        "title": "Cloud Data Warehouses with Azure",
+        "description": "In this course, you will learn to create cloud-based data warehouses and sharpen your data warehousing skills, deepen your knowledge of data infrastructure, and be introduced to data engineering on the cloud using Azure.",
+        "last_updated": "2025-01-20",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/cloud-data-warehouses-with-azure--cd11530",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cloud-data-warehouses-with-azure--cd11530_cloud_data_warehouses_with_azure"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284"
+        ],
+        "id": 211,
+        "title": "Introduction to Data Science and Supervised Machine Learning",
+        "description": "This course is for data analysts who want to apply machine learning. You will begin with an introduction to the fundamental concepts and processes that differentiate data science from other fields. Then you will dive deeper into machine learning algorithms, including underlying math concepts like gradient descent, ensemble models like random forests, and an introduction to neural networks and deep learning. Once you can harness these algorithms, you will apply model evaluation techniques for both accuracy and fairness. The course culminates with advice for effectively communicating findings to stakeholders. Your final project will involve building a machine learning model and writing a blog post about your analysis, to build your data science portfolio.",
+        "last_updated": "2025-01-20",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/introduction-to-data-science--cd0017",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/introduction-to-data-science--cd0017_introduction_to_data_science_and_supervised_machine_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d"
+        ],
+        "id": 217,
+        "title": "Building Generative AI Applications with Amazon Bedrock",
+        "description": "Build cutting-edge generative AI applications with Amazon Bedrock and Python. Learn to integrate models in applications using BOTO3 and APIs, leverage AWS services such as S3 and Amazon Aurora, and create end-to-end AI solutions. Through practical exercises and a real-world project, you'll gain expertise in Retrieval-Augmented Generation (RAG), embeddings, and secure AI pipelines.",
+        "last_updated": "2025-01-17",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/building-generative-ai-applications-with-amazon-bedrock--cd13926",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/building-generative-ai-applications-with-amazon-bedrock--cd13926_building_generative_ai_applications_with_amazon_bedrock"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+          "http://data.europa.eu/esco/skill/867137fb-ff1b-4ca3-99f3-cb6969aa2c68",
+          "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+          "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968"
+        ],
+        "id": 219,
+        "title": "Backend Development with Node.js",
+        "description": "This course introduces the fundamental tools needed to build a basic API in a way that is both scalable, and maintainable. You will work with Node.js and its core modules, write TypeScript for developer error reduction, test with Jasmine to introduce unit testing in a Test-Driven Development environment, and use Express as a framework for building APIs.Foundations of Backend Development\nDiscover the tools that make backend development possible. You'll learn how those tools are used throughout the course and how they'll set you up to write clear, maintainable code.\n Getting Started with Node.JS\nLearn how JavaScript is used serverside with Node.js. You'll work with the tools Node.js provides as well as integrate third-party packages to create the backend for your applications.\n Developing with TypeScript\nTake advantage of strict typing by learning to write TypeScript, one of the most popular for application development. You'll write code in a way that reduces errors and expresses your intentions.\n Unit Testing with Jasmine\nExplore the software development testing paradigm. You'll learn how Jasmine can be used as a Test-Driven Development framework for writing server-side unit tests to create bug-free maintainable code.\n Building a Server\nBuild a server with the Express framework. You'll learn how APIs are architected and create and use middleware for expanded functionality. Finally, you'll learn to read and write to the file system.",
+        "last_updated": "2025-01-16",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067_backend_development_with_node.js"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+          "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+          "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+          "http://data.europa.eu/esco/skill/a8d07b5a-c1a1-42c6-9d53-db9c7a2ca996",
+          "http://data.europa.eu/esco/skill/a9441b7f-6917-4d42-8d1c-88bd1784d3da"
+        ],
+        "id": 220,
+        "title": "Creating an API with PostgreSQL and Express",
+        "description": "This course covers the primary skills required for API development. Students will build a RESTful JSON API with Node and Postgres. Along the way, you will cover essential topics like databases and querying, API architecture, database migrations, REST, CRUD, creating a testing environment, password hashing and route authorization via JWTs. By completing the exercises and course content, students will gain the knowledge to create a secure, well organized API from scratch and learn skills JavaScript developers use every day.Introduction to Building APIs with Postgres and Express\nWelcome to the very beginning of the APIs with Postgres course! In this lesson we will kick things off by talking about the course contents and requirements, and all get on the same page with APIs.\n Databases and SQL\nThis lesson will focus solely on databases. We'll cover various types of databases, each with their own strengths and then hone our attention in on SQL and the relational database Postgres.\n Create an API with a PostgreSQL connection\nYou know some Postgres and Node. This lesson is all about getting them to talk to each other. We will cover many vital web development concepts and create a clean and dependable API structure.\n Create an API with Express\nMaking the data in our database accessible to the outside world is the whole job of our API. In this lesson we cover the libraries and logic needed to make our API able to respond to outside requests.\n Authentication and Authorization in a Node API\nNo API is complete without offering adequate protection and privacy. This lesson is all about industry standard methods for protecting information and requiring authorization for private pages\n SQL for advanced API functionality\nNow that you've seen the bigger picture for utilizing Postgres and Node to create an API, we circle back around to explore some new Postgres syntax and apply it in the API.",
+        "last_updated": "2025-01-16",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067_creating_an_api_with_postgresql_and_express"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+          "http://data.europa.eu/esco/skill/1ffac4ac-fda7-407d-8ed1-ca8f4a8dc146"
+        ],
+        "id": 221,
+        "title": "Angular Fundamentals",
+        "description": "Foundations of Angular Development\nDiscover what Angular is, and how it can be used to build dynamic web applications. You'll also learn about the structure of this course, as well as some tools to help you become successful.\n Angular Overview\nExplore the Angular CLI, a powerful tool that developers use to build Angular applications from the command line. Leveraging the Angular CLI, you'll also generate your first components and modules.\n Components\nTake a deep dive into the building blocks of an Angular application's user interface. Discover templates, the component lifecycle, events, and the communication and navigation between components.\n Libraries & Services\nCreate reusable services to contain an application's non-UI business logic. Extend your applications with the use of third-party libraries and other dependencies.\n Data\nFetch data asynchronously using HTTP, and render it in your application. You'll also collect and validate input from your users with template-driven forms.",
+        "last_updated": "2025-01-16",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067_angular_fundamentals"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/867137fb-ff1b-4ca3-99f3-cb6969aa2c68"
+        ],
+        "id": 223,
+        "title": "Backend Development with Node.js",
+        "description": "This course introduces the fundamental tools needed to build a basic API in a way that is both scalable, and maintainable. You will work with Node.js and its core modules, write TypeScript for developer error reduction, test with Jasmine to introduce unit testing in a Test-Driven Development environment, and use Express as a framework for building APIs.",
+        "last_updated": "2025-01-16",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/backend-development-with-node-js--cd0292",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/backend-development-with-node-js--cd0292_backend_development_with_node.js"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+          "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa",
+          "http://data.europa.eu/esco/skill/8744f28f-59a9-45af-8ef6-6944cb5a1473"
+        ],
+        "id": 224,
+        "title": "Building a Workflow for AI",
+        "description": "This course introduces learners to the concepts of AI-based trading models. Learners will discover the basic building blocks used to create an AI-based trading model and key Machine Learning techniques they need to be aware of.Introduction to AI Workflows in Trading\nLearn how to prepare price data for AI models, backtest trading algorithms, and build a simple RSI algorithm.\n Unsupervised Learning\nExplore investment data, summarize key stats, use K-Means and PCA for clustering, adapt trading algorithms, and identify risk factors to enhance model insights on outperformance\n Supervised Learning: Regression\nBuild regression models using past returns, explore regularization to avoid over/underfitting, and differentiate between training and test data while identifying signs of overfitting and underfitting.\n Supervised Learning: Classification\nPredict categorical variables using logistic regression and decision trees. Improve model performance with cross-validation for strong out-of-sample results.",
+        "last_updated": "2025-01-15",
+        "rating": null,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/ai-trading-strategies--nd881",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-trading-strategies--nd881_building_a_workflow_for_ai"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79",
+          "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639"
+        ],
+        "id": 225,
+        "title": "Preparing for Data Analysis",
+        "description": "Preprocessing is a critical concept in any successful ML model. In this course, you will learn the basics of data engineering, data selection, and exploratory data analysis.An Overview of Machine Learning Pipelines\nWe'll define the steps of the machine learning pipeline, from data ingestion to production. We'll emphasize preprocessing and feature engineering, essential steps to well-performing trading models.\n Data Acquisition and Preprocessing\nHow do you get data from the Internet to your model? We'll talk about ingestion, transformation,and data wrangling using Pandas, the industry-standard time-series package for data manipulation.\n Feature Engineering for Trading Models\nFeature engineering significantly improves model performance, and in this lesson, we'll go over strategies you can use. Basic and more involved techniques will be presented, with use cases noted.\n Exploratory Data Analysis\nWhat's your data trying to tell you? Use EDA, exploratory data analysis, to find out! We'll use Python's two most popular plotting packages, matplotlib and Plotly, to find out your data's secrets.",
+        "last_updated": "2025-01-15",
+        "rating": null,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/ai-trading-strategies--nd881",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-trading-strategies--nd881_preparing_for_data_analysis"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/5d5f0963-a8b7-4a4f-a8f5-05b3142752b9"
+        ],
+        "id": 226,
+        "title": "Evaluating Returns and Backtesting",
+        "description": "This course will advance learners' abilities to construct and backtest strategies. The curriculum emphasizes a deep understanding of key performance metrics—such as annualized returns, volatility, and various risk-adjusted ratios—to critically evaluate the effectiveness of trading strategies. Additionally, learners will enhance their skills in visualizing strategy performance through advanced graphical representations. By mastering the implementation and rigorous evaluation of trading models, students will be well-equipped to optimize strategies and ensure robust performance in the world of capital markets.Measuring Returns\nUnderstand the foundations for backtesting. Learners will examine formulas and develop tools for calculating and plotting returns.\n Measuring Risks\nUnderstand volatility, skewness, kurtosis, and the impacts that these concepts have on developing a trading strategy.\n Measuring Risk-Adjusted Returns\nExplore drawdowns, how to calculate them, and which ratios should be employed when developing a backtest strategy. Calculations include the Sharpe, Sortino, and Calmar Ratio.\n Backtesting a Risk Parity Portfolio\nThrough Python, learn how to implement Walk-Forward Validation and combine core calculations to develop a robust backtesting strategy.",
+        "last_updated": "2025-01-15",
+        "rating": null,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/ai-trading-strategies--nd881",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-trading-strategies--nd881_evaluating_returns_and_backtesting"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a"
+        ],
+        "id": 227,
+        "title": "Reinforcement Learning",
+        "description": "In this course, learners will explore how to design, backtest, and optimize a working reinforcement-based ML trading strategy. This course will introduce popular techniques and indicators used in reinforcement learning-based trading, such as Q-learning, PCA, use of market indicators, assessment of market context, and assessment of the strategy outcomes. This course is designed for hobby traders with a background in data science. By the end of this course, you will be able to build, train, backtest, and optimize a reinforcement learning trading strategy with Python.Reinforcement Learning in Trading\nIntroduction to reinforcement learning, Q-learning, and core concepts including how reinforcement learning fits in the trading world.\n Representing the Financal Market: State and Action Spaces\nExplore the concept of Financial State and Action Spaces. Learn how to define states and extract popular market indicators and conditions with Python and YFinance.\n Constructing a Reinforcement Trading Model\nConstruct a RL trading model using Python including define and running a training loop. Learn key tips for implementation and run test data through the newly created model.\n Backtesting and Optimization Techniques\nExamine key backtesting concepts, gather important backtesting information on an RL model, and learn how to interpret those results to optimize performance.",
+        "last_updated": "2025-01-15",
+        "rating": null,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/ai-trading-strategies--nd881",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-trading-strategies--nd881_reinforcement_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/6b4f794c-062e-4e05-863a-ae1bad44f395",
+          "http://data.europa.eu/esco/skill/8867088a-e54d-41bc-81e8-a21ff98e81d3",
+          "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d"
+        ],
+        "id": 229,
+        "title": "Momentum-Based Trading",
+        "description": "In this course, learners will explore how to design, backtest, and optimize a working momentum-based ML trading strategy.What is Momentum-Based Trading\nNormal distribution and geometric Brownian motion are key to momentum trading. Shapiro-Wilk’s and Student’s t-tests are useful statistical tools for developing momentum-based trading strategies.\n Identifying and Extracting Momentum Features\nExplore geometric Brownian motion for stock price modeling, calibration, forecasting, and confidence intervals, followed by deriving and coding the Black-Scholes formula for European option pricing.\n Constructing a Momentum Trading Model\nBuilding a momentum-based trading program using MySQL/SQLite, Python, and geometric Brownian motion for price forecasting, confidence intervals, and Monte-Carlo simulation for scenario analysis.\n Backtesting and Optimization Techniques\nThe lesson covers back-testing momentum strategies, evaluating with Sharpe ratio and maximum drawdown, and quantitative risk management using Value-at-Risk (VaR) and Expected Shortfall (ES) in Python.",
+        "last_updated": "2025-01-15",
+        "rating": null,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/ai-trading-strategies--nd881",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-trading-strategies--nd881_momentum-based_trading"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639"
+        ],
+        "id": 230,
+        "title": "Preparing for Data Analysis",
+        "description": "Preprocessing is a critical concept in any successful ML model. In this course, you will learn the basics of data engineering, data selection, and exploratory data analysis.",
+        "last_updated": "2025-01-15",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/preparing-for-data-analysis--cd13649",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/preparing-for-data-analysis--cd13649_preparing_for_data_analysis"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/906d21c9-7a9c-4919-817d-10676f9ddfe4",
+          "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+          "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5"
+        ],
+        "id": 231,
+        "title": "Data Ingestion with Kafka and Kafka Streaming",
+        "description": "Learn to use REST Proxy, Kafka Connect, KSQL, and Faust Python Stream Processing and use it to stream public transit statuses using Kafka and Kafka ecosystem to build a stream processing application that shows the status of trains in real-time.Introduction to Stream Processing\nIn this lesson students will learn what data streaming is. Students will learn the pros and cons of data streaming, and how it compares to traditional data strategies.\n Apache Kafka\nIn this lesson we’ll review the architecture and configuration of Apache Kafka.\n Data Schemas and Apache Avro\nThis lesson covers data schemas and data schema management, with a focus on Apache Avro.\n Kafka Connect and REST Proxy\nThis lesson covers producing and consuming data into Kafka with Kafka Connect and REST Proxy.\n Stream Processing Fundamentals\nLearn to build real-time applications that instantly process events, the concepts of stream processing state storage, windowed processing, and stateful and non-stateful stream processing.\n Stream Processing with Faust\nStudents will learn how to use the Python stream processing library Faust to rapidly create powerful stream processing applications.\n KSQL\nLearn how to write simple SQL queries to turn Kafka topics into KSQL streams and tables, and then write those tables back out to Kafka.",
+        "last_updated": "2025-01-15",
+        "rating": 8.8,
+        "price": 113.0,
+        "url": "https://www.udacity.com/course/data-streaming-nanodegree--nd029",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-streaming-nanodegree--nd029_data_ingestion_with_kafka_and_kafka_streaming"
+      },
+      {
+        "skills": [],
+        "id": 232,
+        "title": "Streaming API Development and Documentation",
+        "description": "In this course you will grow your expertise in the components of streaming data systems, and build a real time analytics application. Specifically, you will be able to identify components of Spark Streaming (architecture and API), build a continuous application with Structured Streaming, consume and process data from Apache Kafka with Spark Structured Streaming (including setting up and running a Spark Cluster), create a DataFrame as an aggregation of source DataFrames, sink a composite DataFrame to Kafka, and visually inspect a data sink for accuracy.Welcome\nIntroduction to Data Streaming with Spark\n Streaming Dataframes, Views, and Spark SQL\nIn this lesson, you'll learn about working with Spark Dataframes and views.\n Joins and JSON\nIn this lesson, you'll learn how to work with JSON and complete Joins for data streaming.\n Redis, Base64 and JSON\nThis lesson will focus on working with Redis, Base64, and JSON in Data Streaming.",
+        "last_updated": "2025-01-15",
+        "rating": 8.8,
+        "price": 113.0,
+        "url": "https://www.udacity.com/course/data-streaming-nanodegree--nd029",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-streaming-nanodegree--nd029_streaming_api_development_and_documentation"
+      },
+      {
+        "skills": [],
+        "id": 233,
+        "title": "Introducing Generative AI with AWS",
+        "description": "Master the fundamentals of generative AI and develop a deep understanding of its historical context and real-world applications. Explore AI and machine learning foundations using AWS tools, large language models (LLMs) with transformer-based architectures, and the societal impacts of generative AI to understand AI's evolution and ethical deployment. Engage in exercises on AI history, machine learning approaches, prompt engineering, and responsible AI use to apply your knowledge in practical scenarios. Develop skills in distinguishing AI from ML, exploring LLMs, and emphasizing ethical AI deployment, enabling you to apply these concepts in real-world applications. Designed for learners with basic Python knowledge, this program empowers you to advance your understanding of generative AI.",
+        "last_updated": "2025-01-15",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/generative-AI-with-AWS--cd13232",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/generative-AI-with-AWS--cd13232_introducing_generative_ai_with_aws"
+      },
+      {
+        "skills": [],
+        "id": 234,
+        "title": "Hypothesis Testing",
+        "description": "Hypothesis testing is one of the most important topics in all of statistics because it tells us whether our conclusions are statistically significant. In this course, you will learn about the fundamental role statistics plays in hypothesis testing as well as how to implement statistical concepts in Python.",
+        "last_updated": "2025-01-14",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/hypothesis-testing--cd12640",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/hypothesis-testing--cd12640_hypothesis_testing"
+      },
+      {
+        "skills": [],
+        "id": 235,
+        "title": "Creating Visualizations with Power BI",
+        "description": "In this course, students will learn how to carry Power BI beyond mere bar charts and transform their reports into data exploration & storytelling tools that companies can use to better understand their data.",
+        "last_updated": "2025-01-14",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/creating-visualizations-with-power-bi--cd0013",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/creating-visualizations-with-power-bi--cd0013_creating_visualizations_with_power_bi"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/495ce586-09d7-4cec-83d7-2821be6590c4",
+          "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d"
+        ],
+        "id": 237,
+        "title": "Introduction to Programming with Python II",
+        "description": "Continue to advance your skills as a beginning programmer! Python is one of the most versatile and widely used programming languages. In this second-level course, you will build on your understanding of fundamental Python and learn some more advanced skills, including how to work with files on your computer's disk and how to use Object-Oriented Programming (OOP) to create classes, objects, and methods.",
+        "last_updated": "2025-01-14",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/intro-to-programming-with-python-two--cd0229",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-programming-with-python-two--cd0229_introduction_to_programming_with_python_ii"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0c15aa34-6977-4da7-b1f0-2ba6a582ef1b",
+          "http://data.europa.eu/esco/skill/18ab25a5-ce2d-4cd5-b7b0-3890f595f77d",
+          "http://data.europa.eu/esco/skill/f69d330a-c343-433f-9532-fed6b8654b0e"
+        ],
+        "id": 239,
+        "title": "Monitoring, Logging and Responding to Incidents",
+        "description": "In this course, you will discover the importance of incident detection and use the Snort Intrusion Detection System to automatically generate alerts based on suspicious network traffic. You will learn to analyze automated alerts for false positives and determine if they represent a real security threat. You will analyze network traffic using Wireshark and capture live traffic using tcpdump. You will also use Splunk to search and correlate security log data across multiple sources. Finally, you will follow incident handling procedures to respond and recover from security incident scenarios.",
+        "last_updated": "2025-01-10",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/monitoring-logging-and-responding-to-incidents--cd0291",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/monitoring-logging-and-responding-to-incidents--cd0291_monitoring,_logging_and_responding_to_incidents"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+          "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f",
+          "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d"
+        ],
+        "id": 246,
+        "title": "C++ Programming (Optional)",
+        "description": "C++ Getting Started\nThe differences between C++ and Python and how to write C++ code.\n C++ Vectors\nTo program matrix algebra operations and translate your Python code, you will need to use C++ Vectors. These vectors are similar to Python lists, but the syntax can be somewhat tricky.\n Practical C++\nLearn how to write C++ code on your own computer and compile it into a executable program without running into too many compilation errors.\n C++ Object Oriented Programming\nLearn the syntax of C++ object oriented programming as well as some of the additional OOP features provided by the language.\n Python and C++ Speed\nIn this lesson, we'll compare the execution times of C++ and Python programs.\n C++ Intro to Optimization\nOptimizing C++ involves understanding how a computer actually runs your programs. You'll learn how C++ uses the CPU and RAM to execute your code and get a sense for what can slow things down.\n C++ Optimization Practice\nNow you understand how C++ programs execute. It's time to learn specific optimization techniques and put them into practice. This lesson will prepare you for the lesson's code optimization project.",
+        "last_updated": "2025-01-09",
+        "rating": 9.2,
+        "price": 32.29,
+        "url": "https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893_c++_programming_(optional)"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/2b87f4e6-c4cf-4b4c-8157-e2794d136617",
+          "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+          "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+          "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+          "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5"
+        ],
+        "id": 249,
+        "title": "Advanced Python Techniques",
+        "description": "In this course, you will learn advanced Python skills and master a myriad of modern subject matter.Introduction to Advanced Python Techniques\nGet an overview of the course, take a look at Python's quirky history, and learn why Python is a powerful way of thinking.\n Representing Data\nTake a deep dive into data in Python, craft new ways to abstractly think about data, and practice concrete methods for manipulating Python's essential data types.\n Functions and Functional Programming\nExplore functions and functional programming in Python, including function parameters and functions as manipulable objects.\n Object Oriented Programming\nDiscover Python's tools for object-oriented programming and explore Python's exception hierarchy.\n File I/O\nLearn all about reading and writing data files using Python, including plain text, JSON, and CSV files.",
+        "last_updated": "2025-01-09",
+        "rating": 8.8,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/intermediate-python-nanodegree--nd303",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intermediate-python-nanodegree--nd303_advanced_python_techniques"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+          "http://data.europa.eu/esco/skill/8b94aa1e-89c9-459d-b3b4-1dfab8dec2df",
+          "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d"
+        ],
+        "id": 250,
+        "title": "Large Python Codebases with Libraries",
+        "description": "Learn how you can write, structure, and extend your code to be able to support developing large systems at scale. Understand how you can leverage open source libraries to quickly add advanced functionality to your code and how you can package your code into libraries of your own. Apply Object Oriented Programming to ensure that your code remains modular, clear, and understandable. Honing these skills are the foundations for building codebases that are maintainable and efficient as they grow to tens of thousands of lines.Course Overview\nIn this lesson, we'll introduce your instructor, give a brief overview of the course, and look ahead to what you'll be building for your final project.\n Foundations\nWe'll explore the Python language and the core programming design patterns you'll need to write clear and concise code—including object-oriented programming, documentation, typing, and tests.\n Building Modules\nLarge codebases are built by combining many smaller building blocks of code known as modules. We'll build on our knowledge of object-oriented programming to create scalable Python modules.\n Using Libraries\nThe Python community has thousands of publically available, open-source libraries we can use as modules in our software. We'll learn how we can install and use these resources!\n Python in Systems\nWe'll learn how to effectively interface with our software through the command line as well as use other powerful command-line tools in our Python code\n Python for Web\nLearn how to use Python to consume web content and serve complex applications!",
+        "last_updated": "2025-01-09",
+        "rating": 8.8,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/intermediate-python-nanodegree--nd303",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intermediate-python-nanodegree--nd303_large_python_codebases_with_libraries"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/8b94aa1e-89c9-459d-b3b4-1dfab8dec2df"
+        ],
+        "id": 252,
+        "title": "Large Python Codebases with Libraries",
+        "description": "Learn how you can write, structure, and extend your code to be able to support developing large systems at scale. Understand how you can leverage open source libraries to quickly add advanced functionality to your code and how you can package your code into libraries of your own. Apply Object Oriented Programming to ensure that your code remains modular, clear, and understandable. Honing these skills are the foundations for building codebases that are maintainable and efficient as they grow to tens of thousands of lines.",
+        "last_updated": "2025-01-09",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/large-codebases-with-libraries--cd0011",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/large-codebases-with-libraries--cd0011_large_python_codebases_with_libraries"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+          "http://data.europa.eu/esco/skill/505e4ef3-7ce4-437d-b7b4-5c608f71c258"
+        ],
+        "id": 256,
+        "title": "Unsupervised Machine Learning and Recommendation Systems",
+        "description": "This course covers advanced data science topics related to unsupervised machine learning. You will apply techniques including clustering and dimensionality reduction, then learn about the different strategies for generating personalized recommendations. The final lesson of the course covers practical advice for data scientists using unsupervised models in the real world, including how to test them both \"online\" and \"offline\". For the final project, you will build a hybrid recommendation system for data science articles.",
+        "last_updated": "2025-01-07",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/experimental-design-and-recommendations--cd0019",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/experimental-design-and-recommendations--cd0019_unsupervised_machine_learning_and_recommendation_systems"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/484d048c-a5d1-46a5-b57f-45b69c0ac552",
+          "http://data.europa.eu/esco/skill/4f5c1208-62fd-4e5a-a51e-306c06947e11"
+        ],
+        "id": 257,
+        "title": "Data Science Pipelines",
+        "description": "Pipelines are essential tools for data scientists. They enable you to seamlessly combine various different features and preprocessing approaches into a single pipeline object. In this course, you will build reproducible, modular scikit-learn pipelines that prevent subtle data leakage issues and allow you to harness new types of data. These data sources include image data, where you will leverage SVM (support vector machine) and CNN (convolutional neural network) models, and text data, where you will leverage modern NLP (natural language processing) tools including LLMs (large language models) hosted on Hugging Face.",
+        "last_updated": "2025-01-07",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/data-engineering-for-data-scientists--cd0018",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-engineering-for-data-scientists--cd0018_data_science_pipelines"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+          "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2"
+        ],
+        "id": 258,
+        "title": "Leveraging Data with AI",
+        "description": "This course is for product managers who want to build AI products. It does not require any prior familiarity with AI. You'll start by learning how AI can be applied, the different types of AI, data needs for AI, and the AI product lifecycle. Then, you'll dive deeper into two types of AI that can leverage existing datasets: personalization and forecasting. You'll learn some technical details about how these models work and how to evaluate them, and practice what you've learned with hands-on exercises. Finally, you'll pull this all together into a project where you'll develop a PRD for an AI-enabled gift recommendation system in an e-commerce setting.Using AI and Machine Learning in Business\nDiscover how AI and ML technologies can revolutionize business processes, from automating tasks to enabling smarter decision-making and innovation for a competitive edge.\n AI Personalization and Unsupervised Machine Learning\nLearn how techniques such as recommendation engines and clustering algorithms can be used to create personalized product experiences.\n Predicting the Future with AI\nThis lesson covers regressions and time series basics, how they're used in industry, and how to consider the data requirements to train these models.",
+        "last_updated": "2025-01-06",
+        "rating": 8.8,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/ai-product-manager-nanodegree--nd088",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-product-manager-nanodegree--nd088_leveraging_data_with_ai"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+          "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+          "http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213",
+          "http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669"
+        ],
+        "id": 259,
+        "title": "Bespoke Datasets for Multimodal AI Products",
+        "description": "This course is for product managers who want to build AI products that include multimodal data such as text, video, and audio. Leveraging existing data for AI applications is a great way to get started, but bespoke datasets can offer improved accuracy, domain specificity, and, ultimately, a competitive advantage. The course starts with an overview of supervised machine learning techniques, computer vision—the technology that allows computers to \"see\"—and how computer vision and supervised ML can be combined. Then, you'll learn more about how to create bespoke datasets for computer vision and other applications, and conclude with a walkthrough of the key stakeholders involved in AI product development. In the project, you'll develop a roadmap for an AI-powered video creation app.Supervised Machine Learning and Computer Vision\nDive deeper into each step of the supervised machine learning process, from data understanding to model evaluation, then learn how to combine these approaches with computer vision technology\n Data Annotation for AI Products\nLearn how data can affect the performance of an AI system and determine whether a bespoke dataset is needed, then practice developing a data annotation plan\n AI Stakeholders and Roadmaps\nCollaborate with stakeholders, enhance communication, and develop roadmaps for AI products. Develop skills in influencing without authority and the RICE prioritization framework.",
+        "last_updated": "2025-01-06",
+        "rating": 8.8,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/ai-product-manager-nanodegree--nd088",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-product-manager-nanodegree--nd088_bespoke_datasets_for_multimodal_ai_products"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+          "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+          "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+          "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5"
+        ],
+        "id": 263,
+        "title": "Data Modeling",
+        "description": "Learn to create relational and NoSQL data models to fit the diverse needs of data consumers. Use ETL to build databases in PostgreSQL and Apache Cassandra.Introduction to Data Modeling\nIn this lesson, students will learn the basic difference between relational and non-relational databases, and how each type of database fits the diverse needs of data consumers.\n Relational Data Models\nIn this lesson, students understand the purpose of data modeling, the strengths and weaknesses of relational databases, and create schemas and tables in Postgres\n NoSQL Data Models\nStudents will understand when to use non-relational databases based on the data business needs, their strengths and weaknesses, and how to creates tables in Apache Cassandra.",
+        "last_updated": "2025-01-06",
+        "rating": 8.6,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/data-engineering-with-microsoft-azure-nanodegree--nd0277",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-engineering-with-microsoft-azure-nanodegree--nd0277_data_modeling"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+          "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a"
+        ],
+        "id": 264,
+        "title": "Cloud Data Warehouses with Azure",
+        "description": "In this course, you will learn to create cloud-based data warehouses and sharpen your data warehousing skills, deepen your knowledge of data infrastructure, and be introduced to data engineering on the cloud using Azure.Introduction to Cloud Data Warehouses with Azure\nIn this lesson, you'll learn about the course, including the prerequisites, tools, environment, and course project.\n Introduction to Data Warehouses\nIn this lesson, you'll be introduced to data warehouses, ETL, and OLAP cubes.\n ELT and Data Warehouse Technology in the Cloud\nIn this lesson, you'll learn about ELT, the differences between ETL and ELT, and general cloud data warehouse technologies.\n Azure Data Warehouse Technologies\nIn this lesson, you will learn about specific data warehouse technologies and solutions in Azure.\n Implementing Data Warehouses in Azure\nIn this lesson, you will have the opportunity to implement a data warehouse in Azure using Synapse.",
+        "last_updated": "2025-01-06",
+        "rating": 8.6,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/data-engineering-with-microsoft-azure-nanodegree--nd0277",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-engineering-with-microsoft-azure-nanodegree--nd0277_cloud_data_warehouses_with_azure"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+          "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f"
+        ],
+        "id": 265,
+        "title": "Data lakes and Lakehouses with Spark and Azure Databricks",
+        "description": "Learn about the big data ecosystem and how to use Spark to work with massive datasets. Learners will also store big data in a data lake and develop Lakehouse architecture on the Azure Databricks platform.Course Introduction\nIn this lesson, you'll learn about the course, including the prerequisites, tools, environment, and course project.\n Big Data Ecosystem, Data Lakes, and Spark\nIn this lesson, you will learn about the problems that Apache Spark is designed to solve. You'll also learn about the greater Big Data ecosystem and how Spark fits into it.\n Data Wrangling with Spark\nIn this lesson, we'll dive into how to use Spark for cleaning and aggregating data.\n Spark Debugging and Optimization\nIn this lesson, you will learn best practices for debugging and optimizing your Spark applications.\n Azure Databricks\nIn this lesson, you'll create Spark Clusters and Spark code on the Azure Databricks platform.\n Data Lakes and Lakehouse with Azure Databricks\nIn this lesson, you'll create data lakes and Lakehouse architecture on the Azure Databricks platform",
+        "last_updated": "2025-01-06",
+        "rating": 8.6,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/data-engineering-with-microsoft-azure-nanodegree--nd0277",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-engineering-with-microsoft-azure-nanodegree--nd0277_data_lakes_and_lakehouses_with_spark_and_azure_databricks"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700"
+        ],
+        "id": 266,
+        "title": "Data Pipelines with Azure",
+        "description": "In this course, you’ll learn to build, orchestrate, automate and monitor data pipelines in Azure using Azure Data Factory and pipelines in Azure Synapse Analytics. You’ll build, trigger, and monitor data pipelines on the Azure platform for analytical workloads and run data transformations, optimize data flows, and work with data pipelines in production.Introduction to Data Pipelines\nWelcome to Data Pipelines with Azure! In this lesson, you'll learn more about the course, including the prerequisites and tools you'll be using.\n Azure Data Pipeline Components\nIn this lesson, you'll learn about the components of data pipelines in Azure Data Factory and Synapse Analytics.\n Transforming Data in Azure Data Pipelines\nIn this lesson, you'll learn about transforming data as it moves through activities in a pipeline.\n Azure Pipeline Data Quality\nIn this lesson, you’ll learn about optimizing Azure Data Factory and Synapse Analytics Pipelines for data quality and integrity.\n Azure Data Pipelines in Production\nIn this lesson, you'll learn about features of Azure Data Factory and Synapse Analytics pipelines that you’ll use in production.",
+        "last_updated": "2025-01-06",
+        "rating": 8.6,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/data-engineering-with-microsoft-azure-nanodegree--nd0277",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-engineering-with-microsoft-azure-nanodegree--nd0277_data_pipelines_with_azure"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+          "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+          "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+          "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5"
+        ],
+        "id": 267,
+        "title": "Data Modeling",
+        "description": "Learn to create relational and NoSQL data models to fit the diverse needs of data consumers. Use ETL to build databases in PostgreSQL and Apache Cassandra.Introduction to Data Modeling\nIn this lesson, students will learn the basic difference between relational and non-relational databases, and how each type of database fits the diverse needs of data consumers.\n Relational Data Models\nIn this lesson, students understand the purpose of data modeling, the strengths and weaknesses of relational databases, and create schemas and tables in Postgres\n NoSQL Data Models\nStudents will understand when to use non-relational databases based on the data business needs, their strengths and weaknesses, and how to creates tables in Apache Cassandra.",
+        "last_updated": "2025-01-06",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/data-engineer-nanodegree--nd027",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-engineer-nanodegree--nd027_data_modeling"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+          "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5"
+        ],
+        "id": 268,
+        "title": "Cloud Data Warehouses",
+        "description": "In this course, you’ll learn to create cloud-based data warehouses. You’ll sharpen your data warehousing skills, deepen your understanding of data infrastructure, and be introduced to data engineering on the cloud using Amazon Web Services (AWS).Introduction to Cloud Data Warehouses\nWelcome to Cloud Data Warehouse with Amazon Web Services. In this lesson, you'll learn more about the course and set yourself up for success!\n Introduction to Data Warehouses\nIn this lesson, you'll be introduced to the business case for data warehouses as well as architecture, extracting, transforming, and loading data, data modeling, and data warehouse technologies.\n ELT and Data Warehouse Technology in the Cloud\nIn this lesson, you'll learn about ELT, the differences between ETL and ELT, and general cloud data warehouse technologies.\n AWS Data Warehouse Technologies\nIn this lesson, you'll learn about AWS Services and how to set up Amazon S3, IAM, VPC, EC2, and RDS. You'll build a Redshift data warehouse cluster and learn how to interact with it.\n Implementing a Data Warehouse on AWS\nIn this lesson, you'll learn to implement a data warehouse on AWS",
+        "last_updated": "2025-01-06",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/data-engineer-nanodegree--nd027",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-engineer-nanodegree--nd027_cloud_data_warehouses"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/897b393f-e7e0-4248-a40d-d77119694e83",
+          "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f"
+        ],
+        "id": 269,
+        "title": "Spark and Data Lakes",
+        "description": "In this course, you will learn about the big data ecosystem and how to use Spark to work with massive datasets. You’ll also learn about how to store big data in a data lake and query it with Spark.Introduction to Spark and Data Lakes\nIn this course you'll learn how Spark evaluates code and uses distributed computing to process and transform data. You'll work in the big data ecosystem to build data lakes and data lake houses.\n Big Data Ecosystem, Data Lakes, and Spark\nIn this lesson, you will learn about the problems that Apache Spark is designed to solve. You'll also learn about the greater Big Data ecosystem and how Spark fits into it.\n Spark Essentials\nIn this lesson, we'll dive into how to use Spark for wrangling, filtering, and transforming distributed data with PySpark and Spark SQL\n Using Spark in AWS\nIn this lesson, you will learn to use Spark and work with data lakes with Amazon Web Services using S3, AWS Glue, and AWS Glue Studio.\n Ingesting and Organizing Data in a Lakehouse\nIn this lesson you'll work with Lakehouse zones. You will build and configure these zones in AWS.",
+        "last_updated": "2025-01-06",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/data-engineer-nanodegree--nd027",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-engineer-nanodegree--nd027_spark_and_data_lakes"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0b0335f3-0aa1-491e-895e-81fc8774a300",
+          "http://data.europa.eu/esco/skill/484d048c-a5d1-46a5-b57f-45b69c0ac552",
+          "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+          "http://data.europa.eu/esco/skill/9d0d89be-bffa-4393-b6f6-8d05bea49051",
+          "http://data.europa.eu/esco/skill/b74fd765-e1ae-4f56-a188-45cd782bca01",
+          "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700"
+        ],
+        "id": 270,
+        "title": "Automate Data Pipelines",
+        "description": "Schedule, monitor, and manage data workflows efficiently using tools like Apache Airflow. Build data pipelines by leveraging Airflow DAGs to organize tasks and utilize AWS resources such as S3 and Redshift to process and move data effectively between systems. Engage in hands-on projects to automate and maintain complex data pipelines, streamlining operations and improving data reliability. Gain expertise in workflow automation, data integration, and error handling, enabling you to construct efficient and scalable data pipelines in production environments. Ideal for data engineers and professionals aiming to advance their skills in managing and automating data workflows.Introduction to Automating Data Pipelines\nWelcome to Automating Data Pipelines. In this lesson, you'll be introduced to the topic, prerequisites for the course, and the environment and tools you'll be using to build data pipelines.\n Data Pipelines\nIn this lesson, you'll learn about the components of a data pipeline including Directed Acyclic Graphs (DAGs). You'll practice creating data pipelines with DAGs and Apache Airflow\n Airflow and AWS\nThis lesson creates connections between Airflow and AWS first by creating credentials, then copying S3 data, leveraging connections and hooks, and building S3 data to the Redshift DAG.\n Data Quality\nStudents will learn how to track data lineage and set up data pipeline schedules, partition data to optimize pipelines, investigating Data Quality issues, and write tests to ensure data quality.\n Production Data Pipelines\nIn this last lesson, students will learn how to build Pipelines with maintainability and reusability in mind. They will also learn about pipeline monitoring.",
+        "last_updated": "2025-01-06",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/data-engineer-nanodegree--nd027",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-engineer-nanodegree--nd027_automate_data_pipelines"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5"
+        ],
+        "id": 271,
+        "title": "Data Modeling",
+        "description": "Learn to create relational and NoSQL data models to fit the diverse needs of data consumers. Use ETL to build databases in PostgreSQL and Apache Cassandra.",
+        "last_updated": "2025-01-06",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/data-modeling--cd0029",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-modeling--cd0029_data_modeling"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/43dfbe7f-9e10-4871-b171-e5076737b4cf",
+          "http://data.europa.eu/esco/skill/736ef286-fbd3-4e5c-a4b4-d1e2008c9898",
+          "http://data.europa.eu/esco/skill/9af252ce-bf4d-411b-8daa-beb91df4257d",
+          "http://data.europa.eu/esco/skill/ef069fe6-305b-4452-8f7d-0c572e98effc"
+        ],
+        "id": 273,
+        "title": "Marketing Data and Technology",
+        "description": "Measurability is what makes Digital Marketing uniquely powerful. Actions online can be tracked, and so can the effect of your digital marketing and advertising efforts. In this course, you'll learn how to use Google Analytics to evaluate your audience, measure the success of your acquisition, engagement efforts, evaluate your user’s conversions to your goals, and use those insights to plan and optimize your marketing budgets.Introduction to Marketing Data and Technology\nThis lesson will introduce you to the course, the prerequisites needed to be successful, and provide a preview of the project.\n Marketing Data for Your Business\nThis lesson provides an overview of the types of data used in digital marketing and how data can shape business strategies.\n AB Testing and Attribution Models\nIn this lesson, you will learn how to track data along with the role that AB testing plays in digital marketing and how it can be used in conjunction with attribution models.\n Google Analytics (Part 1) - Getting Started & Audience\nGoogle Analytics is a very powerful platform that can help you to understand and track how users interact with your website.\n Google Analytics (Part 2) - Acquisition, Behaviors, and Conversion Tracking\nIn this lesson, you will learn how to assess where your users came from in the first place, or, through which marketing channel you acquired them and how to understand your marketing channels.\n Marketing Technology and eCommerce\nThis lesson focuses on the various technologies used in digital marketing, including platforms and tools for eCommerce.\n The Future of Digital Marketing\nIn this lesson, you will learn about newly emerging marketing trends and technologies, and look at how agile marketing principles can be used in digital marketing.",
+        "last_updated": "2025-01-06",
+        "rating": 9.4,
+        "price": 28.25,
+        "url": "https://www.udacity.com/course/digital-marketing-nanodegree--nd018",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/digital-marketing-nanodegree--nd018_marketing_data_and_technology"
+      },
+      {
+        "skills": [],
+        "id": 274,
+        "title": "The Electives: An Overview and Graduation Reminder",
+        "description": "Here you can find information on what is required for graduation and details on the five Digital Marketing Nanodegree elective coursesGraduation Details\nCongratulations on completing Marketing Fundamentals and Marketing Data and Technology!",
+        "last_updated": "2025-01-06",
+        "rating": 9.4,
+        "price": 28.25,
+        "url": "https://www.udacity.com/course/digital-marketing-nanodegree--nd018",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/digital-marketing-nanodegree--nd018_the_electives:_an_overview_and_graduation_reminder"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+          "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+          "http://data.europa.eu/esco/skill/a571ae14-3e16-4fd3-a615-5646e0b0b696",
+          "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+          "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+          "http://data.europa.eu/esco/skill/d0f2f8a7-d935-4a6d-8e54-dcc3e5e2cbeb"
+        ],
+        "id": 281,
+        "title": "Introduction to Data Analysis with Pandas and NumPy",
+        "description": "Learn the data analysis process of questioning, wrangling, exploring, analyzing, and communicating data. You will work with data in Python using libraries like NumPy and pandas.The Data Analysis Process\nLearn about the data analysis process and the Python packages used in this course\n Jupyter Notebooks\nJupyter Notebooks are a great tool for sharing insights and visualizations alongside your code. This lesson covers how to create them and utilize their various features.\n Exploring and Inspecting Data\nUse the pandas library to load data, view its properties, and start asking data analysis questions\n Manipulating Data using Pandas and NumPy\nUse the pandas library to perform data cleaning, filtering, and reshaping tasks. This includes troubleshooting issues with data as well as optimizing for memory usage and speed.\n Communicating Results\nDraw conclusions and communicate results to stakeholders by calculating statistics and creating basic data visualizations with the pandas library",
+        "last_updated": "2024-12-27",
+        "rating": 9.6,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/data-analyst-nanodegree--nd002",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-analyst-nanodegree--nd002_introduction_to_data_analysis_with_pandas_and_numpy"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79",
+          "http://data.europa.eu/esco/skill/a571ae14-3e16-4fd3-a615-5646e0b0b696",
+          "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+          "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+          "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5"
+        ],
+        "id": 282,
+        "title": "Advanced Data Wrangling",
+        "description": "Data wrangling is a set of processes for turning raw and messy data into a clean format to answer interesting questions from the data. In this course, you will learn the three phases of data wrangling: gathering, assessing, and cleaning data.Introduction to Data Wrangling\nYou will learn what data wrangling is and why it matters. And you will see a real-world example of data wrangling and some common misconceptions about data wrangling.\n Gathering Data\nYou will learn to implement data gathering methods to obtain and extract data from various sources and in several popular data formats.\n Assessing Data\nYou will learn to identify different data quality and structural issues and apply visual and programmatic assessments to catch them.\n Cleaning Data\nYou will learn to remediate the issues you identified in the assessment stage and test that your data cleaning is successful.",
+        "last_updated": "2024-12-27",
+        "rating": 9.6,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/data-analyst-nanodegree--nd002",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-analyst-nanodegree--nd002_advanced_data_wrangling"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/b5d7adfd-b8ad-4f12-88fa-e2d161c0b296",
+          "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+          "http://data.europa.eu/esco/skill/f058bf62-70d1-4f5e-be2a-8b26fac24a96"
+        ],
+        "id": 283,
+        "title": "Data Visualization with Matplotlib and Seaborn",
+        "description": "Learn to apply sound design and data visualization principles to the data analysis process. Learn how to use analysis and visualizations to tell a story with data.Data Visualization in Data Analysis\nIn this lesson, see the motivations for why data visualization is an important part of the data analysis process and where it fits in.\n Design of Visualizations\nLearn about elements of visualization design, especially to avoid those elements that can cause a visualization to fail.\n Univariate Exploration of Data\nIn this lesson, you will see how you can use matplotlib and seaborn to produce informative visualizations of single variables.\n Bivariate Exploration of Data\nIn this lesson, build up from your understanding of individual variables and learn how to use matplotlib and seaborn to look at relationships between two variables.\n Multivariate Exploration of Data\nIn this lesson, see how you can use matplotlib and seaborn to visualize relationships and interactions between three or more variables.\n Explanatory Visualizations\nPrevious lessons covered how you could use visualizations to learn about your data. In this lesson, see how to polish up those plots to convey your findings to others!",
+        "last_updated": "2024-12-27",
+        "rating": 9.6,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/data-analyst-nanodegree--nd002",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-analyst-nanodegree--nd002_data_visualization_with_matplotlib_and_seaborn"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79",
+          "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50"
+        ],
+        "id": 284,
+        "title": "Advanced Data Wrangling",
+        "description": "Data wrangling is a set of processes for turning raw and messy data into a clean format to answer interesting questions from the data. In this course, you will learn the three phases of data wrangling: gathering, assessing, and cleaning data.",
+        "last_updated": "2024-12-27",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/advanced-data-wrangling--cd12531",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/advanced-data-wrangling--cd12531_advanced_data_wrangling"
+      },
+      {
+        "skills": [],
+        "id": 287,
+        "title": "Planning",
+        "description": "Flying robots must traverse complex, dynamic environments. Wind, obstacles, unreliable sensor data, and other randomness all present significant challenges. In this course, you will learn the fundamentals of aerial path planning. You will begin with 2D problems, optimize your solutions using waypoints, and then scale your solutions to three dimensions. You will apply these skills in your second project—autonomously navigating your drone through a dense urban environment.Planning as Search\nSolving the planning problem really comes down performing search through a state space to find a path from a start state to a goal state and here you'll get a chance to do just that!\n Flying Car Representation\nYour vehicle has a physical size and orientation in the world and here you'll learn how to think about position and orientation as part of your planning solution.\n From Grids to Graphs\nGraphs are really just a way of describing how your search space is connected. Here you'll learn about the tradeoffs between grids and graphs and each can be used in your planning representation.\n Moving into 3D\nHere you'll make the leap from two dimensions to three dimensions and discover how you can use different representations of your search space to optimize your planning solution.\n Real World Planning\nIn this lesson, you'll dive deep into some advanced concepts that are crucial to motion planning in the real world, where a consideration for physics and preparedness for the unexpected are crucial.",
+        "last_updated": "2024-12-24",
+        "rating": 9.4,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/flying-car-nanodegree--nd787",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/flying-car-nanodegree--nd787_planning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f"
+        ],
+        "id": 288,
+        "title": "Controls",
+        "description": "In the previous course, we implemented 3D path planning but assumed a solution for actually following paths. In reality, moving a flying vehicle requires determining appropriate low-level motor controls. In this course, you will build a nonlinear cascaded controller and incorporate it into your software in the project.Vehicle Dynamics\nLearn how flying vehicles move in one and two dimensions by understanding how propellers create forces and moments which cause accelerations and rotations.\n Introduction to Vehicle Control\nLearn how to control a drone moving in one dimension using Proportional Integral Derivative (PID) Control.\n Control Architecture\nThe controls problem becomes more difficult in two dimensions. Learn how to use a cascaded PID control architecture to control a flying vehicle that moves in two dimensions.\n Full 3D Control\nIn this lesson you'll take everything you've learned so far about vehicle dynamics and control and put it together to control a quadrotor that moves in three dimensions.\n Project: Building a Controller\nIn this project you'll implement a controller for a quadrotor in C++.",
+        "last_updated": "2024-12-24",
+        "rating": 9.4,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/flying-car-nanodegree--nd787",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/flying-car-nanodegree--nd787_controls"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/d38871eb-b988-495e-8fca-345677b597a8"
+        ],
+        "id": 289,
+        "title": "Estimation",
+        "description": "In this course, we will finish peeling back the layers of your autonomous flight solution. Instead of assuming perfect sensor readings, you will utilize sensor fusion and filtering. You will design an Extended Kalman Filter (EKF) to estimate attitude and position from IMU and GPS data of a flying robot.Introduction to Estimation\nReview basic probability and learn three approaches to state estimation for a stationary vehicle.\n Introduction to Sensors\nIn this lesson you'll learn about the sensors a drone uses to localize itself in the world. You'll implement sensor models, analyze sources of error, and perform calibration of various sensors.\n Extended Kalman Filters\nIn this lesson you'll learn how to estimate the state of a drone that's actually moving! You'll implement a Kalman Filter for a 1D drone and an Extended Kalman Filter for a non-linear 2D drone.\n The 3D EKF and UKF\nTake what you learned in the previous lesson and generalize to three dimensions. After learning about the 3D EKF you'll also learn another estimation algorithm called the Unscented Kalman Filter.\n Project: Estimation\nIn this project you'll implement an estimator to track the position and attitude of a quadrotor moving in three dimensions.",
+        "last_updated": "2024-12-24",
+        "rating": 9.4,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/flying-car-nanodegree--nd787",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/flying-car-nanodegree--nd787_estimation"
+      },
+      {
+        "skills": [],
+        "id": 294,
+        "title": "Memory Management",
+        "description": "Introduction\n Overview of Memory Types\nThis lesson covers basic concepts such as cache, virtual memory, and the structure of memory addresses. In addition, it is demonstrated how the debugger can be used to read data from memory.\n Variables and Memory\nIn this lesson the process memory model is introduced, which contains the two fundamental memory areas heap and stack, which play an important role in C++.\n Dynamic Memory Allocation (The Heap)\nThis lesson introduces dynamic memory allocation on the heap. The commands malloc and free as well as new and delete are introduced for this purpose.\n Resource Copying Policies\nThis section describes how to customize resource copying using the Rule of Three. Also, the Rule of Five is introduced, which helps develop a thorough memory management strategy in your code.\n Smart Pointers\nIn this lesson the three types of smart pointers in C++ are presented and compared. In addition, it is shown how to transfer ownership from one program part to another using copy and move semantics.",
+        "last_updated": "2024-12-23",
+        "rating": 9.2,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/c-plus-plus-nanodegree--nd213",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/c-plus-plus-nanodegree--nd213_memory_management"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+          "http://data.europa.eu/esco/skill/558337fa-2e6a-4733-ba02-3bc00a7ca26e"
+        ],
+        "id": 295,
+        "title": "Concurrency",
+        "description": "Introduction and Running Threads\nLearn the difference between processes and threads, and write your own concurrent program running multiple threads at the same time.\n Passing Data Between Threads\nLearn to use promises and futures to create safe communication between threads. Also learn about tasks as an alternative to threads. Finally, understand data races and how to avoid them.\n Mutexes and Locks\nUse mutexes and locks to safely access shared data from various threads.\n Condition Variables and Message Queues\nUse condition variables as a basic synchronization tool between threads. Understand and implement a concurrent message queue for flexible inter-thread communication",
+        "last_updated": "2024-12-23",
+        "rating": 9.2,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/c-plus-plus-nanodegree--nd213",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/c-plus-plus-nanodegree--nd213_concurrency"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+          "http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213",
+          "http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669"
+        ],
+        "id": 297,
+        "title": "Bespoke Datasets for Multimodal AI Products",
+        "description": "This course is for product managers who want to build AI products that include multimodal data such as text, video, and audio. Leveraging existing data for AI applications is a great way to get started, but bespoke datasets can offer improved accuracy, domain specificity, and, ultimately, a competitive advantage. The course starts with an overview of supervised machine learning techniques, computer vision—the technology that allows computers to \"see\"—and how computer vision and supervised ML can be combined. Then, you'll learn more about how to create bespoke datasets for computer vision and other applications, and conclude with a walkthrough of the key stakeholders involved in AI product development. In the project, you'll develop a roadmap for an AI-powered video creation app.",
+        "last_updated": "2024-12-23",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/bespoke-datasets-for-multimodal-AI-products--cd13581",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/bespoke-datasets-for-multimodal-AI-products--cd13581_bespoke_datasets_for_multimodal_ai_products"
+      },
+      {
+        "skills": [],
+        "id": 300,
+        "title": "React Native (Extracurricular) (Optional)",
+        "description": "Explore the possibilities of React Native for building hybrid phone apps; learn how to create push notifications, display customer information, and create interactive view for your user!Introduction to React Native\nPreview foundational concepts and the project in this lesson.\n Mobile Screens and Styling\nLearn how to build and style flexible, mobile views in this lesson.\n Navigation in React Native\nBecome familiar with Mobile Navigation Design by adding a library and planning for design.\n Data Management with Redux\nLearn how to setup the Redux Toolkit, create and submit a form in React Native, and transition between mobile screens.\n Native Features\nLearn best practices for permissions, how to enable push notifications, and prepare for publication in this lesson!",
+        "last_updated": "2024-12-23",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/react-nanodegree--nd019",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/react-nanodegree--nd019_react_native_(extracurricular)_(optional)"
+      },
+      {
+        "skills": [],
+        "id": 301,
+        "title": "Git and GitHub (Optional)",
+        "description": "Programmers use version control software to manage changes to software projects large and small. In these lessons you will learn to keep track of changes to your code using the Git version control software, and collaborate with other programmers using GitHub.What is Version Control\nVersion control is an incredibly important part of a professional programmer's life. In this lesson, you'll learn about the benefits of version control and install the version control tool Git!\n Create a Git Repo\nNow that you've learned the benefits of Version Control and gotten Git installed, it's time you learn how to create a repository.\n Commits, Tags, Conflicts\nKnowing how to review an existing Git repository's history of commits is extremely important. You'll learn how to do just that in this lesson.\n Remotes and Developer Repos\nIn this lesson, you'll learn how to fork another developer's project. Collaborating with other developers can be a tricky process, so you'll learn how to contribute to a public project.",
+        "last_updated": "2024-12-23",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/react-nanodegree--nd019",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/react-nanodegree--nd019_git_and_github_(optional)"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+          "http://data.europa.eu/esco/skill/ef30e7f8-1ef0-4a6f-87ac-d6a701125305"
+        ],
+        "id": 303,
+        "title": "Data Visualization in Tableau",
+        "description": "Learn how to select the most appropriate data visualization for an analysis. Learn how to evaluate the effectiveness of a data visualization and build interactive and engaging Tableau dashboards.Data Visualization Fundamentals\nIn this lesson you learn to evaluate the quality of data visualizations and build high quality visualizations, starting with the fundamentals of data dashboards.\n Design Principles\nIn this lesson you learn to implement the best design practices, and to use the most appropriate chart for a particular situation.\n Creating Visualizations in Tableau\nThis lesson teaches you how to build data visualizations in Tableau using data hierarchies, filters, groups, sets, and calculated fields, as well as create map-based data visualizations in Tableau.\n Telling Stories with Tableau\nIn this lesson you learn how to build interactive Tableau dashboards and tell impactful stories using data.",
+        "last_updated": "2024-12-23",
+        "rating": 9.2,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/data-visualization-nanodegree--nd197",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-visualization-nanodegree--nd197_data_visualization_in_tableau"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/f9b52e2d-56a7-48ca-b04d-2fc6436fcd4f",
+          "http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8"
+        ],
+        "id": 304,
+        "title": "Dashboard Design",
+        "description": "In this course, you’ll learn the process of designing and creating dashboards within an enterprise environment. You’ll learn to discover user needs, identify key metrics, and tailor your dashboard to a particular audience. You’ll learn to use design elements to maximize the effectiveness of the dashboard and how to iterate based on user feedback.Introduction to Dashboard Design\nIn this lesson, we introduce the topic of Dashboard design, take a look at the outline for the course, and take a sneak peek at the final project.\n Planning Phase\nIn order to design a dashboard that meets our users needs we need to first understand what they are after and what are their pain points. Early discussions are critical in the planning phase.\n Design Phase\nStudents will learn about the design phase of creating their dashboards. This includes considering graphicacy, chart choice, visual hierarchy. Tools like sketching and wireframing are practiced.\n Design a Data Dashboard Midterm Project\nIn this project, you will build a dashboard prototype along with sketches and wireframes for the prototype. The dashboard will be designed based on the Superstore database from Tableau.\n Polishing Dashboards for Production\nIn this lesson, students will learn how to design the final dashboard by attending to the text hierarchy, affordance, interactivity of the dashboard, annotations, and color scheme.",
+        "last_updated": "2024-12-23",
+        "rating": 9.2,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/data-visualization-nanodegree--nd197",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-visualization-nanodegree--nd197_dashboard_design"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213",
+          "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+          "http://data.europa.eu/esco/skill/f0699875-51da-48d2-bc92-54b0749baef1",
+          "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5"
+        ],
+        "id": 305,
+        "title": "Data Storytelling",
+        "description": "In this course, you will learn the end-to-end process for telling a story and providing a recommendation based on data. You’ll learn to create a “ghost deck” to define a problem statement, scope possible analyses, and outline a set of potential solutions, along with next steps. You’ll also learn to identify what type of data analysis tool is appropriate for specific types of visualizations. You will learn how to identify limitations and biases in data. Lastly, you’ll learn to create a polished deck that uncovers the story from within the data through data visualizations.Introduction to Story Telling\nIn this lesson, we will introduce the topic of Story Telling and also go over the course outline, including a sneak peek at the 2 projects that are part of the course.\n Define Problem Statement\nIn this lesson students will understand how to clearly articulate the problem statement that is driving the analysis, and why it matters.\n Issue Trees and Building a Ghost Deck\nIn this lesson students will learn to build an analysis roadmap to stay efficient with your analysis time. An analysis roadmap consists of two key elements: (1) an issue tree and (2) a ghost deck.\n Build a Data Story Midterm Project\nIn this mid-term project, apply the skills in structuring a data story on a Movies Metadata and practice defining your own problem statement and the analyses you plan to do.a\n Limitations and Biases\nThe data you work with is flawed and in this lesson students will learn where bias can be introduced in the collection, processing, and analysis process and call these caveats out.\n Visualizations and Tying it Together\nThis lesson ties everything together. It covers effective visualizations depending on the problem you are solving, and reviewing a data presentation end to end.",
+        "last_updated": "2024-12-23",
+        "rating": 9.2,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/data-visualization-nanodegree--nd197",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-visualization-nanodegree--nd197_data_storytelling"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/418c13d1-2b4e-4bdd-82f4-4eaa5efb630c",
+          "http://data.europa.eu/esco/skill/8afe68ff-b261-4fa8-ab25-bb30b0e5c292",
+          "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389"
+        ],
+        "id": 306,
+        "title": "Advanced Data Storytelling",
+        "description": "Explore advanced data visualization and storytelling techniques. Discover various types of data stories and how to use them effectively. Learn to utilize Tableau Storypoint to add interactivity and visual elements and enhance your analyses with animation and narration using both Tableau Pages and Flourish.Welcome to Advanced Data Storytelling\nIn this welcome lesson, you will meet your instructor and learn about the pre-requisite skills of this course. You will also have an overview of the topics covered in this course.\n Eight Data Story Types\nYou learn about sequential data stories, and how eight different story types can be used to find and tell interesting data stories.\n Creating stories in Tableau\nYou will learn how to tell interactive stories by creating stories in Tableau. You will learn how to add a Hans Rosling bubble chart to Tableau and how to create a Tableau Storypoint Workbook.\n Animate a Data Story Midterm Project\nIn this lesson, you will apply the skills you have acquired in this course to use the World Bank Indicators data file to create an interactive Tableau Story.\n Animating Visualizations\nYou will use datasets for animating data and build out animations with Tableau pages and get introduced to Flourish.\n Animation and Narration\nYou will learn how to add audio and narration to your data stories using Flourish, including setting up the files, charts, animation, and audio files to create interactive stories.",
+        "last_updated": "2024-12-23",
+        "rating": 9.2,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/data-visualization-nanodegree--nd197",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-visualization-nanodegree--nd197_advanced_data_storytelling"
+      },
+      {
+        "skills": [],
+        "id": 307,
+        "title": "Data Visualization Capstone",
+        "description": "",
+        "last_updated": "2024-12-23",
+        "rating": 9.2,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/data-visualization-nanodegree--nd197",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-visualization-nanodegree--nd197_data_visualization_capstone"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be"
+        ],
+        "id": 308,
+        "title": "[Supplemental] Introduction to Data (Optional)",
+        "description": "Descriptive Statistics I\nIn this lesson, you will learn about data types, measures of center, and the basics of statistical and mathematical notation.\n Descriptive Statistics II\nIn this lesson, you will learn about measures of spread, shape, and outliers as associated with quantitative data. You will also get a first look at descriptive and inferential statistics.\n Spreadsheets 2: Manipulate Data\nIn this lesson, you will learn basic spreadsheet function: sort and filter data, use text and math functions, split columns and remove duplicates.\n Spreadsheets 3: Analyze Data\nIn this lesson, you will learn how to summarize data with aggregation and conditional functions. You will learn how to use pivot tables and lookup functions.",
+        "last_updated": "2024-12-23",
+        "rating": 9.2,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/data-visualization-nanodegree--nd197",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-visualization-nanodegree--nd197_[supplemental]_introduction_to_data_(optional)"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+          "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+          "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221"
+        ],
+        "id": 312,
+        "title": "Agile Development with Azure",
+        "description": "Automated Deployment of high quality software using DevOps principles is a critical skill in the cloud era. Master the theory and practice of Agile Project management with hands-on examples. Execute a Python centric Continuous Integration strategy that uses testing best practices, including open source code quality tools such as pylint and pytest. Couple Infrastructure-as-Code (IaC) with Continuous Delivery using Azure Pipelines to streamline the deployment of applications to Azure.Introduction to Agile Development with Azure\nIn this lesson, we'll consider the underlying problems that Agile solves for and introduce you to some of the core concepts and tools underlying the Agile approach.\n Agile Planning and Communication\nIn this lesson, we'll see how we can use an Agile approach to help ensure we're working on what matters—and avoiding typical problems that get in the way of software development.\n Continuous Integration\nIn this lesson, we'll look at how to use Azure to do Continuous Integration (CI). We'll walk through how to set up Azure Cloud Shell and evaluate different build server options.\n Continuous Delivery\nIn this lesson, we'll look at how to leverage infrastructure automation in your development lifecycle so that we can achieve Continuous Delivery (CD).",
+        "last_updated": "2024-12-21",
+        "rating": 8.6,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/cloud-devops-using-microsoft-azure-nanodegree--nd082",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cloud-devops-using-microsoft-azure-nanodegree--nd082_agile_development_with_azure"
+      },
+      {
+        "skills": [],
+        "id": 316,
+        "title": "Lidar Obstacle Detection",
+        "description": "Introduction to Lidar and Point Clouds\nLearn about lidar and point clouds. Use a simulation highway environment to explore lidar sensing and generate point clouds.\n Point Cloud Segmentation\nIn this lesson, you will be using Ransac with a plane model to segment point cloud data and separate it into points that are part of the road and points that are not.\n Clustering Obstacles\nPerform Euclidean clustering, and learn how to build KD-Trees to use them to do efficient nearest neighbor search for clustering.\n Working with Real PCD\nTake what you have learned in the previous lessons and apply it to real pcd being played back in a video.",
+        "last_updated": "2024-12-19",
+        "rating": 9.6,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313_lidar_obstacle_detection"
+      },
+      {
+        "skills": [],
+        "id": 319,
+        "title": "Kalman Filters",
+        "description": "Introduction and Sensors\nMeet the team at Mercedes who will help you track objects in real-time with Sensor Fusion.\n Kalman Filters\nLearn from the best! Sebastian Thrun will walk you through the usage and concepts of a Kalman Filter using Python.\n Lidar and Radar Fusion with Kalman Filters in C++\nIn this lesson, you'll build a Kalman Filter in C++ that's capable of handling data from multiple sources. Why C++? Its performance enables the application of object tracking with a Kalman Filter in real-time.\n Unscented Kalman Filters\nWhile Extended Kalman Filters work great for linear motion, real objects rarely move linearly. With Unscented Kalman Filters, you'll be able to accurately track non-linear motion!\n Unscented Kalman Filter Highway Project\nIn this lesson, students will submit the project that they have developed over the previous lessons.",
+        "last_updated": "2024-12-19",
+        "rating": 9.6,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313_kalman_filters"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f"
+        ],
+        "id": 322,
+        "title": "ROS Essentials",
+        "description": "Discover how ROS provides a flexible and unified software environment for developing robots in a modular and reusable manner. Learn how to manage existing ROS packages within a project, and how to write ROS Nodes of your own in C++.Introduction to ROS\nObtain an architectural overview of the Robot Operating System Framework and setup your own ROS environment in the Udacity Workspace.\n Packages & Catkin Workspaces\nLearn about ROS workspace structure, essential command line utilities, and how to manage software packages within a project. Harnessing these will be key to building shippable software using ROS.\n Write ROS Nodes\nROS Nodes are a key abstraction that allows a robot system to be built modularly. In this lesson, you'll learn how to write them using C++.",
+        "last_updated": "2024-12-19",
+        "rating": 9.2,
+        "price": 37.67,
+        "url": "https://www.udacity.com/course/robotics-software-engineer--nd209",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/robotics-software-engineer--nd209_ros_essentials"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+          "http://data.europa.eu/esco/skill/ab49f767-296b-47d5-af56-0b4a69515b03",
+          "http://data.europa.eu/esco/skill/adcca622-b933-4ba3-bc43-bf371879edc3",
+          "http://data.europa.eu/esco/skill/bda0d115-f315-453e-99dc-f8b0e5862db3",
+          "http://data.europa.eu/esco/skill/d3286405-49f8-4e8a-8046-a4376b4e7963",
+          "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+          "http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42",
+          "http://data.europa.eu/esco/skill/fe6a2b76-95f5-48b0-b120-a77d7d66794a"
+        ],
+        "id": 329,
+        "title": "Azure Cloud Security",
+        "description": "In this course, we will explore IAM to help protect organizations against breaches and achieve compliance. We'll see how AD Connect lets you sync and manage cloud and on-premises identities. Always use Least Privilege to control access by leveraging conditional access and MFA. We will see how infrastructure and network design can use the Zero Trust model through tools such as Firewalls, Azure Bastion, and Just in Time. Learn what steps to take to secure data with secured keys. We will dive deep into Security Center to detect and fix top layer security vulnerabilities. Then we will dive deep into the SOAR and SIEM capabilities of Sentinel to identify deep threat detection and protection tool.Introduction to Security in Azure\nIn this lesson, we will look at the history behind cloud computing and Azure, the major stakeholders you will interact with, as well as the workspaces we use to provide access to the Azure portal.\n Identity, Authentication and Access\nIn this lesson, we look at identities, roles and scopes within IAM to protect against breaches and achieve compliance. We will use Conditional Access Policy and Privileged Identity Management.\n Infrastructure and Network Security\nSecurity starts with strong barriers and walls. We will see how logical segmentation, tenants and subscriptions, resource groups help provide that security\n Data Security and Protection\nIn this lesson, we discuss how we will protect the data itself. Key Vaults and encryption are two primary tools we have to help provide database protection.\n Protect and Monitor Cloud Resources\nIn this lesson, we will explore how Security Center and Sentinel are complementary pieces to the security solution.",
+        "last_updated": "2024-12-19",
+        "rating": 9.6,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/cloud-architect-using-microsoft-azure-nanodegree--nd090",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cloud-architect-using-microsoft-azure-nanodegree--nd090_azure_cloud_security"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/bda0d115-f315-453e-99dc-f8b0e5862db3",
+          "http://data.europa.eu/esco/skill/d3286405-49f8-4e8a-8046-a4376b4e7963",
+          "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305"
+        ],
+        "id": 330,
+        "title": "Azure Cloud Security",
+        "description": "In this course, we will explore IAM to help protect organizations against breaches and achieve compliance. We'll see how AD Connect lets you sync and manage cloud and on-premises identities. Always use Least Privilege to control access by leveraging conditional access and MFA. We will see how infrastructure and network design can use the Zero Trust model through tools such as Firewalls, Azure Bastion, and Just in Time. Learn what steps to take to secure data with secured keys. We will dive deep into Security Center to detect and fix top layer security vulnerabilities. Then we will dive deep into the SOAR and SIEM capabilities of Sentinel to identify deep threat detection and protection tool.",
+        "last_updated": "2024-12-19",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/security--cd0356",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/security--cd0356_azure_cloud_security"
+      },
+      {
+        "skills": [],
+        "id": 341,
+        "title": "PyTorch (Optional)",
+        "description": "Introduction to PyTorch\nLearn how to use PyTorch to build and train deep neural networks. By the end of this lesson, you will build a network that can classify images of dogs and cats with state-of-the-art performance.\n Embeddings & Word2Vec\nIn this lesson, you'll learn about embeddings in neural networks by implementing the Word2Vec model.\n Implementation of RNN & LSTM\nLearn how to represent memory in code. Then define and train RNNs in PyTorch and apply them to tasks that involve sequential data.",
+        "last_updated": "2024-12-18",
+        "rating": 9.0,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/natural-language-processing-nanodegree--nd892",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/natural-language-processing-nanodegree--nd892_pytorch_(optional)"
+      },
+      {
+        "skills": [],
+        "id": 342,
+        "title": "Additional Text Preprocessing (Optional)",
+        "description": "Python Regular Expression",
+        "last_updated": "2024-12-18",
+        "rating": 9.0,
+        "price": 22.6,
+        "url": "https://www.udacity.com/course/natural-language-processing-nanodegree--nd892",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/natural-language-processing-nanodegree--nd892_additional_text_preprocessing_(optional)"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2"
+        ],
+        "id": 343,
+        "title": "Applying AI to 2D Medical Imaging Data",
+        "description": "Introduction to AI for 2D Medical Imaging\nIn this lesson, you will be given an introduction to this course about AI for 2D medical imaging, why AI is important and where AI fits in the space.\n Clinical Foundations of 2D Medical Imaging\nIn this lesson, we will cover clinical foundations such as clinical workflows, applications of 2D imaging in clinical settings and how machine learning impacts clinics.\n 2D Medical Imaging Exploratory Data Analysis\nIn this lesson, we will learn the DICOM standard in medical imaging, and how to explore medical imaging data and prepare it for machine learning applications.\n Classification Models of 2D Medical Images\nIn this lesson, we'll dive deep into classification tasks for 2D medical imaging using different machine learning models. and we will talk about pre-process data, train, test, and validate models.\n Translating AI Algorithms for Clinical Settings with the FDA\nIn this lesson, you will learn about how your work fits into the bigger picture, and how it’s regulated by the FDA, which is an often-overlooked, but incredibly important.",
+        "last_updated": "2024-12-18",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/ai-for-healthcare-nanodegree--nd320",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-for-healthcare-nanodegree--nd320_applying_ai_to_2d_medical_imaging_data"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/1859883d-c047-4fe1-8e74-7bb4385d6ad2",
+          "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+          "http://data.europa.eu/esco/skill/d0a7144b-ba91-4489-acb8-a055c6b7e968",
+          "http://data.europa.eu/esco/skill/ef539e4d-8907-4a88-b2f7-8f8fa95e3117"
+        ],
+        "id": 344,
+        "title": "Applying AI to 3D Medical Imaging Data",
+        "description": "Introduction to AI for 3D Medical Imaging\nIn this lesson, we will introduce the course and instructors. We will give you an overview of the context for AI in 3D medical imaging space, and cover the objectives of the course.\n 3D Medical Imaging - Clinical Fundamentals\nIn this lesson, we cover the basic terminology and concepts related to 3D medical imaging. We will look at the problem space from a clinical standpoint and learn how CT and MR scanners produce images.\n 3D Imaging Exploratory Data Analysis\nIn this lesson, we will dive deeper into medical imaging formats NIFTI and DICOM, how scanner data is represented, and how to read medical volumes stored in these files and analyze them.\n 3D Medical Imaging - End-to-End Deep Learning Applications\nIn this lesson, we cover the basics of building deep neural networks for 3D medical imaging (mostly segmentation & classification) and performance evaluation from a software and clinical perspective.\n Deploying AI Algorithms in Real World Scenarios\nIn this lesson, we'll talk about clinical networks, architecture, and AI deployment, tools and their use by data scientists and clinicians, as well as medical device regulation and data privacy.",
+        "last_updated": "2024-12-18",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/ai-for-healthcare-nanodegree--nd320",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-for-healthcare-nanodegree--nd320_applying_ai_to_3d_medical_imaging_data"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/5cd1930c-278d-4929-b413-27352f5b3687",
+          "http://data.europa.eu/esco/skill/adcca622-b933-4ba3-bc43-bf371879edc3"
+        ],
+        "id": 345,
+        "title": "Applying AI to EHR Data",
+        "description": "With the transition to electronic health records (EHR) over the last decade, the amount of EHR data has increased exponentially, providing an incredible opportunity to unlock this data with AI to benefit the healthcare system. Learn the fundamental skills of working with EHR data in order to build and evaluate compliant, interpretable machine learning models that account for bias and uncertainty using cutting-edge libraries and tools including Tensorflow Probability, Aequitas, and Shapley. Understand the implications of key data privacy and security standards in healthcare. Apply industry code sets, transform datasets at different EHR data levels, and use Tensorflow to engineer features.Applying AI to EHR Data Introduction\nThis lesson will provide you with an Introduction to the EHR Data course outline, content, as well as introduce you to your instructor.\n EHR Data Security and Analysis\nIn this lesson, you will learn about the importance of data security and the different standards that apply to EHR, as well as analyzing EHR data.\n EHR Code Sets\nIn this lesson you will learn how to work with different EHR codes and how to map them properly to records.\n EHR Transformations & Feature Engineering\nIn this lesson, you'll gain skills in feature engineering and transformation of EHR.\n Building, Evaluating and Interpreting Models\nIn this final lesson, you'll be putting all of your skills together to build, evaluate and interpret ML models for Bias and Uncertainty.",
+        "last_updated": "2024-12-18",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/ai-for-healthcare-nanodegree--nd320",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-for-healthcare-nanodegree--nd320_applying_ai_to_ehr_data"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213",
+          "http://data.europa.eu/esco/skill/699e7c26-6502-4e78-a823-3656ff5a5b8b",
+          "http://data.europa.eu/esco/skill/d62d2b4c-a6f8-439e-8a1b-4f29ab5f2c47"
+        ],
+        "id": 346,
+        "title": "Applying AI to Wearable Device Data",
+        "description": "Introduction to Wearable Data\nWe’ll cover what wearables are and the scope of the class. Learn who your instructor is and his thoughts on the promise and caveats of wearables in medical research and decision making.\n Intro to Digital Sampling & Signal Processing\nA brief tour through sampling theory, signal processing, the Fourier transform, and other related topics. We’ll briefly cover some plotting and visualization techniques here as well.\n Introduction to Sensors\nWe cover the basics of the accelerometer, the PPG sensor, and the ECG sensor, as well as what these signals look like in typical environments and the types of noise that we will encounter.\n Activity Classification\nBuild an activity classifier using a wrist-worn accelerometer!\n ECG Signal Processing\nWe deep dive into a fundamental algorithm for ECG processing and use that as the basis for an arrhythmia detection algorithm.",
+        "last_updated": "2024-12-18",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/ai-for-healthcare-nanodegree--nd320",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-for-healthcare-nanodegree--nd320_applying_ai_to_wearable_device_data"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+          "http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1",
+          "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+          "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+          "http://data.europa.eu/esco/skill/be20d05c-f6b4-4580-9fcf-f00f4baab562"
+        ],
+        "id": 347,
+        "title": "Introduction to Data Analytics",
+        "description": "This course establishes a framework for data analytics as a series of progressive steps starting with the data source and ending with the interpretation of results. We introduce fundamental concepts such as data analytics life cycle, data integrity, and the four types of data analytics (descriptive, diagnostic, predictive, and prescriptive). Students who complete this course will be equipped with the skills to identify the data analytics strategy used in a given situation and where they are in the data analytics life cycle.Introduction to Data Analysis\nIn this lesson, we will introduce you to data analysis and what we will be covering in this course.\n Data Analytics Life Cycle\nIn this lesson, we will learn how to solve data analysis issues using each step of the data analytics life cycle.\n Data Integrity\nIn this lesson, we will review the importance of data integrity in data analysis, the components of data integrity, and how to identify and fix it.\n Types of Data Analytics & Statistics\nIn this lesson, we will review each of the different types of data analytics and when to use them, along with statistics that pertain to each analytics type.\n Power BI Overview\nIn this lesson, we will introduce Power BI and its capabilities as an analytics and data visualization tool.\n Out of the Box Analytics\nIn this project, you will use what you learned about data analytics to analyze KPIs for a company and represent your analysis with effective visuals.",
+        "last_updated": "2024-12-18",
+        "rating": null,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/business-intelligence-analytics-nanodegree--nd429",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/business-intelligence-analytics-nanodegree--nd429_introduction_to_data_analytics"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+          "http://data.europa.eu/esco/skill/906d21c9-7a9c-4919-817d-10676f9ddfe4",
+          "http://data.europa.eu/esco/skill/a06907da-7037-45ef-846c-4b684c9b6f91",
+          "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+          "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5"
+        ],
+        "id": 348,
+        "title": "Data Preparation and Modeling",
+        "description": "The preparation phase is the most important step in data analysis. An effective data model is required before data can be effectively analyzed, and creating that data model may utilize a wide range of skills. This course teaches the skills to load, clean, and organize data in Power Query and create relational tables in Power Query and Power BI. Completing this course will provide the knowledge to effectively source data in Power BI and create a clean and efficient data model for analysis.Introduction to Data Preparation & Modeling\nIntroduction to Data Preparation & Modeling lesson introduces students to the topics, highlights, and prerequisites of the course. And requirements to successfully complete the course are explained.\n Relational Data & Table Structure\nRelational Data & Table Structure lesson teaches the core concepts around working with data from multiple sources and tables. It explains what relational data is and how it works.\n Power Query & M Overview\nPower Query & M Overview lesson highlights the Power Query data wrangling system that is used within Power BI. Specific cleaning and organization tools and techniques are explored.\n Data Cleaning and Organization\nData Cleaning & Organization lesson takes a practical deep dive into Power Query. Here more complex data cleaning and organization strategies are practiced, and the M language is explained.\n DAX Language & Quantitative Analysis\nDAX Language & Quantitative Analysis lesson dives into DAX, which is the primary analytical language of Power BI. Different foundational concepts around DAX calculations are covered.\n Population Statistics Data Model\nThe project asks students to gather data about the US economy to understand better the makeup of the economy and how it’s changing. Students will submit a PowerBI report at the end.",
+        "last_updated": "2024-12-18",
+        "rating": null,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/business-intelligence-analytics-nanodegree--nd429",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/business-intelligence-analytics-nanodegree--nd429_data_preparation_and_modeling"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/292549e6-08ec-456c-b008-eba7a0a68428",
+          "http://data.europa.eu/esco/skill/875217fb-fe22-4c2c-adf4-b57f2052626a"
+        ],
+        "id": 349,
+        "title": "Predictive Data Analysis",
+        "description": "Develop the skills to make data-driven predictions with confidence. Using Power BI Desktop, you’ll dive into essential tools for predictive analysis, mastering techniques like classification, regression, and forecasting. With a hands-on approach and varied datasets, you’ll gain practical experience that brings predictive data analysis to life, preparing you to tackle real-world challenges. Learn to uncover patterns and insights that reveal future risks, analyze different market trends, and support critical decision-making within any organization. By the end, you’ll be ready to turn raw data into actionable insights, empowering you to guide strategic actions that make an impact in any enterprise setting.Introduction to Predictive Data Analytics\nThis lesson will introduce predictive analytics concepts and a general overview of when to use it in your organization. We will also review the project and the primary tool we will use: Power BI.\n Regression\nWe will review one Machine Learning technique that involves numeric data: Regression. We will learn about its main features, how to interpret it and how to construct it using Power BI.\n Classification and Clustering\nWe will learn additional ML techniques: Classification and Clustering. We will review its main features, some clustering techniques, how to interpret them and how to construct clusters with Power BI.\n Time-Series Forecasting\nWe will review what a time-series is. Also, we will review deterministic and probabilistic forecasting methods, how to read and interpret time-series and how to create forecasts using Power BI.\n Additional Tools and Techniques\nWe will review additional ML and AI-powered tools using Power BI: we will focus on Power BI dataflows and its AutoML features and use two AI-powered visuals: the Q&A and the smart narratives.\n Commercial Flight Analysis in the State of New York\nIn this project, students will use the data of past flights departing from the State of New York to analyze and give recommendations about flight delays.",
+        "last_updated": "2024-12-18",
+        "rating": null,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/business-intelligence-analytics-nanodegree--nd429",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/business-intelligence-analytics-nanodegree--nd429_predictive_data_analysis"
+      },
+      {
+        "skills": [],
+        "id": 350,
+        "title": "Building Generative AI Applications for Data Insights on Azure",
+        "description": "You'll learn Azure OpenAI services, focusing on building applications that extract valuable insights from data using generative AI models. You'll set up and configure Azure AI tools, apply prompt engineering techniques, and integrate external data sources with retrieval-augmented generation (RAG) solutions. You'll gain practical experience in building AI-driven applications for data analysis.Introduction to Azure OpenAI Service, AI Models, and Capabilities\nLearn the Azure OpenAI Service, including setup, model selection, prompt engineering, code and image generation, and responsible AI practices to build secure, effective AI applications on Azure.\n Extracting Insights From Data with Generative AI\nLearn how to use Generative AI to extract data insights, focusing on Retrieval Augmented Generation (RAG), vector search, text embeddings, and prompt engineering for effective data querying",
+        "last_updated": "2024-12-18",
+        "rating": null,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/azure-generative-ai-engineer--nd444",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/azure-generative-ai-engineer--nd444_building_generative_ai_applications_for_data_insights_on_azure"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/457c2e47-07e6-4073-827e-e1c21f3e5869",
+          "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+          "http://data.europa.eu/esco/skill/c3404999-faaa-4779-9cbf-e594b9c4d3b6"
+        ],
+        "id": 351,
+        "title": "Building Generative AI Solutions on Azure with OpenAI GPT Large Language Models",
+        "description": "Develop, evaluate, and deploy custom copilots and applications using Azure AI Studio, Prompt Flow and OpenAI large language models. You'll operationalize AI-driven applications on Azure using GenAIOps, focusing on evaluation, monitoring and continuous integration and deployment pipelines. You'll create prompt flows, integrate data sources, and manage the full lifecycle of generative AI solutions in real-world scenarios.Introduction to Custom Generative AI Apps and Copilots Using Azure AI Foundry Portal\nLearn to build custom Generative AI copilots and apps with Azure AI Foundry portal, including setting up environments, deploying models, and developing prompt flows for enhanced user interaction.\n Building and Evaluating Generative AI Applications with Prompt Flow and GenAIOps in Azure AI Foundry Portal\nLearn to build, evaluate, and refine Generative AI applications and copilots with Prompt Flow and GenAIOps in Azure AI Foundry, including automated and manual evaluations, and code-first setups.\n Operationalizing Generative AI Applications with GenAIOps in Azure AI Foundry Portal\nMaster operationalizing Generative AI apps with GenAIOps, covering deployment, monitoring, content safety, and CI/CD automation in Azure AI Foundry portal",
+        "last_updated": "2024-12-18",
+        "rating": null,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/azure-generative-ai-engineer--nd444",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/azure-generative-ai-engineer--nd444_building_generative_ai_solutions_on_azure_with_openai_gpt_large_language_models"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/08e2ff26-88ff-47b5-9d37-d19ace01b075",
+          "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+          "http://data.europa.eu/esco/skill/8dee09d8-07da-493a-a171-d2d7737498ff",
+          "http://data.europa.eu/esco/skill/95ee5e38-5c1e-4cd2-a21d-6921390025a9",
+          "http://data.europa.eu/esco/skill/bacbfc27-4b5d-47de-8bfd-af5fa27562a2",
+          "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c"
+        ],
+        "id": 354,
+        "title": "Concept to Low-Fidelity Prototyping",
+        "description": "The best products have gone through rounds of iteration based on user research and feedback. Learn the process of a design sprint, and how to translate findings from research into a prototype that can be tested with users. Understand how to foster team collaboration and use divergent and convergent thinking to rapidly create testable prototypes. Apply user interface principles in the design of a clickable prototype, and conduct a usability test to gain valuable feedback from users that can be used in design iterations.Course Overview\nIn this lesson, we'll introduce your instructor, give a brief overview of the course, and look ahead to what you'll be building for your final project.\n Define the Design Sprint\nLet's look at how to explore product opportunities collaboratively—while reducing our risks and ensuring our team is aligned throughout an ambiguous design process.\n Synthesis: Research to Features\nThe best products are informed by user needs. Let's look at how we can use research to find those needs—and uncover high-value product features that we can target in our designs.\n UI Principles\nGreat products don't re-invent the wheel; they expand on design patterns that users are already comfortable with. In this lesson, we'll explore some fundamental UI principles for digital products.\n Clickable Prototyping\nIt's expensive to engineer and implement solutions in code. In this lesson, we'll practice the hard skill of building an interactive prototype that feels like a real piece of software.\n Usability Testing\nEven the best looking designs may have unexpected problems. You'll learn hard skills to take your designs into the wild to identify issues early.",
+        "last_updated": "2024-12-18",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/ux-designer-nanodegree--nd578",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ux-designer-nanodegree--nd578_concept_to_low-fidelity_prototyping"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/080a3bf6-c8e8-481e-b97e-8fbc964ebab7",
+          "http://data.europa.eu/esco/skill/08e2ff26-88ff-47b5-9d37-d19ace01b075",
+          "http://data.europa.eu/esco/skill/8bd21f21-ca28-4e08-ba0e-8a109711ad6b",
+          "http://data.europa.eu/esco/skill/a103bca9-6d00-4255-b61b-6c524dacfc8e",
+          "http://data.europa.eu/esco/skill/b87f6102-5bab-4e99-a5d8-11b6be1b99c2",
+          "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9"
+        ],
+        "id": 355,
+        "title": "High-Fidelity Prototyping to Post-Launch Analysis",
+        "description": "Once products have been tested for its effectiveness, they need to be enhanced for engagement. Learn advanced user interface principles to build interactive designs that are ready to be handed off to engineering for feedback. Understand how to solicit and integrate feedback from engineering to enhance the design before it is ready for development. Assess the engagement of the product through remote usability testing and other experimentation methods. Finally, you’ll learn how to improve design and user experiences based on engagement data in order to increase key performance indicators.Course Overview\nIn this lesson, we'll introduce your instructor, give a brief overview of the course, and look ahead to what you'll be building for your final project.\n UI Design Basics\nGet into UI basics, UI vs UX, basic design principles, and the role typography, design systems and style guides play for a UX Designer.\n Building Interactive Designs\nLearn about levels of fidelity in design, using a tool called Figma to build out a high-fidelity design of your own. Then, add interactivity by creating a clickable prototype!\n Midterm: Create & Improve a High-Fidelity Design\nBuild on the digital design you made for the mobile or web application in Course 2 to create a High-Fidelity Mockup, and then implement it in a clickable prototype.\n Preparing Design for Engineering Handoff\nEngineering handoff is a key part of a UX Designer’s role, yet often overlooked by those new to the field. Learn about the deliverables for handoff and how best to collaborate with your team!\n Improving Design Performance\nUse KPI’s to improve your design, and learn how analytics and testing can be used for data-based improvements.",
+        "last_updated": "2024-12-18",
+        "rating": 9.4,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/ux-designer-nanodegree--nd578",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ux-designer-nanodegree--nd578_high-fidelity_prototyping_to_post-launch_analysis"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/b758675a-b03b-4e4b-897c-57ca14b1a3d0"
+        ],
+        "id": 361,
+        "title": "Fundamentals of Probabilistic Graphical Models",
+        "description": "Learn to use Bayes Nets to represent complex probability distributions, and algorithms for sampling from those distributions. Then learn the algorithms used to train, predict, and evaluate Hidden Markov Models for pattern recognition. HMMs have been used for gesture recognition in computer vision, gene sequence identification in bioinformatics, speech generation & part of speech tagging in natural language processing, and more.Introduction to Probabilistic Models\nWelcome to Fundamentals of Probabilistic Graphical Models. In this lesson, we will cover the course overview, prerequisites, and do a brief introduction to probability.\n Probability\nSebastian Thrun briefly reviews basic probability theory including discrete distributions, independence, joint probabilities, and conditional distributions to model uncertainty in the real world.\n Spam Classifier with Naive Bayes\nIn this section, you'll learn how to build a spam email classifier using the naive Bayes algorithm.\n Bayes Nets\nSebastian explains using Bayes Nets as a compact graphical model to encode probability distributions for efficient analysis.\n Inference in Bayes Nets\nSebastian explains probabilistic inference using Bayes Nets, i.e. how to use evidence to calculate probabilities from the network.\n Part of Speech Tagging with HMMs\nLearn Hidden Markov Models, and apply them to part-of-speech tagging, a very popular problem in Natural Language Processing.\n Dynamic Time Warping\nThad explains the Dynamic Time Warping technique for working with time-series data.",
+        "last_updated": "2024-12-18",
+        "rating": 9.0,
+        "price": 32.29,
+        "url": "https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898_fundamentals_of_probabilistic_graphical_models"
+      },
+      {
+        "skills": [],
+        "id": 363,
+        "title": "Extracurricular (Optional)",
+        "description": "Additional lecture material on hidden Markov models and applications for gesture recognition.Hidden Markov Models\nThad returns to discuss using Hidden Markov Models for pattern recognition with sequential data.",
+        "last_updated": "2024-12-18",
+        "rating": 9.0,
+        "price": 32.29,
+        "url": "https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898_extracurricular_(optional)"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/5a214c90-0c40-49f6-b512-4ff3a7cfc135"
+        ],
+        "id": 364,
+        "title": "Developing Android Apps with Kotlin - Part 1",
+        "description": "Build your First App\nBuild your first app: \"Dice Roller\" that covers basic Android components like displaying texts and images as well as a tour of the Android tools you'll be using throughout this course.\n Layouts\nDesigning your app's UI is the first step to a great user experience. This lesson covers all the basics of UI layout design. You'll use all the popular view types with a focus on the ContraintLayout.\n App Navigation\nBuilding multiple screens on Android has never been easier with the Navigation library. You'll get to build a fun trivia app using multiple fragments and conditional navigation.\n Activity & Fragment Lifecycle\nUnderstanding the concept of Lifecycles for both activities and fragments is what makes a great Android developer! Have a treat with this delicious \"Dessert Pusher\" app.\n App Architecture (UI Layer)\nWith Architecture Components you'll have the power to design even the most complicated app ideas. Combine ViewModels with LiveData to build this super fun \"Guess it\" game.",
+        "last_updated": "2024-12-18",
+        "rating": 9.4,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940_developing_android_apps_with_kotlin_-_part_1"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/5a214c90-0c40-49f6-b512-4ff3a7cfc135"
+        ],
+        "id": 365,
+        "title": "Developing Android Apps with Kotlin -Part 2",
+        "description": "App Architecture (Persistence)\nThis lesson is all about data persistence, there are many ways to storing data permanently, but with Room things have become even easier than ever before!\n RecyclerView\nEverything is better in a list! Recycler View has been - and continues to be - an essential component of any app design. This lesson is all about making your app better with Recycler Views.\n Connect to the Internet\nNeed some live data in your app? In this lesson you'll use Retrofit to communicate with any API service out there. You'll also use Glide to display images from the web.\n Behind the Scenes\nNot everything is displayed on the screen. In Android, there's so much happening in the background and you'll get to build your own background services and tasks in this lesson.\n Designing for Everyone\nComing up with a good design for an app is always hard, but creating a great design is more than just colors and layouts. Let's build an app that is designed for everyone, everywhere!",
+        "last_updated": "2024-12-18",
+        "rating": 9.4,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940_developing_android_apps_with_kotlin_-part_2"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0daaf096-1639-461c-bf1a-bbeea77e6b67",
+          "http://data.europa.eu/esco/skill/0f9958d2-f700-4f62-b90b-a5873cb5ae4c",
+          "http://data.europa.eu/esco/skill/37bc4dc0-1233-4008-98db-1116d0c1cfcc",
+          "http://data.europa.eu/esco/skill/626326d5-1cee-4729-9381-3debc87ddac4",
+          "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+          "http://data.europa.eu/esco/skill/80ae18bf-f3a4-4f83-b372-7c5c9d686865",
+          "http://data.europa.eu/esco/skill/9da7bfb1-9e1a-46de-8374-dac1a7cfa86c",
+          "http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42"
+        ],
+        "id": 369,
+        "title": "Security Architecture Planning and Design",
+        "description": "This course introduces the fundamental security planning, design, and systems thinking concepts that are used throughout security architecture. As networks and applications grow more complex, the need to identify potential sources of weakness that are a product of that complexity becomes crucial. Students who complete this course will be equipped with the skills to identify and evaluate risks in systems, assess whether or not risks are acceptable, and work alongside stakeholders to prioritize remediation efforts.Introduction to Security Planning and Design\nIn this lesson we'll learn how to evaluate security risks, prioritize remediation, apply systems thinking to security problems, and build simple architecture diagrams.\n Security and Regulatory Frameworks\nLearn how to apply both general-purpose and industry-specific security frameworks, as well as data privacy legislation, to applications and infrastructure.\n Designing Secure Systems\nUse governance, risk management, and compliance to achieve security goals, examine business needs to determine which risks are worth accepting, and design secure architectures from scratch.",
+        "last_updated": "2024-12-18",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/security-architect-nanodegree--nd992",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/security-architect-nanodegree--nd992_security_architecture_planning_and_design"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/62d07a37-9c9b-40e8-b4e2-5020c7578e24",
+          "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+          "http://data.europa.eu/esco/skill/c4272323-cce6-4535-ac71-4f6841f4f89a"
+        ],
+        "id": 370,
+        "title": "Enterprise Identity and Access Control",
+        "description": "This course focuses on identity and access management. As a security architect, implementing an organization-wide strategy for strong Identity and access management can greatly improve the security posture of the organization. IAM can be tricky to architect and implement. Too much access can lead to data exposure, whereas, too little access can lead to business hindrance. A fine balance is required while designing a strong IAM model. We will be covering some of those concepts and methodologies in this course.Introduction to Enterprise Identity and Access Control\nIn this introductory lesson, we meet the course instructor and discuss enterprise identity and access control from a high-level perspective.\n IAM Access Control Models and AWS\nIn this lesson, we discuss two access control methodologies in detail, RBAC and ABAC. We also create IAM Roles and review IAM policies in AWS.\n Building Access Control Matrix and Mapping Permissions\nIn this lesson, we discuss mapping permissions using an access control matrix design based on access control requirements.\n Building Organizational Role Structure\nIn this lesson, we take a deep dive into evaluating IAM policies, creating IAM restrictions, and validating permissions in AWS.\n Building Organizational Role and Access Visualization\nIn this lesson, we focus on building an IAM architecture diagram that visualizes and defines the organizational structure of users, permissions, and resources.\n Enforcing IAM Policy Configurations\nIn this lesson, we wrap up the course by focusing on monitoring policy compliance, enforcing IAM policy configurations, and policy remediation in AWS.",
+        "last_updated": "2024-12-18",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/security-architect-nanodegree--nd992",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/security-architect-nanodegree--nd992_enterprise_identity_and_access_control"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/14d1e367-3efe-4ec5-86ae-eca48710ee4e",
+          "http://data.europa.eu/esco/skill/bda0d115-f315-453e-99dc-f8b0e5862db3",
+          "http://data.europa.eu/esco/skill/d3286405-49f8-4e8a-8046-a4376b4e7963",
+          "http://data.europa.eu/esco/skill/f75b740c-b36c-495e-bc67-efe347bbc6b5"
+        ],
+        "id": 374,
+        "title": "Enterprise Endpoint Security",
+        "description": "In this course, you will learn about how to craft Enterprise level Endpoint security policies and hardening strategies.Introduction to Enterprise Endpoint Security\nThis is the welcome lesson to Enterprise Endpoint Security. Here you'll get a quick overview of what we'll cover in the course.\n System Hardening\nIn this lesson, you will learn how to develop a hardening strategy to ensure the security of endpoints across all enterprise-owned devices.\n Policies and Compliance\nIn this lesson, you will build security policies that implement compliance requirements to secure enterprise devices and data using industry best practices.\n Cloud Management\nIn this lesson, you will use best practices to create automated Cloud Endpoint Security procedures.",
+        "last_updated": "2024-12-18",
+        "rating": null,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/enterprise-security-nanodegree--nd0035",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/enterprise-security-nanodegree--nd0035_enterprise_endpoint_security"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0ad58425-0691-4da4-b89b-eaa15c09c142",
+          "http://data.europa.eu/esco/skill/11430d93-c835-48ed-8e70-285fa69c9ae6",
+          "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+          "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+          "http://data.europa.eu/esco/skill/af313ba1-a39e-49ac-99ec-94630fbe4f7f",
+          "http://data.europa.eu/esco/skill/dad7e408-162f-46a4-8567-db560e19e2fc",
+          "http://data.europa.eu/esco/skill/de586dcf-d7e5-4340-bf5b-d59026f1b436"
+        ],
+        "id": 375,
+        "title": "Enterprise-Wide Application Security",
+        "description": "Application security is a critical part of any enterprise security plan. We will be cover how to perform a threat assessment by doing threat modeling and pen testing. This course will teach mitigation and defensive strategies in an application software development lifecycle. The focus will be on covering how enterprises bake security into their lifecycle by shifting security left and the different ways they enhance their security posture across on-premise, cloud, containers, and APIs.Introduction to Enterprise-Wide Application Security\nThis is the welcome lesson to Enterprise-Wide Application Security. Here you'll get a quick overview of what we'll cover in the course.\n Designing Security Architecture\nDesigning security architecture is the first phase, where you set the teams and architecture. You will learn about DevSecOps, SDLC, and security architecture in this lesson.\n Threat Hunting\nIn the threat hunting phase, you will proactively find security issues in the product. You will learn about threat modeling, identify vulnerabilities, vulnerability scanning, and pen test roadmap.\n Container Vulnerabilities\nIn this lesson, you will scan containers, research container vulnerabilities, and mitigate container vulnerabilities, so that you can better handle the actual deployment and cloud infrastructure.\n API Vulnerabilities\nAPI service is what the end-users will finally use. In this lesson, you will identify coding vulnerabilities, mitigate coding vulnerabilities, and learn about monitoring and analytics.",
+        "last_updated": "2024-12-18",
+        "rating": null,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/enterprise-security-nanodegree--nd0035",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/enterprise-security-nanodegree--nd0035_enterprise-wide_application_security"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/097c6a36-f031-4d3e-b5c1-62d6ffcb430b",
+          "http://data.europa.eu/esco/skill/47ca0da1-cae5-4395-ae6b-fd97b9ff48d3",
+          "http://data.europa.eu/esco/skill/62d07a37-9c9b-40e8-b4e2-5020c7578e24",
+          "http://data.europa.eu/esco/skill/6aef2baa-5fa7-4c16-bd28-3e070ec4e4df",
+          "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+          "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db",
+          "http://data.europa.eu/esco/skill/adcca622-b933-4ba3-bc43-bf371879edc3",
+          "http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92",
+          "http://data.europa.eu/esco/skill/ed0718f6-5823-4c74-9749-2936c9c06203"
+        ],
+        "id": 376,
+        "title": "Data Security",
+        "description": "We start by exploring the concept of data governance, so that students can build the foundation for understanding, classifying, and protecting data. Students learn to navigate the variety of compliance regulations that apply to data security and create policies that prevent unauthorized disclosure of information Students focus on protecting confidentiality, integrity, and availability of data through concepts like encryption, auditing, file integrity, and backup strategies.Introduction to Data Security\nThis lesson provides an overview of the course including a brief introduction to data security, a brief history, when data security applies, and who it affects. Get a look at the final project.\n Data Governance\nData governance is about understanding the data in your organization, its importance, who owns it, and where it exists. This enables you to effectively manage and secure it.\n Data Confidentiality\nIn order to protect data from unauthorized access, you will need to know how to map out a storage architecture and then apply the appropriate encryption for both data at rest and in transit.\n Data Integrity\nIn order to ensure data is trustworthy within the organization, you will need to understand information rights management, access control, file integrity, and auditing.\n Data Availability\nThrough planned incident response, disaster recovery, business continuity, and backup strategy, organizations can ensure data is available when needed.",
+        "last_updated": "2024-12-18",
+        "rating": null,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/enterprise-security-nanodegree--nd0035",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/enterprise-security-nanodegree--nd0035_data_security"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/c3404999-faaa-4779-9cbf-e594b9c4d3b6",
+          "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389"
+        ],
+        "id": 378,
+        "title": "Building a Reproducible Model Workflow",
+        "description": "This course empowers the students to be more efficient, effective, and productive in modern, real-world ML projects by adopting best practices around reproducible workflows. In particular, it teaches the fundamentals of MLops and how to: a) create a clean, organized, reproducible, end-to-end machine learning pipeline from scratch using MLflow b) clean and validate the data using pytest c) track experiments, code, and results using GitHub and Weights & Biases d) select the best-performing model for production and e) deploy a model using MLflow. Along the way, it also touches on other technologies like Kubernetes, Kubeflow, and Great Expectations and how they relate to the content of the class.Introduction to Reproducible Model Workflows\nDive into reproducible model workflows and machine learning operations, learning about use cases, its history, and what you'll build at the end of the course.\n Machine Learning Pipelines\nBuild out machine learning pipelines, as well as learning how to version data and model artifacts.\n Data Exploration and Preparation\nCome up with re-usable processes for performing exploratory data analysis (EDA), cleaning and pre-processing data, and segregating/splitting data.\n Data Validation\nValidate data through deterministic and non-deterministic testing, and look at handling different parameters with PyTest.\n Training, Validation and Experiment Tracking\nWrite an inference pipeline, validate and choose your best performing models from experiments, and test your final model artifacts.\n Final Pipeline, Release and Deploy\nWrite a full end-to-end pipeline, release the pipeline, and deploy with MLflow.",
+        "last_updated": "2024-12-18",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821_building_a_reproducible_model_workflow"
+      },
+      {
+        "skills": [],
+        "id": 379,
+        "title": "Deploying a Scalable ML Pipeline in Production",
+        "description": "This course teaches students how to robustly deploy a machine learning model into production. En route to that goal students will learn how to put the finishing touches on a model by taking a fine grained approach to model performance, checking bias, and ultimately writing a model card. Students will also learn how to version control their data and models using Data Version Control (DVC). The last piece in preparation for deployment will be learning Continuous Integration and Continuous Deployment which will be accomplished using GitHub Actions and Heroku, respectively. Finally, students will learn how to write a fast, type-checked, and auto-documented API using FastAPI.Introduction to Deploying a Scalable ML Pipeline in Production\nWe'll introduce you to the course concepts of operationalizing our model, focusing on the ecosystem surrounding that model to successfully deploy it, and easily maintain it in production.\n Performance Testing and Preparing a Model for Production\nIn this lesson, we will cover performance testing and preparing a model for production.\n [Optional] Data and Model Versioning\nIn this lesson, we will review git and then delve into Data Version Control (DVC) and the concepts of data provenance.\n CI/CD\nWe cover the software engineering principles of automation, testing, and versioning. We put these into action using Continuous Integration and Continuous Delivery with Heroku and Github Actions.\n API Deployment with FastAPI\nDelve into FastAPI which leverages type hints to build a robust and self-documenting REST API. First, build out our API locally, test it, and the deploy to Heroku where you'll test it again live.",
+        "last_updated": "2024-12-18",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821_deploying_a_scalable_ml_pipeline_in_production"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+          "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+          "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4"
+        ],
+        "id": 380,
+        "title": "ML Model Scoring and Monitoring",
+        "description": "This course will help students automate the devops processes required to score and re-deploy ML models. Students will automate model training and deployment. They will set up regular scoring processes to be performed after model deployment, and also learn to reason carefully about model drift, and whether models need to be retrained and re-deployed. Students will learn to diagnose operational issues with models, including data integrity and stability problems, timing problems, and dependency issues. Finally, students will learn to set up automated reporting with API’s.Welcome to ML Model Scoring and Monitoring\nThis lesson will talk about goals for the course, when to use ML model scoring and monitoring, stakeholders, the history of the field, and the tools and dependencies you need to be aware of.\n Model Training and Deployment\nThis lesson will talk about model training and deployment. We’ll focus on automating the training and deployment process and making sure that the trained, deployed models are ready to be monitored.\n Model Scoring and Model Drift\nThis lesson will discuss model scoring and model drift, an important part of the continuous monitoring that makes sure your deployed model remains as accurate as possible.\n Diagnosing and Fixing Operational Problems\nThere are problems that can come up in deployed projects. So this lesson will talk about diagnosing and fixing operational problems, a crucial part of the post-deployment machine learning process.\n Model Reporting and Monitoring with API's\nThis lesson will discuss model reporting and monitoring with APIs which can be used as an automatic interface with your ML project.",
+        "last_updated": "2024-12-18",
+        "rating": 9.2,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821_ml_model_scoring_and_monitoring"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/02e22093-3436-46a8-8dc5-b041bc4800cc",
+          "http://data.europa.eu/esco/skill/2e6379be-59ad-414a-8d81-68102b6b77b1",
+          "http://data.europa.eu/esco/skill/c3404999-faaa-4779-9cbf-e594b9c4d3b6"
+        ],
+        "id": 382,
+        "title": "Using Azure Machine Learning",
+        "description": "Machine learning is a critical business operation for many organizations. Learn how to configure machine learning pipelines in Azure, identify use cases for Automated Machine Learning, and use the Azure ML SDK to design, create, and manage machine learning pipelines in Azure.Introduction to Azure ML\nIn this lesson, we'll look at an overview of the course, look ahead to your final project, and discuss some of the reasons why—and when—you would want to do Machine Learning in the cloud.\n Workspaces and the AzureML Studio\nIn this lesson, we'll learn how workspaces and AzureML studio enable you to be more productive as a data scientist or ML engineer.\n Datastores and Datasets\nDatastores and Datasets are a critical component of cloud computing. We'll learn how to integrate third party datasets and open datasets into our ML pipeline to quickly develop working solutions.\n Training Models in Azure ML\nWe'll learn how to manage pipelines and use hyperparameters in experiments, as well as how to automate changes that create huge value in terms of prediction accuracy.\n The AzureML SDK\nIn this lesson, we'll cover how the Azure ML SDK allows us to programmatically create and manage pipelines. We'll see that this approach makes pipeline creation and management a reproducible process.\n Automated ML and Hyperparameter Tuning\nWe'll discuss how we can use the Azure ML SDK to do automated ML and create models more quickly and accurately. We'll also have a look at how we can make we can make our models easier to interpret.",
+        "last_updated": "2024-12-18",
+        "rating": 8.2,
+        "price": 75.33,
+        "url": "https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333_using_azure_machine_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79",
+          "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+          "http://data.europa.eu/esco/skill/457c2e47-07e6-4073-827e-e1c21f3e5869"
+        ],
+        "id": 385,
+        "title": "Introduction to Machine Learning",
+        "description": "Gain foundational machine learning expertise using AWS SageMaker, from data preparation and exploratory analysis to deploying powerful models like XGBoost and AutoGluon. Covering the entire ML workflow, including feature engineering, model tuning, and evaluation, you'll gain practical experience with real-world data projects. Designed for those familiar with Python and data science basics, the curriculum equips you to handle diverse ML tasks confidently and effectively, making it ideal for anyone looking to apply machine learning in various professional and industry settings.Introduction to Machine Learning\nOverview of key background around Machine Learning and preparing you to be successful in the rest of this course.\n Exploratory Data Analysis\nUse AWS SageMaker Studio to access S3 datasets and perform data analysis, feature engineering with Data Wrangler and Pandas. And finally label new data using SageMaker Ground Truth.\n Machine Learning Concepts\nIn this lesson you'll learn about ML Lifecycles, how to differentiate between supervised vs. unsupervised ML, regression methods, and classification methods.\n Model Deployment Workflow\nIn this lesson you'll load a dataset, clean/create features, train a regression/classification model with scikit learn, evaluate a model and tune a model's hyperparameter.\n Algorithms and Tools\nIn this lesson you'll train, test, and optimize on liner, tree-based, XGBoost, and AutoGluon Tabular models. And you will also create a model using SageMaker Jumpstart",
+        "last_updated": "2024-12-18",
+        "rating": 9.4,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189_introduction_to_machine_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+          "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284"
+        ],
+        "id": 386,
+        "title": "Developing your First ML Workflow",
+        "description": "This course discusses how to use AWS services to train a model, deploy a model, and how to use AWS Lambda Functions, Step Functions to compose your model and services into an event-driven application.Introduction to Developing ML Workflows\nThis lesson gives an introduction to the course, including prerequisites, final project, stakeholders, and tools & environment.\n SageMaker Essentials\nThis lesson will go over SageMaker essential services such as training jobs, endpoints, batch transforms, and processing jobs.\n Designing Your First Workflow\nThis lesson will discuss machine learning workflows and AWS tools such as Lambda, Step Function for building a workflow.\n Monitoring a ML Workflow\nThis lesson will go over monitoring a machine learning workflow and some useful services within AWS to help you monitoring the healthy of data and machine learning models.",
+        "last_updated": "2024-12-18",
+        "rating": 9.4,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189_developing_your_first_ml_workflow"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/54f78038-58a8-46cb-9633-41ade03c07b7",
+          "http://data.europa.eu/esco/skill/9da7bfb1-9e1a-46de-8374-dac1a7cfa86c"
+        ],
+        "id": 388,
+        "title": "Operationalizing Machine Learning on SageMaker",
+        "description": "This course covers advanced topics related to deploying professional machine learning projects on SageMaker. Students will learn how to maximize output while decreasing costs. They will also learn how to deploy projects that can handle high traffic, how to work with especially large datasets, and how to approach security in machine learning AWS applications.Introduction to Operationalizing Machine Learning on SageMaker\nIn this introductory lesson, we will give you a course overview of topics and design. We will also introduce what exactly operationalizing machine learning means as well as how it applies.\n Manage compute resources in AWS accounts to ensure efficient utilization\nThis lesson is about managing computing resources effectively. We’ll talk about lowering costs and getting more with less.\n Train models on large-scale datasets using distributed training\nThis lesson is about training models on large datasets. We’ll talk about distributed models, distributed data, and some skills related to distributed training.\n Construct pipelines for high throughput, low latency models\nThis lesson is about high throughput, low latency models. Essentially, this means that we’ll be talking about preparing your projects to deal with high traffic and minimal time delays.\n Design Secure Machine Learning Projects in AWS\nOur final lesson is about security. Security is crucial for all major machine learning projects, so these skills can be very helpful in your career.",
+        "last_updated": "2024-12-18",
+        "rating": 9.4,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189_operationalizing_machine_learning_on_sagemaker"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/a0b91437-6b10-4668-ac09-47e3981b3dc7",
+          "http://data.europa.eu/esco/skill/bf4d884f-c848-402a-b130-69c266b04164"
+        ],
+        "id": 393,
+        "title": "Bayesian Thinking",
+        "description": "Learn the framework that underlies a self-driving car’s understanding of itself and the world around it, and to see the world the way a self-driving car does.Introduction\nA brief introduction to Bayesian Thinking from Sebastian.\n Joy Ride\nA quick introduction to controlling a (simulated) car with code. Parts 1 and 2 will show you how to control gas and steering and in part 3 you'll program a car to parallel park.\n Probability\nLearn the basics of probability - the language of robotics. This lesson will focus on the math. In later lessons you'll apply this math in Python code.\n Conditional Probability\nIn order to infer meaning from noisy sensor measurements, a self driving car needs to use the math of Conditional Probability. Learn this math from Sebastian (and then apply it in the next lesson).\n Programming Probability in Python\nYour chance to learn basic Python syntax while applying what you learned about probability and conditional probability in the last two lessons.\n Bayes' Rule\nLearn about Bayes' Rule from Sebastian and get your first peek at how a self driving car uses Bayes' Rule to understand where in the world it is.\n Programming Bayes' Rule and World Representations\nIn this lesson, you can expect a lot of hands-on practice programming Bayesian probability in Python, and representing a 2D world that you'll need to localize a car.\n Probability Distributions\nLearn how a robot represents it's belief about uncertain quantities using something known as a **probability distribution**.\n Programming Probability Distributions\nApply what you've learned in this course by programming and visualizing probability distributions.\n Gaussian Distributions\nYou will work with a specific continuous probability distribution called the Gaussian distribution. A Gaussian distribution helps describe uncertainty in sensor measurements and a vehicle's location.\n Robot Localization\nSebastian Thrun will give you an overview of the theory behind localization!",
+        "last_updated": "2024-12-18",
+        "rating": 9.2,
+        "price": 32.29,
+        "url": "https://www.udacity.com/course/intro-to-self-driving-cars--nd113",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-self-driving-cars--nd113_bayesian_thinking"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+          "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f",
+          "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d"
+        ],
+        "id": 395,
+        "title": "C++ Basics",
+        "description": "This course is the first step in a rewarding journey towards C++ expertise. The goal is translation: get a program written in Python, and translate it into C++.C++ Getting Started\nThe differences between C++ and Python and how to write C++ code.\n C++ Vectors\nTo program matrix algebra operations and translate your Python code, you will need to use C++ Vectors. These vectors are similar to Python lists, but the syntax can be somewhat tricky.\n Practical C++\nLearn how to write C++ code on your own computer and compile it into a executable program without running into too many compilation errors.\n C++ Object Oriented Programming\nLearn the syntax of C++ object oriented programming as well as some of the additional OOP features provided by the language.\n Python and C++ Speed\nIn this lesson, we'll compare the execution times of C++ and Python programs.",
+        "last_updated": "2024-12-18",
+        "rating": 9.2,
+        "price": 32.29,
+        "url": "https://www.udacity.com/course/intro-to-self-driving-cars--nd113",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-self-driving-cars--nd113_c++_basics"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/5d73a509-4c15-423a-8873-8ea84daa037c",
+          "http://data.europa.eu/esco/skill/a32e7fb1-af9e-4c09-8ea7-72b7442e9cda",
+          "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5"
+        ],
+        "id": 397,
+        "title": "Navigating Data Structures",
+        "description": "Algorithmic thinking is a skill you’ll refine throughout your career. In this course you’ll focus on frequently used data structures and algorithms.How to Solve Problems\nA systematic way of approaching and breaking down problems.\n Data Structures\nThe list isn't the only structure for storing data! In this lesson you'll learn about sets, dictionaries and other Python data structures.\n The Search Problem\nWhen programming a car to drive itself you run into problems. Many of these are \"search\" problems. In this lesson you'll learn what search problems are and several algorithms for solving them.",
+        "last_updated": "2024-12-18",
+        "rating": 9.2,
+        "price": 32.29,
+        "url": "https://www.udacity.com/course/intro-to-self-driving-cars--nd113",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-self-driving-cars--nd113_navigating_data_structures"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/8a16add0-6faa-4387-896c-ee641568d89f"
+        ],
+        "id": 398,
+        "title": "Vehicle Motion and Control",
+        "description": "This course is a crash course in two branches of mathematics which are crucial to self driving cars: calculus and trigonometry. You will learn how a self driving car uses various motion sensors to help it understand its own motion. At the end of this course you will use raw sensor data (which give information about distance driven, acceleration, and rotation rates) to reconstruct a vehicle's trajectory through space.Odometers, Speedometers and Derivatives\nGain a conceptual understanding of the *derivative* and basic calculus by plotting points and finding slopes.\n Accelerometers, Rate Gyros and Integrals\nLearn how **integrals** can be used to calculate accumulated changes by finding the area under a curve.\n Two Dimensional Robot Motion and Trigonometry\nLearn the basics of trigonometry and how to decompose a self driving car's motion into X and Y components.",
+        "last_updated": "2024-12-18",
+        "rating": 9.2,
+        "price": 32.29,
+        "url": "https://www.udacity.com/course/intro-to-self-driving-cars--nd113",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-self-driving-cars--nd113_vehicle_motion_and_control"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/6195c5f7-a4fb-425d-a3dd-c4467c4471a3",
+          "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+          "http://data.europa.eu/esco/skill/83218cac-3599-417e-93d2-26013cdccd98",
+          "http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42"
+        ],
+        "id": 404,
+        "title": "Azure Applications",
+        "description": "In this course, you will learn the basics of deploying an application to Azure. Understand the benefits and costs of cloud deployments, different types of service models, and how to navigate the Microsoft Azure platform. Distinguish two types of compute services in Azure, virtual machines and app services, when to use each, and how to deploy applications onto the related service. Connect two useful types of cloud storage to a cloud application: Azure SQL databases and blob containers. Differentiate between the different security options available in Azure, and how to implement Microsoft’s OAuth 2.0 capabilities with Azure Active Directory, along with useful monitoring and logging tools in the cloud.Getting Started - Azure Setup\nInstructions to set up an Azure Account for this program\n Introduction to Microsoft Azure Development\nDiscover the basics of cloud development and Microsoft Azure, along with an introduction to further course topics.\n Azure Compute Services\nBegin creating and deploying various cloud compute services through Azure, with a focus on Virtual Machines and App Services.\n Azure Storage\nStorage costs can quickly grow when hosting data on premises. Dive into the various storage options available through Azure here.\n Security and Monitoring Basics\nMoving applications to the cloud doesn’t remove the need to build security and monitoring into the app and its services. Find out how to integrate these with Azure!",
+        "last_updated": "2024-12-17",
+        "rating": 8.6,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/cloud-developer-using-microsoft-azure-nanodegree--nd081",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cloud-developer-using-microsoft-azure-nanodegree--nd081_azure_applications"
+      }
+    ],
+    "count": 3293
+  }
+}

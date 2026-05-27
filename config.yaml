@@ -1,0 +1,244 @@
+tracker:
+  api: https://skillab-tracker.csd.auth.gr/api
+  page_size: 300
+  max_pages_per_entity: 2
+  request_timeout_seconds: 120
+  request_retries: 3
+  pause_seconds: 0.15
+  use_cache: true
+paths:
+  cache_dir: data/cache
+  raw_dir: data/raw
+  results_csv_dir: results/csv
+  figures_dir: results/figures
+  provenance_dir: results/provenance
+  esco_skills: C:\Users\NITROPC\Downloads\mapping_of_ESCO_skills.xlsx
+  esco_occupations: C:\Users\NITROPC\Downloads\mapping_of_ESCO_occupations.xlsx
+domains:
+  IT:
+    keywords:
+    - software
+    - developer
+    - programming
+    - python
+    - java
+    - javascript
+    - typescript
+    - data
+    - database
+    - SQL
+    - cloud
+    - DevOps
+    - cybersecurity
+    - AI
+    - machine learning
+    - frontend
+    - backend
+    - full stack
+    - web
+    - API
+    - mobile
+    - network
+    - systems
+    - Linux
+    - Docker
+    - Kubernetes
+    - analytics
+    - engineer
+    - digital
+    - automation
+    - testing
+    - QA
+    - architecture
+    - infrastructure
+    - application
+  Tourism:
+    keywords:
+    - tourism
+    - hotel
+    - hospitality
+    - restaurant
+    - travel
+    - booking
+    - guest
+    - reception
+    - front desk
+    - resort
+    - tour
+    - itinerary
+    - accommodation
+    - catering
+    - food service
+    - event
+    - leisure
+    - visitor
+    - reservation
+    - customer service
+    - housekeeping
+    - tourism management
+    - travel agency
+    - destination
+    - concierge
+    - airline
+    - cruise
+    - beverage
+    - kitchen
+    - spa
+    - guide
+    - cultural tourism
+    - ticketing
+    - holiday
+    - conference
+  Healthcare:
+    keywords:
+    - health
+    - healthcare
+    - medical
+    - nurse
+    - nursing
+    - doctor
+    - physician
+    - clinic
+    - hospital
+    - care
+    - patient
+    - pharmacy
+    - pharmaceutical
+    - therapy
+    - therapist
+    - diagnosis
+    - treatment
+    - public health
+    - emergency
+    - elderly care
+    - dental
+    - laboratory
+    - biomedical
+    - caregiver
+    - mental health
+    - rehabilitation
+    - nutrition
+    - radiology
+    - surgery
+    - midwife
+    - clinical
+    - epidemiology
+    - social care
+    - medicine
+    - health assistant
+  Green Energy:
+    keywords:
+    - energy
+    - renewable
+    - sustainability
+    - sustainable
+    - environment
+    - environmental
+    - solar
+    - wind
+    - photovoltaic
+    - battery
+    - recycling
+    - climate
+    - carbon
+    - emissions
+    - green
+    - circular economy
+    - waste
+    - water
+    - bioenergy
+    - hydrogen
+    - efficiency
+    - ecological
+    - conservation
+    - pollution
+    - ESG
+    - biodiversity
+    - electric vehicle
+    - grid
+    - smart grid
+    - energy management
+    - environmental engineering
+    - clean energy
+    - decarbonization
+    - resource management
+    - impact
+  Education:
+    keywords:
+    - teacher
+    - education
+    - training
+    - learning
+    - school
+    - university
+    - curriculum
+    - pedagogy
+    - instructor
+    - tutor
+    - lecturer
+    - academic
+    - classroom
+    - assessment
+    - e-learning
+    - online learning
+    - course
+    - student
+    - teaching
+    - educational
+    - childcare
+    - kindergarten
+    - vocational
+    - coaching
+    - mentoring
+    - learning design
+    - instructional design
+    - special education
+    - language teaching
+    - mathematics
+    - science education
+    - adult learning
+    - education management
+    - skills training
+    - certification
+metrics:
+  top_n_skills: 50
+  top_n_candidates: 25
+  exclude_generic_skill_labels:
+  - use microsoft office
+  - assume responsibility
+  - communication
+  - communicate with customers
+  - cooperate with colleagues
+  - meet commitments
+  - work in teams
+  - recruit personnel
+  - recruit employees
+  - solve problems
+  - show initiative
+  - perform multiple tasks
+  - work independently
+  - build trust
+  - meet deadlines
+  - respect confidentiality
+  - maintain relationship
+  - manage personal professional development
+  - office software
+  - use presentation software
+  - write english
+  - english
+  - greek
+  - gender studies
+  - negotiate compromises
+  - assume responsibility for
+  - demonstrate willingness
+  domain_filter_min_records: 50
+  domain_filter_thresholds:
+    jobs: 0.15
+    profiles: 0.1
+    courses: 0.1
+  trend_recent_months: 3
+  relevance_weights:
+    demand: 0.45
+    shortage: 0.25
+    trend: 0.2
+    course_coverage: 0.1

@@ -1,0 +1,51 @@
+domain,skill_uri,skill_label,capability_family,demand_count,supply_count,course_count,demand_frequency,supply_frequency,course_frequency,gap_score,trend_score,relevance_index
+Education,http://data.europa.eu/esco/skill/23ac233d-84ad-4517-b0f5-8ca19ba2614e,monitor developments in field of expertise,monitoring developments in area of expertise,18,0,0,0.62069,0.0,0.0,0.62069,-0.313333,0.434483
+Education,http://data.europa.eu/esco/skill/8f6ed69b-29d0-4c01-81ba-f05920a185f3,digital curation,"library, information and archival studies",15,0,0,0.517241,0.0,0.0,0.517241,-0.313333,0.362069
+Education,http://data.europa.eu/esco/skill/345486f3-f265-4fc8-8ed0-5e96e768e333,process booking,entering and transforming information,5,0,0,0.172414,0.0,0.0,0.172414,0.188889,0.315134
+Education,http://data.europa.eu/esco/skill/0fe57279-53a8-478f-bcf9-dfe8172f0fb6,respond to inquiries in written form,developing professional relationships or networks,4,0,0,0.137931,0.0,0.0,0.137931,0.293333,0.296552
+Education,http://data.europa.eu/esco/skill/4b406514-b3ed-4906-a347-7ebe6be52450,sell tourist packages,selling products or services,4,0,0,0.137931,0.0,0.0,0.137931,0.313333,0.296552
+Education,http://data.europa.eu/esco/skill/18d39e12-b7f5-4426-8b84-afd3d43af20e,arrange bookings,performing general clerical and administrative tasks,4,0,0,0.137931,0.0,0.0,0.137931,0.293333,0.296552
+Education,http://data.europa.eu/esco/skill/fdc21239-053c-4b52-9bef-2bc2771a4939,make reservations,accompanying and welcoming people,4,0,0,0.137931,0.0,0.0,0.137931,0.293333,0.296552
+Education,http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7,crowdsourcing strategy,"finance, banking and insurance",12,0,0,0.413793,0.0,0.0,0.413793,-0.313333,0.289655
+Education,http://data.europa.eu/esco/skill/14832d87-2f2f-4895-b290-e4760ebae42a,solve technical problems,resolving computer problems,6,0,0,0.206897,0.0,0.0,0.206897,0.084444,0.28705
+Education,http://data.europa.eu/esco/skill/cfccea88-0558-40d4-b896-56a1e7993e24,climatology,earth sciences,4,3,0,0.137931,0.085714,0.0,0.052217,0.313333,0.275123
+Education,http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68,innovation processes,management and administration,11,0,0,0.37931,0.0,0.0,0.37931,-0.313333,0.265517
+Education,http://data.europa.eu/esco/skill/bdcac0c8-b77a-4640-9eaf-c0cf3efd1e23,process payments,executing financial transactions,8,0,0,0.275862,0.0,0.0,0.275862,-0.093333,0.246437
+Education,http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d,sales activities,wholesale and retail sales,10,0,0,0.344828,0.0,0.0,0.344828,-0.313333,0.241379
+Education,http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d,Python (computer programming),using digital tools for collaboration and productivity,2,7,13,0.068966,0.2,1.0,0.0,0.0,0.231034
+Education,http://data.europa.eu/esco/skill/b19e0820-a96f-4c0a-a724-3c056180c1b3,build team spirit,leading others,9,0,0,0.310345,0.0,0.0,0.310345,-0.313333,0.217241
+Education,http://data.europa.eu/esco/skill/68698869-c13c-4563-adc7-118b7644f45d,identify customer's needs,engaging with others to identify needs,8,0,0,0.275862,0.0,0.0,0.275862,-0.313333,0.193103
+Education,http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2,business requirements techniques,management and administration,3,0,2,0.103448,0.0,0.153846,0.103448,0.0,0.187798
+Education,http://data.europa.eu/esco/skill/c6c1af60-9594-460c-a328-00f9ad292be0,coaching techniques,inter-disciplinary programmes and qualifications involving education,8,1,0,0.275862,0.028571,0.0,0.247291,-0.313333,0.185961
+Education,http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42,coordinate security,maintaining and enforcing physical security,2,4,7,0.068966,0.114286,0.538462,0.0,0.0,0.184881
+Education,http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576,database,database and network design and administration,0,0,10,0.0,0.0,0.769231,0.0,0.0,0.176923
+Education,http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137,think analytically,"processing information, ideas and concepts",7,0,1,0.241379,0.0,0.076923,0.241379,-0.313333,0.176658
+Education,http://data.europa.eu/esco/skill/f130eab9-64a5-47f8-a63e-e4788aa935ce,market entry planning,marketing and advertising,3,0,0,0.103448,0.0,0.0,0.103448,0.0,0.172414
+Education,http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db,control production,planning production processes,3,0,0,0.103448,0.0,0.0,0.103448,0.0,0.172414
+Education,http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16,packaging functions,sociology and cultural studies,3,0,0,0.103448,0.0,0.0,0.103448,0.0,0.172414
+Education,http://data.europa.eu/esco/skill/2a2fa8e8-aaf3-4abf-a60b-af6415f1c6d4,strive for company growth,"developing financial, business or marketing plans",3,0,0,0.103448,0.0,0.0,0.103448,0.0,0.172414
+Education,http://data.europa.eu/esco/skill/2b69525c-731c-4813-99a7-673fa5679d32,provide customer guidance on product selection,advising on products and services,3,0,0,0.103448,0.0,0.0,0.103448,0.0,0.172414
+Education,http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81,analyse production processes for improvement,analysing business operations,3,0,0,0.103448,0.0,0.0,0.103448,0.0,0.172414
+Education,http://data.europa.eu/esco/skill/9013b46e-5a9b-4929-8918-fcadfdfd37ce,supervise daily information operations,directing operational activities,3,0,0,0.103448,0.0,0.0,0.103448,0.0,0.172414
+Education,http://data.europa.eu/esco/skill/d62d2b4c-a6f8-439e-8a1b-4f29ab5f2c47,make decisions,taking a proactive approach,2,0,3,0.068966,0.0,0.230769,0.068966,0.0,0.171353
+Education,http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b,provide user documentation,technical or academic writing,1,4,7,0.034483,0.114286,0.538462,0.0,0.0,0.169363
+Education,http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742,SQL,software and applications development and analysis,1,4,7,0.034483,0.114286,0.538462,0.0,0.0,0.169363
+Education,http://data.europa.eu/esco/skill/a15dab55-f1da-4f85-ae3e-2b5c5b5333ca,provide high quality customer service,selling products or services,7,0,0,0.241379,0.0,0.0,0.241379,-0.313333,0.168966
+Education,http://data.europa.eu/esco/skill/fef5a450-6230-4a34-b3e3-764252dbdcec,devise special promotions,"developing financial, business or marketing plans",3,1,0,0.103448,0.028571,0.0,0.074877,0.0,0.165271
+Education,http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de,data warehouse,database and network design and administration,1,0,5,0.034483,0.0,0.384615,0.034483,0.0,0.162599
+Education,http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700,data quality assessment,work skills,1,0,5,0.034483,0.0,0.384615,0.034483,0.0,0.162599
+Education,http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284,communicate with stakeholders,collaborating and liaising,1,0,5,0.034483,0.0,0.384615,0.034483,0.0,0.162599
+Education,http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5,data models,database and network design and administration,0,1,8,0.0,0.028571,0.615385,0.0,0.0,0.161538
+Education,http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72,integrate system components,setting up computer systems,2,0,1,0.068966,0.0,0.076923,0.068966,0.0,0.155968
+Education,http://data.europa.eu/esco/skill/633a3637-2c6b-40ae-ac38-289eb2a62aa6,business analysis,management and administration,2,0,1,0.068966,0.0,0.076923,0.068966,0.0,0.155968
+Education,http://data.europa.eu/esco/skill/f7e7ccb6-fadc-4c35-935d-e1040be40dfe,handle financial transactions,executing financial transactions,2,0,1,0.068966,0.0,0.076923,0.068966,0.0,0.155968
+Education,http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729,draft project documentation,technical or academic writing,2,0,1,0.068966,0.0,0.076923,0.068966,0.0,0.155968
+Education,http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639,data engineering,computer use,1,0,4,0.034483,0.0,0.307692,0.034483,0.0,0.154907
+Education,http://data.europa.eu/esco/skill/7935deb6-0bed-4e38-985e-1f83b8e16940,participate in training sessions,practising sports,1,0,4,0.034483,0.0,0.307692,0.034483,0.0,0.154907
+Education,http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333,use scripting programming,programming computer systems,0,0,7,0.0,0.0,0.538462,0.0,0.0,0.153846
+Education,http://data.europa.eu/esco/skill/677d5144-4c77-4f8d-afc7-116f4bc0e660,own management skills,management skills,6,0,1,0.206897,0.0,0.076923,0.206897,-0.313333,0.15252
+Education,http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77,production processes,"engineering, manufacturing and construction not elsewhere classified",6,0,1,0.206897,0.0,0.076923,0.206897,-0.313333,0.15252
+Education,http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92,address problems critically,developing solutions,2,0,0,0.068966,0.0,0.0,0.068966,0.0,0.148276
+Education,http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3,ensure products meet regulatory requirements,complying with operational procedures,2,0,0,0.068966,0.0,0.0,0.068966,0.0,0.148276
+Education,http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9,sales strategies,marketing and advertising,2,0,0,0.068966,0.0,0.0,0.068966,0.0,0.148276
+Education,http://data.europa.eu/esco/skill/f642d7ed-e8d7-4355-a747-b85094d4e2e3,prioritise requests,planning events and programmes,2,0,0,0.068966,0.0,0.0,0.068966,0.0,0.148276

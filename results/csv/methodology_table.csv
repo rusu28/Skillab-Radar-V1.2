@@ -1,0 +1,15 @@
+metric,formula,interpretation
+Demand frequency,skill job count / max skill job count in domain,Relative employer demand inside a domain.
+Supply frequency,skill profile count / max skill profile count in domain,Relative workforce supply inside a domain.
+Course frequency,skill course count / max skill course count in domain,Relative training coverage.
+Gap score,"max(0, demand_frequency - supply_frequency)",Skills demanded more than they are supplied.
+Trend score,0.6 * normalized monthly slope + 0.4 * recent-vs-early delta,Positive values indicate rising demand.
+Relevance index,0.45 demand + 0.25 shortage + 0.20 trend + 0.10 course coverage,Composite ranking used for domain skill priority.
+Training Misalignment Index,"demand_frequency * max(0, demand_frequency - course_frequency)",Demanded skills that courses do not cover enough.
+Future Risk Score,"max(0, trend_score) * max(0, gap_score)",Skills that are both rising and under-supplied.
+Candidate Readiness Index,0.75 normalized candidate score + 0.25 normalized matched skill count,Explainable readiness of a profile for a domain.
+Skill Shock Index,0.35 gap + 0.30 positive trend + 0.25 training gap + 0.10 cross-domain presence,"Future bottleneck risk across demand, supply, trend, and training response."
+Career Bridge Score,matched target-domain priority skill weight / total target-domain priority skill weight,How close a profile is to reskilling into another domain.
+Training ROI Priority,0.40 demand + 0.25 gap + 0.20 positive trend + 0.15 training gap,Where new or improved courses would likely have the highest labour-market value.
+Domain Opportunity Score,0.30 demand strength + 0.20 stability + 0.20 accessibility + 0.15 training support + 0.15 candidate fit,"API-only market attractiveness proxy, not real salary or income data."
+Domain Signal Scoreboard,"Per-domain max-normalized gap, trend, training, risk, and readiness signals",Compact cross-domain comparison for the dashboard.

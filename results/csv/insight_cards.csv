@@ -1,0 +1,21 @@
+domain,insight_type,headline,evidence,figure
+IT,skill gap,IT: strongest shortage signal is 'monitor developments in field of expertise'.,Gap score 0.583. Source: it_skill_gap.csv.,it_skill_gap.png
+IT,future risk,IT: 'identify customer's needs' is the top rising unmet skill.,Future risk score 0.000. Source: advanced_future_risk_quadrant.csv.,advanced_future_risk_quadrant.png
+IT,training alignment,IT: courses are least aligned for 'monitor developments in field of expertise'.,Training misalignment index 0.340. Source: advanced_training_alignment.csv.,advanced_training_alignment.png
+IT,candidate fit,IT: best anonymized candidate profile is 14.,Candidate readiness index 1.000. Source: advanced_candidate_readiness.csv.,
+Tourism,skill gap,Tourism: strongest shortage signal is 'sales activities'.,Gap score 0.527. Source: tourism_skill_gap.csv.,tourism_skill_gap.png
+Tourism,future risk,Tourism: 'sell tourist packages' is the top rising unmet skill.,Future risk score 0.027. Source: advanced_future_risk_quadrant.csv.,advanced_future_risk_quadrant.png
+Tourism,training alignment,Tourism: courses are least aligned for 'sales activities'.,Training misalignment index 0.293. Source: advanced_training_alignment.csv.,advanced_training_alignment.png
+Tourism,candidate fit,Tourism: best anonymized candidate profile is 1227.,Candidate readiness index 1.000. Source: advanced_candidate_readiness.csv.,
+Healthcare,skill gap,Healthcare: strongest shortage signal is 'monitor developments in field of expertise'.,Gap score 0.833. Source: healthcare_skill_gap.csv.,healthcare_skill_gap.png
+Healthcare,future risk,Healthcare: 'sell tourist packages' is the top rising unmet skill.,Future risk score 0.031. Source: advanced_future_risk_quadrant.csv.,advanced_future_risk_quadrant.png
+Healthcare,training alignment,Healthcare: courses are least aligned for 'monitor developments in field of expertise'.,Training misalignment index 0.694. Source: advanced_training_alignment.csv.,advanced_training_alignment.png
+Healthcare,candidate fit,Healthcare: best anonymized candidate profile is 646.,Candidate readiness index 1.000. Source: advanced_candidate_readiness.csv.,
+Green Energy,skill gap,Green Energy: strongest shortage signal is 'crowdsourcing strategy'.,Gap score 0.500. Source: green_energy_skill_gap.csv.,green_energy_skill_gap.png
+Green Energy,future risk,Green Energy: 'devise special promotions' is the top rising unmet skill.,Future risk score 0.000. Source: advanced_future_risk_quadrant.csv.,advanced_future_risk_quadrant.png
+Green Energy,training alignment,Green Energy: courses are least aligned for 'crowdsourcing strategy'.,Training misalignment index 0.250. Source: advanced_training_alignment.csv.,advanced_training_alignment.png
+Green Energy,candidate fit,Green Energy: best anonymized candidate profile is 596.,Candidate readiness index 1.000. Source: advanced_candidate_readiness.csv.,
+Education,skill gap,Education: strongest shortage signal is 'monitor developments in field of expertise'.,Gap score 0.621. Source: education_skill_gap.csv.,education_skill_gap.png
+Education,future risk,Education: 'sell tourist packages' is the top rising unmet skill.,Future risk score 0.043. Source: advanced_future_risk_quadrant.csv.,advanced_future_risk_quadrant.png
+Education,training alignment,Education: courses are least aligned for 'monitor developments in field of expertise'.,Training misalignment index 0.385. Source: advanced_training_alignment.csv.,advanced_training_alignment.png
+Education,candidate fit,Education: best anonymized candidate profile is 317.,Candidate readiness index 1.000. Source: advanced_candidate_readiness.csv.,

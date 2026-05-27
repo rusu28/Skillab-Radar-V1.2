@@ -1,0 +1,6 @@
+domain,relevance_rows,gap_rows,trend_rows,candidate_rows,duplicate_source_source_id,empty_skill_labels,zero_mention_trend_rows,top_rising_skill,top_rising_valid,generic_leakage_relevance,generic_leakage_gap,domain_filter_fallbacks
+IT,50,50,50,25,0,0,0,,False,0,0,
+Tourism,50,50,50,12,0,0,0,climatology,True,0,0,profiles
+Healthcare,50,50,50,3,0,0,0,sell tourist packages,True,0,0,
+Green Energy,50,50,50,20,0,0,0,,False,0,0,
+Education,50,50,50,13,0,0,0,sell tourist packages,True,0,0,

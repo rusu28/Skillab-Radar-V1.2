@@ -1,0 +1,51 @@
+domain,skill_uri,skill_label,capability_family,trend_score,trend_label,months_observed,total_monthly_mentions
+Healthcare,http://data.europa.eu/esco/skill/4b406514-b3ed-4906-a347-7ebe6be52450,sell tourist packages,selling products or services,0.184762,rising,6,4
+Healthcare,http://data.europa.eu/esco/skill/cfccea88-0558-40d4-b896-56a1e7993e24,climatology,earth sciences,0.184762,rising,6,4
+Healthcare,http://data.europa.eu/esco/skill/18d39e12-b7f5-4426-8b84-afd3d43af20e,arrange bookings,performing general clerical and administrative tasks,0.123175,rising,6,4
+Healthcare,http://data.europa.eu/esco/skill/0fe57279-53a8-478f-bcf9-dfe8172f0fb6,respond to inquiries in written form,developing professional relationships or networks,0.123175,rising,6,4
+Healthcare,http://data.europa.eu/esco/skill/345486f3-f265-4fc8-8ed0-5e96e768e333,process booking,entering and transforming information,0.050159,rising,6,5
+Healthcare,http://data.europa.eu/esco/skill/fdc21239-053c-4b52-9bef-2bc2771a4939,make reservations,accompanying and welcoming people,0.050159,rising,6,5
+Healthcare,http://data.europa.eu/esco/skill/f7e7ccb6-fadc-4c35-935d-e1040be40dfe,handle financial transactions,executing financial transactions,-0.022857,stable,6,6
+Healthcare,http://data.europa.eu/esco/skill/08e2ff26-88ff-47b5-9d37-d19ace01b075,manage feedback,following instructions and procedures,-0.022857,stable,6,6
+Healthcare,http://data.europa.eu/esco/skill/c6c1af60-9594-460c-a328-00f9ad292be0,coaching techniques,inter-disciplinary programmes and qualifications involving education,-0.022857,stable,6,6
+Healthcare,http://data.europa.eu/esco/skill/fef5a450-6230-4a34-b3e3-764252dbdcec,devise special promotions,"developing financial, business or marketing plans",-0.022857,stable,6,6
+Healthcare,http://data.europa.eu/esco/skill/14832d87-2f2f-4895-b290-e4760ebae42a,solve technical problems,resolving computer problems,-0.095873,cooling,6,7
+Healthcare,http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221,Agile development,software and applications development and analysis,-0.109524,cooling,6,3
+Healthcare,http://data.europa.eu/esco/skill/4339176e-3acd-4f7f-a5d9-445bee3d23f2,mathematics,mathematics,-0.109524,cooling,6,3
+Healthcare,http://data.europa.eu/esco/skill/ed1fbdc3-1071-423c-9bb4-e3288ca6d1fe,hardware components suppliers,wholesale and retail sales,-0.146032,cooling,6,4
+Healthcare,http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d,consult with business clients,collaborating and liaising,-0.153651,cooling,6,12
+Healthcare,http://data.europa.eu/esco/skill/bdcac0c8-b77a-4640-9eaf-c0cf3efd1e23,process payments,executing financial transactions,-0.166259,cooling,6,11
+Healthcare,http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead,SQL Server,database and network design and administration,-0.168889,cooling,6,4
+Healthcare,http://data.europa.eu/esco/skill/7bb5d9af-0a7e-48a7-a860-0e1ded0f6e75,design customer experiences,"creating artistic, visual or instructive materials",-0.18254,cooling,6,7
+Healthcare,http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389,Java (computer programming),using digital tools for collaboration and productivity,-0.188952,cooling,6,6
+Healthcare,http://data.europa.eu/esco/skill/8f6ed69b-29d0-4c01-81ba-f05920a185f3,digital curation,"library, information and archival studies",-0.219048,cooling,6,15
+Healthcare,http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137,think analytically,"processing information, ideas and concepts",-0.219048,cooling,6,14
+Healthcare,http://data.europa.eu/esco/skill/b19e0820-a96f-4c0a-a724-3c056180c1b3,build team spirit,leading others,-0.219048,cooling,6,11
+Healthcare,http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363,interact with users to gather requirements,engaging with others to identify needs,-0.219048,cooling,6,9
+Healthcare,http://data.europa.eu/esco/skill/2a0efd9a-4a60-4edc-8561-f2754d24eeb8,mathematical economics,economics,-0.219048,cooling,6,7
+Healthcare,http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d,sales activities,wholesale and retail sales,-0.219048,cooling,6,7
+Healthcare,http://data.europa.eu/esco/skill/a15dab55-f1da-4f85-ae3e-2b5c5b5333ca,provide high quality customer service,selling products or services,-0.219048,cooling,6,7
+Healthcare,http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16,packaging functions,sociology and cultural studies,-0.219048,cooling,6,7
+Healthcare,http://data.europa.eu/esco/skill/5c1e686c-92cc-4bd7-9f23-51f9d8a58886,customise guns,fabricating precision instruments or jewellery,-0.219048,cooling,6,7
+Healthcare,http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77,production processes,"engineering, manufacturing and construction not elsewhere classified",-0.219048,cooling,6,7
+Healthcare,http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352,achieve sales targets,selling products or services,-0.219048,cooling,6,6
+Healthcare,http://data.europa.eu/esco/skill/378caeec-10a0-4162-b75c-ab374a42e93d,e-procurement,wholesale and retail sales,-0.219048,cooling,6,6
+Healthcare,http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db,control production,planning production processes,-0.219048,cooling,6,6
+Healthcare,http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241,perform quality audits,management skills,-0.219048,cooling,6,6
+Healthcare,http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d,ensure compliance with company regulations,ensuring compliance with legislation,-0.219048,cooling,6,6
+Healthcare,http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14,improve business processes,developing operational policies and procedures,-0.219048,cooling,6,6
+Healthcare,http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284,communicate with stakeholders,collaborating and liaising,-0.219048,cooling,6,6
+Healthcare,http://data.europa.eu/esco/skill/c5bc42be-4970-4dce-80e2-af78bae42e84,manage maintenance operations,directing operational activities,-0.219048,cooling,6,6
+Healthcare,http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82,study a collection,conducting academic or market research,-0.219048,cooling,6,6
+Healthcare,http://data.europa.eu/esco/skill/7d9d73a8-08df-4624-a5df-95cb220c0736,cosmetics,hair and beauty services,-0.219048,cooling,6,5
+Healthcare,http://data.europa.eu/esco/skill/f7f56b20-8f05-4731-a1bf-79fdcffc72ce,check deliveries on receipt,executing financial transactions,-0.219048,cooling,6,5
+Healthcare,http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9,laboratory equipment,chemistry,-0.219048,cooling,6,5
+Healthcare,http://data.europa.eu/esco/skill/47ac9325-b072-4e37-8e40-e6ffed03e851,supervision of persons,management and administration,-0.219048,cooling,6,5
+Healthcare,http://data.europa.eu/esco/skill/677d5144-4c77-4f8d-afc7-116f4bc0e660,own management skills,management skills,-0.219048,cooling,6,5
+Healthcare,http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2,hygiene in a health care setting,occupational health and safety,-0.219048,cooling,6,5
+Healthcare,http://data.europa.eu/esco/skill/db9050db-ae5d-4be8-8114-c26f272c3bda,manage health and safety,complying with health and safety procedures,-0.219048,cooling,6,5
+Healthcare,http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8,pharmaceutical technology,pharmacy,-0.219048,cooling,6,5
+Healthcare,http://data.europa.eu/esco/skill/0e21e183-e787-4f23-a240-93b416c088c2,maintain personal hygiene standards,management skills,-0.219048,cooling,6,5
+Healthcare,http://data.europa.eu/esco/skill/fc3cdc2c-7b79-4b5c-a4b0-f3b996fef849,attend meetings,collaborating and liaising,-0.219048,cooling,6,5
+Healthcare,http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68,perform project management,"directing, supervising and coordinating projects",-0.219048,cooling,6,5
+Healthcare,http://data.europa.eu/esco/skill/0cb013af-6dd9-4fb2-b34e-63dda1a5cf82,operate cash register,executing financial transactions,-0.219048,cooling,6,4

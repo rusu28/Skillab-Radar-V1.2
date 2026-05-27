@@ -1,0 +1,1418 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "https://skillab-tracker.csd.auth.gr/api/courses",
+    "params": {
+      "page": 2,
+      "page_size": 300
+    },
+    "data": {
+      "keywords": [
+        "teacher",
+        "education",
+        "training",
+        "learning"
+      ],
+      "keywords_logic": "or"
+    }
+  },
+  "response": {
+    "items": [
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+          "http://data.europa.eu/esco/skill/8c4b7305-4b83-4586-9d42-2817f96c60ea",
+          "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+          "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+          "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+          "http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42"
+        ],
+        "id": 420,
+        "title": "Web Services and APIs",
+        "description": "Explore the differences between web services, APIs, and microservices. Develop REST and GraphQL APIs, and learn how to secure, consume, document, and test those APIs and web services.Overview\nFirst, meet your instructor Kesha and learn about the course. Then, learn a brief overview of web services and how they compare to APIs and microservices.\n REST APIs\nLearn how to build RESTful APIs with Spring Boot, first by learning about the REST architecture, then how to use annotations with REST controllers in Spring Boot.\n GraphQL APIs\nDive into GraphQL, a query language for APIs. GraphQL lets calling clients limit the data response to just what is needed.\n Microservices\nFind out how Microservices improve on the older monolithic application structure, including how to use Eureka and Spring Data REST for easy development and deployment.\n Security\nSecurity is key to keeping your information safe - here, you'll learn how to add security to your APIs to keep out unwanted eyes and avoid undesired changes.\n Consuming SOAP & REST\nEnable the consumption of SOAP and REST APIs within your own API to further speed up development time and avoid reinventing the wheel.\n Documentation\nLearn about the importance of documentation and easily implement it with the use of Swagger within your code.\n Unit & Integration Tests\nBuild unit and integration tests to give you confidence your application continues to work as intended after making new changes to your code.",
+        "last_updated": "2024-12-17",
+        "rating": 9.2,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/java-developer-nanodegree--nd035",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/java-developer-nanodegree--nd035_web_services_and_apis"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/10cade4f-df4d-4408-8924-5994976fc798",
+          "http://data.europa.eu/esco/skill/609a8ac1-9d29-4237-9886-596dbbe7ca8a"
+        ],
+        "id": 438,
+        "title": "Mastering Character Animation",
+        "description": "Explore the art of character animation, understanding the principles of movement, emotions, and storytelling while also learning about the creation of backgrounds, ensuring the setting complements the characters' narratives and enhances the overall visual experience. You will also learn camera techniques to frame shots effectively, mastering the art of visual composition and storytelling through camera angles and movements before moving on to exporting animations to various formats, ensuring compatibility across platforms. You will also get an introduction to digital video, learn about the key concepts and terms used in video editing, and explore the free video editing software DaVinci Resolve.Character Animation\nThrough careful attention to detail and the use of fundamental principles, create believable and dynamic character movements, capturing the essence of personality and storytelling.\n Backgrounds, Camera, and Environments\nLearn how to navigate backgrounds and environments by strategically positioning and moving the camera to convey emotions, highlight important details and guide the audience's attention.\n Exporting and Embedding Digital Animation\nExplore various formats for exporting animated sequences and show the world your creativity by embedding your animation in presentations, social media, and other online spaces.",
+        "last_updated": "2024-12-17",
+        "rating": null,
+        "price": 56.5,
+        "url": "https://www.udacity.com/course/2D-animation-and-video-editing--nd002-digitalarts",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/2D-animation-and-video-editing--nd002-digitalarts_mastering_character_animation"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/b758675a-b03b-4e4b-897c-57ca14b1a3d0"
+        ],
+        "id": 448,
+        "title": "Discover Software",
+        "description": "In this course, you will gain practical skills in software applications, explore word processing with Google Docs, delve into artificial intelligence using Google Translate, master logic and programming with Blockly, and learn digital media encoding with Python. You will also enhance your proficiency in these tools and unlock new possibilities for success in the world of softwareExploring Software-Word Processing with Google Docs\nThis lesson covers the basic components of computer software and files while introducing you to Google Docs.\n Exploring Software-Artificial Intelligence with Google Translate\nThis lesson discusses the uses of artificial intelligence and how it works. You are introduced to the concepts of probability and prediction while learning how to use Google Translate.\n Exploring Logic and Programming-Programming with Blockly\nIn this lesson, you will explore block-based programming using Blockly. You will be introduced to the concepts of sequencing, selection, and loops, and you will end by creating a Blockly program.",
+        "last_updated": "2024-12-17",
+        "rating": null,
+        "price": 32.29,
+        "url": "https://www.udacity.com/course/computer-literacy--nd001-comp-literacy",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/computer-literacy--nd001-comp-literacy_discover_software"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+          "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb",
+          "http://data.europa.eu/esco/skill/36ff57b0-637d-4a83-a0e8-d14f86f9f078",
+          "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01"
+        ],
+        "id": 453,
+        "title": "Discover Data and Presentation Software",
+        "description": "In this course, you will explore the fundamentals of software spreadsheets and data science, learning how to organize and analyze data effectively.Exploring Software-Spreadsheets and Data Science\nDiscover data science via spreadsheets: Collect, structure, visualize, and analyze data to uncover insights and patterns.",
+        "last_updated": "2024-12-17",
+        "rating": null,
+        "price": 32.29,
+        "url": "https://www.udacity.com/course/computer-literacy--nd001-comp-literacy",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/computer-literacy--nd001-comp-literacy_discover_data_and_presentation_software"
+      },
+      {
+        "skills": [],
+        "id": 463,
+        "title": "Google Cloud: AI Fundamentals",
+        "description": "Unlock the power of artificial intelligence on GCP. Build machine learning models with Vertex AI, analyze language data, and harness the creativity of generative AI.",
+        "last_updated": "2024-12-10",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/google-cloud-AI-fundamentals--cd13366",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/google-cloud-AI-fundamentals--cd13366_google_cloud:_ai_fundamentals"
+      },
+      {
+        "skills": [],
+        "id": 466,
+        "title": "Convolutional Neural Networks",
+        "description": "This course introduces Convolutional Neural Networks, the most widely used type of neural networks specialized in image processing. You will learn the main characteristics of CNNs that make them so useful for image processing, their inner workings, and how to build them from scratch to complete image classification tasks. You will learn what are the most successful CNN architectures, and what are their main characteristics. You will apply these architectures to custom datasets using transfer learning. You will also learn about autoencoders, a very important architecture at the basis of many modern CNNs, and how to use them for anomaly detection as well as image denoising. Finally, you will learn how to use CNNs for object detection and semantic segmentation.",
+        "last_updated": "2024-12-03",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/convolutional-neural-networks--cd1821",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/convolutional-neural-networks--cd1821_convolutional_neural_networks"
+      },
+      {
+        "skills": [],
+        "id": 477,
+        "title": "Building a Reproducible Model Workflow",
+        "description": "This course empowers the students to be more efficient, effective, and productive in modern, real-world ML projects by adopting best practices around reproducible workflows. In particular, it teaches the fundamentals of MLops and how to: a) create a clean, organized, reproducible, end-to-end machine learning pipeline from scratch using MLflow b) clean and validate the data using pytest c) track experiments, code, and results using GitHub and Weights & Biases d) select the best-performing model for production and e) deploy a model using MLflow. Along the way, it also touches on other technologies like Kubernetes, Kubeflow, and Great Expectations and how they relate to the content of the class.",
+        "last_updated": "2024-11-21",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/building-a-reproducible-model-workflow--cd0581",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/building-a-reproducible-model-workflow--cd0581_building_a_reproducible_model_workflow"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a"
+        ],
+        "id": 483,
+        "title": "Reinforcement Learning",
+        "description": "In this course, learners will explore how to design, backtest, and optimize a working reinforcement-based ML trading strategy. This course will introduce popular techniques and indicators used in reinforcement learning-based trading, such as Q-learning, PCA, use of market indicators, assessment of market context, and assessment of the strategy outcomes. This course is designed for hobby traders with a background in data science. By the end of this course, you will be able to build, train, backtest, and optimize a reinforcement learning trading strategy with Python.",
+        "last_updated": "2024-11-17",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/reinforcement-learning--cd13651",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/reinforcement-learning--cd13651_reinforcement_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604",
+          "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+          "http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080"
+        ],
+        "id": 490,
+        "title": "Deep Learning Topics with Computer Vision and NLP",
+        "description": "In this course you will learn how to train, finetune and deploy deep learning models using Amazon SageMaker. You’ll begin by learning what deep learning is, where it is used, and the tools used by deep learning engineers. Next we will learn about artificial neurons and neural networks and how to train them. After that we will learn about advanced neural network architectures like Convolutional Neural Networks and BERT as well as how to finetune them for specific tasks. Finally, you will learn about Amazon SageMaker and you will take everything you learned and do them in SageMaker Studio.",
+        "last_updated": "2024-11-12",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/deep-learning-topics-with-computer-vision-and-nlp--cd0387",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/deep-learning-topics-with-computer-vision-and-nlp--cd0387_deep_learning_topics_with_computer_vision_and_nlp"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+          "http://data.europa.eu/esco/skill/dbc538a0-7d1d-4394-b2f6-8fae44a55d86",
+          "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2"
+        ],
+        "id": 494,
+        "title": "AI for Business Leaders",
+        "description": "The AI for Business Leaders program is designed for those looking to deepen their understanding of Artificial Intelligence and the innovations in the field of Machine Learning that have driven its recent progress. The program is designed to arm students with a deep but approachable knowledge of how these systems work and what it takes to implement them. Throughout the program, we’ll follow a fictitious retailer to gain practice in making discriminating judgments on what AI use cases might be best for a given business at a given point in time. In the final project, students will replicate this experience, and formulate a cohesive AI strategy for a fictitious organization.The Paradigm Shift\nWe’ll begin studying machine learning and artificial intelligence. You’ll develop an understanding of their potential and the language to talk about AI and ML with your team, and build your first model!\n The Math Behind The Magic\nThis lesson will take a deeper dive into AI and ML techniques using a data-first perspective. We’ll also explore the mathematical underpinnings of how ML models learn.\n Architectures of AI Systems\nThis lesson focuses on capabilities and architectures commonly used in ML/AI systems, and develops student skills with building these architectures, including the data, capabilities, and user layers.\n Working with Data\nMachine Learning is a data-hungry process. In this lesson, we’ll talk about some of the more operational elements of building ML and AI systems, namely data labeling and infrastructure management.\n Accuracy, Bias, and Ethics\nWhat does it mean for a model to be useful? In this lesson, we’ll explore topics like accuracy and precision as well as model overfit and underfit, to figure out ways to assess a model’s usefulness.\n Gathering Feedback\nBuilding support for an AI/Machine Learning project is an important part of the journey. We’ll talk about best practices for clearly understanding the priorities of your business and communicating how AI/ML can help to advance them.\n Thinking Bigger\nMany times, progress with ML/AI requires a business to execute several projects in parallel. In this lesson, we’ll talk about how to bring use cases together to form a greater whole.",
+        "last_updated": "2024-11-06",
+        "rating": 9.0,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/ai-for-business-leaders--nd054",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-for-business-leaders--nd054_ai_for_business_leaders"
+      },
+      {
+        "skills": [],
+        "id": 495,
+        "title": "Introduction to Deep Learning",
+        "description": "This course covers foundational deep learning theory and practice. We begin with how to think about deep learning and when it is the right tool to use. The course covers the fundamental algorithms of deep learning, deep learning architecture and goals, and interweaves the theory with implementation in PyTorch.",
+        "last_updated": "2024-11-05",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/introduction-to-deep-learning--cd1818",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/introduction-to-deep-learning--cd1818_introduction_to_deep_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79",
+          "http://data.europa.eu/esco/skill/457c2e47-07e6-4073-827e-e1c21f3e5869"
+        ],
+        "id": 496,
+        "title": "Introduction to Machine Learning",
+        "description": "Gain foundational machine learning expertise using AWS SageMaker, from data preparation and exploratory analysis to deploying powerful models like XGBoost and AutoGluon. Covering the entire ML workflow, including feature engineering, model tuning, and evaluation, you'll gain practical experience with real-world data projects. Designed for those familiar with Python and data science basics, the curriculum equips you to handle diverse ML tasks confidently and effectively, making it ideal for anyone looking to apply machine learning in various professional and industry settings.",
+        "last_updated": "2024-11-05",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/introduction-to-machine-learning--cd0385",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/introduction-to-machine-learning--cd0385_introduction_to_machine_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/a44c0ed6-68b1-457a-9c6d-ea8487bdfeb2"
+        ],
+        "id": 497,
+        "title": "Develop and Deploy Serverless Apps",
+        "description": "Serverless technologies have become very popular recently because they can increase the speed of development and drastically reduce the cost of running a cloud infrastructure. This course combines the theory of using serverless technologies with the practice of developing a complex serverless application and focuses on learning by doing. You will learn advanced serverless features such as implementing WebSockets and stream processing and learn about serverless best practices throughout the course.",
+        "last_updated": "2024-11-05",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/develop-and-deploy-serverless-apps--cd12101",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/develop-and-deploy-serverless-apps--cd12101_develop_and_deploy_serverless_apps"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+          "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01"
+        ],
+        "id": 499,
+        "title": "Data Science for Business Leaders",
+        "description": "The goal of the Data Science for Business Leaders Executive Program is to equip learners with the understanding of strategic, human capital, and technical requirements that power the ability of data science to deliver enhanced business outcomes, as well as the strategic execution skills to develop an organizational data science strategy that unlocks this potential. This program focuses on the unique knowledge and skills that business leaders need to unlock the value of data in their organizations, or enable a more data-driven department/organization that leverages data to inform strategic decisions for business operational improvement and growth.Introduction to Data Science for Business Leaders\nIn this lesson, you'll meet your instructor and learn about what this course is going to cover.\n Principles of Data Science\nIn this lesson, you'll learn about the principles of data science to help you build a solid foundation.\n The Business Case for Data Science\nIn this lesson, you'll learn why data science is vital for any business and how to make the case for a solid business case to others.\n Human Capital of Data Science\nIn this lesson you'll learn how to build a data driven culture and team.\n Data and Machine Learning Infrastructure\nIn this lesson you'll learn about creating a strategy around Data and Machine Learning Infrastructure.",
+        "last_updated": "2024-11-05",
+        "rating": 8.8,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/data-science-for-business-leaders--nd045",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-science-for-business-leaders--nd045_data_science_for_business_leaders"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/449d119b-2d66-43a9-9230-7d27f16afbb6",
+          "http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a",
+          "http://data.europa.eu/esco/skill/ce26e71f-2d47-474e-89b6-7920931ac4fc",
+          "http://data.europa.eu/esco/skill/eee58e6d-4587-42f0-b9a0-fe055cfe2044",
+          "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e"
+        ],
+        "id": 501,
+        "title": "iOS User Interfaces with Swift UI",
+        "description": "In this course you will start using SwiftUI and Xcode to develop user interfaces for iOS! You'll start by learning the fundamentals of UI design and explore the common design patters in iOS apps. Next, you'll install Xcode on your local machine and start creating views and hierarchies. You'll learn how interaction works in iOS apps deploy interactive components including buttons, forms, gestures and animations. After that, you'll take a deep dive into app navigation using stack navigation, tab navigation, and split view navigation. The course will conclude with a fun project where you'll create an event countdown app.Developing User Interfaces for iOS\nIn this lesson, you will learn about the relationship between UX and UI, study iOS design patterns, and explore the primary navigation, display and interactive components in iOS apps.\n SwiftUI and Xcode\nThis lesson covers SwiftUI and Xcode basics. Once you have Xcode set up, you'll jump right into building views and hierarchies for your iOS apps!\n Interactive SwiftUI Apps\nIn this lesson you'll learn add interactivity to your iOS apps with buttons, forms, gestures, and animations to make your app easier and more fun to use.\n App Navigation\nNavigation is an important part of any app. In this lesson, you'll learn how to implement common iOS navigation patterns including stack navigation, tab navigation and split view navigation.",
+        "last_updated": "2024-11-05",
+        "rating": 9.2,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/ios-developer-nanodegree--nd003",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ios-developer-nanodegree--nd003_ios_user_interfaces_with_swift_ui"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/020918ef-4b55-47c1-8430-ab7b8f6a7377",
+          "http://data.europa.eu/esco/skill/b483124c-180c-4d3a-8b7c-72e4e7a5b49b",
+          "http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a",
+          "http://data.europa.eu/esco/skill/ce26e71f-2d47-474e-89b6-7920931ac4fc",
+          "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+          "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5"
+        ],
+        "id": 502,
+        "title": "iOS Application Data with SwiftData",
+        "description": "In this course, you'll master data management and persistence in iOS 17+ using Swift, SwiftUI, and SwiftData. You will start with the basics of creating views and managing state with @State, @Binding, and @EnvironmentObject. As you progress, you'll learn to define data models and schemas, implement CRUD operations, and manage related data. Advanced topics include data migrations for managing data models. Through hands-on exercises and real-world examples, you'll build several data-driven iOS applications.State Management in iOS\nMaster basic iOS state management and data persistence: Understand @State, @Observable, data structures, UI updates, and persisting data.\n Data Persistence with SwiftData\nDive into the essentials of SwiftData for iOS, learning about model management, data operations, queries, and optimizing data persistence strategies.\n SwiftData Model Relationships\nExplore SwiftData's model relationships, including one-to-one, one-to-many, and many-to-many relationships, and learn to create, query, and delete related data.\n SwiftData Schema Updates and Migration\nExplore SwiftData database migrations, schema updates, and how to manage data model changes without losing data through practical examples.",
+        "last_updated": "2024-11-05",
+        "rating": 9.2,
+        "price": 45.2,
+        "url": "https://www.udacity.com/course/ios-developer-nanodegree--nd003",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ios-developer-nanodegree--nd003_ios_application_data_with_swiftdata"
+      },
+      {
+        "skills": [],
+        "id": 505,
+        "title": "Freelancing 101 and Preparing to Market Yourself",
+        "description": "This course steps you through the basics of digital freelancing and what you need to know to be a successful freelancer, including how and where to market yourself and your skills and set yourself apart.Introduction to Freelancing 101 and Preparing to Market Yourself\nDive into your Freelancing Journey by learning about when digital freelancing became popular, the stakeholders in your freelancing business, and when digital freelancing could be beneficial for you!\n Fundamentals of Digital Freelancing\nGo further in this lesson by connecting your motivations, needs, and goals together! By the end of this lesson, you will have a clear map of goals for the next five years.\n Marketing Strategies to Set Yourself Apart\nCraft your business identity while leveraging your personality in this lesson! You'll find your strengths and use them when showcasing your best self in writing and images!\n Building a Professional Social Media Presence\nFocus communication on professional networking by using all the skills you've gained thus far! By the end of this lesson, you will grow your social media and apply a few best practices!\n Developing Your Website\nDevelop a professional website in this lesson by combining all of your skills and exercise solutions thus far. You'll have built the first page of your portfolio website by the end of this lesson.",
+        "last_updated": "2024-11-05",
+        "rating": 9.4,
+        "price": 113.0,
+        "url": "https://www.udacity.com/course/digital-freelancer-nanodegree--nd083",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/digital-freelancer-nanodegree--nd083_freelancing_101_and_preparing_to_market_yourself"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+          "http://data.europa.eu/esco/skill/426c1016-5a78-4357-9734-9cf5127d4fb7",
+          "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+          "http://data.europa.eu/esco/skill/f75b740c-b36c-495e-bc67-efe347bbc6b5",
+          "http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42",
+          "http://data.europa.eu/esco/skill/fb3bc9b5-2297-4bba-85b1-60f696a92db8"
+        ],
+        "id": 507,
+        "title": "Cloud Computing for Business Leaders",
+        "description": "Empower your organization to harness the full potential of cloud computing. As a business leader, you will gain critical insights to strategically implement cloud technologies that streamline operations, reduce costs, and fuel innovation. With practical guidance on optimizing workflows and fostering a cloud-native mindset, you’ll gain the tools to transform your department into an agile, scalable powerhouse. Whether aiming for growth or improved efficiency, this program helps you understand how to leverage cloud systems effectively, align teams, and build a future-ready infrastructure tailored to business success.Welcome to Cloud Computing for Business Leaders\nWe'll define what cloud computing is, the wide variety of stakeholders that are affected, and look at some of the major events in recent history that brought us to where we are today.\n Introduction and Business Case for Cloud Computing\nWe will look at the basics of the cloud, deployment models, and service types, as well as how to go beyond traditional TCO and ROI to evaluate better and align your migration strategies.\n Organizational Capability Building\nPeople, processes, and cultural changes are needed to operate well in the cloud. See the power of virtual team structures like the CCoE and redefined mindsets such as DevSecOps and FinOps.\n Cloud Governance Model\nHow to establish governance at enterprise scale with regards to cost management, security, and compliance using hierarchies, guardrails, and policies.\n Cloud Innovation and Futures\nHow to harness the power of innovation as part of your cloud strategy using leading-edge technologies such as blockchain, containers, serverless, IoT, machine learning, and edge computing.",
+        "last_updated": "2024-11-05",
+        "rating": 9.6,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/cloud-computing-for-business-leaders-nanodegree--nd046",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/cloud-computing-for-business-leaders-nanodegree--nd046_cloud_computing_for_business_leaders"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "id": 508,
+        "title": "Introduction to SQL",
+        "description": "SQL is one of the most versatile tools available for extracting insights from stored data. Learn how to execute core SQL commands to define, select, manipulate, control access, aggregate, and join data and data tables. Understand when and how to use subqueries, several window functions, and partitions to complete complex tasks. Clean data, optimize SQL queries and write select advanced JOINs to enhance analysis performance, explain which cases you would want to use particular SQL commands, and apply the results from queries to address business problems.Course Overview\n Basic SQL\nIn this section, you will gain knowledge about SQL basics for working with a single table. You will learn the key commands to filter a table in many different ways.\n SQL Joins\nIn this lesson, you will learn how to combine data from multiple tables together.\n SQL Aggregations\nIn this lesson, you will learn how to aggregate data using SQL functions\n SQL Subqueries & Temporary Tables\nIn this lesson, you will learn about subqueries, a fundamental advanced SQL topic. This lesson will walk you through the appropriate applications of subqueries, the different types of subqueries, and review subquery syntax and examples.\n SQL Data Cleaning\nCleaning data is an important part of the data analysis process. You will be learning how to perform data cleaning using SQL in this lesson.\n SQL Window Functions\nWindow functions allow users to compare one row to another without doing any joins using one of the most powerful concepts in SQL data analysis.\n SQL Advanced JOINS & Performance Tuning\nLearn advanced joins and how to make queries that run quickly across giant datasets. Most of the examples in the lesson involve edge cases, some of which come up in interviews.\n Congratulations",
+        "last_updated": "2024-11-05",
+        "rating": 9.2,
+        "price": 113.0,
+        "url": "https://www.udacity.com/course/learn-sql--nd072",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/learn-sql--nd072_introduction_to_sql"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+          "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+          "http://data.europa.eu/esco/skill/906d21c9-7a9c-4919-817d-10676f9ddfe4",
+          "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+          "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5"
+        ],
+        "id": 509,
+        "title": "Management of Relational and Non-relational Databases",
+        "description": "Databases need to be structured properly to enable efficient and effective querying and analysis of data. Build normalized, consistent, and performant relational data models. Use SQL Database Definition Language (DDL) to create the data schemas designed in Postgres and apply SQL Database Manipulation Language (DML) to migrate data from a denormalized schema to a normalized one. Understand the tradeoffs between relational databases and their non-relational counterparts, and justify which one is best for different scenarios. With a radical shift of paradigms, learn about MongoDB and Redis to get an understanding of the differences in behaviors and requirements for non-relational databases.Intro to DBMS: Relational and Non-Relational Databases\nGet introduced to database management systems, as well as learning the difference between relational and non-relational databases.\n Normalizing Data\nFind out about the different forms of normalized data for optimizing database storage.\n Data Definition Language (DDL)\nLearn about the data definition language, such as creating tables and different data types.\n Data Manipulation Language (DML)\nDive into the data manipulation language in order to alter existing tables and data.\n Consistency with Constraints\nFind out how to keep consistency amongst your data by adding constraints.\n Performance with Indexes\nMaximize your database performance by using indexes when and where appropriate.\n Intro to Non-Relational Databases\nWith your relational database skills in hand, you’re ready for a look into the other side of data, with non-relational databases.",
+        "last_updated": "2024-11-05",
+        "rating": 9.2,
+        "price": 113.0,
+        "url": "https://www.udacity.com/course/learn-sql--nd072",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/learn-sql--nd072_management_of_relational_and_non-relational_databases"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378"
+        ],
+        "id": 511,
+        "title": "How to Use ChatGPT",
+        "description": "This learning experience will guide you through using ChatGPT, a large language model developed by OpenAI. You'll gain in-depth knowledge of the underlying technology that powers ChatGPT and master the art of prompt design while exploring its capabilities, limitations, and training. Whether you're a digital professional, AI enthusiast, or an aspiring AI practitioner, this course equips you with the skills to craft effective prompts, generate high-quality responses, and interpret the outputs of the model. Through industry-relevant hands-on practice, you'll learn to harness ChatGPT's conversational AI capabilities to generate content, analyze data, and create nuanced AI tools.",
+        "last_updated": "2024-11-01",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/how-to-use-chatgpt--cd13054",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/how-to-use-chatgpt--cd13054_how_to_use_chatgpt"
+      },
+      {
+        "skills": [],
+        "id": 517,
+        "title": "Supervised Learning",
+        "description": "In this course, you'll learn about different types of supervised learning and how to use them to solve real-world problems.",
+        "last_updated": "2024-10-26",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/supervised-machine-learning--cd0025",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/supervised-machine-learning--cd0025_supervised_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389"
+        ],
+        "id": 519,
+        "title": "Advanced Data Analysis with Power BI",
+        "description": "Using Power BI, the overarching goal of the course is to help students become effective at the process of retrieving, analyzing, and visualizing data in order to answer questions and draw conclusions. After learning about descriptive and inferential statistics, histograms, linear regression, and the concepts of correlation and probability, the course moves into M, the language of Power Query to build custom formulas as part of the data transformation process. Students then learn the language of DAX to analyze data. The final lesson of the course goes through a number of visualizations in Power BI and explores how those visuals may be used, edited, or enhanced to effectively relay information to an audience.",
+        "last_updated": "2024-10-25",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/advanced-data-analysis-with-power-bi--cd0014",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/advanced-data-analysis-with-power-bi--cd0014_advanced_data_analysis_with_power_bi"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3cb69f14-c297-474a-8950-5e7af4da0049",
+          "http://data.europa.eu/esco/skill/457c2e47-07e6-4073-827e-e1c21f3e5869",
+          "http://data.europa.eu/esco/skill/4a460161-eaea-4fe2-bd0e-164ccc635be1",
+          "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+          "http://data.europa.eu/esco/skill/7935deb6-0bed-4e38-985e-1f83b8e16940",
+          "http://data.europa.eu/esco/skill/d62d2b4c-a6f8-439e-8a1b-4f29ab5f2c47",
+          "http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a"
+        ],
+        "id": 522,
+        "title": "AI Algorithms in Trading",
+        "description": "Learn how to analyze alternative data and use machine learning to generate trading signals. Run a backtest to evaluate and combine top performing signals.Welcome To Term II\nWelcome to Term 2! Say hello to your instructors and get an overview of the program.\n Intro to Natural Language Processing\nLearn how to build a Natural Language Processing pipeline.\n Text Processing\nLearn to prepare text obtained from different sources for further processing, by cleaning, normalizing and splitting it into individual words or tokens.\n Feature Extraction\nTransform text using methods like Bag-of-Words, TF-IDF, Word2Vec and GloVE to extract features that you can use in machine learning models.\n Financial Statements\nLearn how to scrape data from financial documents using Regular Expressions and BeautifulSoup\n Basic NLP Analysis\nLearn how to apply to NLP to financial statements\n Project 5: NLP on Financial Statements\nNLP Analysis on 10-k financial statements to generate an alpha factor.\n Introduction to Neural Networks\nIn this lesson, Luis will teach you the foundations of deep learning and neural networks. You'll also implement gradient descent and backpropagation in python, right here in the classroom!\n Training Neural Networks\nNow that you know what neural networks are, in this lesson you will learn several techniques to improve their training.\n Deep Learning with PyTorch\nLearn how to use PyTorch for building deep learning models\n Recurrent Neural Networks\nLearn how to use recurrent neural networks to learn from sequential data such as text. Build a network that can generate realistic text one letter at a time.\n Embeddings & Word2Vec\nIn this lesson, you'll learn about embeddings in neural networks by implementing the Word2Vec model.\n Sentiment Prediction RNN\nImplement a sentiment prediction RNN for predicting whether a movie review is positive or negative!\n Project 6: Sentiment Analysis with Neural Networks\nBuild a deep learning model to classify the sentiment of messages.\n Overview\nLearn about machine learning from a bird's-eye-view.\n Decision Trees\nDecision trees are a structure for decision-making where each decision leads to a set of consequences or additional decisions.\n Model Testing and Evaluation\nLearn about metrics to evaluate models and about how to avoid over- and underfitting.\n Random Forests\nLearn about random forest models and how to use them to combine alpha factors.\n Feature Engineering\nLearn to engineer features such as market dispersion, market volatility, sector and date parts. Also learn to engineer targets (labels) that are robust to market changes over time.\n Overlapping Labels\nLearn about an issue with non-independent labels that comes up during alpha combination with machine learning models.\n Feature Importance\nFeature importance helps us decide how relevant each feature is to a machine learning model's predictions. Learn about two methods for calculating feature importance.\n Project 7: Combining Signals for Enhanced Alpha\nBuild a random forest to generate better alpha.\n Intro to Backtesting\nBacktesting helps you determine whether or not your strategies can be generalizable to future unseen data.\n Optimization with Transaction Costs\nLearn about how to make the portfolio optimization in a backtest more realistic, and also more computationally efficient.\n Attribution\nUse performance attribution to determine how each factor contributed to the portfolio's results.",
+        "last_updated": "2024-10-08",
+        "rating": 9.2,
+        "price": null,
+        "url": "https://www.udacity.com/course/ai-for-trading--nd880",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-for-trading--nd880_ai_algorithms_in_trading"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/d62d2b4c-a6f8-439e-8a1b-4f29ab5f2c47"
+        ],
+        "id": 527,
+        "title": "Machine Learning (Optional)",
+        "description": "Linear Regression\nLinear regression is a very effective algorithm to predict numerical data.\n Naive Bayes\nNaive Bayesian Algorithms are powerful tools for creating classifiers for incoming labeled data.\n Clustering\nClustering is one of the most common methods of unsupervised learning. Here, we'll discuss the K-means clustering algorithm.\n Decision Trees\nDecision trees are a structure for decision-making where each decision leads to a set of consequences or additional decisions.",
+        "last_updated": "2024-10-08",
+        "rating": 9.2,
+        "price": null,
+        "url": "https://www.udacity.com/course/ai-for-trading--nd880",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-for-trading--nd880_machine_learning_(optional)"
+      },
+      {
+        "skills": [],
+        "id": 528,
+        "title": "Deep Learning (Optional)",
+        "description": "",
+        "last_updated": "2024-10-08",
+        "rating": 9.2,
+        "price": null,
+        "url": "https://www.udacity.com/course/ai-for-trading--nd880",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-for-trading--nd880_deep_learning_(optional)"
+      },
+      {
+        "skills": [],
+        "id": 533,
+        "title": "Value-Based Methods",
+        "description": "Apply deep learning architectures to reinforcement learning tasks. Train your own agent that navigates a virtual world from sensory data.",
+        "last_updated": "2024-10-07",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/value-based-methods--cd0373",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/value-based-methods--cd0373_value-based_methods"
+      },
+      {
+        "skills": [],
+        "id": 537,
+        "title": "Small Datasets in Machine Learning",
+        "description": "This learning journey is designed to provide a comprehensive understanding of machine learning models and techniques specifically tailored for small datasets. You'll learn how to effectively utilize small datasets to build powerful models while avoiding common pitfalls associated with data scarcity. We'll cover methodologies and practical applications, allowing you to develop a strong foundation in machine learning techniques that apply to small dataset problems so you can successfully apply these techniques in your projects.",
+        "last_updated": "2024-10-06",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/small-data--cd12528",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/small-data--cd12528_small_datasets_in_machine_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/be64bb4c-84ac-4c83-8cc7-fc8593e15136",
+          "http://data.europa.eu/esco/skill/f3c5fae0-c0e3-4410-bc09-62bd82d4cecc"
+        ],
+        "id": 539,
+        "title": "AI for Accessibility",
+        "description": "This course is for anyone who is interested in learning more about AI and accessibility. AI technologies are proliferating, and they have the potential to be of great use to people with disabilities or to be highly exclusionary of disabled people. In this course, we’ll discuss the beneficial and problematic characteristics of different AI technologies that exist today. We will also cover the critical things to consider when building AI technologies to be inclusive of and useful for people with disabilities.",
+        "last_updated": "2024-10-03",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/ai-for-accessibility--cd13731",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-for-accessibility--cd13731_ai_for_accessibility"
+      },
+      {
+        "skills": [],
+        "id": 541,
+        "title": "Advanced Computer Vision and Deep Learning",
+        "description": "Learn to apply deep learning architectures to computer vision tasks. Discover how to combine CNN and RNN networks to build an automatic image captioning application.",
+        "last_updated": "2024-10-03",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/advanced-computer-vision-and-deep-learning--cd0361",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/advanced-computer-vision-and-deep-learning--cd0361_advanced_computer_vision_and_deep_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec"
+        ],
+        "id": 545,
+        "title": "Building Computer Vision Solutions with Azure",
+        "description": "This course is designed for anyone who would like to use computer vision technology in their application to solve a business problem. You will begin by learning what computer vision is and its business use cases through real-life business use cases. You will then learn to create solutions using different types of vision-based Azure Cognitive Services, including Azure Form Recognizer for text extraction, Azure Face and Video Analyzer for facial detection and recognition, and Azure Computer Vision and Custom Vision for image classification and object detection. Finally, you will learn and apply the deployment and monitoring tools to ensure that your solution is complete and runs smoothly.",
+        "last_updated": "2024-09-30",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/building-computer-vision-solutions-with-azure--cd0461",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/building-computer-vision-solutions-with-azure--cd0461_building_computer_vision_solutions_with_azure"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2"
+        ],
+        "id": 549,
+        "title": "Leveraging Data with AI",
+        "description": "This course is for product managers who want to build AI products. It does not require any prior familiarity with AI. You'll start by learning how AI can be applied, the different types of AI, data needs for AI, and the AI product lifecycle. Then, you'll dive deeper into two types of AI that can leverage existing datasets: personalization and forecasting. You'll learn some technical details about how these models work and how to evaluate them, and practice what you've learned with hands-on exercises. Finally, you'll pull this all together into a project where you'll develop a PRD for an AI-enabled gift recommendation system in an e-commerce setting.",
+        "last_updated": "2024-09-11",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/leveraging-data-with-AI--cd13580",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/leveraging-data-with-AI--cd13580_leveraging_data_with_ai"
+      },
+      {
+        "skills": [],
+        "id": 564,
+        "title": "Discovering Artificial Intelligence and Machine Learning",
+        "description": "Discover Artificial Intelligence and Machine Learning, learn about how they work, and find out how they are used to solve problems in new ways that were never possible in the past.",
+        "last_updated": "2024-08-08",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/discovering-ai-ml--cd2019",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/discovering-ai-ml--cd2019_discovering_artificial_intelligence_and_machine_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/54d774a3-de3b-4425-b0d7-c03bc99a0937"
+        ],
+        "id": 571,
+        "title": "Discovering Cybersecurity",
+        "description": "Get your start in the high-growth field of cybersecurity by learning the basic principles and concepts used to keep systems safe.",
+        "last_updated": "2024-07-30",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/discovering-cybersecurity--cd2017",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/discovering-cybersecurity--cd2017_discovering_cybersecurity"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/eee58e6d-4587-42f0-b9a0-fe055cfe2044"
+        ],
+        "id": 577,
+        "title": "iOS User Interfaces with Swift UI",
+        "description": "In this course you will start using SwiftUI and Xcode to develop user interfaces for iOS! You'll start by learning the fundamentals of UI design and explore the common design patters in iOS apps. Next, you'll install Xcode on your local machine and start creating views and hierarchies. You'll learn how interaction works in iOS apps deploy interactive components including buttons, forms, gestures and animations. After that, you'll take a deep dive into app navigation using stack navigation, tab navigation, and split view navigation. The course will conclude with a fun project where you'll create an event countdown app.",
+        "last_updated": "2024-07-29",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/iOS-user-interfaces-with-swift--cd13100",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/iOS-user-interfaces-with-swift--cd13100_ios_user_interfaces_with_swift_ui"
+      },
+      {
+        "skills": [],
+        "id": 584,
+        "title": "Introduction to Neural Networks with TensorFlow",
+        "description": "Learn the fundamentals of neural networks with Python and TensorFlow, and then use your new skills to create your own image classifier—an application that will first train a deep learning model on a dataset of images and then use the trained model to classify new images.",
+        "last_updated": "2024-07-15",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/introduction-to-neural-networks-with-tensorflow--cd0375",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/introduction-to-neural-networks-with-tensorflow--cd0375_introduction_to_neural_networks_with_tensorflow"
+      },
+      {
+        "skills": [],
+        "id": 585,
+        "title": "Building a Custom OpenAI Chatbot",
+        "description": "In this course, we will create a custom Q&A bot powered by OpenAI! Along the way, you'll learn how OpenAI works and how to leverage its powerful language processing capabilities to build a functional Q&A bot that can provide insightful answers to your questions and impress your friends with its knowledge. We'll start by creating an unsupervised machine-learning workflow to match the user's question to the relevant context in our dataset. We'll use that workflow to send a custom prompt that includes this context to an OpenAI text completion model. The output will be a custom response that is better aligned with our user's need for accurate data about recent events.",
+        "last_updated": "2024-07-12",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/build-a-custom-chatbot-with-openAI-api--cd12792",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/build-a-custom-chatbot-with-openAI-api--cd12792_building_a_custom_openai_chatbot"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/b99c9b86-b16f-4592-8505-de3d9c99e25b",
+          "http://data.europa.eu/esco/skill/d97c894e-d330-4bd3-b8ba-138fc11855ee"
+        ],
+        "id": 589,
+        "title": "Digital Arts and AI Tools Fluency",
+        "description": "Unleash your creativity with our introductory course on Digital Arts and AI Tools. This course acts as a gateway to the fascinating world of digital art, combining digital art principles with cutting-edge AI technologies. After taking this course, you will be familiar with the fundamental digital art skills and a variety of AI tools that are rapidly revolutionizing the art landscape. You will start by learning the basics of digital arts, including elements and principles of design, the creative process, and how to work with images using free online software. After that, you will learn how to use DALL-E, ArtBreeder, and Midjourney to create digital artwork. You will also learn how to write effective prompts for AI-based text-to-image tools.",
+        "last_updated": "2024-06-29",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/digital-arts-and-ai-tools-fluency--cd12879",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/digital-arts-and-ai-tools-fluency--cd12879_digital_arts_and_ai_tools_fluency"
+      },
+      {
+        "skills": [],
+        "id": 591,
+        "title": "Introduction to Computer Vision",
+        "description": "Master computer vision and image processing essentials. Learn to extract important features from image data, and apply deep learning techniques to classification tasks",
+        "last_updated": "2024-06-27",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/introduction-to-computer-vision--cd0360",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/introduction-to-computer-vision--cd0360_introduction_to_computer_vision"
+      },
+      {
+        "skills": [],
+        "id": 596,
+        "title": "Computing With Natural Language",
+        "description": "Learn advanced techniques like word embeddings, deep learning attention, and more. Build a machine translation model using recurrent neural network architectures.",
+        "last_updated": "2024-06-19",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/computing-with-natural-language--cd0379",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/computing-with-natural-language--cd0379_computing_with_natural_language"
+      },
+      {
+        "skills": [],
+        "id": 598,
+        "title": "Introduction to Neural Networks with PyTorch",
+        "description": "Learn the fundamentals of neural networks with Python and PyTorch, and then use your new skills to create your own image classifier—an application that will first train a deep learning model on a dataset of images and then use the trained model to classify new images.",
+        "last_updated": "2024-06-16",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/introduction-to-neural-networks-with-pytorch--cd0281",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/introduction-to-neural-networks-with-pytorch--cd0281_introduction_to_neural_networks_with_pytorch"
+      },
+      {
+        "skills": [],
+        "id": 609,
+        "title": "Unsupervised Learning",
+        "description": "In this course, you'll learn how to apply unsupervised learning to solve real-world problems.",
+        "last_updated": "2024-05-19",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/unsupervised-learning--cd0026",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/unsupervised-learning--cd0026_unsupervised_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+          "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb",
+          "http://data.europa.eu/esco/skill/36ff57b0-637d-4a83-a0e8-d14f86f9f078",
+          "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01"
+        ],
+        "id": 610,
+        "title": "Discover Data and Presentation Software",
+        "description": "In this course, you will explore the fundamentals of software spreadsheets and data science, learning how to organize and analyze data effectively.",
+        "last_updated": "2024-05-16",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/discover-data-presentation-software--cd12244",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/discover-data-presentation-software--cd12244_discover_data_and_presentation_software"
+      },
+      {
+        "skills": [],
+        "id": 615,
+        "title": "Mastering Character Animation",
+        "description": "Explore the art of character animation, understanding the principles of movement, emotions, and storytelling while also learning about the creation of backgrounds, ensuring the setting complements the characters' narratives and enhances the overall visual experience. You will also learn camera techniques to frame shots effectively, mastering the art of visual composition and storytelling through camera angles and movements before moving on to exporting animations to various formats, ensuring compatibility across platforms. You will also get an introduction to digital video, learn about the key concepts and terms used in video editing, and explore the free video editing software DaVinci Resolve.",
+        "last_updated": "2024-05-13",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/mastering-character-animation--cd12762",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/mastering-character-animation--cd12762_mastering_character_animation"
+      },
+      {
+        "skills": [],
+        "id": 640,
+        "title": "Operationalizing Machine Learning on SageMaker",
+        "description": "This course covers advanced topics related to deploying professional machine learning projects on SageMaker. Students will learn how to maximize output while decreasing costs. They will also learn how to deploy projects that can handle high traffic, how to work with especially large datasets, and how to approach security in machine learning AWS applications.",
+        "last_updated": "2024-02-26",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/operationalizing-machine-learning-on-sagemaker--cd0378",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/operationalizing-machine-learning-on-sagemaker--cd0378_operationalizing_machine_learning_on_sagemaker"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/a37557b6-5151-4ce6-bfcd-b0890444a391"
+        ],
+        "id": 644,
+        "title": "Multi-Backend Deep Learning with Keras",
+        "description": "This course is designed for developers who want to integrate machine learning into their Python projects. It offers a high-level intuitive understanding of deep learning fundamentals and guides you through coding and training models using Multi-Backend Keras (formerly known as Keras Core)—a new version of Keras that allows users to interact with different popular backend frameworks such as TensorFlow, PyTorch, and JAX. After a brief demonstration of the Keras API, we'll go over what neural networks are and the principles behind training and evaluating them. Next, you'll learn how to leverage powerful deep learning frameworks through the user-friendly Multi-Backend Keras abstraction. Finally, you'll build your own increasingly-complex Keras image classifiers for a self-driving car use case.",
+        "last_updated": "2024-02-06",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/multi-backend-deep-learning-with-keras--cd13370",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/multi-backend-deep-learning-with-keras--cd13370_multi-backend_deep_learning_with_keras"
+      },
+      {
+        "skills": [],
+        "id": 676,
+        "title": "Contrastive Language-Image Pretraining (CLIP) Fluency",
+        "description": "In this lesson, you will learn about CLIP, which is short for Contrastive Language-Image Pretraining, a machine learning model that connects text and images.",
+        "last_updated": "2023-11-14",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/contrastive-language-image-pretraining--cd13296",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/contrastive-language-image-pretraining--cd13296_contrastive_language-image_pretraining_(clip)_fluency"
+      },
+      {
+        "skills": [],
+        "id": 678,
+        "title": "Building a Machine Learning Pipeline",
+        "description": "Create a re-usable end-to-end pipeline for predicting short-term rental prices in New York City!",
+        "last_updated": "2023-11-01",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/building-a-machine-learning-pipeline--cd12903",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/building-a-machine-learning-pipeline--cd12903_building_a_machine_learning_pipeline"
+      },
+      {
+        "skills": [],
+        "id": 679,
+        "title": "Deploying a Machine Learning Model with FastAPI",
+        "description": "In the project, you'll develop, monitor, and deploy a classification model on publicly available Census Bureau data.",
+        "last_updated": "2023-11-01",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/deploying-a-machine-learning-model-with-FastAPI--cd12902",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/deploying-a-machine-learning-model-with-FastAPI--cd12902_deploying_a_machine_learning_model_with_fastapi"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/11430d93-c835-48ed-8e70-285fa69c9ae6"
+        ],
+        "id": 686,
+        "title": "Multi-Cloud Computing",
+        "description": "This course introduces learners to multi-cloud architectures and how to design and implement these architectures effectively. In this course, learners will learn how to define, design and deploy multi-cloud architectures. They’ll begin by learning the key components to understand and design a proper multi-cloud application. They will also learn the pros and cons of multi-cloud and important considerations when designing for them. Lastly, they will create a multi-cloud design and then deploy it to multiple providers.",
+        "last_updated": "2023-03-27",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/multi-cloud-computing--cd11573",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/multi-cloud-computing--cd11573_multi-cloud_computing"
+      },
+      {
+        "skills": [],
+        "id": 703,
+        "title": "Applying AI to EHR Data",
+        "description": "With the transition to electronic health records (EHR) over the last decade, the amount of EHR data has increased exponentially, providing an incredible opportunity to unlock this data with AI to benefit the healthcare system. Learn the fundamental skills of working with EHR data in order to build and evaluate compliant, interpretable machine learning models that account for bias and uncertainty using cutting-edge libraries and tools including Tensorflow Probability, Aequitas, and Shapley. Understand the implications of key data privacy and security standards in healthcare. Apply industry code sets, transform datasets at different EHR data levels, and use Tensorflow to engineer features.",
+        "last_updated": "2022-01-12",
+        "rating": null,
+        "price": 226.0,
+        "url": "https://www.udacity.com/course/applying-ai-to-ehr-data--cd0372",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/applying-ai-to-ehr-data--cd0372_applying_ai_to_ehr_data"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/7bb5d9af-0a7e-48a7-a860-0e1ded0f6e75"
+        ],
+        "id": 704,
+        "title": "Exploring Data Transformation with Google Cloud",
+        "description": "Cloud technology can bring great value to an organization, and combining the power of cloud technology with data has the potential to unlock even more value and create new customer experiences. “Exploring Data Transformation with Google Cloud” explores the value data can bring to an organization and ways Google Cloud can make data useful and accessible. Part of the Cloud Digital Leader learning path, this course aims to help individuals grow in their role and build the future of their business.",
+        "last_updated": "2025-02-17",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/exploring-data-transformation-with-google-cloud--cd13561",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/exploring-data-transformation-with-google-cloud--cd13561_exploring_data_transformation_with_google_cloud"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5"
+        ],
+        "id": 705,
+        "title": "Data Science Interview Preparation",
+        "description": "Prepare for Data Science Interview by practicing data analysis, machine learning and data structure and algorithms questions.",
+        "last_updated": "2024-12-04",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/data-science-interview-prep--ud944",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/data-science-interview-prep--ud944_data_science_interview_preparation"
+      },
+      {
+        "skills": [],
+        "id": 709,
+        "title": "Machine Learning Interview Preparation",
+        "description": "Sharpen your expertise in tackling complex data challenges and deep dive into real-world ML scenarios to articulate your solutions with confidence. Elevate your candidacy and stand out in competitive ML interviews.",
+        "last_updated": "2024-12-04",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/machine-learning-interview-prep--ud1001",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/machine-learning-interview-prep--ud1001_machine_learning_interview_preparation"
+      },
+      {
+        "skills": [],
+        "id": 722,
+        "title": "Scaling with Google Cloud Operations",
+        "description": "Organizations of all sizes are embracing the power and flexibility of the cloud to transform how they operate. However, managing and scaling cloud resources effectively can be a complex task. Scaling with Google Cloud Operations explores the fundamental concepts of modern operations, reliability, and resilience in the cloud, and how Google Cloud can help support these efforts. Part of the Cloud Digital Leader learning path, this course aims to help individuals grow in their role and build the future of their business.",
+        "last_updated": "2024-07-03",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/scaling-with-google-cloud-operations--cd13565",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/scaling-with-google-cloud-operations--cd13565_scaling_with_google_cloud_operations"
+      },
+      {
+        "skills": [],
+        "id": 729,
+        "title": "Introduction to Gemini for Google Workspace",
+        "description": "Gemini for Google Workspace is an add-on that provides customers with generative AI features in Google Workspace. In this learning path, you learn about the key features of Gemini and how they can be used to improve productivity and efficiency in Google Workspace.",
+        "last_updated": "2024-05-03",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/introduction-to-duet-AI-in-google-workspace--cd13517",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/introduction-to-duet-AI-in-google-workspace--cd13517_introduction_to_gemini_for_google_workspace"
+      },
+      {
+        "skills": [],
+        "id": 736,
+        "title": "Innovating with Google Cloud Artificial Intelligence",
+        "description": "Artificial intelligence (AI) and machine learning (ML) represent an important evolution in information technologies that are quickly transforming a wide range of industries. “Innovating with Google Cloud Artificial Intelligence” explores how organizations can use AI and ML to transform their business processes. Part of the Cloud Digital Leader learning path, this course aims to help individuals grow in their role and build the future of their business.",
+        "last_updated": "2024-02-28",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/innovating-with-google-cloud-artificial-intelligence--cd13562",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/innovating-with-google-cloud-artificial-intelligence--cd13562_innovating_with_google_cloud_artificial_intelligence"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0"
+        ],
+        "id": 737,
+        "title": "Modernize Infrastructure and Applications with Google Cloud",
+        "description": "Many traditional enterprises use legacy systems and applications that can't stay up-to-date with modern customer expectations. Business leaders often have to choose between maintaining their aging IT systems or investing in new products and services. 'Modernize Infrastructure and Applications with Google Cloud' explores these challenges and offers solutions to overcome them by using cloud technology. Part of the Cloud Digital Leader learning path, this course aims to help individuals grow in their role and build the future of their business.",
+        "last_updated": "2024-02-28",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/modernize-infrastructure-and-applications-with-google-cloud--cd13563",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/modernize-infrastructure-and-applications-with-google-cloud--cd13563_modernize_infrastructure_and_applications_with_google_cloud"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+          "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+          "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e"
+        ],
+        "id": 738,
+        "title": "Trust and Security with Google Cloud",
+        "description": "As organizations move their data and applications to the cloud, they must address new security challenges. The Trust and Security with Google Cloud course explores the basics of cloud security, the value of Google Cloud's multilayered approach to infrastructure security, and how Google earns and maintains customer trust in the cloud. Part of the Cloud Digital Leader learning path, this course aims to help individuals grow in their role and build the future of their business.",
+        "last_updated": "2024-02-28",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/trust-and-security-with-google-cloud--cd13564",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/trust-and-security-with-google-cloud--cd13564_trust_and_security_with_google_cloud"
+      },
+      {
+        "skills": [],
+        "id": 739,
+        "title": "Digital Transformation with Google Cloud",
+        "description": "There's much excitement about cloud technology and digital transformation, but often many unanswered questions. For example: What is cloud technology? What does digital transformation mean? How can cloud technology help your organization? Where do you even begin? If you've asked yourself any of these questions, you're in the right place. This course provides an overview of the types of opportunities and challenges that companies often encounter in their digital transformation journey. If you want to learn about cloud technology so you can excel in your role and help build the future of your business, then this introductory course on digital transformation is for you. This course is part of the Cloud Digital Leader learning path.",
+        "last_updated": "2024-02-28",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/digital-transformation-with-google-cloud--cd13595",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/digital-transformation-with-google-cloud--cd13595_digital_transformation_with_google_cloud"
+      },
+      {
+        "skills": [],
+        "id": 742,
+        "title": "Responsible AI: Applying AI Principles with Google Cloud",
+        "description": "As the use of enterprise Artificial Intelligence and Machine Learning continues to grow, so too does the importance of building it responsibly. A challenge for many is that talking about responsible AI can be easier than putting it into practice. If you’re interested in learning how to operationalize responsible AI in your organization, this course is for you. In this course, you will learn how Google Cloud does this today, together with best practices and lessons learned, to serve as a framework for you to build your own responsible AI approach.",
+        "last_updated": "2024-02-14",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/responsible-AI-applying-AI-principles-with-google-cloud--cd13516",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/responsible-AI-applying-AI-principles-with-google-cloud--cd13516_responsible_ai:_applying_ai_principles_with_google_cloud"
+      },
+      {
+        "skills": [],
+        "id": 747,
+        "title": "Zero-Shot and Few-Shot Learning",
+        "description": "Optimize your generative AI prompts using zero-shot and few-shot learning techniques.",
+        "last_updated": "2023-10-12",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/zero-shot-and-few-shot-learnings--cd12893",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/zero-shot-and-few-shot-learnings--cd12893_zero-shot_and_few-shot_learning"
+      },
+      {
+        "skills": [],
+        "id": 748,
+        "title": "Intro to TensorFlow for Deep Learning",
+        "description": "Dive into deep learning with this practical course on TensorFlow and the Keras API. Gain an intuitive understanding of neural networks without the dense jargon. Learn to build, train, and optimize your own networks using TensorFlow. The course also introduces transfer learning, leveraging pre-trained models for enhanced performance. Designed for swift proficiency, this course prioritizes hands-on learning and real-world applications.",
+        "last_updated": "2023-09-25",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187_intro_to_tensorflow_for_deep_learning"
+      },
+      {
+        "skills": [],
+        "id": 750,
+        "title": "Generative AI Fundamentals with Google Cloud",
+        "description": "The first lesson introduces you to microlearning aimed at explaining what Generative AI is, how it is used, and how it differs from traditional machine learning. The second lesson explores what large language models (LLM) are, the use cases, where they can be utilized, and how you can use prompt tuning to enhance LLM performance. The third lesson explains what responsible AI is, why it's important, and how Google implements responsible AI in their products. Pass the assessment in this course to demonstrate your understanding of foundational concepts in generative AI.",
+        "last_updated": "2023-09-12",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/generative-ai-fundamentals-for-google-cloud--cd13291",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/generative-ai-fundamentals-for-google-cloud--cd13291_generative_ai_fundamentals_with_google_cloud"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb",
+          "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d"
+        ],
+        "id": 758,
+        "title": "Google Slides",
+        "description": "With Google Slides, you can create and present professional presentations for sales, projects, training modules, and much more. Google Slides presentations are stored safely in the cloud. You build presentations right in your web browser—no special software is required. Even better, multiple people can work on your slides at the same time, you can see people’s changes as they make them, and every change is automatically saved. You will learn how to open Google Slides, create a blank presentation, and create a presentation from a template. You will explore themes, layout options, and how to add and format content, and speaker notes in your presentations.",
+        "last_updated": "2023-09-05",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/google-slides--cd12518",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/google-slides--cd12518_google_slides"
+      },
+      {
+        "skills": [],
+        "id": 763,
+        "title": "Secure and Private AI",
+        "description": "Learn three cutting-edge technologies for privacy-preserving AI: Federated Learning, Differential Privacy, and Encrypted Computation.",
+        "last_updated": "2023-06-22",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/secure-and-private-ai--ud185",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/secure-and-private-ai--ud185_secure_and_private_ai"
+      },
+      {
+        "skills": [],
+        "id": 766,
+        "title": "Encoder-Decoder Architecture with Google Cloud",
+        "description": "This course gives you a synopsis of the encoder-decoder architecture, which is a powerful and prevalent machine learning architecture for sequence-to-sequence tasks such as machine translation, text summarization, and question answering. You learn about the main components of the encoder-decoder architecture and how to train and serve these models. In the corresponding lab walkthrough, you’ll code in TensorFlow a simple implementation of the encoder-decoder architecture for poetry generation from the beginning.",
+        "last_updated": "2023-05-22",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/encoder-decoder-architecture-google-cloud--cd12988",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/encoder-decoder-architecture-google-cloud--cd12988_encoder-decoder_architecture_with_google_cloud"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/0764b28d-04ee-4e80-bf58-b737f02a63e0"
+        ],
+        "id": 767,
+        "title": "Create Image Captioning Models with Google Cloud",
+        "description": "This course teaches you how to create an image captioning model by using deep learning. You learn about the different components of an image captioning model, such as the encoder and decoder, and how to train and evaluate your model. By the end of this course, you will be able to create your own image captioning models and use them to generate captions for images.",
+        "last_updated": "2023-05-22",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/create-image-captioning-models-google-cloud--cd12986",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/create-image-captioning-models-google-cloud--cd12986_create_image_captioning_models_with_google_cloud"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/857e8624-4db0-4725-a758-5914bd8cc350"
+        ],
+        "id": 769,
+        "title": "Introduction to Image Generation with Google Cloud",
+        "description": "This course introduces diffusion models, a family of machine learning models that recently showed promise in the image generation space. Diffusion models draw inspiration from physics, specifically thermodynamics. Within the last few years, diffusion models became popular in both research and industry. Diffusion models underpin many state-of-the-art image generation models and tools on Google Cloud. This course introduces you to the theory behind diffusion models and how to train and deploy them on Vertex AI.",
+        "last_updated": "2023-05-22",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/introduction-image-generation-google-cloud--cd12982",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/introduction-image-generation-google-cloud--cd12982_introduction_to_image_generation_with_google_cloud"
+      },
+      {
+        "skills": [],
+        "id": 770,
+        "title": "Introduction to Generative AI with Google Cloud",
+        "description": "This is an introductory level microlearning course aimed at explaining what Generative AI is, how it is used, and how it differs from traditional machine learning methods. It also covers Google Tools to help you develop your own Gen AI apps.",
+        "last_updated": "2023-05-16",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/introduction-generative-ai-google-cloud--cd12957",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/introduction-generative-ai-google-cloud--cd12957_introduction_to_generative_ai_with_google_cloud"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/32a2c63d-2d13-4784-abb8-678ef2cd8a46"
+        ],
+        "id": 771,
+        "title": "Attention Mechanism with Google Cloud",
+        "description": "This course will introduce you to the attention mechanism, a powerful technique that allows neural networks to focus on specific parts of an input sequence. You will learn how attention works, and how it can be used to improve the performance of a variety of machine learning tasks, including machine translation, text summarization, and question answering.",
+        "last_updated": "2023-05-15",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/attention-mechanism-google-cloud--cd12963",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/attention-mechanism-google-cloud--cd12963_attention_mechanism_with_google_cloud"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/6e66fa0f-4d3b-415e-9693-dc556eb5112a"
+        ],
+        "id": 773,
+        "title": "Introduction to Machine Learning with Azure",
+        "description": "Gain a high-level introduction to the field of machine learning and prepare to use Azure Machine Learning Studio to train machine learning models. Plus, learn how to perform a variety of tasks on Azure Machine Learning labs — from data import, transformation and management to training, validating and evaluating models. Access to the Azure Machine Learning Labs will close after a predetermined number of students have completed the course.",
+        "last_updated": "2022-09-09",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/introduction-to-machine-learning-using-microsoft-azure--ud00333",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/introduction-to-machine-learning-using-microsoft-azure--ud00333_introduction_to_machine_learning_with_azure"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/cc173f61-3386-44c5-a048-3889e1ec9114"
+        ],
+        "id": 774,
+        "title": "AWS Machine Learning Foundations",
+        "description": "Learn what machine learning is and the steps involved in building and evaluating models. Gain in demand skills needed at businesses working to solve challenges with AI. Learn the fundamentals of advanced machine learning areas such as computer vision, reinforcement learning, and generative AI. Get hands-on with machine learning using AWS AI Devices (i.e. AWS DeepLens, AWS DeepRacer, and AWS DeepComposer). Learn how to prepare, build, train, and deploy high-quality machine learning (ML) models quickly with Amazon SageMaker and learn object-oriented programming best practices.",
+        "last_updated": "2022-05-11",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/aws-machine-learning-foundations--ud065",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/aws-machine-learning-foundations--ud065_aws_machine_learning_foundations"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a"
+        ],
+        "id": 775,
+        "title": "AI Fundamentals",
+        "description": "This course is an entry point into the world of AI using Microsoft's cloud-based solutions, such as Azure Machine Learning and Azure Cognitive Services. You will have the chance to learn and experience firsthand how to train and deliver machine learning models and use Azure Cognitive Services for typical AI workloads such as Computer Vision, Natural Language Processing, and Conversational AI.",
+        "last_updated": "2022-04-13",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/ai-fundamentals--ud099",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/ai-fundamentals--ud099_ai_fundamentals"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/ce26e71f-2d47-474e-89b6-7920931ac4fc"
+        ],
+        "id": 790,
+        "title": "Core ML: Machine Learning for iOS",
+        "description": "",
+        "last_updated": "2022-03-07",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/core-ml--ud1038",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/core-ml--ud1038_core_ml:_machine_learning_for_ios"
+      },
+      {
+        "skills": [],
+        "id": 812,
+        "title": "Self-Driving Car Fundamentals: Featuring Apollo",
+        "description": "Identify key parts of self-driving cars, utilize Apollo HD Map, localization, perception, prediction, planning and control, and start the learning path of building a self-driving car.",
+        "last_updated": "2022-03-07",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/self-driving-car-fundamentals-featuring-apollo--ud0419",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/self-driving-car-fundamentals-featuring-apollo--ud0419_self-driving_car_fundamentals:_featuring_apollo"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/bacbfc27-4b5d-47de-8bfd-af5fa27562a2"
+        ],
+        "id": 825,
+        "title": "Rapid Prototyping",
+        "description": "Learning to prototype will save you time and money in the development process. You’ll create quality apps faster and have confidence in the viability of your products.",
+        "last_updated": "2022-03-07",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/rapid-prototyping--ud723",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/rapid-prototyping--ud723_rapid_prototyping"
+      },
+      {
+        "skills": [],
+        "id": 836,
+        "title": "Kotlin for Android Developers",
+        "description": "Take an Android notepad app and convert it from Java to Kotlin, learning key features of the Kotlin programming language along the way.",
+        "last_updated": "2022-03-07",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/kotlin-for-android-developers--ud888",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/kotlin-for-android-developers--ud888_kotlin_for_android_developers"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/5da42cfd-1da8-4e4f-b68e-4f821d005fc5"
+        ],
+        "id": 840,
+        "title": "Introduction to Virtual Reality",
+        "description": "If you are interested in learning more about virtual reality, this course will teach you the principles of VR technology and help you understand what you can build in VR.",
+        "last_updated": "2022-03-07",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/introduction-to-virtual-reality--ud1012",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/introduction-to-virtual-reality--ud1012_introduction_to_virtual_reality"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669",
+          "http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080",
+          "http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a"
+        ],
+        "id": 858,
+        "title": "Intro to Deep Learning with PyTorch",
+        "description": "Learn the basics of deep learning, and build your own deep neural networks using PyTorch, an open source machine learning library used for applications such as NLP and Computer Vision.",
+        "last_updated": "2022-03-07",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/deep-learning-pytorch--ud188",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/deep-learning-pytorch--ud188_intro_to_deep_learning_with_pytorch"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a"
+        ],
+        "id": 870,
+        "title": "Intro to iOS App Development with Swift",
+        "description": "Take the first step in becoming an iOS Developer by learning about Swift and writing your first app.",
+        "last_updated": "2022-03-07",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585_intro_to_ios_app_development_with_swift"
+      },
+      {
+        "skills": [],
+        "id": 872,
+        "title": "Intro to JavaScript",
+        "description": "Learn the fundamentals of JavaScript syntax. Explore JavaScript fundamentals by learning how to define variables and use data types to represent data in your code.",
+        "last_updated": "2022-03-07",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/intro-to-javascript--ud803",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-javascript--ud803_intro_to_javascript"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+          "http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669",
+          "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2",
+          "http://data.europa.eu/esco/skill/e87ec79a-c9ff-46f5-84fa-7a0f394cdf40",
+          "http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a"
+        ],
+        "id": 874,
+        "title": "Intro to Artificial Intelligence",
+        "description": "This course will introduce you to the basics of AI. Topics include machine learning, probabilistic reasoning, robotics, computer vision, and natural language processing.",
+        "last_updated": "2022-03-07",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/intro-to-artificial-intelligence--cs271",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-artificial-intelligence--cs271_intro_to_artificial_intelligence"
+      },
+      {
+        "skills": [],
+        "id": 876,
+        "title": "Intro to Machine Learning",
+        "description": "This class will teach you the end-to-end process of investigating data through a machine learning lens, and you'll apply what you've learned to a real-world data set.",
+        "last_updated": "2022-03-07",
+        "rating": null,
+        "price": null,
+        "url": "https://www.udacity.com/course/intro-to-machine-learning--ud120",
+        "source": "Udacity",
+        "source_id": "https://www.udacity.com/course/intro-to-machine-learning--ud120_intro_to_machine_learning"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/253f889e-a10d-442a-849d-614969793776",
+          "http://data.europa.eu/esco/skill/b4b28d82-0a26-4b1c-a932-38d4378c189e"
+        ],
+        "id": 937,
+        "title": "Award in Basic English Level 1",
+        "description": "This English language course will focus on language acquisition through the four language skills; Speaking,  reading,  listening and writing and is targeted at individuals who would like to improve their English language skills and become employable candidates in a work world where English is a requisite,  and to all learners who would like to become more confident when communicating in English\nThe English Literacy level 1 will help adult learners to recognise sentences and frequently used expressions related to areas of most immediate relevance (e.g. very basic personal and family information,  shopping,  local geography,  employment); apply the correct language form in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters and describe in simple terms aspects of his/her background,  immediate environment and matters in areas of immediate need This English language course will focus on language acquisition through the four language skills; Speaking,  reading,  listening and writing and is targeted at individuals who would like to improve their english language skills and become employable candidates in a work world where english is a requisite,  and to all learners who would like to become more confident when communicating in english The learner will be able to apply basic critical thinking skills when answering certain questions; build and organise a portfolio of completed work products; utilse supervised practice hours productively seeking guidance as necessary and make use of prior experience,  as encouraged by their teacher",
+        "last_updated": "2024-09-17",
+        "rating": null,
+        "price": null,
+        "url": "http://data.europa.eu/snb/data/learningOpportunity/1c8faace-071f-4763-acb2-0de1ded83a0a",
+        "source": "europass",
+        "source_id": "http://data.europa.eu/snb/data/learningOpportunity/1c8faace-071f-4763-acb2-0de1ded83a0a"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/6246dda7-e075-448f-b11a-8274923042d5",
+          "http://data.europa.eu/esco/skill/b3c0fdc1-14e3-4ccd-aeab-6816e409c3a0",
+          "http://data.europa.eu/esco/skill/fc511e12-fe90-40a0-bec8-227abb5e4255"
+        ],
+        "id": 988,
+        "title": "Level 1 Award in Music Performance (Prep1,  Prep 2,  Preliminary).",
+        "description": "This course is intended to introduce music to students who might not have had any previous exposure to it. The overall course objectives are:  •\tTo introduce the student with the Orff,  Kodaly,  and Dalcroze Methodologies in Music     Education involving music,  movement,  drama and speech in combination  •\tTo introduce the student to artistic acchievement by providing opportunities for performing skills and music written literacy through creative and challenging situations both in front of an audience and in the classroom.  •\tTo follow basic notated music and perform exercises that will show his/her ability at playing his/her instrument.  •\tTo follow basic verbal instructions and play simple works that will include scales,  technical studies and repertoire with an awareness of tone,  flowing rhythm and musical rendition. •\tTo further the acquired basic music skills to a higher level.\na)\tthe stave – notes on the five-line stave in treble from C to C b)\tthe clefs – G clef and F Clef c)\tnote names using French time names d)\tnote values e)\tsimple time signatures – simple duple,  simple triple. simple quadriple  a)\tbasic notation b)\ttempo and rhythm c)\tbasic dynamics and articulations d)\tbasic technical abilities and musical qualities e)\tbasic elements of theory to practice f)\tgood posture and finger technique g)\tbreathing technique and embouchure where appropriateh)\tbowing technique where appropriate a)\tpractise the basic notation by reading and playing. b)\tkeep a steady tempo and rhythmic flow by self-listening and with the use of a  metronome. c)\ttransfer basic elements of theory to practice with the use of technology.d)\tReflect on own independent study. Teacher will assess the result of the independent study during the lesson on a weekly basis and this will be logged in the journal.",
+        "last_updated": "2024-09-17",
+        "rating": null,
+        "price": null,
+        "url": "http://data.europa.eu/snb/data/learningOpportunity/114f3277-13dd-4eeb-b0e5-570cf41f2e54",
+        "source": "europass",
+        "source_id": "http://data.europa.eu/snb/data/learningOpportunity/114f3277-13dd-4eeb-b0e5-570cf41f2e54"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/3f8669a4-402d-4479-8772-98e4c0a79919",
+          "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "id": 995,
+        "title": "Elementary Award in English as a Second or Other Language (ESOL)",
+        "description": "Course in English as a second or other language for Middle/Secondary school students and Adult learners -focusing on building of learners’ basic language knowledge and development of basic general and communicative competences with regard to the English language,  ensuring that learners are able to carry out very simple language tasks\nDemonstrate an improved ability to function in some situations relating to immediate needs and in familiar social situations; Demonstrating also his/her capacity to provide basic personal information in written and spoken form in the home,  at school,  at the workplace or in the community,  whilst also showing an increased ability to handle routine entry-level tasks and/or jobs requiring basic written or oral English communication; pursue further studies outside the classroom,  as guided by the teacher and on his/her own initiative,  using memory strategies,  such as ‘distributed practice’ where he/she is able to determine essential information,  establish patterns,  and practise newly-acquired skills and strategies; meet goals established by the teacher,  and upon his/her own initiative,  in order to improve his/her language knowledge and to hone targeted strategies learned during guided-learning hours in order to ensure further development in his/her communicative competencies and accelerate his/her learning; plan and manage time,  under the guidance of his/her teacher/tutor,  prioritizing as necessary,  in line with material covered during guided learning hours; follow the teacher’s guidance,  and seek help when necessary and demonstrate some ability to evaluate his/her own development,  and,  with the help of his/her teacher,  plan future development and establish goals through reflection and self-assessment",
+        "last_updated": "2024-09-17",
+        "rating": null,
+        "price": null,
+        "url": "http://data.europa.eu/snb/data/learningOpportunity/45b8d872-3ffa-4459-b2e8-f648f19c7017",
+        "source": "europass",
+        "source_id": "http://data.europa.eu/snb/data/learningOpportunity/45b8d872-3ffa-4459-b2e8-f648f19c7017"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/253f889e-a10d-442a-849d-614969793776",
+          "http://data.europa.eu/esco/skill/99b95aca-221d-415c-9de5-564e1a273701"
+        ],
+        "id": 1272,
+        "title": "Award in Basic English - Level 2",
+        "description": "This English language course will focus on language acquisition through the four language skills; Speaking,  reading,  listening and writing and is targeted at individuals who would like to improve their English language skills and become employable candidates in a work world where English is a requisite,  and to all learners who would like to become more confident when communicating in English\nThis english language course will focus on language acquisition through the four language skills; speaking,  reading,  listening and writing and is targeted at individuals who would like to improve their english language skills and become employable candidates in a work world where english is a requisite,  and to all learners who would like to become more confident when communicating in English The learner will be able to apply basic critical thinking skills when answering certain questions; build and organise a portfolio of completed work products; utilse supervised practice hours productively seeking guidance as necessary and make use of prior experience,  as encouraged by their teacher The English Literacy level 2 will help adult learners to listen to dialogues about job interviews and to ask and answer interview questions in English; write a CV and a job application letter or e-mail; select important and useful vocabulary when making telephone calls; recognise the importance of small talk and how to differentiate between colloquial and formal english and paraphrase the language necessary to reserve a hotel room,  book a table in a restaurant and use different modes of transport when travelling",
+        "last_updated": "2024-09-17",
+        "rating": null,
+        "price": null,
+        "url": "http://data.europa.eu/snb/data/learningOpportunity/397bde35-f332-4fee-b47d-212b5406fa19",
+        "source": "europass",
+        "source_id": "http://data.europa.eu/snb/data/learningOpportunity/397bde35-f332-4fee-b47d-212b5406fa19"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+          "http://data.europa.eu/esco/skill/3f8669a4-402d-4479-8772-98e4c0a79919",
+          "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "id": 1332,
+        "title": "Pre-Intermediate Award in English as a Second or Other Language (ESOL)",
+        "description": "Course in English as a second or other language for Middle/Secondary school students and Adult learners  - focusing on further development of  learners’ basic language knowledge  and  general and communicative competences with regard to the English language,  ensuring that learners are able to carry out simple language tasks\ndemonstrate an improved ability to function in English in most social situations; to communicate in simple and routine tasks requiring simple and direct exchange of information on familiar and routine matters,  including areas of personal relevance and/or immediate needs or interest; pursue further studies outside the classroom,  as guided by the teacher and on his/her own initiative,  using memory strategies,  such as ‘distributed practice’ where he/she is able to determine essential information,  establish patterns,  and practise newly-acquired skills and strategies; meet goals established by the teacher,  and upon his/her own initiative,  in order to improve his/her language knowledge and to hone targeted strategies learned during guided-learning hours,  in order to ensure further development in his/her communicative competencies and to accelerate his/her learning; plan and manage time,  under the guidance of his/her teacher/tutor,  prioritizing as necessary,  in line with material covered during guided learning hours; follow the teacher’s guidance,  and seek help when necessary and demonstrate some ability to evaluate his/her own development,  and,  with the help of his/her teacher,  plan future development and establish goals through reflection and self-assessment",
+        "last_updated": "2024-09-17",
+        "rating": null,
+        "price": null,
+        "url": "http://data.europa.eu/snb/data/learningOpportunity/604eec93-3174-4cd1-899d-f21a4d3601e3",
+        "source": "europass",
+        "source_id": "http://data.europa.eu/snb/data/learningOpportunity/604eec93-3174-4cd1-899d-f21a4d3601e3"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+          "http://data.europa.eu/esco/skill/253f889e-a10d-442a-849d-614969793776",
+          "http://data.europa.eu/esco/skill/2aaad52d-599e-4e77-a681-bbc236825821",
+          "http://data.europa.eu/esco/skill/3f8669a4-402d-4479-8772-98e4c0a79919",
+          "http://data.europa.eu/esco/skill/7ba2ce03-ac36-4cf5-9383-e665ed0d86c3",
+          "http://data.europa.eu/esco/skill/b7553d1b-31b4-42e6-b6be-2a90189ef7d6",
+          "http://data.europa.eu/esco/skill/d2e42e14-80be-48cd-bb0e-ea2f0892f951"
+        ],
+        "id": 1356,
+        "title": "Applied Basic English",
+        "description": "This English language course will focus on language acquisition through the four language skills; Speaking,  reading,  listening and writing and is targeted at individuals who would like to improve their English language skills and become employable candidates in a work world where English is a requisite,  and to all learners who would like to become more confident when communicating in English.\nAsk and answer common questions; tell stories. Talk about how you feel - and why; give responses to news; ask double questions. Describe courses,  schools,  teachers and students; talk about different education systems; talk about possible future plans. Talk about jobs and what they involve. Ask and answer questions about art events; talk about a night out; say why you don't want to do things. Describe character; talk about your family; ask about friends and family.  Talk about free-time activities; talk about sports; talk about music. Describing things you buy; describe clothes; make,  and respond to,  recommendations. Describe different dishes and ways of cooking food; describe restaurants. Talk about journeys; explain travel problems; talk about whose fault problems are. Talk about computers; respond to advice; talk about markets; describe technology. Describe different sections of a newspaper; talk about stories in the news; explain who people are. Maintain a conversation; talk about language learning experiences. Use stress and intonation more effectively.  Ask for and make recommendations. Use different forms of a word. Add comments using That must be. Add emphasis; make comparisons. Give directions. Use synonyms. Pronounce,  and understand,  groups of words. Compare products. Explain what is on a menu and order. Use phrasal verbs; use strong adjectives. Stress adverbs to show emphasis. Discuss things that affect the environment. Explain causes and results.Respond to news. Can understand the main points of clear standard input on familiar matters regularly encountered in work,  school,  leisure,  etc. Can deal with most situations likely to arise while traveling in an area where the language is spoken. Can produce simple connected text on topics that are familiar or of personal interest. Can describe experiences and events,  dreams,  hopes and ambitions and briefly give reasons and explanations for opinions and plans. Can understand the main ideas of complex text on both concrete and abstract topics,  including technical discussions in his/her field of specialization. Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible without strain for either party. Can produce clear,  detailed text on a wide range of subjects and explain a viewpoint on a topical issue giving the advantages and disadvantages of various options.",
+        "last_updated": "2024-09-17",
+        "rating": null,
+        "price": null,
+        "url": "http://data.europa.eu/snb/data/learningOpportunity/e344e9bd-588e-474a-b1ce-1de44eeb1a2d",
+        "source": "europass",
+        "source_id": "http://data.europa.eu/snb/data/learningOpportunity/e344e9bd-588e-474a-b1ce-1de44eeb1a2d"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/a6354281-5578-46ac-a9db-d179d9962b98",
+          "http://data.europa.eu/esco/skill/b00e948c-19be-4951-8cff-60f88f1046e9",
+          "http://data.europa.eu/esco/skill/f7464f30-662b-4177-85a0-3df9693e9e58"
+        ],
+        "id": 1393,
+        "title": "Level 2 Award in Emergency Paediatric First Aid",
+        "description": "This regulated first aid programme is speciﬁc to infants aged under 1,  and children aged from 1 years old to the onset of puberty. It is ideal for parents,  youth leaders,  teachers,  LSAs ,  KAs and babysitters. Topics within this course are regarded as being important to maintaining good practice in the safe,  prompt and effective treatment of injuries and ill health of infants and children who are under the care of trained personnel.\nDescribe when an AED should be used; Explain the safety precautions one should take when useing an AED; State the proper CPR ratio; Interact with others so as to coordinate help during an accident; Report and maintain records of findings and actions carried out;  State the responsibilities of a paediatric first aider; Explain the  reporting procedures following an accident/incident; Explain how the term shock is relevant to first aid; Explain why an infant/child should be placed in the recovery position; Explain and define an infant and a child for the purposes of first aid treatment; Explain how to minimise the risk of infection to self and others;  Undertake further studies so as to gain information and knowledge on how to use an Automated External Defibrillator; Study the precautions that need to be taken when using an AED Proceed to identify a person in a cardiac and pulmonary arrest; Proceed to check casualties for responsiveness; Proceed to check casualties for signs of breathing; Proceed to open an airway to check for breathing; The step taken to call for help and phone 112; Proceed to relay essential information to the emergency services; Proceed to take control of situation and delegate responsibilities; Proceed  to perform CPR on his own and in coordinating with another first aider; Proceed to control severe bleeding; Proceed to apply abdominal thrusts,  back slaps  and chest trust  to a choking casualty; Proceed to apply direct pressure to stop severe bleeding; Proceed to provide rescue breaths and effective cardiac message; Proceed  to use resuscitation barrier device to minimize risks of transmission of infections",
+        "last_updated": "2024-09-17",
+        "rating": null,
+        "price": null,
+        "url": "http://data.europa.eu/snb/data/learningOpportunity/40126c1f-9bb6-4bd6-9def-7fb421a7d619",
+        "source": "europass",
+        "source_id": "http://data.europa.eu/snb/data/learningOpportunity/40126c1f-9bb6-4bd6-9def-7fb421a7d619"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/b3c0fdc1-14e3-4ccd-aeab-6816e409c3a0"
+        ],
+        "id": 1395,
+        "title": "Level 2 Award in Music Performance (Grade 1,  2 and 3 )",
+        "description": "After the completion of this course,  the student will be able to :   •\t follow and perform notated music with different rhythmic patterns set out in a variety of metres. •\t recognise,  identify and perform  expressive elements of music (ex: dynamics,  tempi,  and articulation) . •\t perform music with awareness of tone and intonation. •\t follow instructions and play works that include scales,  technical studies and repertoire related to this level. •\tfurther the acquired music skills to a higher level.\na)\tapplythe notation relating to this level and the instrument by reading and playing.      b)\tkeep a steady tempo and rhythmic flow by self-listening and with the use of a metronome. c)\tTo play with a basic tone quality  and intonation (the teacher will demonstrate during the lessons so that the student will compare and imitate) d)\tPerform with a good posture with the help  of a mirror. e)\tstudy independently and effectively for the required length of time on a daily basis.  The student will be assessed per lesson and this will be logged in the journal. a)\tNotation (ledger lines) and according to instrument. a.\tNotation (ledger lines) according to instrument. b.\tTempo and rhythmic content. (Ex. Tempo – Allegretto,  Adagio. Rhythm – Refer to 3.1 d)  c.\tSight reading and specific to this level. d.\tBasic technical abilities in regards to  tone and intonation awareness. e.\tMusical qualities including basic dynamics,  phrasing and articulation. (Ex. Including accents)  f.\tElements of theory to practice (ex: working out rhythms relating to scales being tackled in theory) g.\tBasic posture and finger technique. h)\tNotation (Ledger lines) according to instrument. i)\tTempo and rhythmic content. (Ex. Tempo – Andante,  Allegro. Rhythm - Refer to 3.1 d) j)\tSight reading and specific to this level. k)\tTechnical abilities including tone and intonation awareness. l)\tMusical qualities including dynamics,  phrasing and articulation. m)\tElements of theory to practice (ex: writing out the acciaccatura and appoggiatura and performing them,   working out rhythms) n)\tAdequate  posture and finger technique. b)\tTempo and rhythmic content. (Ex. Tempo – Moderato. Rhythm – Refer to 3.1 d) c)\tSight reading specific to this level. d)\tElementary technical abilities in regards to  tone and intonation awareness. e)\tMusical qualities including basic dynamics,  and articulation (Ex. Legato,  Staccato). f)\tElements of theory to practice (ex:  working out rhythms)g)\tAwareness of posture and finger technique.",
+        "last_updated": "2024-09-17",
+        "rating": null,
+        "price": null,
+        "url": "http://data.europa.eu/snb/data/learningOpportunity/54c8bd2f-3a4c-4435-add0-2267cda90407",
+        "source": "europass",
+        "source_id": "http://data.europa.eu/snb/data/learningOpportunity/54c8bd2f-3a4c-4435-add0-2267cda90407"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/253f889e-a10d-442a-849d-614969793776",
+          "http://data.europa.eu/esco/skill/2b87f4e6-c4cf-4b4c-8157-e2794d136617",
+          "http://data.europa.eu/esco/skill/3f8669a4-402d-4479-8772-98e4c0a79919",
+          "http://data.europa.eu/esco/skill/7ba2ce03-ac36-4cf5-9383-e665ed0d86c3"
+        ],
+        "id": 1834,
+        "title": "Intermediate Award in English as a Second or Other Language (ESOL)",
+        "description": "Course in English as a second or other language for Middle/Secondary school students and Adult learners  - focusing on further development of  learners’  language knowledge  and   competences  relating to the four skills of Reading,  Listening,  Writing and Speaking,  with regard  to the English language,  ensuring that they can achieve a level of competence which allows them to use the language with a degree of fluency,  accuracy and a measure of appropriacy\nPursue further studies outside of the classroom,  on his/her own intiative and under the teacher's guidance,  using memory strategies,  such as distributed practcie where he/she is able to determine essential information,  establish patterns and practise newly-acquired skills and strategies; establish goals in order to improve his/her knowledge and to hone stargeted strategies learned during guided-learning hours in order to ensure further development in his/her communciative competencies and accelerate his/her learning; demonstrate an increasing ability to evaluate his/her won development,  and with the guidance of his/her teacher,  plan future development,  and establish goals through reflection and self-assessment based on the prescribed Learner Outcomes. Demonstrate increasing communicative competence through an increased ability to understand the main points of clear standard input on familiar matters regularly encountered in work,  school and leisure (etc) situations,  and his/her ability to deal with most situations likely to arise whilst travelling in an area where Englsih is spoke,  as well as his/her ability to produce simple connected texts relating to familar topics or topics of personal interest and his/her improved descriptive skills relating to familiar topics or topics of personal interest and his/her improved descriptive skills relating to experiences,  events,  dreams,  hopes and ambitions; plan and manage time,  prioritizing as necessary,  in line with material covered during guided learning hours; seek help when necessary",
+        "last_updated": "2024-09-17",
+        "rating": null,
+        "price": null,
+        "url": "http://data.europa.eu/snb/data/learningOpportunity/7773f96f-1873-440b-918a-943735843fee",
+        "source": "europass",
+        "source_id": "http://data.europa.eu/snb/data/learningOpportunity/7773f96f-1873-440b-918a-943735843fee"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213",
+          "http://data.europa.eu/esco/skill/ece81686-331c-4381-bf3f-5ea610d47a7f"
+        ],
+        "id": 2055,
+        "title": "Award in Sport Psychology - Introduction",
+        "description": "Sports performers seeking a competitive edge know that sport psychology plays an important role in maximizing performance. \nA number of factors need to be explored in order to understand the importance of psychological preparation and control in individual and team sports. Sports performance needs not only technical preparation. It is also important that the athlete is motivated, can control arousal levels, has the appropriate focus and is mentally prepared for competition.  It is the role of the sport psychologist as well as coaches to develop these skills with the performer and teach them when to apply them.\nThis unit develops the learner’s knowledge and skills so that they can apply them to personal performance and to the performance of other performers. Psychological skills can be applied to training and competition, and can be used with all levels of performer.\nThis course develops a sound theoretical base by examining important psychological factors such as arousal and anxiety regulation, group dynamics, concentration, visualization techniques and more. Learners will be able to plan psychological skills training programmes and individual sessions.\nThis short course offers individuals interested in sport and exercise the opportunity to gain more knowledge on the psychological aspects of performance in sport. It is especially tailored for athletes, coaches, sport administrators and PE teachers. The taught skills may also be used in other performance related areas as well as in the individual’s everyday life. The course will help individuals develop particular skills such as anxiety management, positive self-talk and concentration skills.\nOutline the relationship between stress, anxiety, arousal and performance Plan a psychological skills training programme to enhance sports performance Build group dynamics Implement various skills such as visualization, positive self-talk and goal-setting skills and how these can aid performance Describe what sport psychology can and cannot do for the performer",
+        "last_updated": "2024-09-17",
+        "rating": null,
+        "price": null,
+        "url": "http://data.europa.eu/snb/data/learningOpportunity/56c38d55-711f-49d1-b68a-14bdfee0557f",
+        "source": "europass",
+        "source_id": "http://data.europa.eu/snb/data/learningOpportunity/56c38d55-711f-49d1-b68a-14bdfee0557f"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/8e09fe66-2649-4179-81ef-91fefa3ceee8"
+        ],
+        "id": 3977,
+        "title": "Preschool teacher’s assistant modular vocational training programme",
+        "description": "\nCompetences of qualification: 1. Help children take care of personal hygiene. 2. Organize meals for children. 3. Help children manage personal belongings. 4. Ensure the safety of children in the pre-school education institution. 5. Provide assistance to a pre-school or pre-primary education teacher in communicating with children’s parents (adoptive parents, guardians, caregivers) and other specialists. 6. Help the pre-school or pre-primary education teacher to organize educational activities and games. 7. Help children develop basic skills.",
+        "last_updated": "2025-04-08",
+        "rating": null,
+        "price": null,
+        "url": "http://data.europa.eu/snb/data/learningOpportunity/a2a28dee-9df1-4dc6-9ac3-9a0f381c8b87",
+        "source": "europass",
+        "source_id": "http://data.europa.eu/snb/data/learningOpportunity/a2a28dee-9df1-4dc6-9ac3-9a0f381c8b87"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/8e09fe66-2649-4179-81ef-91fefa3ceee8"
+        ],
+        "id": 3978,
+        "title": "Preschool teacher’s assistant modular vocational training programme",
+        "description": "\nCompetences of qualification: 1. Help children take care of personal hygiene. 2. Organize meals for children. 3. Help children manage personal belongings. 4. Ensure the safety of children in the pre-school education institution. 5. Provide assistance to a pre-school or pre-primary education teacher in communicating with children’s parents (adoptive parents, guardians, caregivers) and other specialists. 6. Help the pre-school or pre-primary education teacher to organize educational activities and games. 7. Help children develop basic skills.",
+        "last_updated": "2025-04-08",
+        "rating": null,
+        "price": null,
+        "url": "http://data.europa.eu/snb/data/learningOpportunity/46aa21bb-c442-4a8e-91d4-58be86025b51",
+        "source": "europass",
+        "source_id": "http://data.europa.eu/snb/data/learningOpportunity/46aa21bb-c442-4a8e-91d4-58be86025b51"
+      },
+      {
+        "skills": [],
+        "id": 4738,
+        "title": "Pre-school teacher",
+        "description": "\n",
+        "last_updated": "2024-09-18",
+        "rating": null,
+        "price": null,
+        "url": "http://data.europa.eu/snb/data/learningOpportunity/9f17f666-3669-487b-9d3a-2e41fac349f7",
+        "source": "europass",
+        "source_id": "http://data.europa.eu/snb/data/learningOpportunity/9f17f666-3669-487b-9d3a-2e41fac349f7"
+      },
+      {
+        "skills": [],
+        "id": 4740,
+        "title": "Pre-school teacher",
+        "description": "\n",
+        "last_updated": "2024-09-18",
+        "rating": null,
+        "price": null,
+        "url": "http://data.europa.eu/snb/data/learningOpportunity/692e8a66-6608-41a3-b01d-ff2d5a82c262",
+        "source": "europass",
+        "source_id": "http://data.europa.eu/snb/data/learningOpportunity/692e8a66-6608-41a3-b01d-ff2d5a82c262"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/698d7dd3-1192-4f8c-9d1b-478b573b4994"
+        ],
+        "id": 4779,
+        "title": "Proficiency Award in English as a Second or Other Language",
+        "description": "The course is designed for pre-tertiary students who wish to gain access to a University, as well as tertiary students and  adult individuals who, for reasons relating to educational or work opportunities or other personal reasons wish or need to gain a certificate which represents their actual level of English.\nThe learner will be able to: \na)\tpursue further studies outside of the classroom, on his/her own initiative, using memory strategies, such as ‘distributed practice’ where he/she is able to determine essential information, establish patterns and ‘chunk’ information, \nb)\testablish goals in order to consolidate his/her language knowledge and to hone targeted language strategies so as to ensure further development in his/her communicative competencies and accelerate his/her learning, \nc)\tplan and manage time, prioritizing as necessary,\nd)\tseek help as and when necessary, and \ne)\tevaluate his/her own development, plan future development and establish goals through reflection and self-assessment in line with prescribed learner outcomes (See Learner Outcomes document), regular feedback from the teacher and peers, and regular formal assessment (i.e. progress tests)",
+        "last_updated": "2024-09-17",
+        "rating": null,
+        "price": null,
+        "url": "http://data.europa.eu/snb/data/learningOpportunity/11d3ec95-9249-416d-b540-6cba94c93255",
+        "source": "europass",
+        "source_id": "http://data.europa.eu/snb/data/learningOpportunity/11d3ec95-9249-416d-b540-6cba94c93255"
+      },
+      {
+        "skills": [
+          "http://data.europa.eu/esco/skill/128f0b4c-8da7-467b-9196-7c691e067a1e",
+          "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+          "http://data.europa.eu/esco/skill/3012a059-e062-4171-b37e-f9e7c7eb603e",
+          "http://data.europa.eu/esco/skill/5bac4bcc-1846-4688-ba02-ad2b51544282",
+          "http://data.europa.eu/esco/skill/ba2c6181-b036-40b4-8f6d-51499463ccbb"
+        ],
+        "id": 4841,
+        "title": "Award in Facilitating and Adapting Education for Students with Diverse Needs",
+        "description": "This course will enable  candidates to enhance new  knowledge,  skills and become competent in supporting students with children with with diverse neeeds.\na) Be knowledgeable and understand children’s with diverse needs and apply the principles of inclusion,  and equity. b) Develop  strategies and resources professionally in the role of Learning Support Educator within a classroom setting for children with different needs. c) Develop and able to apply a wide range of interpersonal skills and teaching strategies to empower and enable the development of children with diverse needs in collaboration and under the guidance of the class teacher and the Inclusive Education Co-Ordinator (INCO)/SENCO e) Develop and implement professionally the Inclusive Educational Programme and adapt class work for children with diverse needs d) Have and use teamwork skills to collaborate efficiently and effectively  within a team of professionals to enhance physical,  intellectual/cognitive and emotional development of children with diverse needs from an educational perspective e) Research on the internet and online library to back up the knowledge acquired during lectures f) Follow videos and read materials critically provided by the lecturers and  g) Critically analyse journal articles and use the information in integrative manner for assignments and during class discussions h) Intergrate and apply theoretical knowledge with everyday practice i) Write assignments in good English j) Reference assignments according to the APA referencing system k) Be self-reflective and use such self-reflections for everyday work.l) Participate actively during lectures and possible group work a) Network,  communicate and collaborate professionally with teachers and other professionals in field with regards diverse needs in relation to planning,  developing strategies and educational resources b) Network ,  communicate and collaborate with parents/relatives/guardians of children with diverse needs c) Network and and collaborate with teachers,  INCO/SENCO,  other LSEs,  school staff about how to implement and work with children with diverse needs d) Network and collaborate with other professionals (within and out of school) about how to assist children with disability,  special and different needs",
+        "last_updated": "2024-09-17",
+        "rating": null,
+        "price": null,
+        "url": "http://data.europa.eu/snb/data/learningOpportunity/1b1a7d25-2b97-41cf-bbab-04c99e0cb091",
+        "source": "europass",
+        "source_id": "http://data.europa.eu/snb/data/learningOpportunity/1b1a7d25-2b97-41cf-bbab-04c99e0cb091"
+      }
+    ],
+    "count": 1626
+  }
+}

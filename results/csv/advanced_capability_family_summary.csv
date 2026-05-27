@@ -1,0 +1,198 @@
+domain,capability_family,mean_relevance,total_demand,total_supply,total_courses,mean_gap
+Education,monitoring developments in area of expertise,0.434483,18,0,0,0.62069
+Education,"library, information and archival studies",0.362069,15,0,0,0.517241
+Education,"finance, banking and insurance",0.289655,12,0,0,0.413793
+Education,wholesale and retail sales,0.241379,10,0,0,0.344828
+Education,leading others,0.217241,9,0,0,0.310345
+Education,engaging with others to identify needs,0.193103,8,0,0,0.275862
+Education,inter-disciplinary programmes and qualifications involving education,0.185961,8,1,0,0.247291
+Education,"processing information, ideas and concepts",0.176658,7,0,1,0.241379
+Education,"engineering, manufacturing and construction not elsewhere classified",0.15252,6,0,1,0.206897
+Education,management skills,0.15252,6,0,1,0.206897
+Education,resolving computer problems,0.28705,6,0,0,0.206897
+Education,selling products or services,0.232759,11,0,0,0.18965500000000002
+Education,management and administration,0.20309433333333335,16,0,3,0.183908
+Education,executing financial transactions,0.2012025,10,0,1,0.172414
+Education,entering and transforming information,0.315134,5,0,0,0.172414
+Education,accompanying and welcoming people,0.296552,4,0,0,0.137931
+Education,developing professional relationships or networks,0.296552,4,0,0,0.137931
+Education,performing general clerical and administrative tasks,0.296552,4,0,0,0.137931
+Education,advising on products and services,0.172414,3,0,0,0.103448
+Education,analysing business operations,0.172414,3,0,0,0.103448
+Education,directing operational activities,0.172414,3,0,0,0.103448
+Education,planning production processes,0.172414,3,0,0,0.103448
+Education,sociology and cultural studies,0.172414,3,0,0,0.103448
+Education,"developing financial, business or marketing plans",0.1688425,6,1,0,0.0891625
+Education,marketing and advertising,0.16034500000000002,5,0,0,0.086207
+Education,complying with operational procedures,0.148276,2,0,0,0.068966
+Education,developing solutions,0.148276,2,0,0,0.068966
+Education,planning events and programmes,0.148276,2,0,0,0.068966
+Education,setting up computer systems,0.155968,2,0,1,0.068966
+Education,taking a proactive approach,0.171353,2,0,3,0.068966
+Education,earth sciences,0.275123,4,3,0,0.052217
+Education,technical or academic writing,0.16266550000000002,3,4,8,0.034483
+Education,collaborating and liaising,0.162599,1,0,5,0.034483
+Education,computer use,0.154907,1,0,4,0.034483
+Education,practising sports,0.154907,1,0,4,0.034483
+Education,work skills,0.162599,1,0,5,0.034483
+Education,database and network design and administration,0.16701999999999997,1,1,23,0.011494333333333334
+Education,maintaining and enforcing physical security,0.184881,2,4,7,0.0
+Education,using digital tools for collaboration and productivity,0.231034,2,7,13,0.0
+Education,software and applications development and analysis,0.169363,1,4,7,0.0
+Education,programming computer systems,0.153846,0,0,7,0.0
+Green Energy,"finance, banking and insurance",0.35,13,0,0,0.5
+Green Energy,monitoring developments in area of expertise,0.35,13,0,0,0.5
+Green Energy,leading others,0.296154,11,0,0,0.423077
+Green Energy,"library, information and archival studies",0.296154,11,0,0,0.423077
+Green Energy,wholesale and retail sales,0.220385,16,0,1,0.30769250000000004
+Green Energy,accounting and taxation,0.215385,8,0,0,0.307692
+Green Energy,selling products or services,0.215385,8,0,0,0.307692
+Green Energy,collaborating and liaising,0.198462,7,0,1,0.269231
+Green Energy,engaging with others to identify needs,0.188462,7,0,0,0.269231
+Green Energy,executing financial transactions,0.161538,6,0,0,0.230769
+Green Energy,"processing information, ideas and concepts",0.161538,6,0,0,0.230769
+Green Energy,providing information to the public and clients,0.161538,6,0,0,0.230769
+Green Energy,analysing business operations,0.153846,4,0,0,0.076923
+Green Energy,"maintaining electrical, electronic and precision equipment",0.158846,4,0,1,0.076923
+Green Energy,"promoting products, services, or programs",0.153846,4,0,0,0.076923
+Green Energy,supervising a team or group,0.158846,4,0,1,0.076923
+Green Energy,"cleaning tools, equipment, workpieces and vehicles",0.163846,2,0,1,0.076923
+Green Energy,designing systems and products,0.183846,2,0,3,0.076923
+Green Energy,developing operational policies and procedures,0.173846,2,0,2,0.076923
+Green Energy,directing operational activities,0.243846,2,0,9,0.076923
+Green Energy,engineering and engineering trades not elsewhere classified,0.163846,2,0,1,0.076923
+Green Energy,"engineering, manufacturing and construction not elsewhere classified",0.153846,2,0,0,0.076923
+Green Energy,management and administration,0.163846,2,0,1,0.076923
+Green Energy,management skills,0.163846,2,0,1,0.076923
+Green Energy,monitoring financial and economic resources and activity,0.173846,2,0,2,0.076923
+Green Energy,negotiating and managing contracts and agreements,0.163846,2,0,1,0.076923
+Green Energy,nursing and midwifery,0.183846,2,0,3,0.076923
+Green Energy,physics,0.163846,2,0,1,0.076923
+Green Energy,planning production processes,0.173846,2,0,2,0.076923
+Green Energy,"preparing documentation for contracts, applications, or permits",0.153846,2,0,0,0.076923
+Green Energy,setting up computer systems,0.163846,2,0,1,0.076923
+Green Energy,taking a proactive approach,0.163846,2,0,1,0.076923
+Green Energy,electronics and automation,0.164587,2,1,2,0.039886
+Green Energy,database and network design and administration,0.166923,1,0,4,0.038462
+Green Energy,developing solutions,0.186923,1,0,6,0.038462
+Green Energy,technical or academic writing,0.180577,3,4,9,0.0384615
+Green Energy,applying health-related skills and competences,0.1884615,1,0,15,0.019231
+Green Energy,advising on workplace health and safety issues,0.224615,2,8,9,0.0
+Green Energy,chemistry,0.234615,2,6,10,0.0
+Green Energy,creating visual displays and decorations,0.177308,1,3,6,0.0
+Green Energy,maintaining and enforcing physical security,0.157308,1,10,4,0.0
+Green Energy,using digital tools for collaboration and productivity,0.177308,1,12,6,0.0
+Green Energy,"installing heating, ventilation and air conditioning equipment",0.16,0,0,6,0.0
+Healthcare,"library, information and archival studies",0.4375,15,0,0,0.625
+Healthcare,"processing information, ideas and concepts",0.408333,14,0,0,0.583333
+Healthcare,monitoring developments in area of expertise,0.388048,23,0,1,0.4791665
+Healthcare,leading others,0.320833,11,0,0,0.458333
+Healthcare,demonstrating willingness to learn,0.2625,9,0,0,0.375
+Healthcare,engaging with others to identify needs,0.2625,9,0,0,0.375
+Healthcare,executing financial transactions,0.30063799999999996,17,0,0,0.3541665
+Healthcare,collaborating and liaising,0.2908635,15,0,4,0.3125
+Healthcare,"creating artistic, visual or instructive materials",0.212897,7,0,0,0.291667
+Healthcare,"engineering, manufacturing and construction not elsewhere classified",0.20943,7,0,1,0.291667
+Healthcare,fabricating precision instruments or jewellery,0.204167,7,0,0,0.291667
+Healthcare,resolving computer problems,0.25623,7,0,0,0.291667
+Healthcare,sociology and cultural studies,0.204167,7,0,0,0.291667
+Healthcare,economics,0.196591,7,1,0,0.261364
+Healthcare,inter-disciplinary programmes and qualifications involving education,0.263572,6,0,0,0.25
+Healthcare,wholesale and retail sales,0.1958335,10,0,0,0.2083335
+Healthcare,accompanying and welcoming people,0.270913,5,0,0,0.208333
+Healthcare,entering and transforming information,0.270913,5,0,0,0.208333
+Healthcare,selling products or services,0.23708033333333334,14,0,2,0.19444466666666668
+Healthcare,following instructions and procedures,0.24842,6,2,0,0.189394
+Healthcare,"developing financial, business or marketing plans",0.225536,9,0,0,0.1875
+Healthcare,directing operational activities,0.204934,9,0,9,0.1875
+Healthcare,developing professional relationships or networks,0.278254,4,0,0,0.166667
+Healthcare,performing general clerical and administrative tasks,0.278254,4,0,0,0.166667
+Healthcare,complying with health and safety procedures,0.2061405,8,0,15,0.1666665
+Healthcare,earth sciences,0.301472,4,1,0,0.136364
+Healthcare,database and network design and administration,0.18925433333333333,9,0,1,0.125
+Healthcare,developing operational policies and procedures,0.1953945,6,0,3,0.125
+Healthcare,management and administration,0.1875,6,0,0,0.125
+Healthcare,advising on design or use of technologies,0.1875,3,0,0,0.125
+Healthcare,designing systems and products,0.1875,3,0,0,0.125
+Healthcare,law,0.1875,3,0,0,0.125
+Healthcare,"managing, gathering and storing digital data",0.1875,3,0,0,0.125
+Healthcare,negotiating and managing contracts and agreements,0.1875,3,0,0,0.125
+Healthcare,providing general assistance to people,0.192763,3,0,1,0.125
+Healthcare,occupational health and safety,0.200439,2,0,8,0.083333
+Healthcare,applying health-related skills and competences,0.229167,1,0,19,0.041667
+IT,monitoring developments in area of expertise,0.408333,21,0,0,0.583333
+IT,"library, information and archival studies",0.330556,17,0,0,0.472222
+IT,"processing information, ideas and concepts",0.220556,11,0,1,0.305556
+IT,selling products or services,0.175,9,0,0,0.25
+IT,"finance, banking and insurance",0.169565,9,1,0,0.228261
+IT,leading others,0.155556,8,0,0,0.222222
+IT,management and administration,0.155556,8,0,0,0.222222
+IT,wholesale and retail sales,0.162222,8,0,1,0.222222
+IT,collaborating and liaising,0.16249999999999998,15,0,5,0.2083335
+IT,accounting and taxation,0.1666665,12,0,0,0.1666665
+IT,"managing, gathering and storing digital data",0.15105866666666667,13,24,4,0.08534599999999999
+IT,"developing financial, business or marketing plans",0.158333,6,0,0,0.083333
+IT,planning events and programmes,0.158333,6,0,0,0.083333
+IT,analysing business operations,0.158333,3,0,0,0.083333
+IT,applying civic skills and competences,0.158333,3,0,0,0.083333
+IT,managing information,0.158333,3,0,0,0.083333
+IT,occupational health and safety,0.158333,3,0,0,0.083333
+IT,performing general clerical and administrative tasks,0.158333,3,0,0,0.083333
+IT,pharmacy,0.158333,3,0,0,0.083333
+IT,providing information to the public and clients,0.158333,3,0,0,0.083333
+IT,teaching academic or vocational subjects,0.158333,3,0,0,0.083333
+IT,engaging with others to identify needs,0.158949,6,1,1,0.0724635
+IT,"engineering, manufacturing and construction not elsewhere classified",0.159565,3,1,1,0.061594
+IT,sociology and cultural studies,0.152899,3,1,0,0.061594
+IT,designing systems and products,0.145556,2,0,1,0.055556
+IT,practising sports,0.165556,2,0,4,0.055556
+IT,taking a proactive approach,0.158889,2,0,3,0.055556
+IT,planning production processes,0.140121,2,1,1,0.033816
+IT,setting up computer systems,0.140121,2,1,1,0.033816
+IT,software and applications development and analysis,0.152448,6,35,9,0.02979066666666667
+IT,military and defence,0.146111,1,0,4,0.027778
+IT,database and network design and administration,0.16,9,33,25,0.0166666
+IT,making models,0.148019,2,2,3,0.012077
+IT,using digital tools for collaboration and productivity,0.171786,5,40,15,0.0
+IT,maintaining and enforcing physical security,0.171667,2,14,7,0.0
+IT,presenting research or technical information,0.18,0,2,12,0.0
+IT,programming computer systems,0.146667,0,8,7,0.0
+Tourism,wholesale and retail sales,0.304384,21,1,0,0.430037
+Tourism,executing financial transactions,0.297222,10,0,0,0.416667
+Tourism,leading others,0.297222,10,0,1,0.416667
+Tourism,"creating artistic, visual or instructive materials",0.233333,8,0,0,0.333333
+Tourism,selling products or services,0.25826375,29,0,4,0.30208325
+Tourism,collaborating and liaising,0.215278,7,0,2,0.291667
+Tourism,demonstrating willingness to learn,0.209722,7,0,1,0.291667
+Tourism,resolving computer problems,0.241945,7,0,0,0.291667
+Tourism,inter-disciplinary programmes and qualifications involving education,0.196704,7,2,0,0.261816
+Tourism,communicating,0.175,6,0,0,0.25
+Tourism,chemistry,0.18976,6,2,4,0.220149
+Tourism,management and administration,0.198611,10,0,1,0.208333
+Tourism,accompanying and welcoming people,0.268055,5,0,0,0.208333
+Tourism,entering and transforming information,0.268055,5,0,0,0.208333
+Tourism,engaging with others to identify needs,0.163806,6,3,0,0.205224
+Tourism,accounting and taxation,0.242102,5,1,18,0.193408
+Tourism,developing professional relationships or networks,0.281111,4,0,0,0.166667
+Tourism,management skills,0.16875,7,0,6,0.1458335
+Tourism,directing operational activities,0.176389,6,0,14,0.125
+Tourism,performing general clerical and administrative tasks,0.2225,6,0,1,0.125
+Tourism,complying with health and safety procedures,0.163889,2,0,1,0.083333
+Tourism,developing solutions,0.191667,2,0,6,0.083333
+Tourism,engineering and engineering trades not further defined,0.163889,2,0,1,0.083333
+Tourism,maintaining and enforcing physical security,0.163889,2,0,1,0.083333
+Tourism,occupational health and safety,0.180556,2,0,4,0.083333
+Tourism,planning events and programmes,0.169444,2,0,2,0.083333
+Tourism,presenting research or technical information,0.169444,2,0,2,0.083333
+Tourism,teacher training with subject specialisation,0.163889,2,0,1,0.083333
+Tourism,therapy and rehabilitation,0.163889,2,0,1,0.083333
+Tourism,earth sciences,0.296501,4,6,1,0.077114
+Tourism,presenting general information,0.165713,2,1,2,0.068408
+Tourism,"promoting products, services, or programs",0.18238,2,1,5,0.068408
+Tourism,liaising and networking,0.161982,2,2,2,0.053483
+Tourism,applying health-related skills and competences,0.168056,1,0,7,0.041667
+Tourism,monitoring operational activities,0.195833,1,0,12,0.041667
+Tourism,serving food and drinks,0.229167,1,0,18,0.041667
+Tourism,preparing food and drinks,0.18263875000000002,2,0,49,0.0208335
+Tourism,"cleaning tools, equipment, workpieces and vehicles",0.161111,0,0,11,0.0
+Tourism,food processing,0.188889,0,0,16,0.0

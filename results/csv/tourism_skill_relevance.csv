@@ -1,0 +1,51 @@
+domain,skill_uri,skill_label,capability_family,demand_count,supply_count,course_count,demand_frequency,supply_frequency,course_frequency,gap_score,trend_score,relevance_index
+Tourism,http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d,sales activities,wholesale and retail sales,13,1,0,0.541667,0.014925,0.0,0.526741,-0.253333,0.375435
+Tourism,http://data.europa.eu/esco/skill/4b406514-b3ed-4906-a347-7ebe6be52450,sell tourist packages,selling products or services,5,0,3,0.208333,0.0,0.166667,0.208333,0.13,0.3275
+Tourism,http://data.europa.eu/esco/skill/bdcac0c8-b77a-4640-9eaf-c0cf3efd1e23,process payments,executing financial transactions,10,0,0,0.416667,0.0,0.0,0.416667,-0.188889,0.297222
+Tourism,http://data.europa.eu/esco/skill/b19e0820-a96f-4c0a-a724-3c056180c1b3,build team spirit,leading others,10,0,1,0.416667,0.0,0.055556,0.416667,-0.253333,0.297222
+Tourism,http://data.europa.eu/esco/skill/a15dab55-f1da-4f85-ae3e-2b5c5b5333ca,provide high quality customer service,selling products or services,10,0,1,0.416667,0.0,0.055556,0.416667,-0.253333,0.297222
+Tourism,http://data.europa.eu/esco/skill/cfccea88-0558-40d4-b896-56a1e7993e24,climatology,earth sciences,4,6,1,0.166667,0.089552,0.055556,0.077114,0.193333,0.296501
+Tourism,http://data.europa.eu/esco/skill/0fe57279-53a8-478f-bcf9-dfe8172f0fb6,respond to inquiries in written form,developing professional relationships or networks,4,0,0,0.166667,0.0,0.0,0.166667,0.128889,0.281111
+Tourism,http://data.europa.eu/esco/skill/18d39e12-b7f5-4426-8b84-afd3d43af20e,arrange bookings,performing general clerical and administrative tasks,4,0,0,0.166667,0.0,0.0,0.166667,0.128889,0.281111
+Tourism,http://data.europa.eu/esco/skill/fdc21239-053c-4b52-9bef-2bc2771a4939,make reservations,accompanying and welcoming people,5,0,0,0.208333,0.0,0.0,0.208333,0.044444,0.268055
+Tourism,http://data.europa.eu/esco/skill/345486f3-f265-4fc8-8ed0-5e96e768e333,process booking,entering and transforming information,5,0,0,0.208333,0.0,0.0,0.208333,0.044444,0.268055
+Tourism,http://data.europa.eu/esco/skill/ecc18804-a466-40d9-98b4-fba5cd67dd4b,accounting,accounting and taxation,5,1,18,0.208333,0.014925,1.0,0.193408,-0.253333,0.242102
+Tourism,http://data.europa.eu/esco/skill/14832d87-2f2f-4895-b290-e4760ebae42a,solve technical problems,resolving computer problems,7,0,0,0.291667,0.0,0.0,0.291667,-0.124444,0.241945
+Tourism,http://data.europa.eu/esco/skill/7bb5d9af-0a7e-48a7-a860-0e1ded0f6e75,design customer experiences,"creating artistic, visual or instructive materials",8,0,0,0.333333,0.0,0.0,0.333333,-0.253333,0.233333
+Tourism,http://data.europa.eu/esco/skill/378caeec-10a0-4162-b75c-ab374a42e93d,e-procurement,wholesale and retail sales,8,0,0,0.333333,0.0,0.0,0.333333,-0.253333,0.233333
+Tourism,http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352,achieve sales targets,selling products or services,8,0,0,0.333333,0.0,0.0,0.333333,-0.253333,0.233333
+Tourism,http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68,innovation processes,management and administration,8,0,0,0.333333,0.0,0.0,0.333333,-0.253333,0.233333
+Tourism,http://data.europa.eu/esco/skill/beeaddc7-fe69-4b97-a286-0bd595432eb9,serve beverages,serving food and drinks,1,0,18,0.041667,0.0,1.0,0.041667,0.0,0.229167
+Tourism,http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d,consult with business clients,collaborating and liaising,7,0,2,0.291667,0.0,0.111111,0.291667,-0.253333,0.215278
+Tourism,http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4,adapt to change,demonstrating willingness to learn,7,0,1,0.291667,0.0,0.055556,0.291667,-0.253333,0.209722
+Tourism,http://data.europa.eu/esco/skill/81d5b408-e805-4788-8dbd-42f22e8fd199,prepare mixed beverages,preparing food and drinks,1,0,13,0.041667,0.0,0.722222,0.041667,0.0,0.201389
+Tourism,http://data.europa.eu/esco/skill/c6c1af60-9594-460c-a328-00f9ad292be0,coaching techniques,inter-disciplinary programmes and qualifications involving education,7,2,0,0.291667,0.029851,0.0,0.261816,-0.253333,0.196704
+Tourism,http://data.europa.eu/esco/skill/e782f412-4cb5-45f1-b5bc-15be441171aa,manage guest support services,monitoring operational activities,1,0,12,0.041667,0.0,0.666667,0.041667,0.0,0.195833
+Tourism,http://data.europa.eu/esco/skill/80ec44cc-372a-4dc6-ab36-7ffdbf3bfc4e,prepare garnish for drinks,preparing food and drinks,1,0,12,0.041667,0.0,0.666667,0.041667,0.0,0.195833
+Tourism,http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92,address problems critically,developing solutions,2,0,6,0.083333,0.0,0.333333,0.083333,0.0,0.191667
+Tourism,http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9,laboratory equipment,chemistry,6,2,4,0.25,0.029851,0.222222,0.220149,-0.253333,0.18976
+Tourism,http://data.europa.eu/esco/skill/3761780c-a40f-409e-9320-4de0ec25472a,food materials,food processing,0,0,16,0.0,0.0,0.888889,0.0,0.0,0.188889
+Tourism,http://data.europa.eu/esco/skill/899286f4-327f-4e16-aa02-5256a9c7f678,participate in tourism events,"promoting products, services, or programs",2,1,5,0.083333,0.014925,0.277778,0.068408,0.0,0.18238
+Tourism,http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2,hygiene in a health care setting,occupational health and safety,2,0,4,0.083333,0.0,0.222222,0.083333,0.0,0.180556
+Tourism,http://data.europa.eu/esco/skill/c5bc42be-4970-4dce-80e2-af78bae42e84,manage maintenance operations,directing operational activities,2,0,4,0.083333,0.0,0.222222,0.083333,0.0,0.180556
+Tourism,http://data.europa.eu/esco/skill/29a50780-f81b-429c-b410-7f23a492e19d,sell products,selling products or services,6,0,0,0.25,0.0,0.0,0.25,-0.253333,0.175
+Tourism,http://data.europa.eu/esco/skill/df5e3d02-9f0f-44ee-91c2-85c62f161868,"promote ideas, products, services ",communicating,6,0,0,0.25,0.0,0.0,0.25,-0.253333,0.175
+Tourism,http://data.europa.eu/esco/skill/677d5144-4c77-4f8d-afc7-116f4bc0e660,own management skills,management skills,6,0,0,0.25,0.0,0.0,0.25,-0.253333,0.175
+Tourism,http://data.europa.eu/esco/skill/e4fb4f26-1c0c-45e4-9250-5be32cee2a48,prepare hot drinks,preparing food and drinks,0,0,13,0.0,0.0,0.722222,0.0,0.0,0.172222
+Tourism,http://data.europa.eu/esco/skill/80e7418e-7434-456c-85e1-e8aef626a8c0,coordinate catering,directing operational activities,4,0,10,0.166667,0.0,0.555556,0.166667,-0.253333,0.172222
+Tourism,http://data.europa.eu/esco/skill/3012a059-e062-4171-b37e-f9e7c7eb603e,perform lectures,presenting research or technical information,2,0,2,0.083333,0.0,0.111111,0.083333,0.0,0.169444
+Tourism,http://data.europa.eu/esco/skill/aea9e7b9-53a3-4f03-9d9c-4ef6c383403a,arrange special events,planning events and programmes,2,0,2,0.083333,0.0,0.111111,0.083333,0.0,0.169444
+Tourism,http://data.europa.eu/esco/skill/4cde32b5-fc2f-4257-a8b9-5b15a67ee3e5,protect the health of others,applying health-related skills and competences,1,0,7,0.041667,0.0,0.388889,0.041667,0.0,0.168056
+Tourism,http://data.europa.eu/esco/skill/c55caed2-de9e-4a25-819e-a0b0e83fba1b,give live presentation,presenting general information,2,1,2,0.083333,0.014925,0.111111,0.068408,0.0,0.165713
+Tourism,http://data.europa.eu/esco/skill/47d491a9-f7c0-4b13-a10f-983d3aa0113e,safety engineering,engineering and engineering trades not further defined,2,0,1,0.083333,0.0,0.055556,0.083333,0.0,0.163889
+Tourism,http://data.europa.eu/esco/skill/4377dd26-a0d6-497c-9ffe-f59308d36648,arrange student accommodation,performing general clerical and administrative tasks,2,0,1,0.083333,0.0,0.055556,0.083333,0.0,0.163889
+Tourism,http://data.europa.eu/esco/skill/47ac9325-b072-4e37-8e40-e6ffed03e851,supervision of persons,management and administration,2,0,1,0.083333,0.0,0.055556,0.083333,0.0,0.163889
+Tourism,http://data.europa.eu/esco/skill/7546bf61-91c0-4715-8024-9ee276563cc4,ensure safety in hospitality establishment,complying with health and safety procedures,2,0,1,0.083333,0.0,0.055556,0.083333,0.0,0.163889
+Tourism,http://data.europa.eu/esco/skill/78d90f00-5226-44fc-95c2-0d8dac6b081b,technology education,teacher training with subject specialisation,2,0,1,0.083333,0.0,0.055556,0.083333,0.0,0.163889
+Tourism,http://data.europa.eu/esco/skill/f8e5f1fd-82ee-45c0-b179-399d8e9a22aa,deal with challenging people,maintaining and enforcing physical security,2,0,1,0.083333,0.0,0.055556,0.083333,0.0,0.163889
+Tourism,http://data.europa.eu/esco/skill/13d96098-2ff0-46b8-b326-b7c0e18cc1f1,nutrition,therapy and rehabilitation,2,0,1,0.083333,0.0,0.055556,0.083333,0.0,0.163889
+Tourism,http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363,interact with users to gather requirements,engaging with others to identify needs,6,3,0,0.25,0.044776,0.0,0.205224,-0.253333,0.163806
+Tourism,http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241,perform quality audits,management skills,1,0,6,0.041667,0.0,0.333333,0.041667,0.0,0.1625
+Tourism,http://data.europa.eu/esco/skill/de2f0ce8-f8d6-48c5-a213-4d065251cecf,communicate by telephone,liaising and networking,2,2,2,0.083333,0.029851,0.111111,0.053483,0.0,0.161982
+Tourism,http://data.europa.eu/esco/skill/9b31016e-c99d-4bd2-a550-d5660dac5041,clean kitchen equipment,"cleaning tools, equipment, workpieces and vehicles",0,0,11,0.0,0.0,0.611111,0.0,0.0,0.161111
+Tourism,http://data.europa.eu/esco/skill/499ca9ec-801f-48b9-9f33-a4c16eabd835,prepare salad dressings,preparing food and drinks,0,0,11,0.0,0.0,0.611111,0.0,0.0,0.161111

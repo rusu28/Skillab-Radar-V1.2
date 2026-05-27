@@ -1,0 +1,6 @@
+domain,demand_strength,stability_score,accessibility_score,training_support_score,candidate_market_fit,domain_opportunity_score,recommendation_label,top_reason,main_risk
+IT,0.796827,0.696836,0.821417,0.851064,0.67915,0.772231,very attractive,"Demand 0.80, stability 0.70, candidate fit 0.68.",Accessibility score 0.82; reskilling may still be needed.
+Green Energy,0.820048,0.476536,0.751282,1.0,0.599512,0.731505,very attractive,"Demand 0.82, stability 0.48, candidate fit 0.60.",Accessibility score 0.75; reskilling may still be needed.
+Healthcare,1.0,0.558962,0.649242,0.055991,0.912015,0.686842,risky / training gap,"Demand 1.00, stability 0.56, candidate fit 0.91.",Training support is weak; priority skill: monitor developments in field of expertise.
+Tourism,0.886897,0.534364,0.713516,0.283688,0.807349,0.679301,very attractive,"Demand 0.89, stability 0.53, candidate fit 0.81.",Training support is weak; priority skill: sales activities.
+Education,0.879102,0.5,0.743645,0.212766,0.566885,0.629407,promising with reskilling needed,"Demand 0.88, stability 0.50, candidate fit 0.57.",Training support is weak; priority skill: monitor developments in field of expertise.

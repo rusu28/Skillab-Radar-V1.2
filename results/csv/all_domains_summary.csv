@@ -1,0 +1,6 @@
+domain,jobs_fetched,profiles_fetched,courses_fetched,top_gap_skill,top_rising_skill,top_candidate_score
+IT,196,133,197,monitor developments in field of expertise,,0.14839
+Tourism,185,200,164,sales activities,climatology,0.060241
+Healthcare,199,95,182,monitor developments in field of expertise,sell tourist packages,0.041189
+Green Energy,176,56,160,crowdsourcing strategy,,0.153553
+Education,195,82,196,monitor developments in field of expertise,sell tourist packages,0.082351

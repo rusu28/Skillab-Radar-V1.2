@@ -1,0 +1,488 @@
+{
+  "project": "SKILLAB Skill Radar",
+  "generated_at_utc": "2026-05-27T16:55:44.676453+00:00",
+  "reproduction_commands": [
+    "python -m src.pipeline --config config.yaml",
+    "python -m unittest discover -s tests",
+    "streamlit run app/streamlit_app.py",
+    "jupyter notebook notebooks"
+  ],
+  "tracker_api": "https://skillab-tracker.csd.auth.gr/api",
+  "api_entities": [
+    "jobs",
+    "profiles",
+    "courses"
+  ],
+  "domains": [
+    "IT",
+    "Tourism",
+    "Healthcare",
+    "Green Energy",
+    "Education"
+  ],
+  "max_pages_per_entity": 2,
+  "labour_market_data_rule": "All job, profile, and course records come from the SKILLAB Tracker API.",
+  "metadata_rule": "ESCO/ISCO files are used only for labels and hierarchy enrichment.",
+  "generated_files": [
+    {
+      "path": "results/csv/advanced_candidate_readiness.csv",
+      "bytes": 88497
+    },
+    {
+      "path": "results/csv/advanced_capability_family_summary.csv",
+      "bytes": 13963
+    },
+    {
+      "path": "results/csv/advanced_career_bridges.csv",
+      "bytes": 74839
+    },
+    {
+      "path": "results/csv/advanced_cross_domain_skill_heatmap.csv",
+      "bytes": 1477
+    },
+    {
+      "path": "results/csv/advanced_domain_market_attractiveness.csv",
+      "bytes": 1180
+    },
+    {
+      "path": "results/csv/advanced_domain_signal_scoreboard.csv",
+      "bytes": 302
+    },
+    {
+      "path": "results/csv/advanced_future_risk_quadrant.csv",
+      "bytes": 42042
+    },
+    {
+      "path": "results/csv/advanced_gap_heatmap.csv",
+      "bytes": 1123
+    },
+    {
+      "path": "results/csv/advanced_rising_unmet_skills.csv",
+      "bytes": 39750
+    },
+    {
+      "path": "results/csv/advanced_skill_gap_portfolio.csv",
+      "bytes": 51738
+    },
+    {
+      "path": "results/csv/advanced_skill_shock_index.csv",
+      "bytes": 56055
+    },
+    {
+      "path": "results/csv/advanced_training_alignment.csv",
+      "bytes": 56152
+    },
+    {
+      "path": "results/csv/advanced_training_roi_priority.csv",
+      "bytes": 55240
+    },
+    {
+      "path": "results/csv/all_domains_locations.csv",
+      "bytes": 117
+    },
+    {
+      "path": "results/csv/all_domains_summary.csv",
+      "bytes": 483
+    },
+    {
+      "path": "results/csv/csv_quality_report.csv",
+      "bytes": 489
+    },
+    {
+      "path": "results/csv/data_integrity_duplicates.csv",
+      "bytes": 400
+    },
+    {
+      "path": "results/csv/domain_story_summary.csv",
+      "bytes": 1539
+    },
+    {
+      "path": "results/csv/education_candidate_matches.csv",
+      "bytes": 14946
+    },
+    {
+      "path": "results/csv/education_locations.csv",
+      "bytes": 50
+    },
+    {
+      "path": "results/csv/education_skill_gap.csv",
+      "bytes": 9832
+    },
+    {
+      "path": "results/csv/education_skill_relevance.csv",
+      "bytes": 9624
+    },
+    {
+      "path": "results/csv/education_skill_trends.csv",
+      "bytes": 8325
+    },
+    {
+      "path": "results/csv/green_energy_candidate_matches.csv",
+      "bytes": 24719
+    },
+    {
+      "path": "results/csv/green_energy_locations.csv",
+      "bytes": 53
+    },
+    {
+      "path": "results/csv/green_energy_skill_gap.csv",
+      "bytes": 9681
+    },
+    {
+      "path": "results/csv/green_energy_skill_relevance.csv",
+      "bytes": 9772
+    },
+    {
+      "path": "results/csv/green_energy_skill_trends.csv",
+      "bytes": 8237
+    },
+    {
+      "path": "results/csv/healthcare_candidate_matches.csv",
+      "bytes": 3525
+    },
+    {
+      "path": "results/csv/healthcare_locations.csv",
+      "bytes": 51
+    },
+    {
+      "path": "results/csv/healthcare_skill_gap.csv",
+      "bytes": 9813
+    },
+    {
+      "path": "results/csv/healthcare_skill_relevance.csv",
+      "bytes": 9725
+    },
+    {
+      "path": "results/csv/healthcare_skill_trends.csv",
+      "bytes": 8177
+    },
+    {
+      "path": "results/csv/insight_cards.csv",
+      "bytes": 3667
+    },
+    {
+      "path": "results/csv/it_candidate_matches.csv",
+      "bytes": 31189
+    },
+    {
+      "path": "results/csv/it_locations.csv",
+      "bytes": 43
+    },
+    {
+      "path": "results/csv/it_skill_gap.csv",
+      "bytes": 9480
+    },
+    {
+      "path": "results/csv/it_skill_relevance.csv",
+      "bytes": 9328
+    },
+    {
+      "path": "results/csv/it_skill_trends.csv",
+      "bytes": 8049
+    },
+    {
+      "path": "results/csv/methodology_table.csv",
+      "bytes": 1972
+    },
+    {
+      "path": "results/csv/tourism_candidate_matches.csv",
+      "bytes": 13291
+    },
+    {
+      "path": "results/csv/tourism_locations.csv",
+      "bytes": 48
+    },
+    {
+      "path": "results/csv/tourism_skill_gap.csv",
+      "bytes": 9628
+    },
+    {
+      "path": "results/csv/tourism_skill_relevance.csv",
+      "bytes": 9461
+    },
+    {
+      "path": "results/csv/tourism_skill_trends.csv",
+      "bytes": 8078
+    },
+    {
+      "path": "results/figures/advanced_candidate_readiness.png",
+      "bytes": 118880
+    },
+    {
+      "path": "results/figures/advanced_capability_family_gaps.png",
+      "bytes": 137968
+    },
+    {
+      "path": "results/figures/advanced_career_bridges.png",
+      "bytes": 155966
+    },
+    {
+      "path": "results/figures/advanced_cross_domain_skill_heatmap.png",
+      "bytes": 233476
+    },
+    {
+      "path": "results/figures/advanced_domain_choice_radar.png",
+      "bytes": 112986
+    },
+    {
+      "path": "results/figures/advanced_domain_market_attractiveness.png",
+      "bytes": 70231
+    },
+    {
+      "path": "results/figures/advanced_domain_signal_scoreboard.png",
+      "bytes": 67149
+    },
+    {
+      "path": "results/figures/advanced_future_risk_quadrant.png",
+      "bytes": 135267
+    },
+    {
+      "path": "results/figures/advanced_gap_heatmap.png",
+      "bytes": 193183
+    },
+    {
+      "path": "results/figures/advanced_location_coverage.png",
+      "bytes": 49929
+    },
+    {
+      "path": "results/figures/advanced_rising_unmet_skills.png",
+      "bytes": 129987
+    },
+    {
+      "path": "results/figures/advanced_skill_gap_portfolio.png",
+      "bytes": 151892
+    },
+    {
+      "path": "results/figures/advanced_skill_shock_index.png",
+      "bytes": 167197
+    },
+    {
+      "path": "results/figures/advanced_training_alignment.png",
+      "bytes": 138929
+    },
+    {
+      "path": "results/figures/advanced_training_roi_priority.png",
+      "bytes": 173480
+    },
+    {
+      "path": "results/figures/education_skill_gap.png",
+      "bytes": 74400
+    },
+    {
+      "path": "results/figures/education_skill_relevance.png",
+      "bytes": 72988
+    },
+    {
+      "path": "results/figures/education_skill_trends.png",
+      "bytes": 84269
+    },
+    {
+      "path": "results/figures/green_energy_skill_gap.png",
+      "bytes": 71991
+    },
+    {
+      "path": "results/figures/green_energy_skill_relevance.png",
+      "bytes": 76869
+    },
+    {
+      "path": "results/figures/green_energy_skill_trends.png",
+      "bytes": 82550
+    },
+    {
+      "path": "results/figures/healthcare_skill_gap.png",
+      "bytes": 78580
+    },
+    {
+      "path": "results/figures/healthcare_skill_relevance.png",
+      "bytes": 70631
+    },
+    {
+      "path": "results/figures/healthcare_skill_trends.png",
+      "bytes": 84308
+    },
+    {
+      "path": "results/figures/it_skill_gap.png",
+      "bytes": 75486
+    },
+    {
+      "path": "results/figures/it_skill_relevance.png",
+      "bytes": 73479
+    },
+    {
+      "path": "results/figures/it_skill_trends.png",
+      "bytes": 83577
+    },
+    {
+      "path": "results/figures/tourism_skill_gap.png",
+      "bytes": 72241
+    },
+    {
+      "path": "results/figures/tourism_skill_relevance.png",
+      "bytes": 71022
+    },
+    {
+      "path": "results/figures/tourism_skill_trends.png",
+      "bytes": 81273
+    },
+    {
+      "path": "results/provenance/education_provenance.json",
+      "bytes": 4161
+    },
+    {
+      "path": "results/provenance/green_energy_provenance.json",
+      "bytes": 4086
+    },
+    {
+      "path": "results/provenance/healthcare_provenance.json",
+      "bytes": 3968
+    },
+    {
+      "path": "results/provenance/it_provenance.json",
+      "bytes": 3807
+    },
+    {
+      "path": "results/provenance/tourism_provenance.json",
+      "bytes": 3945
+    },
+    {
+      "path": "src/__init__.py",
+      "bytes": 35
+    },
+    {
+      "path": "src/__pycache__/__init__.cpython-312.pyc",
+      "bytes": 172
+    },
+    {
+      "path": "src/__pycache__/advanced_analytics.cpython-312.pyc",
+      "bytes": 52315
+    },
+    {
+      "path": "src/__pycache__/config.cpython-312.pyc",
+      "bytes": 1851
+    },
+    {
+      "path": "src/__pycache__/env.cpython-312.pyc",
+      "bytes": 1156
+    },
+    {
+      "path": "src/__pycache__/esco.cpython-312.pyc",
+      "bytes": 6949
+    },
+    {
+      "path": "src/__pycache__/figures.cpython-312.pyc",
+      "bytes": 5201
+    },
+    {
+      "path": "src/__pycache__/metrics.cpython-312.pyc",
+      "bytes": 13302
+    },
+    {
+      "path": "src/__pycache__/pipeline.cpython-312.pyc",
+      "bytes": 17960
+    },
+    {
+      "path": "src/__pycache__/skillab_client.cpython-312.pyc",
+      "bytes": 7322
+    },
+    {
+      "path": "src/__pycache__/submission.cpython-312.pyc",
+      "bytes": 14551
+    },
+    {
+      "path": "src/advanced_analytics.py",
+      "bytes": 38262
+    },
+    {
+      "path": "src/config.py",
+      "bytes": 1033
+    },
+    {
+      "path": "src/env.py",
+      "bytes": 545
+    },
+    {
+      "path": "src/esco.py",
+      "bytes": 3499
+    },
+    {
+      "path": "src/figures.py",
+      "bytes": 2963
+    },
+    {
+      "path": "src/metrics.py",
+      "bytes": 8758
+    },
+    {
+      "path": "src/pipeline.py",
+      "bytes": 12014
+    },
+    {
+      "path": "src/skillab_client.py",
+      "bytes": 5205
+    },
+    {
+      "path": "src/submission.py",
+      "bytes": 11563
+    },
+    {
+      "path": "app/__pycache__/streamlit_app.cpython-312.pyc",
+      "bytes": 20335
+    },
+    {
+      "path": "app/streamlit_app.py",
+      "bytes": 16370
+    },
+    {
+      "path": "tests/__pycache__/test_metrics.cpython-312.pyc",
+      "bytes": 13964
+    },
+    {
+      "path": "tests/test_metrics.py",
+      "bytes": 13070
+    },
+    {
+      "path": "report/REPORT.md",
+      "bytes": 9488
+    },
+    {
+      "path": "pitch/PITCH_OUTLINE.md",
+      "bytes": 2618
+    },
+    {
+      "path": "notebooks/00_run_pipeline_optional.ipynb",
+      "bytes": 1061
+    },
+    {
+      "path": "notebooks/01_overview.ipynb",
+      "bytes": 2684
+    },
+    {
+      "path": "notebooks/02_demand_supply_gap.ipynb",
+      "bytes": 1832
+    },
+    {
+      "path": "notebooks/03_hot_cooling_skills.ipynb",
+      "bytes": 477663
+    },
+    {
+      "path": "notebooks/04_candidate_fit.ipynb",
+      "bytes": 2496
+    },
+    {
+      "path": "notebooks/05_locations.ipynb",
+      "bytes": 1464
+    },
+    {
+      "path": "notebooks/06_advanced_studies.ipynb",
+      "bytes": 2470
+    },
+    {
+      "path": "notebooks/07_methodology.ipynb",
+      "bytes": 1860
+    },
+    {
+      "path": "notebooks/README.md",
+      "bytes": 1195
+    }
+  ]
+}
