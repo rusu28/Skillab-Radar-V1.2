@@ -8,13 +8,6 @@ It answers three questions from the challenge:
 - Which skills are rising or cooling over time?
 - Which anonymized profiles are the best candidates for a domain?
 
-Version 1.1 adds three innovation studies:
-
-- **Skill Shock Index**: future bottleneck risk from rising demand, shortage, weak course coverage, and cross-domain presence.
-- **Career Bridge / Reskilling Pathways**: how close profiles are to other domains and which missing skills form the upskilling path.
-- **Training ROI Priority**: where new or improved courses would likely have the highest labour-market value.
-- **Domain Market Attractiveness**: an API-only opportunity proxy for choosing a domain; this is not salary data.
-
 All labour-market entities are fetched from the SKILLAB Tracker API. The ESCO/ISCO Excel files are used only as official metadata for labels and hierarchy.
 
 ## Quick Start
